@@ -1,0 +1,42 @@
+{
+ "card": "육손",
+ "world": "mecha",
+ "seed": 89123412,
+ "tree": 2,
+ "style": "kr_mmorpg",
+ "required": "swimwear · nation · roleplay",
+ "slots": [
+  5
+ ],
+ "fresh": false,
+ "cuts": [
+  {
+   "n": 5,
+   "era": "now",
+   "place": "street_rooftop",
+   "ofam": "evening",
+   "treeV": 2,
+   "prop": "",
+   "preset": "squat_prop",
+   "use": "phone_look",
+   "posture": "squat",
+   "support": "none",
+   "frame": "full_body",
+   "body": "front",
+   "head": "tilt",
+   "camera": "high",
+   "right": "prop",
+   "left": "lap",
+   "legs": "squat_heels",
+   "gaze": "at_prop",
+   "item": "opera_coat",
+   "expr": "amused",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}
