@@ -1,0 +1,33 @@
+{
+ "key": "고순",
+ "runs": [
+  {
+   "key": "고순",
+   "execution": "sam-gaoshun-3fe228",
+   "status": "working",
+   "claimed_at": "2026-11-02T14:48:08.010Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "고순_samguk_kr_mmorpg_f.webp",
+    "고순_samguk_kr_mmorpg_f_casual1.webp",
+    "고순_samguk_kr_mmorpg_f_casual2.webp",
+    "고순_samguk_kr_mmorpg_f_casual3.webp",
+    "고순_samguk_kr_mmorpg_f_casual4.webp",
+    "고순_samguk_kr_mmorpg_f_casual5.webp",
+    "고순_fantasy_kr_mmorpg_f.webp",
+    "고순_fantasy_kr_mmorpg_f_casual1.webp",
+    "고순_fantasy_kr_mmorpg_f_casual2.webp",
+    "고순_fantasy_kr_mmorpg_f_casual3.webp",
+    "고순_fantasy_kr_mmorpg_f_casual4.webp",
+    "고순_fantasy_kr_mmorpg_f_casual5.webp",
+    "고순_mecha_kr_mmorpg_f.webp",
+    "고순_mecha_kr_mmorpg_f_casual1.webp",
+    "고순_mecha_kr_mmorpg_f_casual2.webp",
+    "고순_mecha_kr_mmorpg_f_casual3.webp",
+    "고순_mecha_kr_mmorpg_f_casual4.webp",
+    "고순_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
