@@ -4,7 +4,7 @@
   {
    "key": "서서",
    "execution": "sam-xushu-f94d-20261103",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T23:16:52.162Z",
    "date_kst": "2026-11-03",
    "date_utc": "2026-11-02",
@@ -27,7 +27,9 @@
     "서서_mecha_kr_mmorpg_f_casual3.webp",
     "서서_mecha_kr_mmorpg_f_casual4.webp",
     "서서_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T23:45:02.783Z",
+   "done_by": "sam-xushu-f94d-20261103"
   }
  ]
 }
