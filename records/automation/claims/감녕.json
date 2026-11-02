@@ -1,0 +1,33 @@
+{
+ "key": "감녕",
+ "runs": [
+  {
+   "key": "감녕",
+   "execution": "sam-ganning-0846",
+   "status": "working",
+   "claimed_at": "2026-11-02T14:45:46.529Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "감녕_samguk_kr_mmorpg_f.webp",
+    "감녕_samguk_kr_mmorpg_f_casual1.webp",
+    "감녕_samguk_kr_mmorpg_f_casual2.webp",
+    "감녕_samguk_kr_mmorpg_f_casual3.webp",
+    "감녕_samguk_kr_mmorpg_f_casual4.webp",
+    "감녕_samguk_kr_mmorpg_f_casual5.webp",
+    "감녕_fantasy_kr_mmorpg_f.webp",
+    "감녕_fantasy_kr_mmorpg_f_casual1.webp",
+    "감녕_fantasy_kr_mmorpg_f_casual2.webp",
+    "감녕_fantasy_kr_mmorpg_f_casual3.webp",
+    "감녕_fantasy_kr_mmorpg_f_casual4.webp",
+    "감녕_fantasy_kr_mmorpg_f_casual5.webp",
+    "감녕_mecha_kr_mmorpg_f.webp",
+    "감녕_mecha_kr_mmorpg_f_casual1.webp",
+    "감녕_mecha_kr_mmorpg_f_casual2.webp",
+    "감녕_mecha_kr_mmorpg_f_casual3.webp",
+    "감녕_mecha_kr_mmorpg_f_casual4.webp",
+    "감녕_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
