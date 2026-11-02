@@ -125,7 +125,13 @@
     "seed": 661485590
    }
   ],
-  "ref_sha256": "549642844a20e6f266a792df265919db67a7e64dea1396aa179fd44441fd5768"
+  "ref_sha256": "549642844a20e6f266a792df265919db67a7e64dea1396aa179fd44441fd5768",
+  "encoding_repair": {
+   "date": "2026-11-03",
+   "old_webp_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "new_webp_sha256": "10e7fb55fb46110922060b3b0c5bfdb0533a86c2cf63100beca009abb31967e7",
+   "reason": "0-byte WebP encoding artifact; reencoded from identical generated PNG; no image regeneration"
+  }
  },
  "execution": "sam-sunshangxiang-515e",
  "imported": "2026-11-03",
