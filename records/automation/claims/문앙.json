@@ -1,0 +1,33 @@
+{
+ "key": "문앙",
+ "runs": [
+  {
+   "key": "문앙",
+   "execution": "sam-munang-eaf5",
+   "status": "working",
+   "claimed_at": "2026-11-02T13:13:50.363Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "문앙_samguk_kr_mmorpg_f.webp",
+    "문앙_samguk_kr_mmorpg_f_casual1.webp",
+    "문앙_samguk_kr_mmorpg_f_casual2.webp",
+    "문앙_samguk_kr_mmorpg_f_casual3.webp",
+    "문앙_samguk_kr_mmorpg_f_casual4.webp",
+    "문앙_samguk_kr_mmorpg_f_casual5.webp",
+    "문앙_fantasy_kr_mmorpg_f.webp",
+    "문앙_fantasy_kr_mmorpg_f_casual1.webp",
+    "문앙_fantasy_kr_mmorpg_f_casual2.webp",
+    "문앙_fantasy_kr_mmorpg_f_casual3.webp",
+    "문앙_fantasy_kr_mmorpg_f_casual4.webp",
+    "문앙_fantasy_kr_mmorpg_f_casual5.webp",
+    "문앙_mecha_kr_mmorpg_f.webp",
+    "문앙_mecha_kr_mmorpg_f_casual1.webp",
+    "문앙_mecha_kr_mmorpg_f_casual2.webp",
+    "문앙_mecha_kr_mmorpg_f_casual3.webp",
+    "문앙_mecha_kr_mmorpg_f_casual4.webp",
+    "문앙_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
