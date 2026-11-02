@@ -59,7 +59,7 @@
   {
    "key": "원소",
    "execution": "sam-yuanshao-resume-f4a9",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T14:09:16.415Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -75,7 +75,9 @@
     "원소_mecha_kr_mmorpg_f_casual3.webp",
     "원소_mecha_kr_mmorpg_f_casual4.webp",
     "원소_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T14:28:43.308Z",
+   "done_by": "sam-yuanshao-resume-f4a9"
   }
  ]
 }
