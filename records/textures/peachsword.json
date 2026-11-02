@@ -1,0 +1,30 @@
+{
+ "atelier": "samguk",
+ "kind": "texture",
+ "theme": "peachsword",
+ "file": "backgrounds/textures/tex-peachsword.webp",
+ "source": "사용자 2026-11-02 「버튼이나 div 창, 네비게이션 bar 등에도 어울리는 질감 표현 — 필요하면 이미지 생성 도구」. 공간 peachsword 의 판 재질",
+ "processing": "반 칸 밀어 가장자리 교차(이음새 없는 타일) → 768px → 평균 쪽으로 45% 당겨 대비 55% → WebP 76(lib/material.css 가 바탕색 86% 막 아래 384px 로 깐다)",
+ "prompt": "A seamless, tileable surface material texture for a game UI panel background, viewed flat and straight-on with even, soft lighting and no perspective. Fill the entire square edge to edge with the material only. Low contrast and subtle so text can sit on top of it; fine detail, no large shapes or focal points. No objects, no people, no text, no letters, no symbols, no logos, no frame, no border, no vignette. Material: pale blossom-pink silk with a fine woven texture and a very faint tone-on-tone damask of tiny peach-blossom shapes; subtle teal-green silk threads woven through; light and airy.",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1024x1024",
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 139,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 139
+   },
+   "output_tokens": 439,
+   "output_tokens_details": {
+    "image_tokens": 439,
+    "text_tokens": 0
+   },
+   "total_tokens": 578
+  },
+  "seconds": 16.302,
+  "png_sha256": "5d80f90353ac7d90c9f5bdc168d33ab4fa79b9131a5edcd8b4cf134be1c7a53b"
+ },
+ "date": "2026-11-02"
+}

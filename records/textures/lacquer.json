@@ -1,0 +1,30 @@
+{
+ "atelier": "samguk",
+ "kind": "texture",
+ "theme": "lacquer",
+ "file": "backgrounds/textures/tex-lacquer.webp",
+ "source": "사용자 2026-11-02 「버튼이나 div 창, 네비게이션 bar 등에도 어울리는 질감 표현 — 필요하면 이미지 생성 도구」. 공간 lacquer 의 판 재질",
+ "processing": "반 칸 밀어 가장자리 교차(이음새 없는 타일) → 768px → 평균 쪽으로 45% 당겨 대비 55% → WebP 76(lib/material.css 가 바탕색 86% 막 아래 384px 로 깐다)",
+ "prompt": "A seamless, tileable surface material texture for a game UI panel background, viewed flat and straight-on with even, soft lighting and no perspective. Fill the entire square edge to edge with the material only. Low contrast and subtle so text can sit on top of it; fine detail, no large shapes or focal points. No objects, no people, no text, no letters, no symbols, no logos, no frame, no border, no vignette. Material: glossy deep cinnabar-red lacquer over black, with fine crackle and scattered tiny flecks of gold leaf; a soft polished sheen; dark and rich.",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1024x1024",
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 131,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 131
+   },
+   "output_tokens": 439,
+   "output_tokens_details": {
+    "image_tokens": 439,
+    "text_tokens": 0
+   },
+   "total_tokens": 570
+  },
+  "seconds": 17.794,
+  "png_sha256": "631a6d19c7d4f00c109bb1de4544ce20d395769f9c114ff40c672a5ae33d4a34"
+ },
+ "date": "2026-11-02"
+}
