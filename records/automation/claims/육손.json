@@ -4,7 +4,7 @@
   {
    "key": "육손",
    "execution": "sam-luxun-4567",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T13:37:12.625Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -27,7 +27,9 @@
     "육손_mecha_kr_mmorpg_f_casual3.webp",
     "육손_mecha_kr_mmorpg_f_casual4.webp",
     "육손_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T14:12:09.663Z",
+   "done_by": "sam-luxun-4567"
   }
  ]
 }
