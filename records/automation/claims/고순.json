@@ -4,7 +4,7 @@
   {
    "key": "고순",
    "execution": "sam-gaoshun-3fe228",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T14:48:08.010Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -27,7 +27,9 @@
     "고순_mecha_kr_mmorpg_f_casual3.webp",
     "고순_mecha_kr_mmorpg_f_casual4.webp",
     "고순_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T15:19:21.022Z",
+   "done_by": "sam-gaoshun-3fe228"
   }
  ]
 }
