@@ -1,0 +1,31 @@
+{
+ "atelier": "samguk",
+ "kind": "frame",
+ "theme": "feywood",
+ "file": "backgrounds/frames/frame-feywood.webp",
+ "source": "사용자 2026-11-02 「공간별로 따로 적용해줘」 — 레퍼런스(무협 비취 현판 · 판타지 룬 양피지 · 메카 네온 강판)의 장식 틀 · 배경을 공간 아홉마다",
+ "processing": "투명 그대로 512px WebP 88 — lib/material.css 가 9칸 틀(border-image)로 쓴다, 잰 모서리 219px/1024",
+ "prompt": "A square game UI window frame for a nine-slice border: a thin ornate border running around all four edges of the square, with an elaborate ornament at each of the four corners and plain, straight, continuous molding along the edges between the corners (no ornament in the middle of the edges). The whole center is completely empty and transparent. Border thickness about 8% of the width, corners about 14%. Crisp game-UI asset rendering, front view, evenly lit. No text, no letters, no background, no shadow outside the frame. Material: living twisted vines and smooth birch twigs forming the edges, corners of moss with tiny amethyst-violet flowers and coral-red berries.",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1024x1024",
+  "quality": "medium",
+  "background": "transparent",
+  "usage": {
+   "input_tokens": 147,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 147
+   },
+   "output_tokens": 439,
+   "output_tokens_details": {
+    "image_tokens": 439,
+    "text_tokens": 0
+   },
+   "total_tokens": 586
+  },
+  "seconds": 15.186,
+  "png_sha256": "111a54e22a8232106cdda3741151e76fd5100ef40bf28d4e1aa73a7c19e4bd94"
+ },
+ "date": "2026-11-02"
+}
