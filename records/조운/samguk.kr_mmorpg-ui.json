@@ -1,0 +1,71 @@
+{
+  "atelier": "samguk",
+  "card": "조운",
+  "faction": "shu",
+  "role": "general",
+  "world": "samguk",
+  "style": "kr_mmorpg",
+  "styleVersion": "v3",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "emerald",
+      "age": "mid_20s",
+      "impression": "cool",
+      "skin_tone": "fair",
+      "eye_size": "medium",
+      "eye_tilt": "level",
+      "mark": "bare",
+      "expr": "determined",
+      "brows": "straight_thick",
+      "nose": "straight_narrow",
+      "lips": "small_bow",
+      "face_shape": "oval",
+      "eyes": "almond_wide"
+    },
+    "silhouette": {
+      "body": "curvy_athletic",
+      "hair_color": "silver_white",
+      "hair": "ponytail",
+      "bangs": "side_swept"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+  },
+  "file": "조운_samguk_kr_mmorpg_f.webp",
+  "prompt": "CONCEPT: a female personification of Zhao Yun (조운), a general of Shu Han in the Romance of the Three Kingdoms — the dragon of Changshan, who carried the infant heir through the enemy host at Changban. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Zhao Yun to carry in her design and the scene: calm, flawless courage, gleaming silver armor with white plumes, cutting through a hundred thousand enemies at Changban to save the infant heir, a body made all of courage, quiet modesty.\nFACTION — Shu Han (蜀). Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: toned athletic-curvy, full-busted with rounded hips build; a long ponytail with side-swept bangs; silver-white hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a cool, aloof beauty; fair skin; oval face; moderately sized, realistically proportioned eyes — wide almond eyes, level outer eye corners; thick straight brows; straight narrow nose; small bow lips; emerald-green eyes; a bare, makeup-free face.\nWORLD — THREE KINGDOMS ERA: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a silver dragon-crested spear — she holds or carries it, drawn at full scale, in the form this WORLD gives it.\nEXPRESSION: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 趙.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+  "date": "2026-11-02",
+  "generation": {
+    "tool": "image_gen",
+    "mode": "built-in",
+    "endpoint": "images/generations",
+    "source_sha256": "5f7b3d0c7920ebfd8d6109da95d2375dcb87b4c5e14308d5ffc0aeab7ba1ac8c",
+    "output_sha256": "1c940414ecc9429081ade9ae88cd3840f8df85df3fdc9ae9ff1b6f103d223cd3",
+    "size": "1024x1536",
+    "retries": [
+      {
+        "attempt": 1,
+        "result": "output safety filter blocked sexual category"
+      },
+      {
+        "attempt": 2,
+        "change": "same prompt",
+        "result": "accepted"
+      }
+    ],
+    "qa": {
+      "reviewed": true,
+      "result": "accepted"
+    }
+  }
+}
