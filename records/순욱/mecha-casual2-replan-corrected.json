@@ -1,0 +1,43 @@
+{
+ "card": "순욱",
+ "world": "mecha",
+ "seed": 829541,
+ "tree": 2,
+ "style": "kr_mmorpg",
+ "required": "lingerie · nation",
+ "slots": [
+  2
+ ],
+ "fresh": false,
+ "cuts": [
+  {
+   "n": 2,
+   "era": "nation",
+   "place": "nation_bath",
+   "ofam": "homewear",
+   "treeV": 2,
+   "prop": "",
+   "preset": "raise_chest",
+   "use": "lantern_raise",
+   "kind": "raise",
+   "posture": "stand",
+   "support": "none",
+   "frame": "chest_up",
+   "body": "front_3q",
+   "head": "tilt",
+   "camera": "eye",
+   "right": "prop",
+   "left": "out",
+   "legs": "",
+   "gaze": "",
+   "item": "sleep_shirt",
+   "expr": "smug",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}
