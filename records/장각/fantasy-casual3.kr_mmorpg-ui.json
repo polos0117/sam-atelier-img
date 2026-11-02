@@ -1,0 +1,124 @@
+{
+ "atelier": "samguk",
+ "card": "장각",
+ "faction": "qun",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "ref": "장각_fantasy_kr_mmorpg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_lantern",
+  "ofam": "subculture",
+  "item": "romantic_goth",
+  "posture": "stand",
+  "support": "none",
+  "frame": "face_close",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "v_sign",
+  "left": "out",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "expr": "flustered",
+  "preset": "vsign_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "장각_fantasy_kr_mmorpg_f_casual3.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhang Jiao of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — mystical charisma, yellow headscarf, Taoist talismans and a nine-section staff — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (royal violet, tarnished gold, bronze, dark crimson). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases).\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nERA: a present-day place where the Three Kingdoms is remembered — a museum of Han relics, a sword forge, a restored plank road, the Red Cliffs park, an old city wall, a Chengdu teahouse, the Wuhou Shrine, a riverside pavilion tower, a lantern-lit old street or a hanfu photo studio.\n\nSCENE (chosen):\nPlace: a lantern-lit old-town street at night, red paper lanterns, snack stalls and carved wooden shopfronts\nOutfit: romantic goth — a black velvet dress with a corset belt and lace sleeves\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand makes a V sign beside her face.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: raised inner brows, wide unsettled eyes, mouth slightly open, faint blush across the cheeks and nose.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more bare shoulder and collarbone inside the crop; the crop stays exactly where CROP sets it and never moves down to show more; cover the chest\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-02",
+ "record": "records/장각/fantasy-casual3.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "장각",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_mmorpg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "장각": {
+    "era": "heritage",
+    "place": "heritage_lantern",
+    "ofam": "subculture",
+    "treeV": 2,
+    "prop": "",
+    "preset": "vsign_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "v_sign",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "item": "romantic_goth",
+    "expr": "flustered",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7da13b8abf80342b67babc36b901ade8ea9c9045f09a36713b718d7746d7ee2b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "success",
+    "exposure": "bold"
+   }
+  ],
+  "ref_sha256": "32ab14039252b67be19a60c7898884e840ed015d3890acc27b7b746f3cce5391"
+ },
+ "execution": "sam-zhangjiao-4ec2",
+ "imported": "2026-11-03",
+ "acceptance": "user_approval_2026-11-02 — 묻지 않고 올리고 사용자가 올라간 뒤 본다",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt sam-zhangjiao-4ec2",
+  "image_sha256": "7da13b8abf80342b67babc36b901ade8ea9c9045f09a36713b718d7746d7ee2b",
+  "passed": false,
+  "observations": [
+   "1024×1536·세로 2:3 원본 확인.",
+   "로고·워터마크·그림 테두리는 보이지 않음.",
+   "세계 기준 그림을 실제 첨부하여 편집 생성. 얼굴·황금 눈·레몬색 머리와 세계별 헤어 정체성이 유지됨.",
+   "등불 옛거리 배경에 작은 인물들이 보임.",
+   "브이 손은 손가락 다섯 개 구조로 보이고 팔 연결도 자연스러움."
+  ],
+  "cause": "세계/장면/의상/프레이밍/손·소품 지시와 출력의 차이. 작은 배경 인물·문자까지 ONE FIGURE ONLY가 제어하지 못함. 지팡이는 isWeapon 분류에서 제외되어 일상 PROP에 원형이 남음."
+ }
+}
