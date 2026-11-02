@@ -1,0 +1,33 @@
+{
+ "key": "마초",
+ "runs": [
+  {
+   "key": "마초",
+   "execution": "sam-machao-3fab9cac",
+   "status": "working",
+   "claimed_at": "2026-11-02T14:19:35.533Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "마초_samguk_kr_mmorpg_f.webp",
+    "마초_samguk_kr_mmorpg_f_casual1.webp",
+    "마초_samguk_kr_mmorpg_f_casual2.webp",
+    "마초_samguk_kr_mmorpg_f_casual3.webp",
+    "마초_samguk_kr_mmorpg_f_casual4.webp",
+    "마초_samguk_kr_mmorpg_f_casual5.webp",
+    "마초_fantasy_kr_mmorpg_f.webp",
+    "마초_fantasy_kr_mmorpg_f_casual1.webp",
+    "마초_fantasy_kr_mmorpg_f_casual2.webp",
+    "마초_fantasy_kr_mmorpg_f_casual3.webp",
+    "마초_fantasy_kr_mmorpg_f_casual4.webp",
+    "마초_fantasy_kr_mmorpg_f_casual5.webp",
+    "마초_mecha_kr_mmorpg_f.webp",
+    "마초_mecha_kr_mmorpg_f_casual1.webp",
+    "마초_mecha_kr_mmorpg_f_casual2.webp",
+    "마초_mecha_kr_mmorpg_f_casual3.webp",
+    "마초_mecha_kr_mmorpg_f_casual4.webp",
+    "마초_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
