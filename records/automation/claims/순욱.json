@@ -1,0 +1,33 @@
+{
+ "key": "순욱",
+ "runs": [
+  {
+   "key": "순욱",
+   "execution": "sam-xunyu-ab098b-20261102",
+   "status": "working",
+   "claimed_at": "2026-11-02T14:25:33.998Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "순욱_samguk_kr_mmorpg_f.webp",
+    "순욱_samguk_kr_mmorpg_f_casual1.webp",
+    "순욱_samguk_kr_mmorpg_f_casual2.webp",
+    "순욱_samguk_kr_mmorpg_f_casual3.webp",
+    "순욱_samguk_kr_mmorpg_f_casual4.webp",
+    "순욱_samguk_kr_mmorpg_f_casual5.webp",
+    "순욱_fantasy_kr_mmorpg_f.webp",
+    "순욱_fantasy_kr_mmorpg_f_casual1.webp",
+    "순욱_fantasy_kr_mmorpg_f_casual2.webp",
+    "순욱_fantasy_kr_mmorpg_f_casual3.webp",
+    "순욱_fantasy_kr_mmorpg_f_casual4.webp",
+    "순욱_fantasy_kr_mmorpg_f_casual5.webp",
+    "순욱_mecha_kr_mmorpg_f.webp",
+    "순욱_mecha_kr_mmorpg_f_casual1.webp",
+    "순욱_mecha_kr_mmorpg_f_casual2.webp",
+    "순욱_mecha_kr_mmorpg_f_casual3.webp",
+    "순욱_mecha_kr_mmorpg_f_casual4.webp",
+    "순욱_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
