@@ -1,0 +1,42 @@
+{
+ "card": "초선",
+ "world": "mecha",
+ "seed": 616403800,
+ "tree": 2,
+ "style": "kr_mmorpg",
+ "required": "nation · roleplay",
+ "slots": [
+  1
+ ],
+ "fresh": false,
+ "cuts": [
+  {
+   "n": 1,
+   "era": "now",
+   "place": "sports_gym",
+   "ofam": "homewear",
+   "treeV": 2,
+   "prop": "",
+   "preset": "cheek_close",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "face_close",
+   "body": "front_3q",
+   "head": "tilt",
+   "camera": "eye",
+   "right": "cheek",
+   "left": "out",
+   "legs": "",
+   "gaze": "camera",
+   "item": "oversized_shirt",
+   "expr": "laughing",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}

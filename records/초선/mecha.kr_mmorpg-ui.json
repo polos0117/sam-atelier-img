@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "초선",
+ "faction": "qun",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "age": "early_20s",
+   "impression": "elegant",
+   "skin_tone": "porcelain",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "expr": "sensual",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "heart_full",
+   "face_shape": "diamond",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair_color": "royal_purple",
+   "hair": "long_wavy",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "초선_mecha_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Diaochan (초선), a court official of the rival warlords in the Romance of the Three Kingdoms — the peerless beauty whose chain stratagem turned Dong Zhuo and Lü Bu against each other. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Diaochan to carry in her design and the scene: a beauty before whom the moon hid behind the clouds, a dancer of the palace, the linked-rings stratagem, silk ribbons and moonlight, quiet courage behind grace.\nFACTION — the rival warlords. Palette: royal violet, tarnished gold, bronze, dark crimson.\nAGE: about twenty — a fresh young-adult face; no facial lines.\nSILHOUETTE: slender-limbed yet full-busted with rounded hips and a narrow waist build; long wavy hair with side-swept bangs; royal-purple hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — an elegant, refined presence; porcelain-pale skin; diamond-shaped face; large eyes — large round eyes, outer eye corners drooping downward; thin arched brows; small button nose; full heart-shaped lips; pale violet eyes; a small beauty mark under one eye.\nWORLD — MECHA: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking. MECHA DESIGN: she is a female mecha personification, built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: mismatched violet and tarnished-gold plating with bronze patches and battle scars, aggressive spiked silhouette, salvaged parts and warlord insignia shapes, violet glow lines.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a folding silk dance fan — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth, chin a little lowered.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-02",
+ "record": "records/초선/mecha.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "초선",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_mmorpg",
+  "notes": {
+   "초선|mecha": {}
+  },
+  "looks": {
+   "초선|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "초선|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "5c5bf796702308d92cf14f3ee7401e10e3717e15cdf2537629fa88cb85104207",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "success",
+    "exposure": "bold"
+   }
+  ]
+ },
+ "execution": "sam-lvbu-diaochan-60b9",
+ "imported": "2026-11-02",
+ "qa": {
+  "reviewer": "gpt sam-lvbu-diaochan-60b9",
+  "image_sha256": "5c5bf796702308d92cf14f3ee7401e10e3717e15cdf2537629fa88cb85104207",
+  "webp_sha256": "95a257a35831dab8dd39d6c9b5ff73dc3159f85bd8a8165b7f59cbd380cf7d80",
+  "passed": false,
+  "observations": [
+   "One adult woman in violet mechanical armor, long wavy hair and diamond face; futuristic orbital fortress; both natural arm connections and full legs.",
+   "Right hand holds one coherent mechanized folding fan; fan left edge is clipped by frame rather than fitting within clear margins."
+  ],
+  "cause": "Model did not fully follow OUTPUT / SCENE / ANGLE / WARDROBE constraints; deviations preserved for user review per IMAGE_AUTOMATION.md section 0."
+ },
+ "acceptance": "user_approval_2026-11-02 — 묻지 않고 올리고 사용자가 올라간 뒤 본다(「삼국지도 원소처럼 바로 올리게 바꿔줘」)",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

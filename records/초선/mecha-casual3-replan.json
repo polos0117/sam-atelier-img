@@ -1,0 +1,43 @@
+{
+ "card": "초선",
+ "world": "mecha",
+ "seed": 616404000,
+ "tree": 2,
+ "style": "kr_mmorpg",
+ "required": "nation · roleplay",
+ "slots": [
+  3
+ ],
+ "fresh": false,
+ "cuts": [
+  {
+   "n": 3,
+   "era": "now",
+   "place": "sports_rink",
+   "ofam": "halloween",
+   "treeV": 2,
+   "prop": "",
+   "preset": "walk_away",
+   "use": "bottle_hold",
+   "kind": "hold",
+   "posture": "walk",
+   "support": "none",
+   "frame": "environmental",
+   "body": "back",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "down",
+   "legs": "walk_stride",
+   "gaze": "horizon",
+   "item": "hw_witch",
+   "expr": "",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}
