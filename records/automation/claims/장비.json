@@ -4,7 +4,7 @@
   {
    "key": "장비",
    "execution": "sam-zhangfei-e86f",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T13:03:51.817Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -27,7 +27,9 @@
     "장비_mecha_kr_mmorpg_f_casual3.webp",
     "장비_mecha_kr_mmorpg_f_casual4.webp",
     "장비_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T13:31:26.163Z",
+   "done_by": "sam-zhangfei-e86f"
   }
  ]
 }
