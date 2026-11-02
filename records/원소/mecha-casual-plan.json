@@ -156,10 +156,10 @@
   }
  ],
  "generation_status": {
-  "1": "not_started",
-  "2": "not_started",
-  "3": "not_started",
-  "4": "not_started",
-  "5": "not_started"
+  "1": "generated",
+  "2": "generated",
+  "3": "generated",
+  "4": "generated",
+  "5": "generated"
  }
 }
