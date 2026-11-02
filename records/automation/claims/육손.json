@@ -1,0 +1,33 @@
+{
+ "key": "육손",
+ "runs": [
+  {
+   "key": "육손",
+   "execution": "sam-luxun-4567",
+   "status": "working",
+   "claimed_at": "2026-11-02T13:37:12.625Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "육손_samguk_kr_mmorpg_f.webp",
+    "육손_samguk_kr_mmorpg_f_casual1.webp",
+    "육손_samguk_kr_mmorpg_f_casual2.webp",
+    "육손_samguk_kr_mmorpg_f_casual3.webp",
+    "육손_samguk_kr_mmorpg_f_casual4.webp",
+    "육손_samguk_kr_mmorpg_f_casual5.webp",
+    "육손_fantasy_kr_mmorpg_f.webp",
+    "육손_fantasy_kr_mmorpg_f_casual1.webp",
+    "육손_fantasy_kr_mmorpg_f_casual2.webp",
+    "육손_fantasy_kr_mmorpg_f_casual3.webp",
+    "육손_fantasy_kr_mmorpg_f_casual4.webp",
+    "육손_fantasy_kr_mmorpg_f_casual5.webp",
+    "육손_mecha_kr_mmorpg_f.webp",
+    "육손_mecha_kr_mmorpg_f_casual1.webp",
+    "육손_mecha_kr_mmorpg_f_casual2.webp",
+    "육손_mecha_kr_mmorpg_f_casual3.webp",
+    "육손_mecha_kr_mmorpg_f_casual4.webp",
+    "육손_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
