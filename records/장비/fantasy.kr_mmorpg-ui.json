@@ -1,0 +1,110 @@
+{
+ "atelier": "samguk",
+ "card": "장비",
+ "faction": "shu",
+ "role": "general",
+ "world": "fantasy",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "age": "early_20s",
+   "impression": "fierce",
+   "skin_tone": "warm_beige",
+   "eye_size": "large",
+   "eye_tilt": "up",
+   "mark": "blush",
+   "expr": "laughing",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "wide_smile",
+   "face_shape": "square_soft",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "jet_black",
+   "hair": "short_crop",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "장비_fantasy_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Zhang Fei (장비), a general of Shu Han in the Romance of the Three Kingdoms — the thunder-voiced tiger general of Shu who held Changban Bridge alone. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Zhang Fei to carry in her design and the scene: a thunderous roar that turned an army back at Changban Bridge, wild temper and fierce joy, a love of wine, a tiger-whiskered fierceness reimagined as wild bristling hair and tiger-stripe trim.\nFACTION — Shu Han. Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: about twenty — a fresh young-adult face; no facial lines.\nSILHOUETTE: toned athletic-curvy, full-busted with rounded hips build; short cropped hair with choppy uneven bangs; glossy jet-black hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; warm beige skin; softly square face; large eyes — large round eyes, outer eye corners tilting sharply upward; low heavy brows; broad soft nose; wide smiling mouth; amber eyes; rosy flushed cheeks.\nWORLD — MEDIEVAL FANTASY: a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. COSTUME (medieval fantasy): a knight-champion's armor — articulated plate with a heraldic tabard in her faction's colours, a plumed helm or circlet, a battle cape, her weapon at hand. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, subtle magical glow along the patterns. Her Three Kingdoms origin shows only through her signature item, her colours and her bearing — her outfit is Western: no wrap-collar robes, no wide hanfu sleeves, no flowing Chinese-style robe over armor, no East-Asian armor, no machinery, no modern material. The setting is Western European medieval — stone castles, Romanesque or Gothic architecture, European mountains, forests and towns; no Chinese architecture, no pagodas or curved tiled roofs, no hanzi on banners. LIGHT: natural daylight or the world's own magical glow, unless TIME & WEATHER says otherwise. Celestial ornament: feather-and-gold wing-shaped ornaments at the shoulders or back, a translucent gauze overskirt, a jewelled circlet.\nMOOD: serene celestial key art — pastel sky light, a soft halo of light behind her, floating golden light particles and drifting feathers.\nEXPOSURE (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: the Serpent Spear, a long zhangba spear with a wavy serpent-shaped blade — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: head tipped back slightly, eyes squeezed nearly shut, mouth open wide with teeth showing, cheeks raised high.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-02",
+ "record": "records/장비/fantasy.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "장비",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_mmorpg",
+  "notes": {
+   "장비|fantasy": {}
+  },
+  "looks": {
+   "장비|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "장비|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e690124dc719dc9f92b854991941ee867b50caf6260e48a55b1d43663e6aa401",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": []
+ },
+ "execution": "sam-zhangfei-e86f",
+ "imported": "2026-11-02",
+ "qa": {
+  "reviewer": "gpt-sam-zhangfei-e86f",
+  "image_sha256": "e690124dc719dc9f92b854991941ee867b50caf6260e48a55b1d43663e6aa401",
+  "passed": true,
+  "observations": [
+   "1024×1536, 세로 2:3.",
+   "주인공 얼굴·머리·몸 및 팔다리 연결을 생성 결과에서 시각 확인.",
+   "창날 끝은 상단 프레임 밖으로 나가며 자루는 끊기지 않음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-11-02 — AI 검수 뒤 묻지 않고 올리고 사용자가 올라간 뒤 본다",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
