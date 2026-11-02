@@ -1,0 +1,32 @@
+{
+ "atelier": "samguk",
+ "kind": "battle-map",
+ "battle": "guandu",
+ "world": "fantasy",
+ "file": "backgrounds/battles/battle-guandu-fantasy.webp",
+ "source": "사용자 2026-11-02 「배경은 전장맵 — 호로관 · 장판파 · 한중 · 관도 · 이릉 · 적벽 · 오장원을 무협 · 판타지 · sf 다른 구성으로, 맵별로 배치도 다르게」 — 21장 따로따로(사용자 선택)",
+ "processing": "1536x1024 그대로 WebP 78. 장수 자리(8)는 그림을 보고 data/battles.json 에 백분율로",
+ "prompt": "A high three-quarter bird's-eye battlefield map illustration for a strategy game: a Western medieval fantasy reinterpretation of a great siege on a plain: a star-shaped stone bastion fortress on the lower right with moat and trebuchets, an enormous besieging host of tents, siege towers and catapults covering the upper half, a supply depot of barns and carts beside a wide river at the far left. Clear readable terrain with several distinct landmark zones spread across the whole image and open ground where unit markers can be placed. Painterly Western medieval high-fantasy game-map art, rich color, wide landscape composition, evenly lit enough to read every zone. No text, no labels, no letters, no numbers, no UI, no close-up people (only tiny distant banners, tents and troops).",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1536x1024",
+  "quality": "medium",
+  "background": "auto",
+  "usage": {
+   "input_tokens": 167,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 167
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 510
+  },
+  "seconds": 19.76,
+  "png_sha256": "ba75f2c0fa70a07a0ecbafc136f09d7daff9e4952908b7a5b1c222e15fff4e8d"
+ },
+ "date": "2026-11-02"
+}

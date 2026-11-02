@@ -1,0 +1,32 @@
+{
+ "atelier": "samguk",
+ "kind": "battle-map",
+ "battle": "wuzhang",
+ "world": "mecha",
+ "file": "backgrounds/battles/battle-wuzhang-mecha.webp",
+ "source": "사용자 2026-11-02 「배경은 전장맵 — 호로관 · 장판파 · 한중 · 관도 · 이릉 · 적벽 · 오장원을 무협 · 판타지 · sf 다른 구성으로, 맵별로 배치도 다르게」 — 21장 따로따로(사용자 선택)",
+ "processing": "1536x1024 그대로 WebP 78. 장수 자리(8)는 그림을 보고 data/battles.json 에 백분율로",
+ "prompt": "A high three-quarter bird's-eye battlefield map illustration for a strategy game: a science-fiction reinterpretation of a long stand-off: a command base on a high mesa of a barren moon, an enemy fortress city across a dry riverbed canyon, a huge planet rising on the horizon, a falling satellite streaking across the starfield. Clear readable terrain with several distinct landmark zones spread across the whole image and open ground where unit markers can be placed. Painterly sci-fi strategy game-map art, cinematic lighting, rich color, wide landscape composition, evenly lit enough to read every zone. No text, no labels, no letters, no numbers, no UI, no close-up people (only tiny distant banners, tents and troops).",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1536x1024",
+  "quality": "medium",
+  "background": "auto",
+  "usage": {
+   "input_tokens": 152,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 152
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 495
+  },
+  "seconds": 18.874,
+  "png_sha256": "eb77e72dc5995b3416ec7080aec9b3797a48126a4e526e8f8527cf60f4b9a7f2"
+ },
+ "date": "2026-11-02"
+}

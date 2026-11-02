@@ -1,0 +1,32 @@
+{
+ "atelier": "samguk",
+ "kind": "battle-map",
+ "battle": "guandu",
+ "world": "mecha",
+ "file": "backgrounds/battles/battle-guandu-mecha.webp",
+ "source": "사용자 2026-11-02 「배경은 전장맵 — 호로관 · 장판파 · 한중 · 관도 · 이릉 · 적벽 · 오장원을 무협 · 판타지 · sf 다른 구성으로, 맵별로 배치도 다르게」 — 21장 따로따로(사용자 선택)",
+ "processing": "1536x1024 그대로 WebP 78. 장수 자리(8)는 그림을 보고 data/battles.json 에 백분율로",
+ "prompt": "A high three-quarter bird's-eye battlefield map illustration for a strategy game: a science-fiction reinterpretation of a great siege: a domed planetary defense citadel with shield generators on a flat salt plain, a huge besieging armored army of walker mechs and artillery platforms in a crescent formation, a fuel depot of glowing tanks on the far edge, trench lines of plasma scars. Clear readable terrain with several distinct landmark zones spread across the whole image and open ground where unit markers can be placed. Painterly sci-fi strategy game-map art, cinematic lighting, rich color, wide landscape composition, evenly lit enough to read every zone. No text, no labels, no letters, no numbers, no UI, no close-up people (only tiny distant banners, tents and troops).",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1536x1024",
+  "quality": "medium",
+  "background": "auto",
+  "usage": {
+   "input_tokens": 163,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 163
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 506
+  },
+  "seconds": 21.154,
+  "png_sha256": "b02bb90893c7af153eb53e2fde8fe09388ab32904c528de28e9301866a485e9f"
+ },
+ "date": "2026-11-02"
+}

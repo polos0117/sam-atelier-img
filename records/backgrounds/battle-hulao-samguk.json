@@ -1,0 +1,32 @@
+{
+ "atelier": "samguk",
+ "kind": "battle-map",
+ "battle": "hulao",
+ "world": "samguk",
+ "file": "backgrounds/battles/battle-hulao-samguk.webp",
+ "source": "사용자 2026-11-02 「배경은 전장맵 — 호로관 · 장판파 · 한중 · 관도 · 이릉 · 적벽 · 오장원을 무협 · 판타지 · sf 다른 구성으로, 맵별로 배치도 다르게」 — 21장 따로따로(사용자 선택)",
+ "processing": "1536x1024 그대로 WebP 78. 장수 자리(8)는 그림을 보고 data/battles.json 에 백분율로",
+ "prompt": "A high three-quarter bird's-eye battlefield map illustration for a strategy game: Hulao Pass in 191 AD, ancient China: a colossal walled mountain pass fortress with a multi-tiered gate tower set between two steep cliff faces, a long dirt road climbing to the gate from the lower right, the allied coalition camps with many tents and banners spread on the plain in the lower left, rocky ridges on both sides. Clear readable terrain with several distinct landmark zones spread across the whole image and open ground where unit markers can be placed. Painterly ancient Chinese wuxia game-map art with ink-wash mountains and rich color, wide landscape composition, evenly lit enough to read every zone. No text, no labels, no letters, no numbers, no UI, no close-up people (only tiny distant banners, tents and troops).",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1536x1024",
+  "quality": "medium",
+  "background": "auto",
+  "usage": {
+   "input_tokens": 174,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 174
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 517
+  },
+  "seconds": 21.487,
+  "png_sha256": "c0af902389ccf850fa590aae0bc7ce35d80b0f2cd8ac9fd1bbd279707cdc77bb"
+ },
+ "date": "2026-11-02"
+}

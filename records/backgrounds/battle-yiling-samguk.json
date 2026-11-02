@@ -1,0 +1,32 @@
+{
+ "atelier": "samguk",
+ "kind": "battle-map",
+ "battle": "yiling",
+ "world": "samguk",
+ "file": "backgrounds/battles/battle-yiling-samguk.webp",
+ "source": "사용자 2026-11-02 「배경은 전장맵 — 호로관 · 장판파 · 한중 · 관도 · 이릉 · 적벽 · 오장원을 무협 · 판타지 · sf 다른 구성으로, 맵별로 배치도 다르게」 — 21장 따로따로(사용자 선택)",
+ "processing": "1536x1024 그대로 WebP 78. 장수 자리(8)는 그림을 보고 data/battles.json 에 백분율로",
+ "prompt": "A high three-quarter bird's-eye battlefield map illustration for a strategy game: the battle of Yiling in 222 AD, ancient China: a long narrow river gorge of the Yangtze running diagonally across the image, a chain of many wooden palisade camps strung along the forested riverbanks for hundreds of li, some camps catching fire, steep wooded mountains on both sides, boats on the river. Clear readable terrain with several distinct landmark zones spread across the whole image and open ground where unit markers can be placed. Painterly ancient Chinese wuxia game-map art with ink-wash mountains and rich color, wide landscape composition, evenly lit enough to read every zone. No text, no labels, no letters, no numbers, no UI, no close-up people (only tiny distant banners, tents and troops).",
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "size": "1536x1024",
+  "quality": "medium",
+  "background": "auto",
+  "usage": {
+   "input_tokens": 172,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 172
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 515
+  },
+  "seconds": 21.052,
+  "png_sha256": "601b56dfa4a4606c436027efedd83a5c1c74dcc1775ca8c9c0375f20c0ede2af"
+ },
+ "date": "2026-11-02"
+}
