@@ -1,0 +1,42 @@
+{
+ "card": "여포",
+ "world": "mecha",
+ "seed": 614455900,
+ "tree": 2,
+ "style": "kr_mmorpg",
+ "required": "roleplay · nation",
+ "slots": [
+  4
+ ],
+ "fresh": false,
+ "cuts": [
+  {
+   "n": 4,
+   "era": "heritage",
+   "place": "heritage_redcliff",
+   "ofam": "homewear",
+   "treeV": 2,
+   "prop": "",
+   "preset": "thumbs_waist",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "waist_up",
+   "body": "front",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "thumbs_up",
+   "left": "hip",
+   "legs": "",
+   "gaze": "camera",
+   "item": "satin_lounge",
+   "expr": "nostalgic",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}
