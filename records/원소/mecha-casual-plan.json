@@ -128,31 +128,32 @@
   },
   {
    "n": 5,
+   "treeV": 2,
    "era": "now",
    "place": "spa_lounge",
    "ofam": "bridal",
-   "treeV": 2,
-   "prop": "",
-   "preset": "stand_use",
-   "use": "towel_dry",
+   "item": "reception_backless",
    "posture": "stand",
    "support": "none",
    "frame": "environmental",
-   "body": "side",
+   "body": "front",
    "head": "with_body",
    "camera": "eye",
    "right": "prop",
-   "left": "prop",
+   "left": "natural",
+   "use": "towel_hold",
    "legs": "stand_relaxed",
-   "gaze": "",
-   "item": "reception_backless",
+   "gaze": "camera",
    "expr": "sleepy",
+   "preset": "",
+   "prop": "",
+   "custom": "USER-REQUESTED COMPOSITION REPLACEMENT. Reference image 1 fixes her identity; reference image 2 is the scene to correct. Keep the same adult woman, long antique-gold hair, white satin reception dress, and warm spa lounge. Face her torso toward the camera with both shoulders clearly visible. Both arms stay below the shoulders and in front of the torso. Her own right hand holds a small folded towel in front of her lower chest, while her left hand gently supports its lower edge near the upper waist. Both elbows point naturally downward. Show each arm continuously from its own shoulder through elbow and wrist into one natural hand with five fingers. No hands or arms above, behind, or touching the head. Her hair hangs freely. Use an eye-level, front-facing full-length environmental composition with head and both feet inside the image and clear margins. The towel remains below her face.",
    "axes": {
     "overall_intensity": "strong",
-    "skin_exposure": "bold"
+    "skin_exposure": "moderate"
    },
-   "aspect": "2:3",
-   "unlocked": []
+   "unlocked": [],
+   "aspect": "2:3"
   }
  ],
  "generation_status": {
@@ -161,5 +162,44 @@
   "3": "generated",
   "4": "generated",
   "5": "generated"
+ },
+ "history": [
+  {
+   "execution": "sam-yuanshao-casual5-fix-f4a9",
+   "previous_cut": {
+    "n": 5,
+    "era": "now",
+    "place": "spa_lounge",
+    "ofam": "bridal",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "towel_dry",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "reception_backless",
+    "expr": "sleepy",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   },
+   "reason": "사용자 팔 오류 교정 요청에 따른 생성기 구도 수정"
+  }
+ ],
+ "user_pose_revision": {
+  "slot": 5,
+  "why": "머리 위의 양팔 동작 오류를 제거하고 정면에서 팔을 내려 몸 앞에 접은 수건을 받치게 한다.",
+  "bundle_exception": "기존 네 컷을 보존하고 요청한 팔 연결 교정에 정면 구도를 사용하여, 몸 방향 front가 세 장이 됨. 전체 묶음의 같은 몸 방향 최대 두 장 규칙에 대한 이번 교체의 예외를 기록."
  }
 }
