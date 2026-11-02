@@ -1,0 +1,33 @@
+{
+ "key": "태사자",
+ "runs": [
+  {
+   "key": "태사자",
+   "execution": "sam-taishici-5f4d-20261103",
+   "status": "working",
+   "claimed_at": "2026-11-02T21:21:53.483Z",
+   "date_kst": "2026-11-03",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "태사자_samguk_kr_mmorpg_f.webp",
+    "태사자_samguk_kr_mmorpg_f_casual1.webp",
+    "태사자_samguk_kr_mmorpg_f_casual2.webp",
+    "태사자_samguk_kr_mmorpg_f_casual3.webp",
+    "태사자_samguk_kr_mmorpg_f_casual4.webp",
+    "태사자_samguk_kr_mmorpg_f_casual5.webp",
+    "태사자_fantasy_kr_mmorpg_f.webp",
+    "태사자_fantasy_kr_mmorpg_f_casual1.webp",
+    "태사자_fantasy_kr_mmorpg_f_casual2.webp",
+    "태사자_fantasy_kr_mmorpg_f_casual3.webp",
+    "태사자_fantasy_kr_mmorpg_f_casual4.webp",
+    "태사자_fantasy_kr_mmorpg_f_casual5.webp",
+    "태사자_mecha_kr_mmorpg_f.webp",
+    "태사자_mecha_kr_mmorpg_f_casual1.webp",
+    "태사자_mecha_kr_mmorpg_f_casual2.webp",
+    "태사자_mecha_kr_mmorpg_f_casual3.webp",
+    "태사자_mecha_kr_mmorpg_f_casual4.webp",
+    "태사자_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
