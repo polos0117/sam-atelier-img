@@ -1,0 +1,56 @@
+{
+  "atelier": "samguk",
+  "card": "유비",
+  "faction": "shu",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "kr_mmorpg",
+  "styleVersion": "v3",
+  "ref": "유비_fantasy_kr_mmorpg_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_roof",
+    "ofam": "everyday",
+    "item": "linen_dress",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "chin_rail",
+    "left": "rail",
+    "use": "",
+    "legs": "",
+    "gaze": "window",
+    "time": "sunset",
+    "expr": "gentle",
+    "preset": "window_chin",
+    "outfit": "a simple Western medieval navy-blue kirtle over an ivory chemise, leather waist belt",
+    "ofeat": [],
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3"
+  },
+  "file": "유비_fantasy_kr_mmorpg_f_casual3.webp",
+  "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Liu Bei of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases).\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a terrace on a castle wall overlooking the valley\nOutfit: a simple Western medieval navy-blue kirtle over an ivory chemise, leather waist belt\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand cups her chin, that elbow resting on the sill, her elbow on the sill.\nLEFT HAND: her own left hand rests on the railing.\nGAZE: she looks out of the window.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more bare shoulder and collarbone inside the crop; the crop stays exactly where CROP sets it and never moves down to show more; cover the chest\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+  "date": "2026-11-02",
+  "generation": {
+    "tool": "image_gen",
+    "mode": "built-in",
+    "endpoint": "images/edits",
+    "source_sha256": "bedb5ded5dbfdd7f255d682c7cb14b1fe12a893ce675d0187436a3f5ef88b004",
+    "output_sha256": "c1e64f3b9b419c35d1f7598ca8395419becfdafb09374b68ca1d1b4da3909311",
+    "size": "1024x1536",
+    "retries": [],
+    "qa": {
+      "reviewed": true,
+      "result": "accepted"
+    },
+    "ref_sha256": "c0532e9b9f2583a94223c2680c9aae6674bae23683478778415e83e1868f8dac"
+  }
+}
