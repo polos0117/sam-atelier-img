@@ -1,0 +1,112 @@
+{
+ "atelier": "samguk",
+ "card": "마초",
+ "faction": "shu",
+ "role": "general",
+ "world": "mecha",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ice_blue",
+   "impression": "glamorous",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "late_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "red_lip",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "round",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "antique_gold",
+   "hair": "ponytail",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "마초_mecha_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Ma Chao (마초), a general of Shu Han in the Romance of the Three Kingdoms — the splendid Ma Chao of Xiliang, the brocade-armored warrior who once sent Cao Cao fleeing. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Ma Chao to carry in her design and the scene: dazzling beauty and pride of the western frontier, silver armor trimmed with brocade and a lion-head belt, a white plume, vengeance for her slain family, fierce charges across the Liang steppe.\nFACTION — Shu Han. Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: late twenties — a settled, mature adult face with defined cheekbones; no wrinkles, folds or under-eye bags.\nSILHOUETTE: toned athletic-curvy, full-busted with rounded hips build; a long ponytail with center-parted bangs framing the face; antique-gold hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a glamorous, sultry allure; fair skin; round face; smaller, narrower eyes than usual anime proportion — soft droopy eyes, outer eye corners drooping downward; thick straight brows; upturned nose; full heart-shaped lips; ice-blue eyes; bold red lipstick.\nWORLD — MECHA: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. MECHA DESIGN: she is a female mecha personification, built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a silver dragon-tipped spear with a white tassel — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-02",
+ "record": "records/마초/mecha.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "마초",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_mmorpg",
+  "notes": {
+   "마초|mecha": {}
+  },
+  "looks": {
+   "마초|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "마초|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8b85a3cf0531f8eabde570328970c16b9055660c9315417c0ecc0fef0735115e",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "dbf2e18c8607cf536793972f885d8e13f1311a742e97d82a20010cafa7182894"
+  },
+  "retries": []
+ },
+ "execution": "sam-machao-3fab9cac",
+ "imported": "2026-11-02",
+ "qa": {
+  "reviewer": "gpt sam-machao-3fab9cac",
+  "image_sha256": "8b85a3cf0531f8eabde570328970c16b9055660c9315417c0ecc0fef0735115e",
+  "passed": false,
+  "observations": [
+   "1024×1536 확인.",
+   "녹백금 메카 장갑, 포니테일과 궤도도시 배경.",
+   "팔·손·다리 연결, 몸 옆 창대가 한 줄로 이어짐.",
+   "창끝 상단이 프레임 밖, 눈이 설계보다 크고 장식된 머리 형태."
+  ],
+  "cause": "장창 크기와 전체 프레임 공간 부족, 얼굴 기본 스타일 영향."
+ },
+ "acceptance": "user_approval_2026-11-02 — 묻지 않고 올리고 사용자가 올라간 뒤 본다(삼국지도 원소처럼 바로 올리게)",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
