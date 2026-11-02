@@ -1,0 +1,98 @@
+{
+ "atelier": "samguk",
+ "card": "장료",
+ "faction": "wei",
+ "role": "general",
+ "world": "mecha",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {
+  "custom": "A small crescent crest identifies her. HANDS: two natural human hands, five fingers each. Keep the crescent halberd entirely visible beside her, one continuous shaft, both ends inside the frame."
+ },
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "steel_blue",
+   "impression": "fierce",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "bare",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "square_soft",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "blue_black",
+   "hair": "short_crop",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "hangar",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "장료_mecha_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Zhang Liao (장료), a general of Cao Wei in the Romance of the Three Kingdoms — the terror of Hefei who shook a hundred thousand with eight hundred. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Zhang Liao to carry in her design and the scene: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\nFACTION — Cao Wei. Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; short cropped hair with center-parted bangs framing the face; blue-black hair with a cold indigo sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; fair skin; softly square face; moderately sized, realistically proportioned eyes — deep-set eyes, outer eye corners tilting sharply upward; low heavy brows; broad soft nose; small bow lips; steel-blue eyes; a bare, makeup-free face.\nWORLD — MECHA: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls. MECHA DESIGN: she is a female mecha personification, built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines.\nSETTING (this card): an orbital hangar bay open to space, frames racked behind her, stars and a blue planet below.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nEXTRA: A small crescent crest identifies her. HANDS: two natural human hands, five fingers each. Keep the crescent halberd entirely visible beside her, one continuous shaft, both ends inside the frame.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a crescent-bladed halberd — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-02",
+ "record": "records/장료/mecha.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "장료",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_mmorpg",
+  "notes": {
+   "장료|mecha": {
+    "custom": "A small crescent crest identifies her. HANDS: two natural human hands, five fingers each. Keep the crescent halberd entirely visible beside her, one continuous shaft, both ends inside the frame."
+   }
+  },
+  "looks": {
+   "장료|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "장료|mecha": {
+    "scene": "hangar",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "original_sha256": "ec914ed1b107173ce91fc0efc701c2f7339fc092bde635fc0abc21c10e0e2baa",
+  "webp_sha256": "4b7501754c51bff1f4afbb99955cab90661d1b16f8ed148685cda88a5621ce90",
+  "size": [
+   1024,
+   1536
+  ],
+  "retries": [],
+  "qa": {
+   "reviewed": true,
+   "notes": [
+    "양팔과 극 자루 연결 확인. 장식판은 기계 구조로 표현."
+   ]
+  }
+ }
+}

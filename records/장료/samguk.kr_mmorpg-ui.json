@@ -1,0 +1,98 @@
+{
+ "atelier": "samguk",
+ "card": "장료",
+ "faction": "wei",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {
+  "custom": "A small crescent crest identifies her. HANDS: two natural human hands, five fingers each. Keep the crescent halberd entirely visible beside her, one continuous shaft, both ends inside the frame."
+ },
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "steel_blue",
+   "impression": "fierce",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "bare",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "square_soft",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "blue_black",
+   "hair": "voluminous",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "hall",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "장료_samguk_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Zhang Liao (장료), a general of Cao Wei in the Romance of the Three Kingdoms — the terror of Hefei who shook a hundred thousand with eight hundred. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Zhang Liao to carry in her design and the scene: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\nFACTION — Cao Wei (魏). Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; voluminous hair with choppy uneven bangs; blue-black hair with a cold indigo sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; fair skin; softly square face; moderately sized, realistically proportioned eyes — wide almond eyes, outer eye corners tilting sharply upward; low heavy brows; broad soft nose; small bow lips; steel-blue eyes; a bare, makeup-free face.\nWORLD — THREE KINGDOMS ERA: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nSETTING (this card): inside a lacquered palace hall at Xuchang, red pillars, navy silk hangings and bronze braziers.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nEXTRA: A small crescent crest identifies her. HANDS: two natural human hands, five fingers each. Keep the crescent halberd entirely visible beside her, one continuous shaft, both ends inside the frame.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a crescent-bladed halberd — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 張.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-02",
+ "record": "records/장료/samguk.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "장료",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_mmorpg",
+  "notes": {
+   "장료|samguk": {
+    "custom": "A small crescent crest identifies her. HANDS: two natural human hands, five fingers each. Keep the crescent halberd entirely visible beside her, one continuous shaft, both ends inside the frame."
+   }
+  },
+  "looks": {
+   "장료|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "장료|samguk": {
+    "scene": "hall",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "original_sha256": "b5d73b13c5ac5693c0d334514694cb96e7b120e52f1d5f2c5dbbaba7875926cd",
+  "webp_sha256": "4332c4b57339ca4e191bd5f0459117351822fe164ade996fa96480f2853a34a1",
+  "size": [
+   1024,
+   1536
+  ],
+  "retries": [],
+  "qa": {
+   "reviewed": true,
+   "notes": [
+    "극 자루 연결과 양팔 확인. 극 날끝 일부 상단 crop."
+   ]
+  }
+ }
+}
