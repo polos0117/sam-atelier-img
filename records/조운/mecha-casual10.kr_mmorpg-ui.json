@@ -1,0 +1,85 @@
+{
+ "atelier": "samguk",
+ "card": "조운",
+ "faction": "shu",
+ "slot": "casual10",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "ref": "조운_mecha_kr_mmorpg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "fx_circus",
+  "ofam": "subculture",
+  "item": "gyaru",
+  "posture": "stand",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "expr": "mildly_annoyed",
+  "preset": "camera_shot",
+  "prop": "0",
+  "custom": "The spear is ONE straight unbroken shaft from butt cap to blade: she holds it diagonally in front of her body with both hands, the whole shaft visible between and beyond her hands — it never passes behind her torso, hip or arm, and the parts above and below her hands line up on one straight line.",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "조운_mecha_kr_mmorpg_f_casual10.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhao Yun of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — calm, flawless courage, gleaming silver armor with white plumes, cutting through a hundred thousand enemies at Changban to save the infant heir, a body made all of courage, quiet modesty — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases).\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSETTING: a stylised stage, editorial or fantasy set, not bound to a real year — still one real adult woman in a believable space, no creatures.\n\nSCENE (chosen):\nPlace: a circus tent ring under a striped canopy\nOutfit: gyaru — a bodycon mini dress, platform heels, long nail art and layered accessories\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a silver dragon-crested spear in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nSIGNATURE ITEM SHAPE: it is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nLEGS: weight even on both legs.\nEXPRESSION: inner brows drawn together, one eye slightly narrowed, mouth pressed flat to one side.\nNote: The spear is ONE straight unbroken shaft from butt cap to blade: she holds it diagonally in front of her body with both hands, the whole shaft visible between and beyond her hands — it never passes behind her torso, hip or arm, and the parts above and below her hands line up on one straight line.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-02",
+ "record": "records/조운/mecha-casual10.kr_mmorpg-ui.json",
+ "generation": {
+  "tool": "claude",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": "1024x1536",
+  "quality": "medium",
+  "source_sha256": "03fb331d8e945c868be50cabc805a685c494fdff3c2023931f9641c4ade23ceb",
+  "ref_sha256": "8a4808d0f3a5172ddf79f8007823f4797d12334c6aa744abfcf7685d80f5b1be",
+  "usage": {
+   "input_tokens": 2921,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1385
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 3264
+  },
+  "seconds": 22.151,
+  "retries": [],
+  "plan": "node tools/casual-plan.cjs 조운 --world all --fresh --seed 5 — 옛 묶음은 그대로 두고 더한 새 묶음(사용자 「대체하는건 아니고, 추가로」), 세계 셋 · 옛 묶음과 같은 장소 · 구도 없음",
+  "custom_note": {
+   "text": "The spear is ONE straight unbroken shaft from butt cap to blade: she holds it diagonally in front of her body with both hands, the whole shaft visible between and beyond her hands — it never passes behind her torso, hip or arm, and the parts above and below her hands line up on one straight line.",
+   "why": "사용자 「조운 메카4 창이 또 끊겼어」 — 창대가 몸 뒤로 지나가며 위아래가 어긋났다 (tools/prompt-pack.cjs casual.mecha-casual10.custom)"
+  },
+  "redo": {
+   "previous_source_sha256": "0eb06921f4cfe03a7d75a0bc5d9773deae5705993fb685c5ce439f81756ed65b",
+   "why": "사용자 「조운 메카4 창이 또 끊겼어」 — 창대가 몸 뒤로 지나가며 위아래가 어긋났다"
+  }
+ },
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "accepted",
+  "date": "2026-11-02",
+  "note": "「응 올려줘」 — 조운 메카 casual10(창 끊김) · 하후돈 무협 casual10(등 뒤 칼)은 지적 뒤 다시 그린 것"
+ },
+ "source": "claude session — images/edits, 참고 그림 조운_mecha_kr_mmorpg_f.webp"
+}
