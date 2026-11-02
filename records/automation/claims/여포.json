@@ -1,0 +1,33 @@
+{
+ "key": "여포",
+ "runs": [
+  {
+   "key": "여포",
+   "execution": "sam-lvbu-diaochan-60b9",
+   "status": "working",
+   "claimed_at": "2026-11-02T10:14:40.746Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "여포_samguk_kr_mmorpg_f.webp",
+    "여포_samguk_kr_mmorpg_f_casual1.webp",
+    "여포_samguk_kr_mmorpg_f_casual2.webp",
+    "여포_samguk_kr_mmorpg_f_casual3.webp",
+    "여포_samguk_kr_mmorpg_f_casual4.webp",
+    "여포_samguk_kr_mmorpg_f_casual5.webp",
+    "여포_fantasy_kr_mmorpg_f.webp",
+    "여포_fantasy_kr_mmorpg_f_casual1.webp",
+    "여포_fantasy_kr_mmorpg_f_casual2.webp",
+    "여포_fantasy_kr_mmorpg_f_casual3.webp",
+    "여포_fantasy_kr_mmorpg_f_casual4.webp",
+    "여포_fantasy_kr_mmorpg_f_casual5.webp",
+    "여포_mecha_kr_mmorpg_f.webp",
+    "여포_mecha_kr_mmorpg_f_casual1.webp",
+    "여포_mecha_kr_mmorpg_f_casual2.webp",
+    "여포_mecha_kr_mmorpg_f_casual3.webp",
+    "여포_mecha_kr_mmorpg_f_casual4.webp",
+    "여포_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
