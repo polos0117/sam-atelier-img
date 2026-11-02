@@ -4,7 +4,7 @@
   {
    "key": "제갈량",
    "execution": "sam-zhugeliang-275d",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T12:07:04.780Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -27,7 +27,9 @@
     "제갈량_mecha_kr_mmorpg_f_casual3.webp",
     "제갈량_mecha_kr_mmorpg_f_casual4.webp",
     "제갈량_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T12:41:40.763Z",
+   "done_by": "sam-zhugeliang-275d"
   }
  ]
 }
