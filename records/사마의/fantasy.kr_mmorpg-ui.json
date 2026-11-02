@@ -1,0 +1,63 @@
+{
+  "atelier": "samguk",
+  "card": "사마의",
+  "faction": "wei",
+  "role": "strategist",
+  "world": "fantasy",
+  "style": "kr_mmorpg",
+  "styleVersion": "v3",
+  "notes": {
+    "custom": "HANDS: two natural human hands, five fingers each; exactly two arms, each continuously connected from its own shoulder through elbow and wrist. Natural neck and adult proportions. Keep both hands visibly readable. Her wolf-glance is an expression of alert intelligence; keep neck rotation natural and moderate, no literal animal or extreme head twist."
+  },
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "violet",
+      "age": "early_30s",
+      "impression": "cool",
+      "skin_tone": "porcelain",
+      "eye_size": "small",
+      "eye_tilt": "up",
+      "mark": "dark_lip",
+      "expr": "cold_smile",
+      "brows": "arched_thin",
+      "nose": "aquiline",
+      "lips": "thin_long",
+      "face_shape": "diamond",
+      "eyes": "monolid_long"
+    },
+    "silhouette": {
+      "body": "tall_curvy",
+      "hair_color": "jet_black",
+      "hair": "side_swept",
+      "bangs": "one_eye"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+  },
+  "file": "사마의_fantasy_kr_mmorpg_f.webp",
+  "prompt": "CONCEPT: a female personification of Sima Yi (사마의), a strategist of Cao Wei in the Romance of the Three Kingdoms — the patient wolf of Wei, the strategist whose house would rise to found Jin. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Sima Yi to carry in her design and the scene: cunning patience and endurance, the wolf-glance — able to look straight behind her over her shoulder, feigning illness to outwait rivals, cold calculation behind courtesy, dark ambition.\nFACTION — Cao Wei. Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: early thirties — a poised, mature face with defined cheekbones and jaw; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; long side-swept hair with long bangs falling over one eye; glossy jet-black hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a cool, aloof beauty; porcelain-pale skin; diamond-shaped face; smaller, narrower eyes than usual anime proportion — long monolid eyes, outer eye corners tilting sharply upward; thin arched brows; aquiline nose; thin long lips; pale violet eyes; dark berry lipstick.\nWORLD — MEDIEVAL FANTASY: a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. COSTUME (medieval fantasy): an archmage-strategist's robes — layered robes with runic embroidery, a high collar, a circlet, a staff or a grimoire, star-chart motifs. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, subtle magical glow along the patterns. Her Three Kingdoms origin shows only through her signature item, her colours and her bearing — her outfit is Western: no wrap-collar robes, no wide hanfu sleeves, no flowing Chinese-style robe over armor, no East-Asian armor, no machinery, no modern material. The setting is Western European medieval — stone castles, Romanesque or Gothic architecture, European mountains, forests and towns; no Chinese architecture, no pagodas or curved tiled roofs, no hanzi on banners. LIGHT: natural daylight or the world's own magical glow, unless TIME & WEATHER says otherwise. Celestial ornament: feather-and-gold wing-shaped ornaments at the shoulders or back, a translucent gauze overskirt, a jewelled circlet.\nMOOD: serene celestial key art — pastel sky light, a soft halo of light behind her, floating golden light particles and drifting feathers.\nEXPOSURE (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume WORLD describes, material and palette.\nEXTRA: HANDS: two natural human hands, five fingers each; exactly two arms, each continuously connected from its own shoulder through elbow and wrist. Natural neck and adult proportions. Keep both hands visibly readable. Her wolf-glance is an expression of alert intelligence; keep neck rotation natural and moderate, no literal animal or extreme head twist.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a black feather fan — she holds or carries it, drawn at full scale, in the form this WORLD gives it.\nEXPRESSION: mouth smiling while the eyes stay flat and unsmiling, brows level, gaze direct and unwarm.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+  "date": "2026-11-02",
+  "generation": {
+    "tool": "image_gen",
+    "mode": "built-in",
+    "endpoint": "images/generations",
+    "source_sha256": "ef779f028f50046e1276742fa723c46c0d4ade811d1cd947b12fa1080d67d72a",
+    "output_sha256": "129d1c7ed7dfbbadc39bd8f86162797516d3d2ecff0cd27cdfe2b5c158433356",
+    "size": "1024x1536",
+    "retries": [],
+    "qa": {
+      "reviewed": true,
+      "result": "accepted"
+    }
+  }
+}
