@@ -1,0 +1,33 @@
+{
+ "key": "서서",
+ "runs": [
+  {
+   "key": "서서",
+   "execution": "sam-xushu-f94d-20261103",
+   "status": "working",
+   "claimed_at": "2026-11-02T23:16:52.162Z",
+   "date_kst": "2026-11-03",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "서서_samguk_kr_mmorpg_f.webp",
+    "서서_samguk_kr_mmorpg_f_casual1.webp",
+    "서서_samguk_kr_mmorpg_f_casual2.webp",
+    "서서_samguk_kr_mmorpg_f_casual3.webp",
+    "서서_samguk_kr_mmorpg_f_casual4.webp",
+    "서서_samguk_kr_mmorpg_f_casual5.webp",
+    "서서_fantasy_kr_mmorpg_f.webp",
+    "서서_fantasy_kr_mmorpg_f_casual1.webp",
+    "서서_fantasy_kr_mmorpg_f_casual2.webp",
+    "서서_fantasy_kr_mmorpg_f_casual3.webp",
+    "서서_fantasy_kr_mmorpg_f_casual4.webp",
+    "서서_fantasy_kr_mmorpg_f_casual5.webp",
+    "서서_mecha_kr_mmorpg_f.webp",
+    "서서_mecha_kr_mmorpg_f_casual1.webp",
+    "서서_mecha_kr_mmorpg_f_casual2.webp",
+    "서서_mecha_kr_mmorpg_f_casual3.webp",
+    "서서_mecha_kr_mmorpg_f_casual4.webp",
+    "서서_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
