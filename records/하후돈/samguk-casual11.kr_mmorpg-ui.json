@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "하후돈",
+ "faction": "wei",
+ "slot": "casual11",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "ref": "하후돈_samguk_kr_mmorpg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_wall",
+  "ofam": "homewear",
+  "item": "knit_dress_home",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "",
+  "gaze": "camera",
+  "expr": "sensual",
+  "preset": "wrap_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "하후돈_samguk_kr_mmorpg_f_casual11.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Xiahou Dun of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — lost her left eye to an arrow and swallowed it saying it was her parents' gift, a black leather eyepatch over her left eye, unshakable loyalty, a hot-blooded vanguard charge — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases).\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nERA: a present-day place where the Three Kingdoms is remembered — a museum of Han relics, a sword forge, a restored plank road, the Red Cliffs park, an old city wall, a Chengdu teahouse, the Wuhou Shrine, a riverside pavilion tower, a lantern-lit old street or a hanfu photo studio.\n\nSCENE (chosen):\nPlace: the top of a restored ancient city wall, a crenellated parapet with a waist-high rail, a watchtower and the old town roofs below\nOutfit: a soft body-hugging knit dress\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a heavy broad-bladed podao saber in both hands in front of her — her own right hand holds one side, her own left hand holds the other side.\nSIGNATURE ITEM SHAPE: it is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more bare shoulder and collarbone inside the crop; the crop stays exactly where CROP sets it and never moves down to show more; cover the chest\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-02",
+ "record": "records/하후돈/samguk-casual11.kr_mmorpg-ui.json",
+ "generation": {
+  "tool": "claude",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": "1024x1536",
+  "quality": "medium",
+  "source_sha256": "c852e25002108323ee2cd51d6c16ec907e818b0b4e5f1515080bd25e4e21ef9d",
+  "ref_sha256": "bb004c94d845bedc0f83d6acdafd4760d5f04ad1bc926f07a61862bbc0d55667",
+  "usage": {
+   "input_tokens": 3011,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1475
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 3354
+  },
+  "seconds": 20.665,
+  "retries": [
+   {
+    "status": 400,
+    "why": "safety_violations=[sexual]",
+    "plan": "current",
+    "exposure": "bold"
+   }
+  ],
+  "plan": "node tools/casual-plan.cjs 하후돈 --world all --fresh --seed 5 — 옛 묶음은 그대로 두고 더한 새 묶음(사용자 「대체하는건 아니고, 추가로」), 세계 셋 · 옛 묶음과 같은 장소 · 구도 없음",
+  "replanned": {
+   "why": "사용자 「등뒤로 칼을 들고 있는데 저 자세는 불가능해」 — 어깨 너머 돌아보기 + 얼굴 옆 무기 조합. 무기를 들 수 있는 가까운 컷 자세가 다른 세계에서 다 쓰여 10 · 11 을 함께 다시 짰다 (tools/casual-plan.cjs --slots, seed 91)",
+   "previous_images_sha256": [
+    "20acbf302d70ced863b65c265222214f4c0cbb528b8b754436b21cf0c872539c"
+   ],
+   "previous_scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "home_balcony",
+    "ofam": "retro",
+    "item": "nineties_slip",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "with_body",
+    "camera": "low",
+    "right": "chin_both",
+    "left": "chin_both",
+    "use": "",
+    "legs": "feet_up",
+    "gaze": "camera",
+    "expr": "mildly_annoyed",
+    "preset": "lie_front_full",
+    "prop": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+   },
+   "previous_prompt_sha256": "acc61f670ccc2b04c9b4db8608b0ed81c0fd9e840f18b4b1fd20388024bbba22"
+  }
+ },
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "accepted",
+  "date": "2026-11-02",
+  "note": "「응 올려줘」 — 조운 메카 casual10(창 끊김) · 하후돈 무협 casual10(등 뒤 칼)은 지적 뒤 다시 그린 것"
+ },
+ "source": "claude session — images/edits, 참고 그림 하후돈_samguk_kr_mmorpg_f.webp"
+}
