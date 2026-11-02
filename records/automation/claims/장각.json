@@ -1,0 +1,33 @@
+{
+ "key": "장각",
+ "runs": [
+  {
+   "key": "장각",
+   "execution": "sam-zhangjiao-4ec2",
+   "status": "working",
+   "claimed_at": "2026-11-02T21:04:50.704Z",
+   "date_kst": "2026-11-03",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "장각_samguk_kr_mmorpg_f.webp",
+    "장각_samguk_kr_mmorpg_f_casual1.webp",
+    "장각_samguk_kr_mmorpg_f_casual2.webp",
+    "장각_samguk_kr_mmorpg_f_casual3.webp",
+    "장각_samguk_kr_mmorpg_f_casual4.webp",
+    "장각_samguk_kr_mmorpg_f_casual5.webp",
+    "장각_fantasy_kr_mmorpg_f.webp",
+    "장각_fantasy_kr_mmorpg_f_casual1.webp",
+    "장각_fantasy_kr_mmorpg_f_casual2.webp",
+    "장각_fantasy_kr_mmorpg_f_casual3.webp",
+    "장각_fantasy_kr_mmorpg_f_casual4.webp",
+    "장각_fantasy_kr_mmorpg_f_casual5.webp",
+    "장각_mecha_kr_mmorpg_f.webp",
+    "장각_mecha_kr_mmorpg_f_casual1.webp",
+    "장각_mecha_kr_mmorpg_f_casual2.webp",
+    "장각_mecha_kr_mmorpg_f_casual3.webp",
+    "장각_mecha_kr_mmorpg_f_casual4.webp",
+    "장각_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
