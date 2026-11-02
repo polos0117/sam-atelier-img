@@ -1,0 +1,126 @@
+{
+ "atelier": "samguk",
+ "card": "손상향",
+ "faction": "wu",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "ref": "손상향_mecha_kr_mmorpg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_rooftop",
+  "ofam": "homewear",
+  "item": "sleep_shirt",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "glass_hold",
+  "legs": "",
+  "gaze": "at_prop",
+  "expr": "serious",
+  "preset": "counter_cup",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "손상향_mecha_kr_mmorpg_f_casual5.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Sun Shangxiang of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a martial princess who keeps armed maidservants, bow and blades always at hand, bright tomboyish spirit, the sister of the Sun clan, a wedding across enemy lines — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of bladed chakram rings) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases).\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a city rooftop party under string lights\nOutfit: a loose off-shoulder sleep shirt\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on the railing.\nPROP: with her own right hand she holds a cocktail glass by the stem at chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: level lowered brow, steady unblinking eyes, mouth closed in a straight line, jaw set.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more bare shoulder and collarbone inside the crop; the crop stays exactly where CROP sets it and never moves down to show more; cover the chest\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-02",
+ "record": "records/손상향/mecha-casual5.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "손상향",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_mmorpg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "손상향": {
+    "era": "now",
+    "place": "night_rooftop",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "counter_cup",
+    "use": "glass_hold",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "sleep_shirt",
+    "expr": "serious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f830d6de2ca4eeb21cc6caf4c3b306411d22b5efca11f98936c6818b9ceeff02",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "5560d11888e1e9664d31c534cfacc6eab2bddbfe51ef82f73dc6b50e1cb5d0cf"
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "generated",
+    "exposure": "bold"
+   }
+  ],
+  "ref_sha256": "c8e985f1b52a5f223c6946545c51f5a357090b9423d71763f987836bfbaad1d0"
+ },
+ "execution": "sam-sunshangxiang-515e",
+ "imported": "2026-11-03",
+ "acceptance": "user_approval_2026-11-02 — 묻지 않고 올리고 사용자가 올라간 뒤 본다(삼국지도 원소처럼 바로 올리게)",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt-sam-sunshangxiang-515e",
+  "image_sha256": "f830d6de2ca4eeb21cc6caf4c3b306411d22b5efca11f98936c6818b9ceeff02",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 원본을 직접 확인.",
+   "주인공의 머리 하나와 관찰 가능한 팔·손의 연결에서 추가 팔다리는 보이지 않음.",
+   "워터마크와 테두리는 보이지 않음.",
+   "해당 세계 기준 PNG를 직접 첨부하여 생성. 붉은 머리 형태·호박색 눈·주근깨가 이어짐.",
+   "손에 든 원형 무기는 없으며 환검 모티프는 작은 장신구로 표현됨.",
+   "옥상 파티 배경에 여러 사람이 보인다."
+  ],
+  "cause": "파티 장소 묘사가 ONE FIGURE ONLY 지시보다 강하게 반영됨."
+ }
+}
