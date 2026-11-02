@@ -1,0 +1,33 @@
+{
+ "key": "곽가",
+ "runs": [
+  {
+   "key": "곽가",
+   "execution": "sam-guojia-20261103-42b6",
+   "status": "working",
+   "claimed_at": "2026-11-02T23:55:46.670Z",
+   "date_kst": "2026-11-03",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "곽가_samguk_kr_mmorpg_f.webp",
+    "곽가_samguk_kr_mmorpg_f_casual1.webp",
+    "곽가_samguk_kr_mmorpg_f_casual2.webp",
+    "곽가_samguk_kr_mmorpg_f_casual3.webp",
+    "곽가_samguk_kr_mmorpg_f_casual4.webp",
+    "곽가_samguk_kr_mmorpg_f_casual5.webp",
+    "곽가_fantasy_kr_mmorpg_f.webp",
+    "곽가_fantasy_kr_mmorpg_f_casual1.webp",
+    "곽가_fantasy_kr_mmorpg_f_casual2.webp",
+    "곽가_fantasy_kr_mmorpg_f_casual3.webp",
+    "곽가_fantasy_kr_mmorpg_f_casual4.webp",
+    "곽가_fantasy_kr_mmorpg_f_casual5.webp",
+    "곽가_mecha_kr_mmorpg_f.webp",
+    "곽가_mecha_kr_mmorpg_f_casual1.webp",
+    "곽가_mecha_kr_mmorpg_f_casual2.webp",
+    "곽가_mecha_kr_mmorpg_f_casual3.webp",
+    "곽가_mecha_kr_mmorpg_f_casual4.webp",
+    "곽가_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
