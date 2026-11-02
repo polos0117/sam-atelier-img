@@ -1,0 +1,33 @@
+{
+ "key": "초선",
+ "runs": [
+  {
+   "key": "초선",
+   "execution": "sam-lvbu-diaochan-60b9",
+   "status": "working",
+   "claimed_at": "2026-11-02T10:47:17.528289+00:00",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "초선_fantasy_kr_mmorpg_f_casual3.webp",
+    "초선_mecha_kr_mmorpg_f_casual1.webp",
+    "초선_fantasy_kr_mmorpg_f_casual5.webp",
+    "초선_fantasy_kr_mmorpg_f.webp",
+    "초선_fantasy_kr_mmorpg_f_casual4.webp",
+    "초선_fantasy_kr_mmorpg_f_casual2.webp",
+    "초선_samguk_kr_mmorpg_f.webp",
+    "초선_mecha_kr_mmorpg_f_casual4.webp",
+    "초선_samguk_kr_mmorpg_f_casual2.webp",
+    "초선_samguk_kr_mmorpg_f_casual4.webp",
+    "초선_mecha_kr_mmorpg_f_casual3.webp",
+    "초선_samguk_kr_mmorpg_f_casual3.webp",
+    "초선_samguk_kr_mmorpg_f_casual1.webp",
+    "초선_mecha_kr_mmorpg_f_casual2.webp",
+    "초선_fantasy_kr_mmorpg_f_casual1.webp",
+    "초선_mecha_kr_mmorpg_f.webp",
+    "초선_samguk_kr_mmorpg_f_casual5.webp",
+    "초선_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
