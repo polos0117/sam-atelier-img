@@ -4,7 +4,7 @@
   {
    "key": "초선",
    "execution": "sam-lvbu-diaochan-60b9",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T10:47:17.528289+00:00",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -27,7 +27,9 @@
     "초선_mecha_kr_mmorpg_f.webp",
     "초선_samguk_kr_mmorpg_f_casual5.webp",
     "초선_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T12:00:55.234Z",
+   "done_by": "sam-lvbu-diaochan-60b9"
   }
  ]
 }
