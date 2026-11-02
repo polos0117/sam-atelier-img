@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "제갈량",
+ "faction": "shu",
+ "role": "strategist",
+ "world": "mecha",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "gold",
+   "age": "late_20s",
+   "impression": "elegant",
+   "skin_tone": "porcelain",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "expr": "half_smile",
+   "brows": "arched_thin",
+   "nose": "straight_narrow",
+   "lips": "small_bow",
+   "face_shape": "diamond",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair_color": "ink_green",
+   "hair": "long_wavy",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "제갈량_mecha_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Zhuge Liang (제갈량), a strategist of Shu Han in the Romance of the Three Kingdoms — the Sleeping Dragon, chancellor and master strategist of Shu. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Zhuge Liang to carry in her design and the scene: a white crane-feather fan, serene foresight, the Eight Trigrams battle formation, borrowing the east wind and arrows with straw boats, wooden oxen and gliding horses, reading the stars.\nFACTION — Shu Han. Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: late twenties — a settled, mature adult face with defined cheekbones; no wrinkles, folds or under-eye bags.\nSILHOUETTE: slender-limbed yet full-busted with rounded hips and a narrow waist build; long wavy hair with curtain bangs; ink-black hair with a deep green sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — an elegant, refined presence; porcelain-pale skin; diamond-shaped face; moderately sized, realistically proportioned eyes — long monolid eyes, outer eye corners tilting sharply upward; thin arched brows; straight narrow nose; small bow lips; gold eyes; sharp winged eyeliner.\nWORLD — MECHA: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. MECHA DESIGN: she is a female mecha personification, built as a tactical electronic-warfare mecha frame — slender plating, a sensor-array head unit, holographic map projectors and floating drone bits; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a white crane-feather fan — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: one mouth corner lifted higher than the other, lips closed, gaze slightly to the side.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-02",
+ "record": "records/제갈량/mecha.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "제갈량",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_mmorpg",
+  "notes": {
+   "제갈량|mecha": {}
+  },
+  "looks": {
+   "제갈량|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "제갈량|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f37240901f99d26990639cc4e4c3ac0a2de5c4cd0bb9d3be5b483b8062f68c9a",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "success",
+    "exposure": "bold"
+   }
+  ]
+ },
+ "execution": "sam-zhugeliang-275d",
+ "imported": "2026-11-02",
+ "qa": {
+  "reviewer": "gpt sam-zhugeliang-275d",
+  "image_sha256": "f37240901f99d26990639cc4e4c3ac0a2de5c4cd0bb9d3be5b483b8062f68c9a",
+  "webp_sha256": "e88d41fa5f32d9424db1b6cd150006cf36218cf98026611d891695fe87dbb62a",
+  "passed": true,
+  "observations": [
+   "1024×1536 / 縦2:3; no logo, watermark or frame.",
+   "미래 궤도 도시·녹색/흰색 장갑·기계 백우선·홀로그램 전술도 반영.",
+   "물결 머리·각진 얼굴 인상, 양팔과 양손·다리 연결, 전신과 발 여백 확인."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-02 — 묻지 않고 올리고 사용자가 올라간 뒤 본다(「삼국지도 원소처럼 바로 올리게 바꿔줘」)",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

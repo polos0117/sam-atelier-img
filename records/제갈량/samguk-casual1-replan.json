@@ -1,0 +1,42 @@
+{
+ "card": "제갈량",
+ "world": "samguk",
+ "seed": 1201,
+ "tree": 2,
+ "style": "kr_mmorpg",
+ "required": "nation · roleplay",
+ "slots": [
+  1
+ ],
+ "fresh": false,
+ "cuts": [
+  {
+   "n": 1,
+   "era": "heritage",
+   "place": "heritage_lantern",
+   "ofam": "roleplay",
+   "treeV": 2,
+   "prop": "",
+   "preset": "floor_horizon",
+   "use": "",
+   "posture": "sit_floor",
+   "support": "none",
+   "frame": "environmental",
+   "body": "side",
+   "head": "with_body",
+   "camera": "high",
+   "right": "lap",
+   "left": "floor_brace",
+   "legs": "cross_legged",
+   "gaze": "horizon",
+   "item": "santa_party",
+   "expr": "laughing",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "aspect": "2:3",
+   "unlocked": []
+  }
+ ]
+}

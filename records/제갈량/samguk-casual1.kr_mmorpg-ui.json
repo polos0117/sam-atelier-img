@@ -1,0 +1,165 @@
+{
+ "atelier": "samguk",
+ "card": "제갈량",
+ "faction": "shu",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "ref": "제갈량_samguk_kr_mmorpg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_lantern",
+  "ofam": "roleplay",
+  "item": "santa_party",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "cross_legged",
+  "gaze": "horizon",
+  "expr": "laughing",
+  "preset": "floor_horizon",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "제갈량_samguk_kr_mmorpg_f_casual1.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhuge Liang of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a white crane-feather fan, serene foresight, the Eight Trigrams battle formation, borrowing the east wind and arrows with straw boats, wooden oxen and gliding horses, reading the stars, white Daoist robes with a crane-feather cloak — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases).\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: a present-day place where the Three Kingdoms is remembered — a museum of Han relics, a sword forge, a restored plank road, the Red Cliffs park, an old city wall, a Chengdu teahouse, the Wuhou Shrine, a riverside pavilion tower, a lantern-lit old street or a hanfu photo studio.\n\nSCENE (chosen):\nPlace: a lantern-lit old-town street at night, red paper lanterns, snack stalls and carved wooden shopfronts\nOutfit: a Christmas party costume — a fur-trimmed red velvet mini dress, a Santa hat and boots\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: eyes squeezed nearly shut, mouth open wide with teeth showing, cheeks raised high.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-02",
+ "record": "records/제갈량/samguk-casual1.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "제갈량",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_mmorpg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "제갈량": {
+    "era": "heritage",
+    "place": "heritage_lantern",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_horizon",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "item": "santa_party",
+    "expr": "laughing",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1c996942c80004b0706f2709f28484edc0b0d3e818b206adfc994b0ecd66003e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "moderation_blocked",
+    "moderation_stage": "output",
+    "category": "sexual",
+    "exposure": "bold",
+    "request_id": "04f7d1dd-d89c-422b-9444-8dccea370eb4"
+   },
+   {
+    "n": 2,
+    "status": "moderation_blocked",
+    "moderation_stage": "output",
+    "category": "sexual",
+    "exposure": "bold",
+    "request_id": "e995b74c-77ae-4279-84b6-33ec434a08be"
+   },
+   {
+    "n": 3,
+    "status": "moderation_blocked",
+    "moderation_stage": "output",
+    "category": "sexual",
+    "exposure": "moderate",
+    "request_id": "9cd835dc-a2ed-424b-9ed9-d62751a0ac08"
+   },
+   {
+    "n": 4,
+    "status": "moderation_blocked",
+    "moderation_stage": "output",
+    "category": "sexual",
+    "exposure": "low",
+    "request_id": "6357ed14-9843-4160-94a7-5844bca18d7a"
+   },
+   {
+    "n": 5,
+    "status": "success_discarded",
+    "png_sha256": "544a9632385796bfd9f407a723bc4bf35d4631a1be24e74c6e18d3bfc952329c",
+    "reason": "Temporary record filenames were wrong, so planner did not see existing cuts; output did not satisfy full bundle constraints and was excluded."
+   },
+   {
+    "n": 6,
+    "status": "success",
+    "exposure": "bold"
+   }
+  ],
+  "ref_sha256": "6fdc658aa2f021b7f47cb043594be6d7ff641f1efdb546fa6054a0f36a4d087a",
+  "replan": {
+   "reason": "Four safety rejections, then planner generated an alternative roleplay scene; filename input error corrected before final selection.",
+   "plan": "samguk-casual1-replan.json"
+  }
+ },
+ "execution": "sam-zhugeliang-275d",
+ "imported": "2026-11-02",
+ "qa": {
+  "reviewer": "gpt sam-zhugeliang-275d",
+  "image_sha256": "1c996942c80004b0706f2709f28484edc0b0d3e818b206adfc994b0ecd66003e",
+  "webp_sha256": "5d1212e573925faa63da12987f015826cfd7b8b368f3165139dca25806a6c721",
+  "passed": false,
+  "observations": [
+   "1024×1536 / 縦2:3; no logo, watermark or frame.",
+   "크리스마스 차림·등불 옛거리·바닥에 앉기와 양손 연결 반영.",
+   "원거리 환경 컷보다 인물이 크게 잡히고, 완전 옆모습·먼 곳 시선 대신 위쪽을 보며 웃음."
+  ],
+  "cause": "Generated image deviates from SCENE / ANGLE / WARDROBE or world differentiation instructions as specified in observations; preserved for user review under IMAGE_AUTOMATION.md section 0."
+ },
+ "acceptance": "user_approval_2026-11-02 — 묻지 않고 올리고 사용자가 올라간 뒤 본다(「삼국지도 원소처럼 바로 올리게 바꿔줘」)",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
