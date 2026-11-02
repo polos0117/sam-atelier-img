@@ -1,0 +1,63 @@
+{
+  "atelier": "samguk",
+  "card": "하후돈",
+  "faction": "wei",
+  "role": "general",
+  "world": "samguk",
+  "style": "kr_mmorpg",
+  "styleVersion": "v3",
+  "notes": {
+    "custom": "HANDS: two natural human hands, five fingers each; exactly two arms, each continuously connected from its own shoulder through elbow and wrist. Natural neck and adult proportions. Keep both hands visibly readable. The old injury is fully healed and covered by a black leather eyepatch over her anatomical LEFT eye. No injury scene, no blood, no gore."
+  },
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "steel_blue",
+      "age": "late_20s",
+      "impression": "fierce",
+      "skin_tone": "warm_beige",
+      "eye_size": "small",
+      "eye_tilt": "up",
+      "mark": "scar",
+      "expr": "serious",
+      "brows": "angled_sharp",
+      "nose": "straight_narrow",
+      "lips": "thin_long",
+      "face_shape": "square_soft",
+      "eyes": "deep_set"
+    },
+    "silhouette": {
+      "body": "strong_curvy",
+      "hair_color": "jet_black",
+      "hair": "short_crop",
+      "bangs": "choppy"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+  },
+  "file": "하후돈_samguk_kr_mmorpg_f.webp",
+  "prompt": "CONCEPT: a female personification of Xiahou Dun (하후돈), a general of Cao Wei in the Romance of the Three Kingdoms — Cao Cao's fiercest general, who swallowed her own eye on the battlefield. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Xiahou Dun to carry in her design and the scene: lost her left eye to an arrow and swallowed it saying it was her parents' gift, a black leather eyepatch over her left eye, unshakable loyalty, a hot-blooded vanguard charge.\nFACTION — Cao Wei (魏). Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: late twenties — a settled, mature adult face with defined cheekbones; no wrinkles, folds or under-eye bags.\nSILHOUETTE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; short cropped hair with choppy uneven bangs; glossy jet-black hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; warm beige skin; softly square face; smaller, narrower eyes than usual anime proportion — deep-set eyes, outer eye corners tilting sharply upward; sharp angled brows; straight narrow nose; thin long lips; steel-blue eyes; a thin faint scar through one eyebrow.\nWORLD — THREE KINGDOMS ERA: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nEXTRA: HANDS: two natural human hands, five fingers each; exactly two arms, each continuously connected from its own shoulder through elbow and wrist. Natural neck and adult proportions. Keep both hands visibly readable. The old injury is fully healed and covered by a black leather eyepatch over her anatomical LEFT eye. No injury scene, no blood, no gore.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a heavy broad-bladed podao saber — she holds or carries it, drawn at full scale, in the form this WORLD gives it.\nEXPRESSION: level lowered brow, steady unblinking gaze, mouth closed in a straight line, jaw set.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 夏侯.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+  "date": "2026-11-02",
+  "generation": {
+    "tool": "image_gen",
+    "mode": "built-in",
+    "endpoint": "images/generations",
+    "source_sha256": "336ef41a4c1c1188f6b9c604e62d4926f2e5586e55125d1e40fed86c77169349",
+    "output_sha256": "bb004c94d845bedc0f83d6acdafd4760d5f04ad1bc926f07a61862bbc0d55667",
+    "size": "1024x1536",
+    "retries": [],
+    "qa": {
+      "reviewed": true,
+      "result": "accepted"
+    }
+  }
+}
