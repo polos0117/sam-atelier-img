@@ -98,7 +98,13 @@
     "exposure": "bold"
    }
   ],
-  "ref_sha256": "1576aeb4adf34d36e4f072903077600bf4af913d0880ccde8740bc13898a803c"
+  "ref_sha256": "1576aeb4adf34d36e4f072903077600bf4af913d0880ccde8740bc13898a803c",
+  "encoding_repair": {
+   "date": "2026-11-03",
+   "reason": "최초 WebP 저장 결과가 0바이트여서 보존된 동일 PNG를 메모리 버퍼에서 재인코딩하고 디코딩 확인",
+   "previous_webp_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "webp_sha256": "53ef66cc31eb4193bc9057354cf77091dbac9051567a92b4bd11602087eb86bd"
+  }
  },
  "execution": "sam-zhangjiao-4ec2",
  "imported": "2026-11-03",
