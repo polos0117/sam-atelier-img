@@ -4,7 +4,7 @@
   {
    "key": "주유",
    "execution": "sam-sunquan-zhouyu-9dbf",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T09:24:59.078Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -27,7 +27,9 @@
     "주유_mecha_kr_mmorpg_f_casual3.webp",
     "주유_mecha_kr_mmorpg_f_casual4.webp",
     "주유_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T09:57:15.984Z",
+   "done_by": "sam-sunquan-zhouyu-9dbf"
   }
  ]
 }
