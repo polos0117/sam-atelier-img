@@ -4,7 +4,7 @@
   {
    "key": "원소",
    "execution": "sam-yuanshao-f4a9-20261102",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-02T13:44:53.070Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -27,6 +27,30 @@
     "원소_mecha_kr_mmorpg_f_casual3.webp",
     "원소_mecha_kr_mmorpg_f_casual4.webp",
     "원소_mecha_kr_mmorpg_f_casual5.webp"
+   ],
+   "reason": "안전 필터 sexual 거절: 원본, 동일 재시도, moderate, low, 해당 칸 계획기 재계획 한 번까지 모두 거절. IMAGE_AUTOMATION 0·5절에 따라 생성 중단.",
+   "blocked_at": "2026-11-02T14:00:53.629175+00:00",
+   "generated_slots": [
+    "samguk",
+    "samguk-casual1",
+    "samguk-casual2",
+    "samguk-casual3",
+    "samguk-casual4",
+    "samguk-casual5",
+    "fantasy"
+   ],
+   "remaining_slots": [
+    "fantasy-casual1",
+    "fantasy-casual2",
+    "fantasy-casual3",
+    "fantasy-casual4",
+    "fantasy-casual5",
+    "mecha",
+    "mecha-casual1",
+    "mecha-casual2",
+    "mecha-casual3",
+    "mecha-casual4",
+    "mecha-casual5"
    ]
   }
  ]
