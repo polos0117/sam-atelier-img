@@ -1,0 +1,117 @@
+{
+  "atelier": "samguk",
+  "card": "주유",
+  "faction": "wu",
+  "role": "strategist",
+  "world": "samguk",
+  "style": "kr_mmorpg",
+  "styleVersion": "v3",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "gold",
+      "age": "mid_20s",
+      "impression": "glamorous",
+      "skin_tone": "porcelain",
+      "eye_size": "large",
+      "eye_tilt": "up",
+      "mark": "gloss",
+      "expr": "confident",
+      "brows": "arched_thin",
+      "nose": "small_button",
+      "lips": "small_bow",
+      "face_shape": "heart",
+      "eyes": "almond_wide"
+    },
+    "silhouette": {
+      "body": "hourglass",
+      "hair_color": "crimson",
+      "hair": "long_straight",
+      "bangs": "side_swept"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+  },
+  "file": "주유_samguk_kr_mmorpg_f.webp",
+  "prompt": "CONCEPT: a female personification of Zhou Yu (주유), a strategist of Eastern Wu in the Romance of the Three Kingdoms — the brilliant young commander of Wu who burned the fleet at the Red Cliffs. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Zhou Yu to carry in her design and the scene: a peerless musician — 'if the tune is wrong, she turns to look', youthful brilliance and pride, the fire attack at the Red Cliffs, crimson and gold, elegance on the battlefield.\nFACTION — Eastern Wu (吳). Palette: crimson red, gold, river teal, black lacquer.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: hourglass-figured — full bust and hips, distinctly narrow-waisted build; long straight hair with side-swept bangs; crimson-red hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a glamorous, sultry allure; porcelain-pale skin; heart-shaped face; large eyes — wide almond eyes, outer eye corners tilting sharply upward; thin arched brows; small button nose; small bow lips; gold eyes; glossy nude lips.\nWORLD — THREE KINGDOMS ERA: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. COSTUME (Three Kingdoms era): a strategist's scholar robes — flowing layered silk robes with wide sleeves, a scholar's guan cap or silk ribbon, a feather fan or bound bamboo scrolls, a jade pendant. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a jade xiao flute — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 吳 or 周.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+  "date": "2026-11-02",
+  "record": "records/주유/samguk.kr_mmorpg-ui.json",
+  "storage": {
+    "card": "주유",
+    "out": "world",
+    "world": "samguk",
+    "style": "kr_mmorpg",
+    "notes": {
+      "주유|samguk": {}
+    },
+    "looks": {
+      "주유|samguk": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "주유|samguk": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen",
+    "mode": "built-in",
+    "endpoint": "images/generations",
+    "source_sha256": "04f36794e41553f55c4fb9b310802cb52f7c8e9f9e6f1674264d3476a0b21696",
+    "output_sha256": "5c55b18bcc7d2dcb4807072bd393573e1b2e7bbefa1b37afa4101605d53efc10",
+    "size": [
+      1024,
+      1536
+    ],
+    "retries": [],
+    "qa": {
+      "reviewed": true,
+      "result": "accepted"
+    },
+    "png_sha256": "04f36794e41553f55c4fb9b310802cb52f7c8e9f9e6f1674264d3476a0b21696",
+    "webp": {
+      "quality": 92,
+      "method": 6
+    }
+  },
+  "execution": "sam-sunquan-zhouyu-9dbf",
+  "imported": "2026-11-02",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "04f36794e41553f55c4fb9b310802cb52f7c8e9f9e6f1674264d3476a0b21696",
+    "passed": true,
+    "observations": [
+      "1024×1536 세로 이미지, 파일 원본 및 WebP 해시 확인",
+      "세계에 맞춘 의상과 지정 헤어 적용; 옥퉁소 한 자루 연결 확인",
+      "팔·다리·손의 수와 연결을 시각 검수"
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-11-02 — AI 검수 후 추가 확인 없이 반영",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  }
+}
