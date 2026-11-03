@@ -68,7 +68,7 @@
   {
    "key": "진궁",
    "execution": "sam-chengong-redo-dde8d684",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-03T16:55:58.986913+00:00",
    "date_kst": "2026-11-04",
    "date_utc": "2026-11-03",
@@ -93,7 +93,20 @@
     "진궁_samguk_kr_mmorpg_f_casual4.webp",
     "진궁_samguk_kr_mmorpg_f_casual5.webp"
    ],
-   "approval": "사용자 2026-11-04 진궁 전체 재작업·교체 승인"
+   "approval": "사용자 2026-11-04 진궁 전체 재작업·교체 승인",
+   "done_at": "2026-11-03T17:23:56.737142+00:00",
+   "done_by": "sam-chengong-redo-dde8d684",
+   "completed": 18,
+   "qa_summary": {
+    "passed": 11,
+    "deviations_recorded": 7,
+    "anatomy_errors_observed": 0,
+    "moderation_adjusted_slots": [
+     "fantasy-casual1",
+     "mecha-casual2",
+     "mecha-casual5"
+    ]
+   }
   }
  ]
 }
