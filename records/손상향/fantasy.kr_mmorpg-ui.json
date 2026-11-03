@@ -16,24 +16,24 @@
  "design": {
   "face": {
    "eye_color": "amber",
-   "age": "early_20s",
-   "impression": "boyish",
-   "skin_tone": "golden_tan",
-   "eye_size": "large",
+   "age": "mid_20s",
+   "impression": "cool",
+   "skin_tone": "fair",
+   "eye_size": "medium",
    "eye_tilt": "up",
-   "mark": "freckles",
-   "expr": "playful",
-   "brows": "straight_thick",
-   "nose": "upturned",
-   "lips": "wide_smile",
-   "face_shape": "heart",
+   "mark": "winged_liner",
+   "expr": "confident",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "face_shape": "diamond",
    "eyes": "almond_wide"
   },
   "silhouette": {
    "body": "curvy_athletic",
    "hair_color": "flame_orange",
-   "hair": "twin_tails",
-   "bangs": "straight"
+   "hair": "long_straight",
+   "bangs": "none"
   }
  },
  "shot": {
@@ -43,8 +43,8 @@
   "expr": ""
  },
  "file": "손상향_fantasy_kr_mmorpg_f.webp",
- "prompt": "CONCEPT: a female personification of Sun Shangxiang (손상향), a general of Eastern Wu in the Romance of the Three Kingdoms — the bow-waist princess of Wu, a warrior princess who married Liu Bei. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Sun Shangxiang to carry in her design and the scene: a martial princess who keeps armed maidservants, bow and blades always at hand, bright tomboyish spirit, the sister of the Sun clan, a wedding across enemy lines.\nFACTION — Eastern Wu. Palette: crimson red, gold, river teal, black lacquer.\nAGE: about twenty — a fresh young-adult face; no facial lines.\nSILHOUETTE: toned athletic-curvy, full-busted with rounded hips build; twin tails with blunt straight bangs; flame-orange hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a boyish, mischievous tomboy energy; golden tan skin; heart-shaped face; large eyes — wide almond eyes, outer eye corners tilting sharply upward; thick straight brows; upturned nose; wide smiling mouth; amber eyes; a dusting of freckles across nose and cheeks.\nWORLD — MEDIEVAL FANTASY: a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water. COSTUME (medieval fantasy): a knight-champion's armor — articulated plate with a heraldic tabard in her faction's colours, a plumed helm or circlet, a battle cape, her weapon at hand. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, subtle magical glow along the patterns. Her Three Kingdoms origin shows only through her signature item, her colours and her bearing — her outfit is Western: no wrap-collar robes, no wide hanfu sleeves, no flowing Chinese-style robe over armor, no East-Asian armor, no machinery, no modern material. The setting is Western European medieval — stone castles, Romanesque or Gothic architecture, European mountains, forests and towns; no Chinese architecture, no pagodas or curved tiled roofs, no hanzi on banners. LIGHT: natural daylight or the world's own magical glow, unless TIME & WEATHER says otherwise. Celestial ornament: feather-and-gold wing-shaped ornaments at the shoulders or back, a translucent gauze overskirt, a jewelled circlet.\nMOOD: serene celestial key art — pastel sky light, a soft halo of light behind her, floating golden light particles and drifting feathers.\nEXPOSURE (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a pair of bladed chakram rings — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
- "date": "2026-11-02",
+ "prompt": "CONCEPT: a female personification of Sun Shangxiang (손상향), a general of Eastern Wu in the Romance of the Three Kingdoms — the bow-waist princess of Wu, a warrior princess who married Liu Bei. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Sun Shangxiang to carry in her design and the scene: a martial princess who keeps armed maidservants, bow and blades always at hand, the cool, haughty pride of the Sun clan's only daughter who looks down on any suitor, a wedding across enemy lines.\nFACTION — Eastern Wu. Palette: crimson red, gold, river teal, black lacquer.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: toned athletic-curvy, full-busted with rounded hips build; long straight hair with no bangs, forehead bare; flame-orange hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a cool, aloof beauty; fair skin; diamond-shaped face; moderately sized, realistically proportioned eyes — wide almond eyes, outer eye corners tilting sharply upward; sharp angled brows; straight narrow nose; thin long lips; amber eyes; sharp winged eyeliner.\nWORLD — MEDIEVAL FANTASY: a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water. COSTUME (medieval fantasy): a knight-champion's armor — articulated plate with a heraldic tabard in her faction's colours, a plumed helm or circlet, a battle cape, her weapon at hand. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, subtle magical glow along the patterns. Her Three Kingdoms origin shows only through her signature item, her colours and her bearing — her outfit is Western: no wrap-collar robes, no wide hanfu sleeves, no flowing Chinese-style robe over armor, no East-Asian armor, no machinery, no modern material. The setting is Western European medieval — stone castles, Romanesque or Gothic architecture, European mountains, forests and towns; no Chinese architecture, no pagodas or curved tiled roofs, no hanzi on banners. LIGHT: natural daylight or the world's own magical glow, unless TIME & WEATHER says otherwise. Celestial ornament: feather-and-gold wing-shaped ornaments at the shoulders or back, a translucent gauze overskirt, a jewelled circlet.\nMOOD: serene celestial key art — pastel sky light, a soft halo of light behind her, floating golden light particles and drifting feathers.\nEXPOSURE (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a pair of bladed chakram rings — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a composed, self-assured look, chin slightly raised.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-03",
  "record": "records/손상향/fantasy.kr_mmorpg-ui.json",
  "storage": {
   "card": "손상향",
@@ -75,45 +75,34 @@
   "scenes": {}
  },
  "generation": {
-  "tool": "image_gen.imagegen",
+  "tool": "claude",
+  "model": "gpt-image-2.5-sunburst",
   "endpoint": "images/generations",
-  "size": [
-   1024,
-   1536
-  ],
-  "png_sha256": "a757dd043874f11868c9498b1268d33b26ff7b5ee0256326db0788125757a0dc",
-  "webp": {
-   "quality": 90,
-   "method": 6,
-   "sha256": "a87dba9c402d8ce5b806fb4adc3731fa282ba7b709bf7db02c7147f1b381b88f"
+  "size": "1024x1536",
+  "quality": "medium",
+  "source_sha256": "930c90f049e2466bc523b48d2c63fc44c687775bf4a1372584d90a8e8de8f9cd",
+  "usage": {
+   "input_tokens": 1189,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1189
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1532
   },
-  "retries": [
-   {
-    "n": 1,
-    "status": "generated",
-    "exposure": "bold"
-   }
-  ]
+  "seconds": 14.815,
+  "retries": []
  },
- "execution": "sam-sunshangxiang-515e",
- "imported": "2026-11-03",
- "acceptance": "user_approval_2026-11-02 — 묻지 않고 올리고 사용자가 올라간 뒤 본다(삼국지도 원소처럼 바로 올리게)",
  "review": {
-  "reviewed": false,
+  "reviewed": true,
   "by": "user",
-  "result": "pending"
+  "result": "accepted",
+  "date": "2026-11-03",
+  "note": "「1번으로 해줘」 — 새 세계 그림 셋을 보고 교체"
  },
- "qa": {
-  "reviewer": "gpt-sam-sunshangxiang-515e",
-  "image_sha256": "a757dd043874f11868c9498b1268d33b26ff7b5ee0256326db0788125757a0dc",
-  "passed": true,
-  "observations": [
-   "1024×1536 세로 2:3 원본을 직접 확인.",
-   "주인공의 머리 하나와 관찰 가능한 팔·손의 연결에서 추가 팔다리는 보이지 않음.",
-   "워터마크와 테두리는 보이지 않음.",
-   "한 명의 성인 여성 전신과 두 발이 프레임 안에 있음.",
-   "삼국시대 갑주·서양 판타지 판금·미래 메카 중 고른 세계에 맞는 주 의상."
-  ],
-  "cause": ""
- }
+ "source": "claude session — images/generations, 기준 그림 없이"
 }

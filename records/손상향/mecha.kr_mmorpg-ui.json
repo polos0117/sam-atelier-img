@@ -16,18 +16,18 @@
  "design": {
   "face": {
    "eye_color": "amber",
-   "age": "early_20s",
-   "impression": "boyish",
-   "skin_tone": "golden_tan",
-   "eye_size": "large",
+   "age": "mid_20s",
+   "impression": "cool",
+   "skin_tone": "fair",
+   "eye_size": "medium",
    "eye_tilt": "up",
-   "mark": "freckles",
-   "expr": "playful",
-   "brows": "straight_thick",
-   "nose": "upturned",
-   "lips": "wide_smile",
-   "face_shape": "oval",
-   "eyes": "narrow_upturned"
+   "mark": "winged_liner",
+   "expr": "confident",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "thin_long",
+   "face_shape": "long",
+   "eyes": "monolid_long"
   },
   "silhouette": {
    "body": "curvy_athletic",
@@ -43,8 +43,8 @@
   "expr": ""
  },
  "file": "손상향_mecha_kr_mmorpg_f.webp",
- "prompt": "CONCEPT: a female personification of Sun Shangxiang (손상향), a general of Eastern Wu in the Romance of the Three Kingdoms — the bow-waist princess of Wu, a warrior princess who married Liu Bei. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Sun Shangxiang to carry in her design and the scene: a martial princess who keeps armed maidservants, bow and blades always at hand, bright tomboyish spirit, the sister of the Sun clan, a wedding across enemy lines.\nFACTION — Eastern Wu. Palette: crimson red, gold, river teal, black lacquer.\nAGE: about twenty — a fresh young-adult face; no facial lines.\nSILHOUETTE: toned athletic-curvy, full-busted with rounded hips build; short cropped hair with side-swept bangs; flame-orange hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a boyish, mischievous tomboy energy; golden tan skin; oval face; large eyes — narrow upturned eyes, outer eye corners tilting sharply upward; thick straight brows; upturned nose; wide smiling mouth; amber eyes; a dusting of freckles across nose and cheeks.\nWORLD — MECHA: year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. MECHA DESIGN: she is a female mecha personification, built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: crimson and black lacquer plating with gold edges, streamlined naval hull shapes and fin binders, hydrojet thrusters, flame-orange glow lines.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a pair of bladed chakram rings — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
- "date": "2026-11-02",
+ "prompt": "CONCEPT: a female personification of Sun Shangxiang (손상향), a general of Eastern Wu in the Romance of the Three Kingdoms — the bow-waist princess of Wu, a warrior princess who married Liu Bei. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Sun Shangxiang to carry in her design and the scene: a martial princess who keeps armed maidservants, bow and blades always at hand, the cool, haughty pride of the Sun clan's only daughter who looks down on any suitor, a wedding across enemy lines.\nFACTION — Eastern Wu. Palette: crimson red, gold, river teal, black lacquer.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: toned athletic-curvy, full-busted with rounded hips build; short cropped hair with side-swept bangs; flame-orange hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a cool, aloof beauty; fair skin; long face; moderately sized, realistically proportioned eyes — long monolid eyes, outer eye corners tilting sharply upward; sharp angled brows; straight narrow nose; thin long lips; amber eyes; sharp winged eyeliner.\nWORLD — MECHA: year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. MECHA DESIGN: she is a female mecha personification, built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: crimson and black lacquer plating with gold edges, streamlined naval hull shapes and fin binders, hydrojet thrusters, flame-orange glow lines.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a pair of bladed chakram rings — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a composed, self-assured look, chin slightly raised.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-03",
  "record": "records/손상향/mecha.kr_mmorpg-ui.json",
  "storage": {
   "card": "손상향",
@@ -75,46 +75,34 @@
   "scenes": {}
  },
  "generation": {
-  "tool": "image_gen.imagegen",
+  "tool": "claude",
+  "model": "gpt-image-2.5-sunburst",
   "endpoint": "images/generations",
-  "size": [
-   1024,
-   1536
-  ],
-  "png_sha256": "c8e985f1b52a5f223c6946545c51f5a357090b9423d71763f987836bfbaad1d0",
-  "webp": {
-   "quality": 90,
-   "method": 6,
-   "sha256": "9ac38cf703240bd12ec209c090b9b01e3f6708616303ed6e2ce8407e05aa1483"
+  "size": "1024x1536",
+  "quality": "medium",
+  "source_sha256": "0e9e62ca4067bbe07a0fdf57fbddd75129722f6fcacdf86ea7f7960d70d6d1f8",
+  "usage": {
+   "input_tokens": 1172,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1172
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1515
   },
-  "retries": [
-   {
-    "n": 1,
-    "status": "generated",
-    "exposure": "bold"
-   }
-  ]
+  "seconds": 19.231,
+  "retries": []
  },
- "execution": "sam-sunshangxiang-515e",
- "imported": "2026-11-03",
- "acceptance": "user_approval_2026-11-02 — 묻지 않고 올리고 사용자가 올라간 뒤 본다(삼국지도 원소처럼 바로 올리게)",
  "review": {
-  "reviewed": false,
+  "reviewed": true,
   "by": "user",
-  "result": "pending"
+  "result": "accepted",
+  "date": "2026-11-03",
+  "note": "「1번으로 해줘」 — 새 세계 그림 셋을 보고 교체"
  },
- "qa": {
-  "reviewer": "gpt-sam-sunshangxiang-515e",
-  "image_sha256": "c8e985f1b52a5f223c6946545c51f5a357090b9423d71763f987836bfbaad1d0",
-  "passed": false,
-  "observations": [
-   "1024×1536 세로 2:3 원본을 직접 확인.",
-   "주인공의 머리 하나와 관찰 가능한 팔·손의 연결에서 추가 팔다리는 보이지 않음.",
-   "워터마크와 테두리는 보이지 않음.",
-   "한 명의 성인 여성 전신과 두 발이 프레임 안에 있음.",
-   "삼국시대 갑주·서양 판타지 판금·미래 메카 중 고른 세계에 맞는 주 의상.",
-   "설계의 쌍환 중 환검 한 개만 오른손에 보이고 왼손은 허리에 놓였다."
-  ],
-  "cause": "SIGNATURE ITEM의 pair of rings와 one whole object drawn once 단수 제한의 충돌 가능성."
- }
+ "source": "claude session — images/generations, 기준 그림 없이"
 }
