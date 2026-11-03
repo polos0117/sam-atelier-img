@@ -4,7 +4,7 @@
   {
    "key": "손견",
    "execution": "sam-sunjian-3a2d",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-03T01:00:50.379Z",
    "date_kst": "2026-11-03",
    "date_utc": "2026-11-03",
@@ -27,7 +27,9 @@
     "손견_mecha_kr_mmorpg_f_casual3.webp",
     "손견_mecha_kr_mmorpg_f_casual4.webp",
     "손견_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "reason": "samguk-casual1: sexual 안전 필터 5회 거절. 동일 재시도·moderate·low·계획기 재계획 1회 후에도 거절되어 IMAGE_AUTOMATION.md 0/5절에 따라 중단. 삼국시대 기준컷 1장 반영, 남은 17장 미완료.",
+   "blocked_at": "2026-11-03T01:06:35.142Z"
   }
  ]
 }
