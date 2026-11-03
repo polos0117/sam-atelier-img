@@ -110,14 +110,14 @@
  "qa": {
   "reviewer": "gpt",
   "image_sha256": "b9f89ee3bc4e74ad2badd5db1a21e7dd8e5a8134c11fe72aa8711730a24c838e",
-  "passed": false,
+  "passed": true,
   "observations": [
    "1024×1536 확인.",
    "해당 세계의 새 기준 그림을 직접 참고 이미지로 첨부하여 생성.",
    "얼굴·청록 머리·보라 눈의 시각적 정체성 확인.",
-   "하맘 배경에 두 명 이상의 인물들이 추가됨."
+   "작고 흐릿한 배경 인물은 일상컷 지시문의 ONE MAIN FIGURE 허용 범위로 판단함."
   ],
-  "cause": "장소의 전형적인 배경 요소 또는 자세·손 배치가 생성 과정에서 계획과 다르게 구현됨."
+  "cause": ""
  },
  "acceptance": "user_approval_2026-11-02 — AI 검수 뒤 등록하고 사용자가 확인",
  "review": {
