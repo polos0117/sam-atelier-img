@@ -1,0 +1,33 @@
+{
+ "key": "순유",
+ "runs": [
+  {
+   "key": "순유",
+   "execution": "sam-xunyou-b0f145-20261104",
+   "status": "working",
+   "claimed_at": "2026-11-03T22:48:35.681Z",
+   "date_kst": "2026-11-04",
+   "date_utc": "2026-11-03",
+   "missing": [
+    "순유_samguk_kr_mmorpg_f.webp",
+    "순유_samguk_kr_mmorpg_f_casual1.webp",
+    "순유_samguk_kr_mmorpg_f_casual2.webp",
+    "순유_samguk_kr_mmorpg_f_casual3.webp",
+    "순유_samguk_kr_mmorpg_f_casual4.webp",
+    "순유_samguk_kr_mmorpg_f_casual5.webp",
+    "순유_fantasy_kr_mmorpg_f.webp",
+    "순유_fantasy_kr_mmorpg_f_casual1.webp",
+    "순유_fantasy_kr_mmorpg_f_casual2.webp",
+    "순유_fantasy_kr_mmorpg_f_casual3.webp",
+    "순유_fantasy_kr_mmorpg_f_casual4.webp",
+    "순유_fantasy_kr_mmorpg_f_casual5.webp",
+    "순유_mecha_kr_mmorpg_f.webp",
+    "순유_mecha_kr_mmorpg_f_casual1.webp",
+    "순유_mecha_kr_mmorpg_f_casual2.webp",
+    "순유_mecha_kr_mmorpg_f_casual3.webp",
+    "순유_mecha_kr_mmorpg_f_casual4.webp",
+    "순유_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
