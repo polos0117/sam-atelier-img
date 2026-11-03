@@ -1,0 +1,113 @@
+{
+ "atelier": "samguk",
+ "card": "진궁",
+ "faction": "qun",
+ "role": "strategist",
+ "world": "samguk",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "impression": "sharp",
+   "expr": "serious",
+   "skin_tone": "fair",
+   "age": "early_30s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "winged_liner",
+   "brows": "straight_thin",
+   "nose": "small_button",
+   "lips": "wide_smile",
+   "face_shape": "inverted_triangle",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "jet_black",
+   "hair": "hime_cut",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "진궁_samguk_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Chen Gong (진궁), a strategist of the rival warlords in the Romance of the Three Kingdoms — the strategist who once saved Cao Cao and then turned against her. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Chen Gong to carry in her design and the scene: principled pride, a scholar-strategist's robe, a stern refusal.\nFACTION — the rival warlords (雄). Palette: royal violet, tarnished gold, bronze, dark crimson.\nAGE: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a hime cut — long straight hair with blunt cheek-length sidelocks with long bangs falling over one eye; glossy jet-black hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a sharp, striking, intense look; fair skin; softly tapered face narrowing to a small, soft chin; large eyes — deep-set eyes, level outer eye corners; thin straight brows; small button nose; wide smiling mouth; pale violet eyes; sharp winged eyeliner. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed.\nWORLD — THREE KINGDOMS ERA: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. COSTUME (Three Kingdoms era): a strategist's scholar robes — flowing layered silk robes with wide sleeves, a scholar's guan cap or silk ribbon, a feather fan or bound bamboo scrolls, a jade pendant. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a strategy scroll — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a level, steady look, mouth closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 陳.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-04",
+ "record": "records/진궁/samguk.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "진궁",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_mmorpg",
+  "notes": {
+   "진궁|samguk": {}
+  },
+  "looks": {
+   "진궁|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "진궁|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1dedacd5c770a846af250f5e6a2c164fea1f31cff586489ac94e19ffb3c10724",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "prompt_form": "gpt-structured",
+  "prompt_sha256": "c3420508153b1797adcc738b0c2536f9d509ad0c56a98b4675ee1bc895e213ef"
+ },
+ "execution": "sam-chengong-20261104-d8a08048",
+ "imported": "2026-11-04",
+ "submitted_prompt": "OUTPUT SPEC: one vertical 2:3 image (1024×1536), full body from head to feet inside the frame with clear margins. No landscape, no square, no half-body crop.\n\nART STYLE\n\n* Medium / reference class: an in-engine 3D character model with hand-painted textures — a premium Korean MMORPG promotional render, character-select-screen shot\n* Detailed art style:\n00 POSITIVE - technical rendering\nForm language: semi-realistic volumetric 3D forms, no lineart, forms read through planes and light, softly melting edges, a softly curved silhouette with dense ornament\nFace structure: small refined face, delicate realistic-anime features, a small soft chin, soft feminine contours, realistically proportioned eyes, subtle lashes, small iris highlights\nHair: soft, glossy hair in large masses, a few strands lifted by the wind, diffused specular highlights, no individually drawn strands\nBody / proportions: long legs, narrow waist, full curvaceous figure — natural, rounded volume at bust, hips and thighs (never thin), semi-realistic anatomy, a clean, readable card pose\nRendering / shading: soft continuous gradients (not cel shading), porcelain skin with soft subsurface glow, glossy specular highlights on skin, metal, silk and gems, a painterly finish with low micro-contrast\nLighting: character-select-screen lighting — strong rim light, soft key light on the face, drifting light particles, atmospheric depth, softly blurred background, warm golden-hour tone with a light atmospheric haze\nTexture / colour: polished metal, silk, jade and gems catching sharp highlights, filigree metalwork, jewel inlays, layered translucent fabrics, fine embroidery; the rival warlords (雄). Palette: royal violet, tarnished gold, bronze, dark crimson; muted, soft, low saturation — the palette kept subdued, no primary or neon colour, yet never greyed-out or near-monochrome\nWorld mood: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\n00 NEGATIVE - technical exclusions\nsaturated primary colours, oversaturation, neon glow, landscape composition, half-body crop, cropped feet, lineart, outlines, flat cel shading, 2D anime illustration, photographic skin or pores, individually drawn hair strands, blown-out white sky, thin, flat or boyish body, elongated face, horse-like face, mannish face, heavy jaw, sneer, glare, smirk-pulled cheek, chin lifted to look down, exaggerated acting expression, horse or other creature, logo, watermark, speech bubble, frame border, extra limbs, deformed hands\n\n2. CHARACTER LOOK\n* Concept: a female personification of Chen Gong (진궁), a strategist of the rival warlords in the Romance of the Three Kingdoms — the strategist who once saved Cao Cao and then turned against her. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\n* Traits to carry in her design: principled pride, a scholar-strategist's robe, a stern refusal.\n* Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\n* Build and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a hime cut — long straight hair with blunt cheek-length sidelocks with long bangs falling over one eye; glossy jet-black hair.\n* Face: she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a sharp, striking, intense look; fair skin; softly tapered face narrowing to a small, soft chin; large eyes — deep-set eyes, level outer eye corners; thin straight brows; small button nose; wide smiling mouth; pale violet eyes; sharp winged eyeliner. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed.\n* Expression: a level, steady look, mouth closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\n\n4. COORDINATION\n* Held item (most important): a strategy scroll — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\n* Costume: COSTUME (Three Kingdoms era): a strategist's scholar robes — flowing layered silk robes with wide sleeves, a scholar's guan cap or silk ribbon, a feather fan or bound bamboo scrolls, a jade pendant. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material.  Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist. Any hand prop this costume names (a fan, scrolls, a weapon) is replaced by the held item above — she holds only that.\n* Exposure: her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\n\n5. SCENE\n* Setting: THREE KINGDOMS ERA: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. Light: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise.\n* Action: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable. Camera at eye level; head and feet not cropped.\n* Body: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame. natural adult proportions, both hands drawn correctly as hands. No extra limbs.\n* Rules: No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 陳.\n",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "1dedacd5c770a846af250f5e6a2c164fea1f31cff586489ac94e19ffb3c10724",
+  "passed": true,
+  "observations": [
+   "원본 크기 1024×1536. 로고·워터마크·프레임 테두리 없음.",
+   "후한 계열 교령 겹옷·관, 陳 한 글자 깃발. 머리와 두 발 모두 프레임 안.",
+   "성인 여성 한 명, 양팔과 두 손 연결 정상. 단일 두루마리가 몸 앞에서 온전하게 이어짐."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-11-04 — 진궁 이미지와 도감 데이터 커밋 및 main 일반 push 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
