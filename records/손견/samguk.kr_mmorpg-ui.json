@@ -1,0 +1,111 @@
+{
+ "atelier": "samguk",
+ "card": "손견",
+ "faction": "wu",
+ "role": "lord",
+ "world": "samguk",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "impression": "fierce",
+   "expr": "confident",
+   "skin_tone": "warm_beige",
+   "age": "late_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "dark_lip",
+   "brows": "high_arched",
+   "nose": "aquiline",
+   "lips": "soft_medium",
+   "face_shape": "angular",
+   "eyes": "peach_blossom"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "crimson",
+   "hair": "side_braid",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "손견_samguk_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Sun Jian (손견), a ruler of Eastern Wu in the Romance of the Three Kingdoms — the Tiger of Jiangdong, founder of Wu's fortunes, who recovered the imperial seal from Luoyang's ashes. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Sun Jian to carry in her design and the scene: fierce valor and ambition, a red headscarf, crimson-lacquered armor, the imperial jade seal glimpsed at her belt.\nFACTION — Eastern Wu (吳). Palette: crimson red, gold, river teal, black lacquer.\nAGE: late twenties — a settled, mature adult face with defined cheekbones; no wrinkles, folds or under-eye bags.\nSILHOUETTE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a single thick braid over one shoulder with blunt straight bangs; crimson-red hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; warm beige skin; angular face with defined cheekbones and jaw; large eyes — peach-blossom eyes with a soft, curved lower lid, level outer eye corners; high dramatic arched brows; aquiline nose; soft medium lips; amber eyes; dark berry lipstick.\nWORLD — THREE KINGDOMS ERA: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. COSTUME (Three Kingdoms era): Han-dynasty ruler's regalia — layered silk robes in her faction's colours with broad embroidered sleeves, a jade-and-gold guan headpiece or a mian crown with beaded strings, jade pendants at the sash, a ceremonial jian sword at the belt. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: an ancient bronze sword (the Sword of Gu Ding) — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a composed, self-assured look, chin slightly raised.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 吳 or 孫.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-03",
+ "record": "records/손견/samguk.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "손견",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_mmorpg",
+  "notes": {
+   "손견|samguk": {}
+  },
+  "looks": {
+   "손견|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "손견|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "2201a247817126e6a94c05b7550d7ec15757fb6543c3f0afbdfe5a78f078affd",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": []
+ },
+ "execution": "sam-sunjian-3a2d",
+ "imported": "2026-11-03",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2201a247817126e6a94c05b7550d7ec15757fb6543c3f0afbdfe5a78f078affd",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 이미지, 성인 여성 한 명, 머리와 양 발이 화면 안에 있음.",
+   "붉은 땋은 머리와 두건, 호랑이 장식, 옥새, 후한풍 장식 갑옷과 강변 장면을 확인함.",
+   "오른손의 청동검은 곧게 이어지고 두 팔과 손의 연결은 자연스러움.",
+   "손에 든 검 외에 허리에도 별도 검 손잡이처럼 보이는 장식이 있음. 단일 물건 조건과 충돌할 가능성을 사용자 검토로 남김."
+  ],
+  "cause": "COSTUME의 ceremonial jian sword at the belt와 SIGNATURE ITEM의 Sword of Gu Ding가 겹쳐 허리의 추가 검 형태를 유도한 것으로 추정. 규칙에 따라 재생성하지 않음."
+ },
+ "acceptance": "user_approval_2026-11-03 — 이미지와 도감 변경 커밋 및 원격 main 일반 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
