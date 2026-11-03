@@ -4,7 +4,7 @@
   {
    "key": "등애",
    "execution": "sam-dengai-20261104-3901ff",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-03T17:29:33.907Z",
    "date_kst": "2026-11-04",
    "date_utc": "2026-11-03",
@@ -27,7 +27,9 @@
     "등애_mecha_kr_mmorpg_f_casual3.webp",
     "등애_mecha_kr_mmorpg_f_casual4.webp",
     "등애_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-03T18:08:01.411Z",
+   "done_by": "sam-dengai-20261104-3901ff"
   }
  ]
 }
