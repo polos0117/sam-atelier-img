@@ -1,0 +1,113 @@
+{
+ "atelier": "samguk",
+ "card": "여몽",
+ "faction": "wu",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ember",
+   "impression": "sharp",
+   "expr": "smug",
+   "skin_tone": "fair",
+   "age": "early_30s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "smoky",
+   "brows": "high_arched",
+   "nose": "upturned",
+   "lips": "plush_pout",
+   "face_shape": "v_line",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "wine_red",
+   "hair": "pixie",
+   "bangs": "asymmetric"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "여몽_samguk_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Lü Meng (여몽), a general of Eastern Wu in the Romance of the Three Kingdoms — the soldier who read books and in three days became another person. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Lü Meng to carry in her design and the scene: a rough soldier turned brilliant strategist, books strapped beside her saber, the white-robed stealth assault on Jing.\nFACTION — Eastern Wu (吳). Palette: crimson red, gold, river teal, black lacquer.\nAGE: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; a pixie cut with asymmetric bangs; deep wine-red hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a sharp, striking, intense look; fair skin; delicate V-line face with a small, soft chin; smaller, narrower eyes than usual anime proportion — large round eyes, outer eye corners drooping downward; gracefully arched brows; upturned nose; soft, full lips; ember-orange eyes; smoky dark eye makeup. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — THREE KINGDOMS ERA: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a saber with a book strapped to its scabbard — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint knowing smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 吳 or 呂.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-03",
+ "record": "records/여몽/samguk.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "여몽",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_mmorpg",
+  "notes": {
+   "여몽|samguk": {}
+  },
+  "looks": {
+   "여몽|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "여몽|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7d856fd8bb7c3cda543d02d85d77d6b28168d416f79192fd4aac129d32da466f",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "49412f5b8b1aac920ee0820258f7d19d075a5b3311398901f9064c6377ed649c"
+ },
+ "execution": "sam-lvmeng-f52c2b",
+ "imported": "2026-11-04",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7d856fd8bb7c3cda543d02d85d77d6b28168d416f79192fd4aac129d32da466f",
+  "passed": true,
+  "observations": [
+   "1024×1536 세로, 성인 여성 한 명, 머리와 양발이 화면 안에 있음",
+   "와인색 짧은 머리·짧은 중안부·작은 턱·둥근 체형 볼륨 확인",
+   "후한 교령 비단 겹옷과 대칭 어깨·미늘 갑옷, 오나라 강변 성채",
+   "두 팔·두 손·두 다리 연결 정상, 한 자루 칼집 옆에 책을 결박",
+   "깃발 한 글자 吳 외 읽히는 글자·로고·워터마크·테두리 없음"
+  ]
+ },
+ "acceptance": "user_approval_2026-11-04 — 여몽 이미지·도감 커밋 및 main 일반 push 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
