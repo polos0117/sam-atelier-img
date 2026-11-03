@@ -1,0 +1,33 @@
+{
+ "key": "사마휘",
+ "runs": [
+  {
+   "key": "사마휘",
+   "execution": "sam-simahui-1e5a60-20261104",
+   "status": "working",
+   "claimed_at": "2026-11-03T22:50:04.531Z",
+   "date_kst": "2026-11-04",
+   "date_utc": "2026-11-03",
+   "missing": [
+    "사마휘_samguk_kr_mmorpg_f.webp",
+    "사마휘_samguk_kr_mmorpg_f_casual1.webp",
+    "사마휘_samguk_kr_mmorpg_f_casual2.webp",
+    "사마휘_samguk_kr_mmorpg_f_casual3.webp",
+    "사마휘_samguk_kr_mmorpg_f_casual4.webp",
+    "사마휘_samguk_kr_mmorpg_f_casual5.webp",
+    "사마휘_fantasy_kr_mmorpg_f.webp",
+    "사마휘_fantasy_kr_mmorpg_f_casual1.webp",
+    "사마휘_fantasy_kr_mmorpg_f_casual2.webp",
+    "사마휘_fantasy_kr_mmorpg_f_casual3.webp",
+    "사마휘_fantasy_kr_mmorpg_f_casual4.webp",
+    "사마휘_fantasy_kr_mmorpg_f_casual5.webp",
+    "사마휘_mecha_kr_mmorpg_f.webp",
+    "사마휘_mecha_kr_mmorpg_f_casual1.webp",
+    "사마휘_mecha_kr_mmorpg_f_casual2.webp",
+    "사마휘_mecha_kr_mmorpg_f_casual3.webp",
+    "사마휘_mecha_kr_mmorpg_f_casual4.webp",
+    "사마휘_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
