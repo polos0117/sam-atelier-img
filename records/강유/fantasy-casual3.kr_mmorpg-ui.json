@@ -98,7 +98,14 @@
     "exposure": "bold"
    }
   ],
-  "ref_sha256": "b4a384565296c1000263fc7b45c89017a21b49e1add4d30f52937378706c48f9"
+  "ref_sha256": "b4a384565296c1000263fc7b45c89017a21b49e1add4d30f52937378706c48f9",
+  "serialization_repair": {
+   "date": "2026-11-03",
+   "reason": "초기 업로드본이 0바이트여서 원본 PNG로 같은 WebP 설정 재인코딩 후 완전 디코딩 확인",
+   "previous_webp_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "png_unchanged": true,
+   "webp_sha256": "b4e872d9e60085aa0f06e9406d19361f7819f0316de7704343a27d2ebd5a9cbe"
+  }
  },
  "execution": "sam-jiangwei-72ff",
  "imported": "2026-11-03",
