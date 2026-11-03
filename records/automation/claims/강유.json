@@ -4,7 +4,7 @@
   {
    "key": "강유",
    "execution": "sam-jiangwei-72ff",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T23:56:37.909Z",
    "date_kst": "2026-11-03",
    "date_utc": "2026-11-02",
@@ -27,7 +27,9 @@
     "강유_mecha_kr_mmorpg_f_casual3.webp",
     "강유_mecha_kr_mmorpg_f_casual4.webp",
     "강유_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-03T00:25:57.371Z",
+   "done_by": "sam-jiangwei-72ff"
   }
  ]
 }
