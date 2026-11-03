@@ -4,7 +4,7 @@
   {
    "key": "황충",
    "execution": "sam-huangzhong-redo-20261104-c3a581",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-03T17:48:58.931Z",
    "date_kst": "2026-11-04",
    "date_utc": "2026-11-03",
@@ -27,7 +27,11 @@
     "황충_mecha_kr_mmorpg_f_casual3.webp",
     "황충_mecha_kr_mmorpg_f_casual4.webp",
     "황충_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-03T18:15:14.735997+00:00",
+   "done_by": "sam-huangzhong-redo-20261104-c3a581",
+   "images_completed": 18,
+   "notes": "최신 main에 기존 황충 그림이 없어 18칸 새 생성. 세계별 계획·파일 규격·도감 등록 검사 통과. 시각적 차이는 이미지별 qa에 기록."
   }
  ]
 }
