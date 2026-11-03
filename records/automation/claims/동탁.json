@@ -4,7 +4,7 @@
   {
    "key": "동탁",
    "execution": "sam-dongzhuo-a88d-20261104",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-03T21:40:09.468Z",
    "date_kst": "2026-11-04",
    "date_utc": "2026-11-03",
@@ -27,7 +27,9 @@
     "동탁_mecha_kr_mmorpg_f_casual3.webp",
     "동탁_mecha_kr_mmorpg_f_casual4.webp",
     "동탁_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-03T22:12:38.931Z",
+   "done_by": "sam-dongzhuo-a88d-20261104"
   }
  ]
 }
