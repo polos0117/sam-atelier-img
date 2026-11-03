@@ -34,7 +34,7 @@
   {
    "key": "진궁",
    "execution": "sam-chengong-redo-47da0146",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-03T16:42:03.241506Z",
    "date_kst": "2026-11-04",
    "date_utc": "2026-11-03",
@@ -59,7 +59,9 @@
     "진궁_samguk_kr_mmorpg_f_casual4.webp",
     "진궁_samguk_kr_mmorpg_f_casual5.webp"
    ],
-   "approval": "사용자: 진궁 재작업해서 이미지 교체, 커밋 및 main 일반 push 승인"
+   "approval": "사용자: 진궁 재작업해서 이미지 교체, 커밋 및 main 일반 push 승인",
+   "blocked_at": "2026-11-03T16:50:47.546159+00:00",
+   "reason": "사용자가 삼국시대 얼굴 길이와 동일 지시문 재시도 결과를 모두 거부. 기존 이미지 교체·push 보류. 일상 생성 호출의 완료 응답도 세션 중단으로 미확인. 추가 생성 없음."
   }
  ]
 }
