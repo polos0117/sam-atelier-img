@@ -1,0 +1,9 @@
+{
+  "tool": "image_gen.imagegen",
+  "size": [
+    1024,
+    1536
+  ],
+  "date": "",
+  "prompt_sha256": "433b303448bfee67f1b4639be027739cb8f027d8fb7d23183645caa2e68126ac"
+}
