@@ -1,0 +1,33 @@
+{
+ "key": "장합",
+ "runs": [
+  {
+   "key": "장합",
+   "execution": "sam-zhanghe-17fb-20261103",
+   "status": "working",
+   "claimed_at": "2026-11-03T01:16:23.203Z",
+   "date_kst": "2026-11-03",
+   "date_utc": "2026-11-03",
+   "missing": [
+    "장합_samguk_kr_mmorpg_f.webp",
+    "장합_samguk_kr_mmorpg_f_casual1.webp",
+    "장합_samguk_kr_mmorpg_f_casual2.webp",
+    "장합_samguk_kr_mmorpg_f_casual3.webp",
+    "장합_samguk_kr_mmorpg_f_casual4.webp",
+    "장합_samguk_kr_mmorpg_f_casual5.webp",
+    "장합_fantasy_kr_mmorpg_f.webp",
+    "장합_fantasy_kr_mmorpg_f_casual1.webp",
+    "장합_fantasy_kr_mmorpg_f_casual2.webp",
+    "장합_fantasy_kr_mmorpg_f_casual3.webp",
+    "장합_fantasy_kr_mmorpg_f_casual4.webp",
+    "장합_fantasy_kr_mmorpg_f_casual5.webp",
+    "장합_mecha_kr_mmorpg_f.webp",
+    "장합_mecha_kr_mmorpg_f_casual1.webp",
+    "장합_mecha_kr_mmorpg_f_casual2.webp",
+    "장합_mecha_kr_mmorpg_f_casual3.webp",
+    "장합_mecha_kr_mmorpg_f_casual4.webp",
+    "장합_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
