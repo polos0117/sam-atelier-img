@@ -1,0 +1,15 @@
+{
+ "execution": "sam-zhanghe-17fb-20261103",
+ "tool": "image_gen.imagegen",
+ "style": "kr_mmorpg",
+ "version": "v3",
+ "outputs": 18,
+ "all_size": [
+  1024,
+  1536
+ ],
+ "qa_policy": "모든 관찰된 불일치를 passed:false로 기록하고 IMAGE_AUTOMATION 0/4절에 따라 등록; 사용자 검토 대기",
+ "filter_rejections": 6,
+ "fantasy1_replanned": true,
+ "no_existing_assets_replaced": true
+}

@@ -1,0 +1,139 @@
+{
+ "_": "tools/prompt-pack.cjs 의 설정 — 고칠 수 있는 칸만 있다. 직접 입력(글 칸 · 표에 없는 외형)엔 why 에 까닭을 적는다. 고친 뒤 build",
+ "card": "장합",
+ "style": "kr_mmorpg",
+ "plans": [
+  "/workspace/scratch/17fbe6863359/zhanghe-work/plan-samguk/plan.json",
+  "/workspace/scratch/17fbe6863359/zhanghe-work/retry-fantasy1/merged-plan.json",
+  "/workspace/scratch/17fbe6863359/zhanghe-work/plan-mecha/plan.json"
+ ],
+ "worlds": {
+  "samguk": {
+   "notes": {},
+   "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   },
+   "shot": {},
+   "why": ""
+  },
+  "fantasy": {
+   "notes": {},
+   "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   },
+   "shot": {},
+   "why": ""
+  },
+  "mecha": {
+   "notes": {},
+   "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   },
+   "shot": {},
+   "why": ""
+  }
+ },
+ "casual": {
+  "samguk-casual1": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "samguk-casual2": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "samguk-casual3": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "samguk-casual4": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "samguk-casual5": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual1": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": "IMAGE_RULES 순서 4회 거절 뒤 계획기로 일상1 재계획 한 번, low 유지",
+   "exposure": "low"
+  },
+  "fantasy-casual2": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual3": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual4": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual5": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual1": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": "안전 필터 sexual 거절 2회(output/input) 뒤 IMAGE_RULES 1절에 따라 노출 한 단계 낮춤",
+   "exposure": "moderate"
+  },
+  "mecha-casual2": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual3": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual4": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual5": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  }
+ }
+}
