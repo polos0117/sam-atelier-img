@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "손책",
+ "faction": "wu",
+ "role": "lord",
+ "world": "mecha",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "gold",
+   "impression": "glamorous",
+   "expr": "laughing",
+   "skin_tone": "warm_beige",
+   "age": "early_30s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "scar",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "angular",
+   "eyes": "peach_blossom"
+  },
+  "silhouette": {
+   "body": "pear_curvy",
+   "hair_color": "flame_orange",
+   "hair": "side_braid",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "손책_mecha_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Sun Ce (손책), a ruler of Eastern Wu in the Romance of the Three Kingdoms — the Little Conqueror who carved out Jiangdong in six years. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Sun Ce to carry in her design and the scene: dazzling charisma and reckless courage, a bright red-and-gold battle armor, a beloved smile.\nFACTION — Eastern Wu. Palette: crimson red, gold, river teal, black lacquer.\nAGE: early thirties — a poised, mature face with defined cheekbones and jaw; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust build; a single thick braid over one shoulder with long bangs falling over one eye; flame-orange hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a glamorous, sultry allure; warm beige skin; angular face with defined cheekbones and jaw; smaller, narrower eyes than usual anime proportion — peach-blossom eyes with a soft, curved lower lid, outer eye corners drooping downward; soft rounded brows; straight narrow nose; full wide lips; gold eyes; a thin faint scar through one eyebrow.\nWORLD — MECHA: year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. MECHA DESIGN: she is a female mecha personification, built as a command-type mecha — crowned head unit with an antenna crest, cape-like binder wings, heavy chest plating with an emblem core, a flagship back unit; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: crimson and black lacquer plating with gold edges, streamlined naval hull shapes and fin binders, hydrojet thrusters, flame-orange glow lines.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a pair of tonfa-like batons with red tassels — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a natural laugh, eyes crinkled, mouth open in a smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-03",
+ "record": "records/손책/mecha.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "손책",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_mmorpg",
+  "notes": {
+   "손책|mecha": {}
+  },
+  "looks": {
+   "손책|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "손책|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0576a4d0f8bdb3e46907827b08038293326e13949e31f821866be06593b4360c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "success",
+    "exposure": "bold"
+   }
+  ]
+ },
+ "execution": "sam-sunce-e81d",
+ "imported": "2026-11-03",
+ "prompt_sha256": "b507e8fe14b0e08497a0f2a35578b3fdabc301618610151a051c75fe46ea711f",
+ "qa": {
+  "reviewer": "gpt-sam-sunce-e81d",
+  "image_sha256": "0576a4d0f8bdb3e46907827b08038293326e13949e31f821866be06593b4360c",
+  "passed": false,
+  "observations": [
+   "1024×1536 원본과 WebP 완전 디코딩 확인.",
+   "옆으로 땋은 불꽃색 머리·붉은 장갑·궤도 함선·쌍곤 두 개. 팔과 다리 두 개의 연결 확인.",
+   "머리 장식 일부가 프레임 상단에 닿아 여백이 부족함.",
+   "배경 함선의 작은 발광 표식은 읽을 수 있는 글자인지 확정하기 어려움."
+  ],
+  "cause": "계획·생성 지시문과 결과 편차: 머리 장식 일부가 프레임 상단에 닿아 여백이 부족함. / 배경 함선의 작은 발광 표식은 읽을 수 있는 글자인지 확정하기 어려움."
+ },
+ "acceptance": "user_approval_2026-11-03 — 손책 생성·커밋·main 일반 반영 승인; docs/IMAGE_AUTOMATION.md 0절 AI 검수 후 업로드",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

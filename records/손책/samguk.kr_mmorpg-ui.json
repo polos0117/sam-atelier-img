@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "손책",
+ "faction": "wu",
+ "role": "lord",
+ "world": "samguk",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "gold",
+   "impression": "glamorous",
+   "expr": "laughing",
+   "skin_tone": "warm_beige",
+   "age": "early_30s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "scar",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "v_line",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "pear_curvy",
+   "hair_color": "flame_orange",
+   "hair": "chignon",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "손책_samguk_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Sun Ce (손책), a ruler of Eastern Wu in the Romance of the Three Kingdoms — the Little Conqueror who carved out Jiangdong in six years. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Sun Ce to carry in her design and the scene: dazzling charisma and reckless courage, a bright red-and-gold battle armor, a beloved smile.\nFACTION — Eastern Wu (吳). Palette: crimson red, gold, river teal, black lacquer.\nAGE: early thirties — a poised, mature face with defined cheekbones and jaw; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust build; an elegant low chignon with hair swept back off the forehead; flame-orange hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a glamorous, sultry allure; warm beige skin; slim V-line jaw; smaller, narrower eyes than usual anime proportion — large round eyes, outer eye corners drooping downward; soft rounded brows; straight narrow nose; full wide lips; gold eyes; a thin faint scar through one eyebrow.\nWORLD — THREE KINGDOMS ERA: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. COSTUME (Three Kingdoms era): Han-dynasty ruler's regalia — layered silk robes in her faction's colours with broad embroidered sleeves, a jade-and-gold guan headpiece or a mian crown with beaded strings, jade pendants at the sash, a ceremonial jian sword at the belt. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a pair of tonfa-like batons with red tassels — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a natural laugh, eyes crinkled, mouth open in a smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 吳 or 孫.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-03",
+ "record": "records/손책/samguk.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "손책",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_mmorpg",
+  "notes": {
+   "손책|samguk": {}
+  },
+  "looks": {
+   "손책|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "손책|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0561fc74b237c024905dde00eaabde60cce7db3e5ad10f92edaeb068fdc478d2",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "success",
+    "exposure": "bold"
+   }
+  ]
+ },
+ "execution": "sam-sunce-e81d",
+ "imported": "2026-11-03",
+ "prompt_sha256": "02180a8efe575edf55ba11a1150ba66ef21537b7f9061b8a17c989301b229533",
+ "qa": {
+  "reviewer": "gpt-sam-sunce-e81d",
+  "image_sha256": "0561fc74b237c024905dde00eaabde60cce7db3e5ad10f92edaeb068fdc478d2",
+  "passed": false,
+  "observations": [
+   "1024×1536 원본과 WebP 완전 디코딩 확인.",
+   "붉은 금장 후한풍 복장, 낮은 올림머리, 쌍곤 두 개와 양팔·양다리 연결 확인. 吳 한 글자 깃발.",
+   "머리 장식 상단이 프레임에 닿아 전신 여백 요구를 충분히 충족하지 못함.",
+   "쌍곤의 붉은 술은 보이나 눈썹 흉터는 뚜렷하지 않음."
+  ],
+  "cause": "계획·생성 지시문과 결과 편차: 머리 장식 상단이 프레임에 닿아 전신 여백 요구를 충분히 충족하지 못함. / 쌍곤의 붉은 술은 보이나 눈썹 흉터는 뚜렷하지 않음."
+ },
+ "acceptance": "user_approval_2026-11-03 — 손책 생성·커밋·main 일반 반영 승인; docs/IMAGE_AUTOMATION.md 0절 AI 검수 후 업로드",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
