@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "강유",
+ "faction": "shu",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "gold",
+   "impression": "cool",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "winged_liner",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "wide_smile",
+   "face_shape": "heart",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "ink_green",
+   "hair": "bob",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "강유_samguk_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Jiang Wei (강유), a general of Shu Han in the Romance of the Three Kingdoms — the chosen heir of the Sleeping Dragon, who led nine northern campaigns. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Jiang Wei to carry in her design and the scene: a warrior-scholar with boundless courage, unyielding resolve to carry on Zhuge Liang's will, green-and-white armor with a crane crest.\nFACTION — Shu Han (蜀). Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: toned athletic-curvy, full-busted with rounded hips build; a bob with choppy uneven bangs; ink-black hair with a deep green sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a cool, aloof beauty; fair skin; heart-shaped face; smaller, narrower eyes than usual anime proportion — large round eyes, outer eye corners drooping downward; thin arched brows; small button nose; wide smiling mouth; gold eyes; sharp winged eyeliner.\nWORLD — THREE KINGDOMS ERA: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a long steel spear with a green tassel — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 姜.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-02",
+ "record": "records/강유/samguk.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "강유",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_mmorpg",
+  "notes": {
+   "강유|samguk": {}
+  },
+  "looks": {
+   "강유|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "강유|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "528071da20139c77cbf3427088975e2deb09b0d2fc6ba887e350f4be484736ac",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "success",
+    "exposure": "bold"
+   }
+  ]
+ },
+ "execution": "sam-jiangwei-72ff",
+ "imported": "2026-11-03",
+ "qa": {
+  "reviewer": "gpt-sam-jiangwei-72ff",
+  "image_sha256": "528071da20139c77cbf3427088975e2deb09b0d2fc6ba887e350f4be484736ac",
+  "passed": false,
+  "observations": [
+   "1024×1536 확인.",
+   "여성 한 명, 양팔·양다리의 연결 확인.",
+   "창 한 자루의 축은 곧고 연속됨. 창끝 위쪽은 프레임에서 잘렸고 머리 장식 위 여백이 좁음.",
+   "삼국시대 누각·학 문양·비늘 갑옷·촉 깃발. 장발 대신 단발 적용."
+  ],
+  "cause": "OUTPUT의 머리·발 여백 요구와 긴 창·큰 머리 장식이 한 화면에 함께 배치됨."
+ },
+ "acceptance": "user_approval_2026-11-03 — 강유 이미지와 도감 데이터 커밋 및 main 일반 반영 승인, GPT AI 검수 후 게시",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
