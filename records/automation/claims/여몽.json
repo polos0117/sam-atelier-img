@@ -4,7 +4,7 @@
   {
    "key": "여몽",
    "execution": "sam-lvmeng-f52c2b",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-03T21:19:56.344Z",
    "date_kst": "2026-11-04",
    "date_utc": "2026-11-03",
@@ -27,7 +27,9 @@
     "여몽_mecha_kr_mmorpg_f_casual3.webp",
     "여몽_mecha_kr_mmorpg_f_casual4.webp",
     "여몽_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-03T21:46:54.833Z",
+   "done_by": "sam-lvmeng-f52c2b"
   }
  ]
 }
