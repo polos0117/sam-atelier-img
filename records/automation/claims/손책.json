@@ -1,0 +1,33 @@
+{
+ "key": "손책",
+ "runs": [
+  {
+   "key": "손책",
+   "execution": "sam-sunce-e81d",
+   "status": "working",
+   "claimed_at": "2026-11-03T03:38:21.210Z",
+   "date_kst": "2026-11-03",
+   "date_utc": "2026-11-03",
+   "missing": [
+    "손책_samguk_kr_mmorpg_f.webp",
+    "손책_samguk_kr_mmorpg_f_casual1.webp",
+    "손책_samguk_kr_mmorpg_f_casual2.webp",
+    "손책_samguk_kr_mmorpg_f_casual3.webp",
+    "손책_samguk_kr_mmorpg_f_casual4.webp",
+    "손책_samguk_kr_mmorpg_f_casual5.webp",
+    "손책_fantasy_kr_mmorpg_f.webp",
+    "손책_fantasy_kr_mmorpg_f_casual1.webp",
+    "손책_fantasy_kr_mmorpg_f_casual2.webp",
+    "손책_fantasy_kr_mmorpg_f_casual3.webp",
+    "손책_fantasy_kr_mmorpg_f_casual4.webp",
+    "손책_fantasy_kr_mmorpg_f_casual5.webp",
+    "손책_mecha_kr_mmorpg_f.webp",
+    "손책_mecha_kr_mmorpg_f_casual1.webp",
+    "손책_mecha_kr_mmorpg_f_casual2.webp",
+    "손책_mecha_kr_mmorpg_f_casual3.webp",
+    "손책_mecha_kr_mmorpg_f_casual4.webp",
+    "손책_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
