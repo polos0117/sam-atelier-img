@@ -17,8 +17,8 @@
   {
    "n": 1,
    "era": "heritage",
-   "place": "heritage_lantern",
-   "ofam": "swimwear",
+   "place": "heritage_shrine",
+   "ofam": "roleplay",
    "treeV": 2,
    "prop": "",
    "preset": "wave_chest",
@@ -33,8 +33,8 @@
    "left": "chest_hand",
    "legs": "",
    "gaze": "camera",
-   "item": "heritage_pattern_swim",
-   "expr": "sensual",
+   "item": "ceremonial_instructor",
+   "expr": "flustered",
    "axes": {
     "overall_intensity": "strong",
     "skin_exposure": "bold"
@@ -159,5 +159,11 @@
   "slot": 1,
   "seed": 441937,
   "reason": "기본/동일 재시도/moderate/low 모두 안전 필터 거절, 규칙에 따른 계획기 1회 재계획"
+ },
+ "resume": {
+  "slot": 1,
+  "seed": 752830,
+  "required": "roleplay",
+  "approval": "다른 계획으로 이어서 진행해줘"
  }
 }
