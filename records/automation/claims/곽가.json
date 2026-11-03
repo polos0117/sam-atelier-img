@@ -4,7 +4,7 @@
   {
    "key": "곽가",
    "execution": "sam-guojia-20261103-42b6",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T23:55:46.670Z",
    "date_kst": "2026-11-03",
    "date_utc": "2026-11-02",
@@ -27,7 +27,9 @@
     "곽가_mecha_kr_mmorpg_f_casual3.webp",
     "곽가_mecha_kr_mmorpg_f_casual4.webp",
     "곽가_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-03T00:25:14.585926+00:00",
+   "done_by": "sam-guojia-20261103-42b6"
   }
  ]
 }
