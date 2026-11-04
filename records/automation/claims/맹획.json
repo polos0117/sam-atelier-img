@@ -4,7 +4,7 @@
   {
    "key": "맹획",
    "execution": "sam-menghuo-8baa5",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-04T11:22:52.318Z",
    "date_kst": "2026-11-04",
    "date_utc": "2026-11-04",
@@ -27,7 +27,9 @@
     "맹획_mecha_kr_mmorpg_f_casual3.webp",
     "맹획_mecha_kr_mmorpg_f_casual4.webp",
     "맹획_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-04T11:46:51.554146+00:00",
+   "done_by": "sam-menghuo-8baa5"
   }
  ]
 }

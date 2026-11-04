@@ -1,0 +1,132 @@
+{
+  "atelier": "samguk",
+  "card": "맹획",
+  "faction": "qun",
+  "slot": "casual3",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "kr_mmorpg",
+  "styleVersion": "v3",
+  "ref": "맹획_mecha_kr_mmorpg_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "library_reading",
+    "ofam": "roleplay",
+    "item": "adult_teacher",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "use": "slip_hold",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "expr": "soft_smile",
+    "preset": "bench_sit",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "맹획_mecha_kr_mmorpg_f_casual3.webp",
+  "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Meng Huo of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — proud stubbornness and final loyalty, beast-tooth necklace, tribal gold — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (royal violet, tarnished gold, bronze, dark crimson). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a great southern broadsword) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: keep the attached image's rendering exactly — the same finish, skin rendering, line weight, colour palette, saturation and lighting quality. Do not restyle her: no more realistic, no more painterly, no more 2D than the attached image. Only the outfit, pose, expression, framing and place change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. Do not add skin texture, pores, harder nose or lip modelling, or any facial definition the attached image does not have. Keep the same face proportions — the same short midface (eyes to mouth) and the same face length-to-width ratio; the angle, bangs or a headpiece never make it look longer.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a quiet library reading room with tall bookshelves, reading desks and big windows\nOutfit: a teacher-inspired costume with a fitted blazer, pleated skirt and reading glasses\nPOSTURE: seated on a chair.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a bound bundle of bamboo slips against her chest; it is all she holds.\nLEGS: knees together, feet slightly apart.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: a faint soft smile, relaxed eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+  "date": "2026-11-04",
+  "record": "records/맹획/mecha-casual3.kr_mmorpg-ui.json",
+  "storage": {
+    "card": "맹획",
+    "out": "casual",
+    "world": "mecha",
+    "style": "kr_mmorpg",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 3,
+    "scenes": {
+      "맹획": {
+        "era": "now",
+        "place": "library_reading",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "bench_sit",
+        "use": "slip_hold",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "environmental",
+        "body": "front",
+        "head": "turn_side",
+        "camera": "eye",
+        "right": "prop",
+        "left": "lap",
+        "legs": "knees_together",
+        "gaze": "screen_left",
+        "item": "adult_teacher",
+        "expr": "soft_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": []
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen.imagegen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "cdf1ff535ffff377b7dc3aab829be56462c02d9df1707d9520b1fe010049c482",
+    "webp": {
+      "quality": 90,
+      "method": 6,
+      "sha256": "15479ab10df420f77f0a9ca7ab466639b258acd35e30acc8118d8dc3855bf496"
+    },
+    "prompt_form": "gpt-structured",
+    "prompt_sha256": "6757b78f774c8a1e47a7915ee264d3586d390cc320e5d3062edc852d96a62824",
+    "submitted_prompt": "OUTPUT SPEC: one vertical 2:3 image (1024×1536). Use the attached image (her Mecha card) as the reference. Do not reuse earlier conversation images.\n\n0. INPUT\n* The attached image is the approved character. Bring this same woman into one everyday scene.\n* Take from the attached image: her face, hair and body, and the image's finish (rendering).\n* Do NOT take from the attached image: its outfit, armor, ornaments, background, pose or camera angle.\n\n2. CHARACTER LOOK\n* Who: the same woman as the attached image — the female personification of Meng Huo of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n* Face (most important): exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. Add no facial definition or texture the attached image does not have. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep her small, soft chin and soft contours as in the attached image; the angle must never make her face look longer or her jaw heavier. Keep the attached image's face proportions — the same short midface and the same face length-to-width ratio; long bangs, side locks or a headpiece never make it look longer\n* Eye colour, hair colour, haircut, skin tone: exactly as in the attached image (hair may move differently in the wind) — the same iris colour in every light; makeup no heavier than in the attached image\n* Body: her own figure — strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist; natural, rounded volume at bust, hips and thighs (never thin), the same woman as in the attached image. The attached image's costume (layered robes, armor or mecha plates) hides much of her figure — take her body volume from this description, not from the costume's silhouette\n* Proportions: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No extra limbs.\n* Expression: a faint soft smile, relaxed eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\n\n4. COORDINATION\n* Concept: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia. one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n* Outfit: a teacher-inspired costume with a fitted blazer, pleated skirt and reading glasses\n* Exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis; styling strong — maximal styling presence within the scene; retain chosen exposure and anatomy\n* Accessories: her legend — proud stubbornness and final loyalty, beast-tooth necklace, tribal gold — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (royal violet, tarnished gold, bronze, dark crimson). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n* Signature: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a great southern broadsword) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n* Held item: with her own right hand she holds a bound bundle of bamboo slips against her chest; it is all she holds.\n\n5. SCENE\n* Setting: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes. Place: a quiet library reading room with tall bookshelves, reading desks and big windows\n* Action: seated on a chair. Right hand: her own right hand is in PROP. Left hand: her own left hand rests on her knee. Legs: knees together, feet slightly apart.\n* Composition: an environmental long shot, her complete figure and enough of the place around her; body facing the camera; head turned to the side; camera at her eye level. 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\n* Gaze: she looks toward the left of the frame.\n* Angle: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n* Body: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's. natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n* Rules: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nAVOID: default card pose, front-facing ID-photo face, carrying over the attached image's outfit, armor, palette or patterns, other people posed with her, logo, watermark, speech bubble, frame border, readable text or numbers, extra limbs, deformed hands, a smaller head or longer neck, a longer face or heavier jaw from the camera angle, a changed eye colour, heavier makeup than the attached image\n",
+    "reference_settings": {
+      "referenced_image_paths": [
+        "/workspace/scratch/8baa5c9a92bc/generated_images/exec-b0fa22bd-a843-4213-a94d-7d0a10d2da51.png"
+      ],
+      "num_last_images_to_include": null
+    },
+    "model_id": null,
+    "quality_setting": null,
+    "size_setting": "not exposed by image_gen.imagegen; actual output verified",
+    "ref_sha256": "12d795d7affde7fb30bd6506721e7acd34fb01356649e1b81ab1deeba41e6432"
+  },
+  "execution": "sam-menghuo-8baa5",
+  "imported": "2026-11-04",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "cdf1ff535ffff377b7dc3aab829be56462c02d9df1707d9520b1fe010049c482",
+    "passed": false,
+    "observations": [
+      "1024×1536 세로 2:3 실제 원본 확인",
+      "주인공 성인 여성 1명, 로고·워터마크·프레임 없음",
+      "팔다리 중복·단절은 보이지 않음",
+      "도서관·교사 의상·죽간·앉은 자세 반영",
+      "시선은 계획의 화면 왼쪽 대신 오른쪽; 환경 구도보다 인물 비중 큼",
+      "각 세계 기준 그림의 얼굴·피부·머리색과 체형 유지, 실제 무기 없음",
+      "작은 무기 장신구 외에 목걸이·귀걸이 등 기준 장식이 여러 개 남아 장신구 1개 제한과 다름"
+    ],
+    "cause": "참고 이미지의 대표 장식이 액세서리 한 개 제한보다 강하게 남음"
+  },
+  "acceptance": "user_approval_2026-11-04 — 맹획 이미지·도감 커밋 및 main 일반 반영 승인",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  }
+}
