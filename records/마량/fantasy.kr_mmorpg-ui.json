@@ -1,0 +1,122 @@
+{
+ "atelier": "samguk",
+ "card": "마량",
+ "faction": "shu",
+ "role": "official",
+ "world": "fantasy",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "sky_blue",
+   "impression": "soft",
+   "expr": "gentle",
+   "skin_tone": "fair",
+   "age": "early_30s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "winged_liner",
+   "brows": "feathered",
+   "nose": "high_bridge",
+   "lips": "thin_bow",
+   "face_shape": "heart",
+   "eyes": "cat"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "magenta",
+   "hair": "long_layered",
+   "bangs": "asymmetric"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "마량_fantasy_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Ma Liang (마량), a court official of Shu Han in the Romance of the Three Kingdoms — the finest of the five Ma siblings, marked by white eyebrows. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Ma Liang to carry in her design and the scene: striking white eyebrows, gentle wisdom, diplomacy among the southern tribes.\nFACTION — Shu Han. Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; long layered hair with asymmetric bangs; vivid magenta hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a soft, gentle warmth; fair skin; heart-shaped face; smaller, narrower eyes than usual anime proportion — feline cat eyes, outer eye corners drooping downward; soft feathered brows; slim, delicate nose with a refined bridge; thin lips with a defined cupid's bow; sky-blue eyes; sharp winged eyeliner. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — MEDIEVAL FANTASY: a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. COSTUME (medieval fantasy): a royal chancellor's or court scholar's dress — a long embroidered coat with a stole, a seal ring, ledgers and a quill. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, subtle magical glow along the patterns. Her Three Kingdoms origin shows only through her signature item, her colours and her bearing — her outfit is Western: no wrap-collar robes, no wide hanfu sleeves, no flowing Chinese-style robe over armor, no East-Asian armor, no machinery, no modern material. The setting is Western European medieval — stone castles, Romanesque or Gothic architecture, European mountains, forests and towns; no Chinese architecture, no pagodas or curved tiled roofs, no hanzi on banners. LIGHT: natural daylight or the world's own magical glow, unless TIME & WEATHER says otherwise. Celestial ornament: feather-and-gold wing-shaped ornaments at the shoulders or back, a translucent gauze overskirt, a jewelled circlet.\nMOOD: serene celestial key art — pastel sky light, a soft halo of light behind her, floating golden light particles and drifting feathers.\nEXPOSURE (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a scroll tied with a white ribbon — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a warm, gentle look with a faint smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-04",
+ "record": "records/마량/fantasy.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "마량",
+  "out": "world",
+  "world": "fantasy",
+  "style": "kr_mmorpg",
+  "notes": {
+   "마량|fantasy": {}
+  },
+  "looks": {
+   "마량|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "마량|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a5087e0e4721d098ddecfb444b57bcb38c9a888cc75628712bd1c7bbac8c4895",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "f3505145950df6ba5035fb29ceabda809c4e1c414314f569238b34f9dc4b725e"
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "bbd7651ffe315663cf8e0c1974946ed39aff6cd4f19c42c80f741462ae2498d3",
+  "source_prompt_sha256": "a2bb47debe68a79a027f81067d798c80aced42fa720c16ed2b0d2b8663a28ee0",
+  "size_instruction": "Create ONE finished illustration, vertical 1024×1536 pixels.",
+  "input_errors": [
+   {
+    "why": "exec_command returned a running session and empty output; illustration called with missing body. Excluded from registration.",
+    "excluded_png_sha256": "3ec3fa37a32906f563578518d20bf435d7990498468f171df8898f6465a785a7",
+    "prompt_sha256": "9a4afd93cc34d76aa30d3fe1c98536cdb87e42d7cd5fa5ce38c5fa7a2a5c8846"
+   }
+  ]
+ },
+ "execution": "sam-maliang-20261104-bc13",
+ "imported": "2026-11-04",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a5087e0e4721d098ddecfb444b57bcb38c9a888cc75628712bd1c7bbac8c4895",
+  "passed": true,
+  "observations": [
+   "1024×1536 여성 한 명 전신, 긴 마젠타 레이어드 헤어·흰 눈썹",
+   "서양 성채·고딕 건축·관 장식·날개형 어깨장식",
+   "양팔·두 손과 흰 리본 두루마리 연결 정상, 글자·로고 없음"
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-11-04 — 마량 이미지·도감 변경 커밋 및 원격 main 일반 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

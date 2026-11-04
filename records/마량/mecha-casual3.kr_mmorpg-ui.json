@@ -1,0 +1,123 @@
+{
+ "atelier": "samguk",
+ "card": "마량",
+ "faction": "shu",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "ref": "마량_mecha_kr_mmorpg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "heritage_moat",
+  "ofam": "retro",
+  "item": "aerobics_80s",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "sig_hold",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "0",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "마량_mecha_kr_mmorpg_f_casual3.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Ma Liang of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — striking white eyebrows, gentle wisdom, diplomacy among the southern tribes — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: keep the attached image's rendering exactly — the same finish, skin rendering, line weight, colour palette, saturation and lighting quality. Do not restyle her: no more realistic, no more painterly, no more 2D than the attached image. Only the outfit, pose, expression, framing and place change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. Do not add skin texture, pores, harder nose or lip modelling, or any facial definition the attached image does not have. Keep the same face proportions — the same short midface (eyes to mouth) and the same face length-to-width ratio; the angle, bangs or a headpiece never make it look longer.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: the moat path beneath the old Jingzhou city wall at dusk, a stone railing along the bank, still water reflecting the battlements and willows\nOutfit: an 1980s high-cut aerobics leotard over shiny tights with leg warmers and a headband\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a scroll tied with a white ribbon at chest height; it is all she holds.\nSIGNATURE ITEM SHAPE: it is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-04",
+ "record": "records/마량/mecha-casual3.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "마량",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_mmorpg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "마량": {
+    "era": "now",
+    "place": "heritage_moat",
+    "ofam": "retro",
+    "treeV": 2,
+    "prop": "0",
+    "preset": "walk_away",
+    "use": "sig_hold",
+    "kind": "hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "aerobics_80s",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e9c66f6c3ec72485515afc8ca65095e0988f91413657fb1aba8e3c979ea012a0",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "0f21db810961631e48c11e037f31efe08b3f31d7bbb34d0b489562b62f3fdb74"
+  },
+  "retries": [],
+  "prompt_form": "gpt-structured",
+  "prompt_sha256": "90a2f30b97a97e5e6b129c0858f514a1ab3dc3d38618ba929df1ad02de9b852b",
+  "source_prompt_sha256": "acc7214c7a2980587c1cd6be2803b7cb912a555d2f66653861be44cfcdef1790",
+  "size_instruction": "Create ONE finished illustration, vertical 1024×1536 pixels.",
+  "ref_sha256": "44ac5c27ea6ec7e9fae50c38b53eaa729a0a2e88ade3863695637cda6fb0a0d6"
+ },
+ "execution": "sam-maliang-20261104-bc13",
+ "imported": "2026-11-04",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e9c66f6c3ec72485515afc8ca65095e0988f91413657fb1aba8e3c979ea012a0",
+  "passed": false,
+  "observations": [
+   "현재 형주 해자·1980년대 에어로빅 의상, 두루마리",
+   "두 팔·다리·손과 두루마리 연결 정상, 기준 얼굴·흰 눈썹·헤어 유지",
+   "계획의 멀어지는 뒷모습 대신 앞 3/4로 걷는 구도"
+  ],
+  "cause": "검수 관찰 참조: 생성 결과가 계획의 구도·장소 또는 상징 장신구 제한에서 벗어남"
+ },
+ "acceptance": "user_approval_2026-11-04 — 마량 이미지·도감 변경 커밋 및 원격 main 일반 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

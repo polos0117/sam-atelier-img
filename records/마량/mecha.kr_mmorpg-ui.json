@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "마량",
+ "faction": "shu",
+ "role": "official",
+ "world": "mecha",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "sky_blue",
+   "impression": "soft",
+   "expr": "gentle",
+   "skin_tone": "fair",
+   "age": "early_30s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "winged_liner",
+   "brows": "feathered",
+   "nose": "high_bridge",
+   "lips": "thin_bow",
+   "face_shape": "v_line",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "magenta",
+   "hair": "half_up",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "마량_mecha_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Ma Liang (마량), a court official of Shu Han in the Romance of the Three Kingdoms — the finest of the five Ma siblings, marked by white eyebrows. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Ma Liang to carry in her design and the scene: striking white eyebrows, gentle wisdom, diplomacy among the southern tribes.\nFACTION — Shu Han. Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; long hair worn half-up, half-down with hair swept back off the forehead; vivid magenta hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a soft, gentle warmth; fair skin; delicate V-line face with a small, soft chin; smaller, narrower eyes than usual anime proportion — long phoenix eyes with lifted outer corners, outer eye corners drooping downward; soft feathered brows; slim, delicate nose with a refined bridge; thin lips with a defined cupid's bow; sky-blue eyes; sharp winged eyeliner. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — MECHA: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. MECHA DESIGN: she is a female mecha personification, built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a scroll tied with a white ribbon — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a warm, gentle look with a faint smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-04",
+ "record": "records/마량/mecha.kr_mmorpg-ui.json",
+ "storage": {
+  "card": "마량",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_mmorpg",
+  "notes": {
+   "마량|mecha": {}
+  },
+  "looks": {
+   "마량|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "마량|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "44ac5c27ea6ec7e9fae50c38b53eaa729a0a2e88ade3863695637cda6fb0a0d6",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "1ce8373cc995d3e9bfe3d105b4490bddf2f21abdca9ceeeec0225e60f7dc54b9"
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "c19e7c716d3ea74ba0241b562d1937cfc0699493ccc435a0bc14cd292031f804",
+  "source_prompt_sha256": "4526b583e1264d3cfec4fc63dbda6f633354c5c26adbc867b6fa822f6de09de3",
+  "size_instruction": "Create ONE finished illustration, vertical 1024×1536 pixels."
+ },
+ "execution": "sam-maliang-20261104-bc13",
+ "imported": "2026-11-04",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "44ac5c27ea6ec7e9fae50c38b53eaa729a0a2e88ade3863695637cda6fb0a0d6",
+  "passed": true,
+  "observations": [
+   "1024×1536 전신, 여성 한 명, 미래 도시·우주 배경",
+   "반묶음 마젠타 머리·흰 눈썹·기계 장갑, 세 세계 외형 구분",
+   "두 팔과 장갑 낀 두 손, 흰 리본 두루마리 연결 정상",
+   "머리와 발끝 포함, 로고·읽히는 문자 없음"
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-11-04 — 마량 이미지·도감 변경 커밋 및 원격 main 일반 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
