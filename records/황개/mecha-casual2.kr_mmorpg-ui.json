@@ -1,0 +1,108 @@
+{
+ "atelier": "samguk",
+ "card": "황개",
+ "faction": "wu",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "ref": "황개_mecha_kr_mmorpg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_harbor",
+  "ofam": "homewear",
+  "item": "one_shoulder_lounge",
+  "posture": "lie_side",
+  "support": "side_floor",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "behind_head",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "legs_bent_side",
+  "gaze": "camera",
+  "expr": "relieved",
+  "preset": "lie_side_full",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "황개_mecha_kr_mmorpg_f_casual2.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Huang Gai of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — self-sacrificing resolve, healing welts under her armor, an iron whip and fire-ship torches — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (an iron whip) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: keep the attached image's rendering exactly — the same finish, skin rendering, line weight, colour palette, saturation and lighting quality. Do not restyle her: no more realistic, no more painterly, no more 2D than the attached image. Only the outfit, pose, expression, framing and place change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. Do not add skin texture, pores, harder nose or lip modelling, or any facial definition the attached image does not have. Keep the same face proportions — the same short midface (eyes to mouth) and the same face length-to-width ratio; the angle, bangs or a headpiece never make it look longer.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a space-station docking bay with a sleek shuttle on its pad and long light strips\nOutfit: a one-shoulder lounge top and matching soft pants\nPOSTURE: lying on her side.\nSUPPORT: she lies on her side, supported along her hip and shoulder.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: legs bent together to one side.\nGAZE: she looks into the camera.\nEXPRESSION: a relaxed, relieved look. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-04",
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "32bb9ab1a353a7fd479bf7c875e8098788408d0914cea2ada6b74c6c85d49512",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "a3a8bbd3380ba3d43ede2c85fb798ced45993f0a7c2e9cef6c87e80a373e30bb"
+  },
+  "prompt_form": "gpt-structured",
+  "prompt_sha256": "ed3f376010c3b5b90c45ffbf00ef5274965f711683bca04bbb8d54fe05e5eeb1",
+  "submitted_prompt_sha256": "02965b28aa8b966fceb40dc74ed0f4fab1ddd307a0f8e9ae60aa45c79ca74ccd",
+  "submitted_prompt": "Reference selection: use only the full-body crimson-and-gold armored mecha woman generated in this turn as the character reference; ignore the other supplied scene image.\n\nOUTPUT SPEC: one vertical 2:3 image (1024×1536). Use the attached image (her Mecha card) as the reference. Do not reuse earlier conversation images.\n\n0. INPUT\n* The attached image is the approved character. Bring this same woman into one everyday scene.\n* Take from the attached image: her face, hair and body, and the image's finish (rendering).\n* Do NOT take from the attached image: its outfit, armor, ornaments, background, pose or camera angle.\n\n2. CHARACTER LOOK\n* Who: the same woman as the attached image — the female personification of Huang Gai of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n* Face (most important): exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. Add no facial definition or texture the attached image does not have. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep her small, soft chin and soft contours as in the attached image; the angle must never make her face look longer or her jaw heavier. Keep the attached image's face proportions — the same short midface and the same face length-to-width ratio; long bangs, side locks or a headpiece never make it look longer\n* Eye colour, hair colour, haircut, skin tone: exactly as in the attached image (hair may move differently in the wind) — the same iris colour in every light; makeup no heavier than in the attached image\n* Body: her own figure — strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist; natural, rounded volume at bust, hips and thighs (never thin), the same woman as in the attached image. The attached image's costume (layered robes, armor or mecha plates) hides much of her figure — take her body volume from this description, not from the costume's silhouette\n* Proportions: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No extra limbs.\n* Expression: a relaxed, relieved look. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\n\n4. COORDINATION\n* Concept: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia. one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n* Outfit: a one-shoulder lounge top and matching soft pants\n* Exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis; styling strong — maximal styling presence within the scene; retain chosen exposure and anatomy\n* Accessories: her legend — self-sacrificing resolve, healing welts under her armor, an iron whip and fire-ship torches — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n* Signature: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (an iron whip) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n* Held item: none (both hands as in the action below)\n\n5. SCENE\n* Setting: this scene happens inside her own world — the world of the attached image — as if she simply lives there: year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor. Place: a space-station docking bay with a sleek shuttle on its pad and long light strips\n* Action: lying on her side. she lies on her side, supported along her hip and shoulder. Right hand: her own right arm bends behind her head, the hand cradling the back of her head, her elbow raised beside her head. Left hand: her own left hand is planted on the ground beside her. Legs: legs bent together to one side.\n* Composition: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her. 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\n* Gaze: she looks into the camera.\n* Angle: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n* Body: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's. natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n* Rules: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nAVOID: default card pose, front-facing ID-photo face, carrying over the attached image's outfit, armor, palette or patterns, other people posed with her, logo, watermark, speech bubble, frame border, readable text or numbers, extra limbs, deformed hands, a smaller head or longer neck, a longer face or heavier jaw from the camera angle, a changed eye colour, heavier makeup than the attached image\n",
+  "source_library_file_id": "libfile_6d555ba90e3881919f002a81312a7ba5",
+  "source_file_name": "우주 도킹 베이에서의 휴식.png",
+  "retries": [
+   {
+    "n": 1,
+    "status": "moderation_blocked: sexual (output)",
+    "exposure": "bold"
+   },
+   {
+    "n": 2,
+    "status": "success",
+    "exposure": "bold"
+   }
+  ],
+  "ref_sha256": "8b3fb4323f016900f5229f4c5920719fe752073363cd1718b0983acbe39f67a1",
+  "num_last_images_to_include": 2,
+  "reference_images": [
+   {
+    "slot": "mecha",
+    "png_sha256": "8b3fb4323f016900f5229f4c5920719fe752073363cd1718b0983acbe39f67a1",
+    "library_file_id": "libfile_5e90ff95f5948191b06bd7d28facd402"
+   },
+   {
+    "slot": "mecha-casual1",
+    "png_sha256": "1e854acf3aa078cddeec87628d2656074a85dc9e8d237ab5615169993ca9bd05",
+    "library_file_id": "libfile_bc3bd2a1ccd08191afeda87a0ccf9fb9"
+   }
+  ],
+  "reference_note": "같은 턴의 메카 기본컷을 기준으로 선택; last-images에는 앞서 생성된 일상컷도 함께 포함됨. 실제 참조 선택 지시문을 submitted_prompt에 보존."
+ },
+ "execution": "sam-hwanggai-20261104-653716",
+ "publish_execution": "sam-hwanggai-publish-20261104-653716",
+ "imported": "2026-11-04",
+ "qa": {
+  "passed": false,
+  "observations": [
+   "우주 항구·원숄더 라운지·전신, 머리 뒤 오른팔·바닥 짚은 왼팔; 두 다리와 발 연결 정상.",
+   "기준 얼굴과 보라 머리·체형 유지; 무기 없음.",
+   "계획의 옆으로 눕기보다 상체를 높여 반쯤 앉은 자세. 홍채가 기준보다 보랏빛으로 보임."
+  ],
+  "cause": "머리 뒤로 든 팔과 바닥 짚은 손의 받침 관계가 누운 자세보다 상체를 세운 휴식 자세로 해석됨.",
+  "reviewer": "gpt",
+  "image_sha256": "32bb9ab1a353a7fd479bf7c875e8098788408d0914cea2ada6b74c6c85d49512"
+ },
+ "acceptance": "user_approval_2026-11-04 — 메카 다시 시도해줘; 메인 올려줘",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

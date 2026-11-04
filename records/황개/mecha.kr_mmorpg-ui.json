@@ -1,0 +1,88 @@
+{
+ "atelier": "samguk",
+ "card": "황개",
+ "faction": "wu",
+ "role": "general",
+ "world": "mecha",
+ "style": "kr_mmorpg",
+ "styleVersion": "v3",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "azure",
+   "impression": "stoic",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "late_30s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "winged_liner",
+   "brows": "feathered",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "inverted_triangle",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "violet",
+   "hair": "chignon",
+   "bangs": "baby"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "황개_mecha_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Huang Gai (황개), a general of Eastern Wu in the Romance of the Three Kingdoms — the veteran who offered her own back to the lash to light the fire at Red Cliffs. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Huang Gai to carry in her design and the scene: self-sacrificing resolve, healing welts under her armor, an iron whip and fire-ship torches.\nFACTION — Eastern Wu. Palette: crimson red, gold, river teal, black lacquer.\nAGE: late thirties — a glamorous, alluring mature beauty in her prime: confident, sensual poise, a knowing gaze and a ripe, womanly figure; smooth, radiant skin with at most the faintest lines at the eye corners; never old, tired, gaunt or matronly — still the small, soft chin and soft contours.\nSILHOUETTE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; an elegant low chignon with short baby bangs; violet hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a stoic, unreadable reserve; fair skin; softly tapered face narrowing to a small, soft chin; large eyes — large round eyes, level outer eye corners; soft feathered brows; petite straight nose; soft medium lips; azure-blue eyes; sharp winged eyeliner. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — MECHA: year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. MECHA DESIGN: she is a female mecha personification, built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: crimson and black lacquer plating with gold edges, streamlined naval hull shapes and fin binders, hydrojet thrusters, flame-orange glow lines.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: an iron whip — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a firm, resolute look with calm, steady eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-04",
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8b3fb4323f016900f5229f4c5920719fe752073363cd1718b0983acbe39f67a1",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "0c045a563857b0654f4c10b7169d1f5d806d10715f20f91201a4b4f684569aac"
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "147903a5cdae27e3ab842e3d48cf9e737a4ad1de347c4be52e031ca56a529692",
+  "submitted_prompt_sha256": "b8cd41a4f8943998b9eedd3446c24fbc9658f98dd3d22c85277727d2b92620f2",
+  "submitted_prompt": "CONCEPT: a female personification of Huang Gai (황개), a general of Eastern Wu in the Romance of the Three Kingdoms — the veteran who offered her own back to the lash to light the fire at Red Cliffs. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Huang Gai to carry in her design and the scene: self-sacrificing resolve, healing welts under her armor, an iron whip and fire-ship torches.\nFACTION — Eastern Wu. Palette: crimson red, gold, river teal, black lacquer.\nAGE: late thirties — a glamorous, alluring mature beauty in her prime: confident, sensual poise, a knowing gaze and a ripe, womanly figure; smooth, radiant skin with at most the faintest lines at the eye corners; never old, tired, gaunt or matronly — still the small, soft chin and soft contours.\nSILHOUETTE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; an elegant low chignon with short baby bangs; violet hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a stoic, unreadable reserve; fair skin; softly tapered face narrowing to a small, soft chin; large eyes — large round eyes, level outer eye corners; soft feathered brows; petite straight nose; soft medium lips; azure-blue eyes; sharp winged eyeliner. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — MECHA: year 2190, the Wu carrier fleet in orbit above an ocean world: crimson starships and carriers, a glowing nebula, the planet's blue oceans and storm clouds below, neon running lights on the hulls. MECHA DESIGN: she is a female mecha personification, built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: crimson and black lacquer plating with gold edges, streamlined naval hull shapes and fin binders, hydrojet thrusters, flame-orange glow lines.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: an iron whip — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a firm, resolute look with calm, steady eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.\nImage output size: 1024×1536 pixels.",
+  "source_library_file_id": "libfile_5e90ff95f5948191b06bd7d28facd402",
+  "source_file_name": "동오의 황개, 우주를 가르는 철채찍.png",
+  "retries": []
+ },
+ "execution": "sam-hwanggai-20261104-653716",
+ "publish_execution": "sam-hwanggai-publish-20261104-653716",
+ "imported": "2026-11-04",
+ "qa": {
+  "passed": true,
+  "observations": [
+   "우주 함대와 해양 행성 배경의 붉은색·금색 메카 전신, 인간 얼굴과 보라 올림머리·푸른 눈.",
+   "목 아래 기계 판금과 관절, 천 망토 대신 강체 바인더; 쇠 채찍 한 자루가 손에서 끝까지 이어짐.",
+   "한 여성·두 팔·두 다리, 두 손 연결 정상; 읽히는 글자·로고·워터마크 없음."
+  ],
+  "reviewer": "gpt",
+  "image_sha256": "8b3fb4323f016900f5229f4c5920719fe752073363cd1718b0983acbe39f67a1"
+ },
+ "acceptance": "user_approval_2026-11-04 — 메카 다시 시도해줘; 메인 올려줘",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

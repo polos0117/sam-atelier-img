@@ -1,0 +1,18 @@
+{
+ "execution": "sam-hwanggai-20261104-653716",
+ "publish_execution": "sam-hwanggai-publish-20261104-653716",
+ "status": "generated_and_imported",
+ "approval": [
+  "메카 다시 시도해줘",
+  "메인 올려줘"
+ ],
+ "files": [
+  "황개_mecha_kr_mmorpg_f.webp",
+  "황개_mecha_kr_mmorpg_f_casual1.webp",
+  "황개_mecha_kr_mmorpg_f_casual2.webp",
+  "황개_mecha_kr_mmorpg_f_casual3.webp",
+  "황개_mecha_kr_mmorpg_f_casual4.webp",
+  "황개_mecha_kr_mmorpg_f_casual5.webp"
+ ],
+ "note": "작업 환경 미연결 중 생성된 6개 원본을 복구해 변환·등록. 기존 mecha.blocked.json은 중단 이력으로 보존."
+}

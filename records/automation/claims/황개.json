@@ -4,7 +4,7 @@
   {
    "key": "황개",
    "execution": "sam-hwanggai-20261104-653716",
-   "status": "blocked",
+   "status": "working",
    "claimed_at": "2026-11-04T01:16:12.990Z",
    "date_kst": "2026-11-04",
    "date_utc": "2026-11-04",
@@ -29,7 +29,10 @@
     "황개_mecha_kr_mmorpg_f_casual5.webp"
    ],
    "reason": "메카 기본컷 image_gen 호출이 사용자에 의해 중단됨. 삼국시대·판타지 12장은 검수·등록하고 메카 6장은 미완료로 보존.",
-   "blocked_at": "2026-11-04T01:36:31.761Z"
+   "blocked_at": "2026-11-04T01:36:31.761Z",
+   "resumed_at": "2026-11-04T03:35:39.222271+00:00",
+   "resume_approval": "메카 다시 시도해줘; 메인 올려줘",
+   "resume_execution": "sam-hwanggai-publish-20261104-653716"
   }
  ]
 }
