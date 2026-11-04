@@ -1,0 +1,16 @@
+{
+ "execution": "sam-hwanggai-20261104-653716",
+ "slot": "mecha",
+ "status": "interrupted",
+ "reason": "image_gen tool call aborted by user; no image returned",
+ "attempts": 1,
+ "prompt_sha256": "147903a5cdae27e3ab842e3d48cf9e737a4ad1de347c4be52e031ca56a529692",
+ "remaining": [
+  "mecha",
+  "mecha-casual1",
+  "mecha-casual2",
+  "mecha-casual3",
+  "mecha-casual4",
+  "mecha-casual5"
+ ]
+}
