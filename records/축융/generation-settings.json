@@ -1,0 +1,140 @@
+{
+ "_": "tools/prompt-pack.cjs 의 설정 — 고칠 수 있는 칸만 있다. 직접 입력(글 칸 · 표에 없는 외형)엔 why 에 까닭을 적는다. 고친 뒤 build",
+ "card": "축융",
+ "style": "kr_mmorpg",
+ "plans": [
+  "/workspace/scratch/9ef24c46741a/zhurong-work/plan-samguk/plan.json",
+  "/workspace/scratch/9ef24c46741a/zhurong-work/plan-fantasy/plan.json",
+  "/workspace/scratch/9ef24c46741a/zhurong-work/plan-mecha/plan.json"
+ ],
+ "worlds": {
+  "samguk": {
+   "notes": {},
+   "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   },
+   "shot": {},
+   "why": ""
+  },
+  "fantasy": {
+   "notes": {},
+   "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   },
+   "shot": {},
+   "why": ""
+  },
+  "mecha": {
+   "notes": {},
+   "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   },
+   "shot": {},
+   "why": ""
+  }
+ },
+ "casual": {
+  "samguk-casual1": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "samguk-casual2": {
+   "scene": "",
+   "outfit": "a loose opaque long-sleeved sweatshirt and full-length relaxed trousers, fully covering the torso, chest, waist and legs; comfortable modest everyday clothing",
+   "custom": "",
+   "why": "Original generated output was rejected by output moderation (sexual, request ac8d4a66-b8b2-47ce-b1d6-988ad036eabe). Replace cropped hoodie and shorts with fully covering loose sweatshirt and trousers; exposure low.",
+   "exposure": "low"
+  },
+  "samguk-casual3": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "samguk-casual4": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "samguk-casual5": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual1": {
+   "scene": "",
+   "outfit": "fully opaque long-sleeved rashguard and ankle-length swim leggings, a modest athletic swimming outfit covering the chest, torso, arms and legs completely",
+   "custom": "",
+   "why": "Input moderation rejected original wrap-front swimsuit (sexual; request cebc51ef-f681-4820-9617-189ccdaeb538). Use fully covering athletic swimwear with low exposure.",
+   "exposure": "low"
+  },
+  "fantasy-casual2": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual3": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual4": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual5": {
+   "scene": "",
+   "outfit": "a fully covering Halloween sorceress costume: opaque high-neck long-sleeved velvet dress, modest neckline, no lingerie, no cutouts; a festive witch costume with a small decorative headband",
+   "custom": "",
+   "why": "Original succubus costume was rejected by input moderation (sexual; request 192795be-6dc0-482c-9e36-be0837413f75). Replace with fully covering nonsexual sorceress Halloween costume and low exposure.",
+   "exposure": "low"
+  },
+  "mecha-casual1": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual2": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual3": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual4": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual5": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  }
+ }
+}
