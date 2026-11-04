@@ -1,0 +1,33 @@
+{
+ "key": "황개",
+ "runs": [
+  {
+   "key": "황개",
+   "execution": "sam-hwanggai-20261104-653716",
+   "status": "working",
+   "claimed_at": "2026-11-04T01:16:12.990Z",
+   "date_kst": "2026-11-04",
+   "date_utc": "2026-11-04",
+   "missing": [
+    "황개_samguk_kr_mmorpg_f.webp",
+    "황개_samguk_kr_mmorpg_f_casual1.webp",
+    "황개_samguk_kr_mmorpg_f_casual2.webp",
+    "황개_samguk_kr_mmorpg_f_casual3.webp",
+    "황개_samguk_kr_mmorpg_f_casual4.webp",
+    "황개_samguk_kr_mmorpg_f_casual5.webp",
+    "황개_fantasy_kr_mmorpg_f.webp",
+    "황개_fantasy_kr_mmorpg_f_casual1.webp",
+    "황개_fantasy_kr_mmorpg_f_casual2.webp",
+    "황개_fantasy_kr_mmorpg_f_casual3.webp",
+    "황개_fantasy_kr_mmorpg_f_casual4.webp",
+    "황개_fantasy_kr_mmorpg_f_casual5.webp",
+    "황개_mecha_kr_mmorpg_f.webp",
+    "황개_mecha_kr_mmorpg_f_casual1.webp",
+    "황개_mecha_kr_mmorpg_f_casual2.webp",
+    "황개_mecha_kr_mmorpg_f_casual3.webp",
+    "황개_mecha_kr_mmorpg_f_casual4.webp",
+    "황개_mecha_kr_mmorpg_f_casual5.webp"
+   ]
+  }
+ ]
+}
