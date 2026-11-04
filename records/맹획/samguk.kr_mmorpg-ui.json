@@ -1,139 +1,118 @@
 {
-  "atelier": "samguk",
+ "atelier": "samguk",
+ "card": "맹획",
+ "faction": "qun",
+ "role": "general",
+ "world": "samguk",
+ "style": "kr_mmorpg",
+ "styleVersion": "v4",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "jade",
+   "impression": "regal",
+   "expr": "smug",
+   "skin_tone": "deep_brown",
+   "age": "late_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "gloss",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "soft_medium",
+   "face_shape": "diamond",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "indigo",
+   "hair": "lob",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": ""
+ },
+ "file": "맹획_samguk_kr_mmorpg_f.webp",
+ "prompt": "CONCEPT: a female personification of Meng Huo (맹획), a general of the rival warlords in the Romance of the Three Kingdoms — the Nanman king captured seven times and released seven times. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure in the body type SILHOUETTE names — soft, rounded volume at the bust, and hips and thighs kept in realistic human proportion: long, shapely legs, never oversized thighs, exaggerated hips or a bottom-heavy figure; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Meng Huo to carry in her design and the scene: proud stubbornness and final loyalty, beast-tooth necklace, tribal gold.\nFACTION — the rival warlords (雄). Palette: royal violet, tarnished gold, bronze, dark crimson.\nAGE: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nSILHOUETTE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a shoulder-length lob with no bangs, forehead bare; deep indigo hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a regal, imperious haughtiness; deep brown skin; diamond-shaped face; large eyes — narrow upturned eyes, level outer eye corners; thin arched brows; small button nose; soft medium lips; jade-green eyes; glossy nude lips. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — THREE KINGDOMS ERA: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a great southern broadsword — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint knowing smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 孟.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-04",
+ "record": "records/맹획/samguk.kr_mmorpg-ui.json",
+ "storage": {
   "card": "맹획",
-  "faction": "qun",
-  "role": "general",
+  "out": "world",
   "world": "samguk",
   "style": "kr_mmorpg",
-  "styleVersion": "v3",
-  "notes": {},
-  "look": {
+  "notes": {
+   "맹획|samguk": {}
+  },
+  "looks": {
+   "맹획|samguk": {
     "params": {},
     "faceDesignOn": true,
     "silhouetteOn": true,
-    "exposure": "low"
+    "exposure": "bold"
+   }
   },
-  "design": {
-    "face": {
-      "eye_color": "jade",
-      "impression": "regal",
-      "expr": "smug",
-      "skin_tone": "deep_brown",
-      "age": "late_20s",
-      "eye_size": "large",
-      "eye_tilt": "level",
-      "mark": "gloss",
-      "brows": "arched_thin",
-      "nose": "small_button",
-      "lips": "soft_medium",
-      "face_shape": "diamond",
-      "eyes": "narrow_upturned"
-    },
-    "silhouette": {
-      "body": "strong_curvy",
-      "hair_color": "indigo",
-      "hair": "lob",
-      "bangs": "none"
-    }
-  },
-  "shot": {
+  "shots": {
+   "맹획|samguk": {
     "scene": "",
     "time": "",
     "pose": "",
     "expr": ""
+   }
   },
-  "file": "맹획_samguk_kr_mmorpg_f.webp",
-  "prompt": "CONCEPT: a female personification of Meng Huo (맹획), a general of the rival warlords in the Romance of the Three Kingdoms — the Nanman king captured seven times and released seven times. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Meng Huo to carry in her design and the scene: proud stubbornness and final loyalty, beast-tooth necklace, tribal gold.\nFACTION — the rival warlords (雄). Palette: royal violet, tarnished gold, bronze, dark crimson.\nAGE: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nSILHOUETTE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a shoulder-length lob with no bangs, forehead bare; deep indigo hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a regal, imperious haughtiness; deep brown skin; diamond-shaped face; large eyes — narrow upturned eyes, level outer eye corners; thin arched brows; small button nose; soft medium lips; jade-green eyes; glossy nude lips. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — THREE KINGDOMS ERA: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (low): a mostly covered version of the costume WORLD describes; face, neck and hands show.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a great southern broadsword — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint knowing smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 孟.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
-  "date": "2026-11-04",
-  "record": "records/맹획/samguk.kr_mmorpg-ui.json",
-  "storage": {
-    "card": "맹획",
-    "out": "world",
-    "world": "samguk",
-    "style": "kr_mmorpg",
-    "notes": {
-      "맹획|samguk": {}
-    },
-    "looks": {
-      "맹획|samguk": {
-        "params": {},
-        "faceDesignOn": true,
-        "silhouetteOn": true,
-        "exposure": "low"
-      }
-    },
-    "shots": {
-      "맹획|samguk": {
-        "scene": "",
-        "time": "",
-        "pose": "",
-        "expr": ""
-      }
-    },
-    "walked": {},
-    "casualN": 1,
-    "scenes": {}
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8d0c5f597299b37fff97acf0e511ee4d4dfc66e72944915a1279b441e2fd71b4",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "2145448fa872ad2b96ad9b3510ba0359f2abf0b88976ec51e4a98ef5e869404c"
   },
-  "generation": {
-    "tool": "image_gen.imagegen",
-    "endpoint": "images/generations",
-    "size": [
-      1024,
-      1536
-    ],
-    "png_sha256": "d023e8db76d2b05539a28791967b0ecef0dc6f9485f6235621eba522c197d68b",
-    "webp": {
-      "quality": 90,
-      "method": 6,
-      "sha256": "8d19cf9d64ddad8700de9c08b4186b1239e36c4c4b9970dacd8aa66c9f11c5da"
-    },
-    "prompt_form": "en-prompt",
-    "prompt_sha256": "e8e45f1ff741d01e2ccac1c0cbe66f62662fe75ec0aa40e1be839e0edd7d7e17",
-    "submitted_prompt": "CONCEPT: a female personification of Meng Huo (맹획), a general of the rival warlords in the Romance of the Three Kingdoms — the Nanman king captured seven times and released seven times. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Meng Huo to carry in her design and the scene: proud stubbornness and final loyalty, beast-tooth necklace, tribal gold.\nFACTION — the rival warlords (雄). Palette: royal violet, tarnished gold, bronze, dark crimson.\nAGE: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nSILHOUETTE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a shoulder-length lob with no bangs, forehead bare; deep indigo hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a regal, imperious haughtiness; deep brown skin; diamond-shaped face; large eyes — narrow upturned eyes, level outer eye corners; thin arched brows; small button nose; soft medium lips; jade-green eyes; glossy nude lips. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — THREE KINGDOMS ERA: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (low): a mostly covered version of the costume WORLD describes; face, neck and hands show.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a great southern broadsword — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint knowing smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 孟.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
-    "reference_settings": {
-      "referenced_image_paths": [],
-      "num_last_images_to_include": null
-    },
-    "model_id": null,
-    "quality_setting": null,
-    "size_setting": "not exposed by image_gen.imagegen; actual output verified",
-    "retries": [
-      {
-        "n": 1,
-        "status": "moderation_blocked",
-        "category": "sexual",
-        "stage": "output",
-        "request_id": "0a456fa9-bf55-4013-a8c6-5fd63eea1068",
-        "exposure": "bold",
-        "prompt_sha256": "3abe0dfd1125c0edc0fae5eef554a22016b63731639f461fa0e91bc1f76ee757"
-      },
-      {
-        "n": 2,
-        "status": "success",
-        "exposure": "low",
-        "reason": "복식 중심 낮은 노출로 생성기 설정 조정"
-      }
-    ]
-  },
-  "execution": "sam-menghuo-8baa5",
-  "imported": "2026-11-04",
-  "qa": {
-    "reviewer": "gpt",
-    "image_sha256": "d023e8db76d2b05539a28791967b0ecef0dc6f9485f6235621eba522c197d68b",
-    "passed": false,
-    "observations": [
-      "1024×1536 세로 2:3 실제 원본 확인",
-      "주인공 성인 여성 1명, 로고·워터마크·프레임 없음",
-      "팔다리 중복·단절은 보이지 않음",
-      "low 설정보다 가슴선과 다리 노출이 남음; 실루엣과 장식은 유지됨",
-      "머리가 설계 lob보다 길고 웨이브가 강함"
-    ],
-    "cause": "low 노출 줄과 깊은 장식 의상·sheer skirt·체형 강조 줄의 영향이 충돌함"
-  },
-  "acceptance": "user_approval_2026-11-04 — 맹획 이미지·도감 커밋 및 main 일반 반영 승인",
-  "review": {
-    "reviewed": false,
-    "by": "user",
-    "result": "pending"
-  }
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "fa37291950db143177fca8b6ea3bfd19dd244ed1d74d50224b8c2c47f05235c5",
+  "submitted_prompt": "CONCEPT: a female personification of Meng Huo (맹획), a general of the rival warlords in the Romance of the Three Kingdoms — the Nanman king captured seven times and released seven times. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure in the body type SILHOUETTE names — soft, rounded volume at the bust, and hips and thighs kept in realistic human proportion: long, shapely legs, never oversized thighs, exaggerated hips or a bottom-heavy figure; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Meng Huo to carry in her design and the scene: proud stubbornness and final loyalty, beast-tooth necklace, tribal gold.\nFACTION — the rival warlords (雄). Palette: royal violet, tarnished gold, bronze, dark crimson.\nAGE: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nSILHOUETTE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a shoulder-length lob with no bangs, forehead bare; deep indigo hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a regal, imperious haughtiness; deep brown skin; diamond-shaped face; large eyes — narrow upturned eyes, level outer eye corners; thin arched brows; small button nose; soft medium lips; jade-green eyes; glossy nude lips. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — THREE KINGDOMS ERA: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a great southern broadsword — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint knowing smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 孟.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+  "model_id": null,
+  "quality_setting": null,
+  "size_setting": "Not exposed by image_gen.imagegen; actual 1024x1536 output verified",
+  "retries": [],
+  "reference_settings": {}
+ },
+ "execution": "sam-menghuo-redo-626ae",
+ "imported": "2026-11-04",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8d0c5f597299b37fff97acf0e511ee4d4dfc66e72944915a1279b441e2fd71b4",
+  "passed": true,
+  "observations": [
+   "1024×1536 실제 원본 확인",
+   "성인 여성 1명, 후한풍 미늘갑옷·비단·남만 장식과 대도 1자루, 孟 깃발",
+   "머리·발 및 두 팔·다리의 연결 정상, 양손과 검이 자연스럽게 연결",
+   "어깨 길이 머리·녹색 눈·짧은 얼굴, 하체가 과도하게 확대되지 않음"
+  ]
+ },
+ "acceptance": "사용자 2026-11-04 맹획 재작업·main 일반 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
 }

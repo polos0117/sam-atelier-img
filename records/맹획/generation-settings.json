@@ -1,137 +1,137 @@
 {
-  "_": "tools/prompt-pack.cjs 의 설정 — 고칠 수 있는 칸만 있다. 직접 입력(글 칸 · 표에 없는 외형)엔 why 에 까닭을 적는다. 고친 뒤 build",
-  "card": "맹획",
-  "style": "kr_mmorpg",
-  "plans": [
-    "/workspace/scratch/8baa5c9a92bc/menghuo-work/plan-samguk/plan.json",
-    "/workspace/scratch/8baa5c9a92bc/menghuo-work/plan-fantasy/plan.json",
-    "/workspace/scratch/8baa5c9a92bc/menghuo-work/plan-mecha/plan.json"
-  ],
-  "worlds": {
-    "samguk": {
-      "notes": {},
-      "look": {
-        "params": {},
-        "faceDesignOn": true,
-        "silhouetteOn": true,
-        "exposure": "low"
-      },
-      "shot": {},
-      "why": "삼국시대 첫 요청 output moderation_blocked sexual; 복식 중심의 낮은 노출로 조정"
-    },
-    "fantasy": {
-      "notes": {},
-      "look": {
-        "params": {},
-        "faceDesignOn": true,
-        "silhouetteOn": true,
-        "exposure": "bold"
-      },
-      "shot": {},
-      "why": ""
-    },
-    "mecha": {
-      "notes": {},
-      "look": {
-        "params": {},
-        "faceDesignOn": true,
-        "silhouetteOn": true,
-        "exposure": "bold"
-      },
-      "shot": {},
-      "why": ""
-    }
+ "_": "tools/prompt-pack.cjs 의 설정 — 고칠 수 있는 칸만 있다. 직접 입력(글 칸 · 표에 없는 외형)엔 why 에 까닭을 적는다. 고친 뒤 build",
+ "card": "맹획",
+ "style": "kr_mmorpg",
+ "plans": [
+  "/workspace/scratch/626ae82a1ea0/work/plans/plan-samguk/plan.json",
+  "/workspace/scratch/626ae82a1ea0/work/plans/plan-fantasy/plan.json",
+  "/workspace/scratch/626ae82a1ea0/work/plans/plan-mecha/plan.json"
+ ],
+ "worlds": {
+  "samguk": {
+   "notes": {},
+   "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   },
+   "shot": {},
+   "why": ""
   },
-  "casual": {
-    "samguk-casual1": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "samguk-casual2": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "samguk-casual3": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "samguk-casual4": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "samguk-casual5": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "fantasy-casual1": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "fantasy-casual2": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "fantasy-casual3": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "fantasy-casual4": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "fantasy-casual5": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "mecha-casual1": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "mecha-casual2": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "mecha-casual3": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "mecha-casual4": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    },
-    "mecha-casual5": {
-      "scene": "",
-      "outfit": "",
-      "custom": "",
-      "why": ""
-    }
+  "fantasy": {
+   "notes": {},
+   "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   },
+   "shot": {},
+   "why": ""
+  },
+  "mecha": {
+   "notes": {},
+   "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   },
+   "shot": {},
+   "why": ""
   }
+ },
+ "casual": {
+  "samguk-casual1": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "samguk-casual2": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "samguk-casual3": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "samguk-casual4": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "samguk-casual5": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual1": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual2": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual3": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual4": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "fantasy-casual5": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual1": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual2": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual3": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual4": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  },
+  "mecha-casual5": {
+   "scene": "",
+   "outfit": "",
+   "custom": "",
+   "why": ""
+  }
+ }
 }

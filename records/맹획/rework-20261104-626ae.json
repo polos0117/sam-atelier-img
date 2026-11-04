@@ -1,0 +1,758 @@
+{
+ "execution": "sam-menghuo-redo-626ae",
+ "reason": "사용자 맹획 재작업 — 현재 생성기 화풍 v4 적용",
+ "date": "2026-11-04",
+ "previous_plans_and_settings": {
+  "samguk-casual-plan.json": {
+   "card": "맹획",
+   "world": "samguk",
+   "seed": 791330881,
+   "tree": 2,
+   "style": "kr_mmorpg",
+   "required": "lingerie · nation",
+   "slots": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "fresh": false,
+   "cuts": [
+    {
+     "n": 1,
+     "era": "now",
+     "place": "stage_event",
+     "ofam": "lingerie",
+     "treeV": 2,
+     "prop": "",
+     "preset": "wall_hair",
+     "use": "",
+     "posture": "lean_wall",
+     "support": "back_wall",
+     "frame": "waist_up",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "hair_tuck",
+     "left": "out",
+     "legs": "",
+     "gaze": "screen_left",
+     "item": "bustier_inspired",
+     "expr": "sensual",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 2,
+     "era": "nation",
+     "place": "nation_roof",
+     "ofam": "homewear",
+     "treeV": 2,
+     "prop": "",
+     "preset": "lie_side_full",
+     "use": "",
+     "posture": "lie_side",
+     "support": "side_floor",
+     "frame": "full_body",
+     "body": "front",
+     "head": "tilt",
+     "camera": "high",
+     "right": "behind_head",
+     "left": "floor_brace",
+     "legs": "legs_bent_side",
+     "gaze": "camera",
+     "item": "soft_tank_shorts",
+     "expr": "curious",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 3,
+     "era": "now",
+     "place": "heritage_filmset",
+     "ofam": "retro",
+     "treeV": 2,
+     "prop": "",
+     "preset": "kneel_clasp",
+     "use": "",
+     "posture": "kneel",
+     "support": "none",
+     "frame": "three_quarter",
+     "body": "front",
+     "head": "with_body",
+     "camera": "high",
+     "right": "clasp_both",
+     "left": "clasp_both",
+     "legs": "knees_together",
+     "gaze": "camera",
+     "item": "jetset_swim",
+     "expr": "calm",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 4,
+     "era": "fantasy",
+     "place": "fx_skygarden",
+     "ofam": "evening",
+     "treeV": 2,
+     "prop": "",
+     "preset": "raise_chest",
+     "use": "lantern_raise",
+     "posture": "stand",
+     "support": "none",
+     "frame": "chest_up",
+     "body": "front_3q",
+     "head": "tilt",
+     "camera": "eye",
+     "right": "prop",
+     "left": "out",
+     "legs": "",
+     "gaze": "",
+     "item": "slip_dress",
+     "expr": "pensive",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 5,
+     "era": "heritage",
+     "place": "heritage_plank",
+     "ofam": "active",
+     "treeV": 2,
+     "prop": "",
+     "preset": "hair_close",
+     "use": "",
+     "posture": "stand",
+     "support": "none",
+     "frame": "face_close",
+     "body": "side",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "hair_tuck",
+     "left": "out",
+     "legs": "",
+     "gaze": "down",
+     "item": "yoga_set",
+     "expr": "amused",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    }
+   ]
+  },
+  "fantasy-casual-plan.json": {
+   "card": "맹획",
+   "world": "fantasy",
+   "seed": 791330882,
+   "tree": 2,
+   "style": "kr_mmorpg",
+   "required": "lingerie · nation",
+   "slots": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "fresh": false,
+   "cuts": [
+    {
+     "n": 1,
+     "era": "now",
+     "place": "home_bath",
+     "ofam": "lingerie",
+     "treeV": 2,
+     "prop": "",
+     "preset": "stand_use",
+     "use": "cup_wrap",
+     "posture": "stand",
+     "support": "none",
+     "frame": "environmental",
+     "body": "side",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "prop",
+     "left": "prop",
+     "legs": "stand_relaxed",
+     "gaze": "",
+     "item": "bodysuit",
+     "expr": "nostalgic",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 2,
+     "era": "nation",
+     "place": "nation_inn",
+     "ofam": "bath",
+     "treeV": 2,
+     "prop": "",
+     "preset": "side_chair_read",
+     "use": "book_read",
+     "posture": "sit_chair",
+     "support": "none",
+     "frame": "full_body",
+     "body": "side",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "prop",
+     "left": "prop",
+     "legs": "knees_together",
+     "gaze": "at_prop",
+     "item": "spa_robe",
+     "expr": "nostalgic",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 3,
+     "era": "fantasy",
+     "place": "fx_ice",
+     "ofam": "subculture",
+     "treeV": 2,
+     "prop": "",
+     "preset": "clasp_low",
+     "use": "",
+     "posture": "stand",
+     "support": "none",
+     "frame": "waist_up",
+     "body": "front",
+     "head": "tilt",
+     "camera": "low",
+     "right": "clasp_both",
+     "left": "clasp_both",
+     "legs": "",
+     "gaze": "camera",
+     "item": "visual_kei",
+     "expr": "candid",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 4,
+     "era": "heritage",
+     "place": "heritage_teahouse",
+     "ofam": "costume",
+     "treeV": 2,
+     "prop": "",
+     "preset": "chin_close",
+     "use": "",
+     "posture": "sit_chair",
+     "support": "none",
+     "frame": "face_close",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "chin_table",
+     "left": "out",
+     "legs": "",
+     "gaze": "window",
+     "item": "moon_priestess",
+     "expr": "calm",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 5,
+     "era": "now",
+     "place": "spa_footbath",
+     "ofam": "bridal",
+     "treeV": 2,
+     "prop": "",
+     "preset": "wave_chest",
+     "use": "",
+     "posture": "stand",
+     "support": "none",
+     "frame": "chest_up",
+     "body": "front",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "wave",
+     "left": "chest_hand",
+     "legs": "",
+     "gaze": "camera",
+     "item": "slip_wedding",
+     "expr": "soft_smile",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    }
+   ]
+  },
+  "mecha-casual-plan.json": {
+   "card": "맹획",
+   "world": "mecha",
+   "seed": 791330883,
+   "tree": 2,
+   "style": "kr_mmorpg",
+   "required": "lingerie · nation · roleplay",
+   "slots": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "fresh": false,
+   "cuts": [
+    {
+     "n": 1,
+     "era": "fantasy",
+     "place": "fx_spa",
+     "ofam": "lingerie",
+     "treeV": 2,
+     "prop": "",
+     "preset": "hip_contra",
+     "use": "",
+     "posture": "stand",
+     "support": "none",
+     "frame": "three_quarter",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "hip",
+     "left": "hair_tuck",
+     "legs": "contrapposto",
+     "gaze": "camera",
+     "item": "front_lace_corset",
+     "expr": "wink",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 2,
+     "era": "nation",
+     "place": "nation_garden",
+     "ofam": "bath",
+     "treeV": 2,
+     "prop": "",
+     "preset": "crossed_wall",
+     "use": "",
+     "posture": "lean_wall",
+     "support": "back_wall",
+     "frame": "chest_up",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "arms_crossed",
+     "left": "arms_crossed",
+     "legs": "",
+     "gaze": "camera",
+     "item": "towel_wrap",
+     "expr": "focused",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 3,
+     "era": "now",
+     "place": "library_reading",
+     "ofam": "roleplay",
+     "treeV": 2,
+     "prop": "",
+     "preset": "bench_sit",
+     "use": "slip_hold",
+     "posture": "sit_chair",
+     "support": "none",
+     "frame": "environmental",
+     "body": "front",
+     "head": "turn_side",
+     "camera": "eye",
+     "right": "prop",
+     "left": "lap",
+     "legs": "knees_together",
+     "gaze": "screen_left",
+     "item": "adult_teacher",
+     "expr": "soft_smile",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 4,
+     "era": "heritage",
+     "place": "heritage_studio",
+     "ofam": "active",
+     "treeV": 2,
+     "prop": "",
+     "preset": "tiptoe_wave",
+     "use": "",
+     "posture": "stand",
+     "support": "none",
+     "frame": "full_body",
+     "body": "side",
+     "head": "with_body",
+     "camera": "low",
+     "right": "wave",
+     "left": "down",
+     "legs": "tiptoe",
+     "gaze": "camera",
+     "item": "wetsuit_half",
+     "expr": "confident",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    },
+    {
+     "n": 5,
+     "era": "now",
+     "place": "street_rooftop",
+     "ofam": "costume",
+     "treeV": 2,
+     "prop": "",
+     "preset": "shush_close",
+     "use": "",
+     "posture": "stand",
+     "support": "none",
+     "frame": "face_close",
+     "body": "front",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "shush",
+     "left": "out",
+     "legs": "",
+     "gaze": "camera",
+     "item": "flamenco",
+     "expr": "proud",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3",
+     "unlocked": []
+    }
+   ]
+  },
+  "generation-settings.json": {
+   "_": "tools/prompt-pack.cjs 의 설정 — 고칠 수 있는 칸만 있다. 직접 입력(글 칸 · 표에 없는 외형)엔 why 에 까닭을 적는다. 고친 뒤 build",
+   "card": "맹획",
+   "style": "kr_mmorpg",
+   "plans": [
+    "/workspace/scratch/8baa5c9a92bc/menghuo-work/plan-samguk/plan.json",
+    "/workspace/scratch/8baa5c9a92bc/menghuo-work/plan-fantasy/plan.json",
+    "/workspace/scratch/8baa5c9a92bc/menghuo-work/plan-mecha/plan.json"
+   ],
+   "worlds": {
+    "samguk": {
+     "notes": {},
+     "look": {
+      "params": {},
+      "faceDesignOn": true,
+      "silhouetteOn": true,
+      "exposure": "low"
+     },
+     "shot": {},
+     "why": "삼국시대 첫 요청 output moderation_blocked sexual; 복식 중심의 낮은 노출로 조정"
+    },
+    "fantasy": {
+     "notes": {},
+     "look": {
+      "params": {},
+      "faceDesignOn": true,
+      "silhouetteOn": true,
+      "exposure": "bold"
+     },
+     "shot": {},
+     "why": ""
+    },
+    "mecha": {
+     "notes": {},
+     "look": {
+      "params": {},
+      "faceDesignOn": true,
+      "silhouetteOn": true,
+      "exposure": "bold"
+     },
+     "shot": {},
+     "why": ""
+    }
+   },
+   "casual": {
+    "samguk-casual1": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "samguk-casual2": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "samguk-casual3": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "samguk-casual4": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "samguk-casual5": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "fantasy-casual1": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "fantasy-casual2": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "fantasy-casual3": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "fantasy-casual4": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "fantasy-casual5": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "mecha-casual1": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "mecha-casual2": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "mecha-casual3": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "mecha-casual4": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    },
+    "mecha-casual5": {
+     "scene": "",
+     "outfit": "",
+     "custom": "",
+     "why": ""
+    }
+   }
+  }
+ },
+ "old_webp_sha256": {
+  "맹획_fantasy_kr_mmorpg_f.webp": "bbee5e66b39e45729ba33c528015eeec72c26234f60d762f690f7c6f88a61d62",
+  "맹획_fantasy_kr_mmorpg_f_casual1.webp": "3bda44bfbedfb850b56b1c40970482689478a66a0b3c47d841700965959a0eaf",
+  "맹획_fantasy_kr_mmorpg_f_casual2.webp": "8e83950d9e10948579e804a9961795f97d180a2d06eac92a690cc6c08246a0cf",
+  "맹획_fantasy_kr_mmorpg_f_casual3.webp": "9c78432a4f293a6dac14c3de1fd77ad1ef54243a1549dcd64b95249fbd6f34e2",
+  "맹획_fantasy_kr_mmorpg_f_casual4.webp": "92f88ecbb5e2b14d546290932ee849a7ec608bf4cb41caf15c03692e50c4454a",
+  "맹획_fantasy_kr_mmorpg_f_casual5.webp": "2cfdbb6f228e11d822b02fd5ba55e49402be44155d339af5fa2a418f95c5883e",
+  "맹획_mecha_kr_mmorpg_f.webp": "3c5edef9b047ea9446562cacb5ef5c7a7b0bcb97d18e68b20bb114c3243dbfb1",
+  "맹획_mecha_kr_mmorpg_f_casual1.webp": "8b4cb262045c0399e76584c6c8b9ecc9012b57cdf3c7f826e72df2b15268b7f8",
+  "맹획_mecha_kr_mmorpg_f_casual2.webp": "8761aa2bcfe8c754399f2f0d75eb52088a7c1a4bb3f4f267a5c65a6c43442e59",
+  "맹획_mecha_kr_mmorpg_f_casual3.webp": "15479ab10df420f77f0a9ca7ab466639b258acd35e30acc8118d8dc3855bf496",
+  "맹획_mecha_kr_mmorpg_f_casual4.webp": "bdf783a27ad6c0caf15514ac68686af46a3637ab12ac580465654aebf9f2eee8",
+  "맹획_mecha_kr_mmorpg_f_casual5.webp": "791f4d8c14436307548c9c8bb780ad69c96695d98b05eb075ba5900743e618fd",
+  "맹획_samguk_kr_mmorpg_f.webp": "8d19cf9d64ddad8700de9c08b4186b1239e36c4c4b9970dacd8aa66c9f11c5da",
+  "맹획_samguk_kr_mmorpg_f_casual1.webp": "db703db96256f7043d90d8b0c9369c22470e2ab0b42c45e8edcc68a7f3f90f09",
+  "맹획_samguk_kr_mmorpg_f_casual2.webp": "70b12857d1ac94e7dde8a6fae033c22e2655e5fba13d79a8045352ea05121a45",
+  "맹획_samguk_kr_mmorpg_f_casual3.webp": "56968fc6918cabf2f2aec7149e39596153f26360c7fda003f87af116d7a57dc3",
+  "맹획_samguk_kr_mmorpg_f_casual4.webp": "d4dedf6d3c17fb06ef98d4e026a7563a0fbca77c7b1d74df8652d91c3770bf41",
+  "맹획_samguk_kr_mmorpg_f_casual5.webp": "251ebaeb41e3d3b5df5bc4aae68f6def8daa7e9de1c0240c8ab49ef2eeb25cb2"
+ },
+ "source": "built-in image_gen.imagegen; model/quality/size controls not exposed; actual size verified",
+ "qa_summary": {
+  "total": 18,
+  "passed": 6,
+  "flagged": 12,
+  "style_versions": [
+   "v4"
+  ]
+ },
+ "generation_settings": "generation-settings.json",
+ "prompt_manifest": [
+  {
+   "file": "맹획_fantasy_kr_mmorpg_f_casual1.webp",
+   "prompt_sha256": "cf08ec0f4fa3f276cd8230f1f3804403411eb229a38ba0c9d05886e48ce1f96a",
+   "png_sha256": "7329e74f50a6d9faa3db8bc68ef0f798ec15b708b19603cf570a4118d23a44d0",
+   "webp_sha256": "52e2dd9da7cf56691f76268271047b3bdeecdf7df16a7c2c05e02201e93366ac"
+  },
+  {
+   "file": "맹획_fantasy_kr_mmorpg_f_casual2.webp",
+   "prompt_sha256": "93c50e6bda9e9ab1aa1b41ee7e533cb3db7f3d53ca798f2d428057a939d6edc5",
+   "png_sha256": "80266b2ffa47b3638a9122fd030b8e0c0197a1988a5a9f70e547ea66106d2502",
+   "webp_sha256": "d46902561afe108f7c6b7b7b11cf05314d58dc4b947d0f64ca8b09c3d203bb7e"
+  },
+  {
+   "file": "맹획_fantasy_kr_mmorpg_f_casual3.webp",
+   "prompt_sha256": "f535c0911ae75128afcf0408239a7ab21ef960a676cdb50c5d9eef677874de3c",
+   "png_sha256": "5fe2e468e22fc5d728b376e6f29088604352553c26ec19b1a25c73b9376b9974",
+   "webp_sha256": "2b0389007d4cd66531fcd31dcbf4b9be4f117bc8f4a6e29fae00aab2be112c57"
+  },
+  {
+   "file": "맹획_fantasy_kr_mmorpg_f_casual4.webp",
+   "prompt_sha256": "d23f0c2719c295d4dfaa3617eebc6015197ef3b4176c40be3cf3ef48a5fdc9c6",
+   "png_sha256": "37d9c521ec235cdabbb1e1df0e5c7027330ce1a1b1a1526d016f18750d82f534",
+   "webp_sha256": "df0fa30dde7872aa2f8d58440902d345e94529a1a4fd4df406747edbf918d17b"
+  },
+  {
+   "file": "맹획_fantasy_kr_mmorpg_f_casual5.webp",
+   "prompt_sha256": "b796606a80eabf1c513f0ca7c1aaa3e2333e28317c4ad159526532d4e9744cef",
+   "png_sha256": "d67c1a60081aae3fbf2a2a9008bf55df99b1f81be52f31472d76b4981d11d8d2",
+   "webp_sha256": "5471627ef9f7c8152f14ec40c3fa4b159c7fac2c2c5ec65d3e058626a5159a29"
+  },
+  {
+   "file": "맹획_fantasy_kr_mmorpg_f.webp",
+   "prompt_sha256": "f5b1b67d2e10a9ea0e5653b8c9260a32554bee7cb29ae96295c70e02e83f3f56",
+   "png_sha256": "4b582122878655e087f3a7709dcaf5c767aa8b7bc559b5d758d19b7c1a0e2f06",
+   "webp_sha256": "b5044e7680b280e12515fc3f45585f97f6f8f59782dc5d0f2bc4b767d20207c5"
+  },
+  {
+   "file": "맹획_mecha_kr_mmorpg_f_casual1.webp",
+   "prompt_sha256": "fb5ffb28147579168d3a9b6a015ade73fd7841a6168c9038f679ff175027e0c3",
+   "png_sha256": "05312f990f946df0ce97ba98d1a4fdc3a8b922c545ed3fa3072f8f4107fbea23",
+   "webp_sha256": "c4144e021dba51d5b6af4ce22bd2005539097e4fb643605a7c167705a54fd14a"
+  },
+  {
+   "file": "맹획_mecha_kr_mmorpg_f_casual2.webp",
+   "prompt_sha256": "d12ee4e84c9c6acd68de7d225d4967ff92c155d864b7fd32105ecfc170b92448",
+   "png_sha256": "95a00d7ac76c4c9a6577b42f2bd390addacc22cc862d7d7766ebca905dbcd5ca",
+   "webp_sha256": "449c3ba6aa6efc9b30b543c779f6319a920f4e4c70d44a5ac0e2ef81d33a6342"
+  },
+  {
+   "file": "맹획_mecha_kr_mmorpg_f_casual3.webp",
+   "prompt_sha256": "aceb17f0fb4ff15f3b9f06409c7d1ddf51fd380dbd84e07c754ff7ec4ae523e3",
+   "png_sha256": "34cc33debc33effdabcacf0ae5803e0abc66957361e25a00c3821e0a30cef8fe",
+   "webp_sha256": "353a31bc6e494b184e1023177c9e583e850ff7383f045ef717ec76f6aa0801b7"
+  },
+  {
+   "file": "맹획_mecha_kr_mmorpg_f_casual4.webp",
+   "prompt_sha256": "0172db481ed461a15e7bf07f12050e348241a51b9baa6aa933213c1793aac7b6",
+   "png_sha256": "33a9e71bb1c7eb449d3d91221d0f495e8efb9a05856f8a9e0b6333813920d065",
+   "webp_sha256": "45bd541fd0322edce3c39329e5ed3fcbca18c2a04300f1f147c045b55875ac45"
+  },
+  {
+   "file": "맹획_mecha_kr_mmorpg_f_casual5.webp",
+   "prompt_sha256": "33c58134d4faa09a947ae953e484ed0545588a0c94fb71e2095fda159f527eaa",
+   "png_sha256": "be0dffdc7b7bbb28a7de5dc42a6f3f95e2e00fa10bf42f2be442e063416d0700",
+   "webp_sha256": "4cf3b614477e993e4a43fc8b7b25dfa25be6c1d5f60a964fa4b6be31969ca414"
+  },
+  {
+   "file": "맹획_mecha_kr_mmorpg_f.webp",
+   "prompt_sha256": "76dd58c887e0c7dd80fc744dde1cb2ee259971ef382ff7bdf969fc9521088d12",
+   "png_sha256": "e95aace403448084cc425a98e898b4a34ab7fcb25d9f59ae20a98abc995b9aba",
+   "webp_sha256": "52fefc59611328a226fe70bc11ef02bf137f28f38b8c6ff64db51b700bc15cd6"
+  },
+  {
+   "file": "맹획_samguk_kr_mmorpg_f_casual1.webp",
+   "prompt_sha256": "13291c3815ff68cf9262c7e682bf3a251e25d5dfe0029fefa4bc207002e22ecd",
+   "png_sha256": "ff0fd248ced8393d9fbf98cc62c13ba2302576c3cd36114248568759dfe5c4d2",
+   "webp_sha256": "2a926f96290c1a7a8a29ff7f9c913bcd4e083e539cd49aa5b7435f64e43e7a6e"
+  },
+  {
+   "file": "맹획_samguk_kr_mmorpg_f_casual2.webp",
+   "prompt_sha256": "5e9466c8e95311e7c1eb44d92f5646893900b114edf93da4eb20412ea7c38cca",
+   "png_sha256": "a04f20fbe3a018b42259ff3d75591906d9265172cdac6c71c73d1b6fb2cd378d",
+   "webp_sha256": "4a2cf616860a1757b1fd64dc30f2fc9aa10157ce97682b51b3a7a7db185528e1"
+  },
+  {
+   "file": "맹획_samguk_kr_mmorpg_f_casual3.webp",
+   "prompt_sha256": "39d37ed229ac185c41d77ad404f212185cec29ce38f2604daaf121a89a0d40b3",
+   "png_sha256": "c0eec5f252a7b107c92e695f2b0625c34a6e333dfa5e62e84403e6c809ece6f0",
+   "webp_sha256": "52fd8c5b96ba774135f65510fcd15a2473cd56916f9e2bec57516b5858fe2519"
+  },
+  {
+   "file": "맹획_samguk_kr_mmorpg_f_casual4.webp",
+   "prompt_sha256": "f779dc8c70f90756d1bc68344716148821cfd0ac70d65397107fadab21bf9f10",
+   "png_sha256": "373bdc12f2e6674f7634eda943f497b7abab70756def7e2ab5641b2523a9d904",
+   "webp_sha256": "0baf20bdcd69e40c8eeb34df7d77437a398dffdcc1ab5c9492b97deebcbb8710"
+  },
+  {
+   "file": "맹획_samguk_kr_mmorpg_f_casual5.webp",
+   "prompt_sha256": "e5861c14469b390791b645c417021cb9f6ebf0cea91c4f1bb1492fb504a03a53",
+   "png_sha256": "a62425326b9c2869d2eaf1e9c100cd8fad779478dfe92c21e616846367bed91c",
+   "webp_sha256": "eeaa7cce10fcb53588264c5f8ba3db9125cda455d8812468b75899be34ed24f2"
+  },
+  {
+   "file": "맹획_samguk_kr_mmorpg_f.webp",
+   "prompt_sha256": "fa37291950db143177fca8b6ea3bfd19dd244ed1d74d50224b8c2c47f05235c5",
+   "png_sha256": "8d0c5f597299b37fff97acf0e511ee4d4dfc66e72944915a1279b441e2fd71b4",
+   "webp_sha256": "2145448fa872ad2b96ad9b3510ba0359f2abf0b88976ec51e4a98ef5e869404c"
+  }
+ ]
+}

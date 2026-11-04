@@ -34,7 +34,7 @@
   {
    "key": "맹획",
    "execution": "sam-menghuo-redo-626ae",
-   "status": "working",
+   "status": "complete",
    "mode": "replacement",
    "claimed_at": "2026-11-04T11:57:17.569570+00:00",
    "date_kst": "2026-11-04",
@@ -60,7 +60,10 @@
     "맹획_samguk_kr_mmorpg_f_casual4.webp",
     "맹획_samguk_kr_mmorpg_f_casual5.webp"
    ],
-   "approval": "사용자 2026-11-04 맹획 재작업 및 main 일반 push 승인"
+   "approval": "사용자 2026-11-04 맹획 재작업 및 main 일반 push 승인",
+   "done_at": "2026-11-04T12:18:53.414989+00:00",
+   "done_by": "sam-menghuo-redo-626ae",
+   "replaced_count": 18
   }
  ]
 }
