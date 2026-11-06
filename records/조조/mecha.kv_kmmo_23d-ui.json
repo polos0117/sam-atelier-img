@@ -1,0 +1,74 @@
+{
+ "atelier": "samguk",
+ "card": "조조",
+ "faction": "wei",
+ "role": "lord",
+ "world": "mecha",
+ "style": "kv_kmmo_23d",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "age": "early_30s",
+   "impression": "glamorous",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "smoky",
+   "expr": "cold_smile",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "face_shape": "oval",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "blue_black",
+   "hair": "side_swept",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "조조_mecha_kv_kmmo_23d_f.webp",
+ "prompt": "Create ONE finished illustration of Cao Cao from Romance of the Three Kingdoms reimagined as a beautiful adult woman. A single vertical 2:3 full-body character illustration, head to boots fully visible.\n\nSTYLE:\nPremium Korean MMORPG official character illustration, approximately 2.3D in appearance. An elegant illustrated face with softly dimensional modelling, refined painted shading, rich colours and precise material rendering. Keep the face recognisably illustrated, with smooth skin and carefully controlled highlights. Detailed metal, embroidered fabric and flowing hair, all rendered consistently in the same polished game illustration style.\nGENRE LOCK: wuxia, high fantasy and mecha change only the costume, equipment and setting; the face, skin, hair rendering and this illustration style stay exactly the same in every genre.\n\nCHARACTER:\nOne poised adult woman — Cao Cao (조조), the ambitious hero of chaos who unified the north — warlord, chancellor and poet; her nature: brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. A small, refined, beautiful face — heart-shaped face, narrow upturned eyes, moderately sized, realistically proportioned eyes, outer eye corners tilting sharply upward, sharp angled brows, aquiline nose, full heart-shaped lips, smoky dark eye makeup; a glamorous, sultry allure; expression: a faint cool smile, calm composed eyes. Eyes and skin: pale violet eyes, fair skin.\n\nHair: muted, low-saturation blue-black hair with a cold indigo sheen, an updo bun, side-swept bangs.\n\nA graceful, visibly curvaceous adult figure — hourglass-figured — full bust and hips, distinctly narrow-waisted — long legs and a narrow waist on a full, curvaceous figure, with soft, rounded volume at bust, hips and thighs; never thin, flat or boyishly straight; balanced natural proportions, hips and thighs within natural, realistic proportion. Two natural human hands, five fingers each.\n\nCOSTUME AND EQUIPMENT — MECHA (far-future science fiction):\nElaborate command-type mecha armour with aged-gold ornamentation: sculpted angular shoulder units with command fins, layered hard-surface plates with engraved borders, a fitted armoured bodice with an emblem core and a structured waist, articulated armoured skirts and rigid cape-like binder plates, heeled armoured boots. A crowned command head unit with a small antenna crest sits behind her hair, leaving her face fully visible. Faction mecha design: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines; the plating reads as solid engraved metal armour, not cloth. Colours: deep navy blue, black lacquer, cold steel silver, ivory white. Motifs drawn from her nature: brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners. The costume is tailored to her curves, with a coherent silhouette and finely crafted detail rather than clutter. EXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\n\nHer signature item — the Sky-Leaning Sword, an ornate long jian — is drawn whole at full scale, entirely within the image.\n\nPOSE AND SETTING:\nShe stands confidently, her body turned slightly while her face looks toward the viewer. One hand rests naturally on her signature item; her other arm hangs relaxed beside her body. Two natural human hands, five fingers each; she holds nothing else — no cup, goblet or other props.\n\nSetting: the command bridge of a navy-black capital ship, tactical holograms and the curve of a planet beyond the viewport, with a detailed foreground and softly receding distance.\n\nGentle, soft light on her face and figure, clear atmospheric depth. No text, logo or watermark.",
+ "date": "2026-11-06",
+ "generation": {
+  "tool": "api",
+  "model": "gpt-image-2.6-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "png_sha256": "c11d2c3c41fc6a999f69726590f99df7cc95aad7d878ed3411834d008cd9fab9",
+  "webp": {
+   "quality": 90
+  },
+  "webp_sha256": "bfa115701b91676bf38e4ca00ebc2c41c02bf89d3e6d2be3be02550aaf52110f",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "eaa029e3bcef66767f7110e03242260ead84aa58e6914daebc667539b8280ad5",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok"
+   }
+  ],
+  "pick": "세계마다 2장 중 2번(사용자 「다 2번째 그림으로 일상컷도 만들어줘」)"
+ },
+ "acceptance": "user_approval_2026-11-06 — 「v6는 화풍키 새로해서 올려줘. 기존에 올라가있는건 보존해주고」"
+}
