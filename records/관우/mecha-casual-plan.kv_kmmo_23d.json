@@ -17,24 +17,24 @@
   {
    "n": 1,
    "era": "now",
-   "place": "street_cafe",
+   "place": "greenhouse",
    "ofam": "swimwear",
    "treeV": 2,
    "prop": "",
-   "preset": "walk_lookback",
-   "use": "phones_neck",
-   "posture": "walk",
+   "preset": "floor_knee",
+   "use": "",
+   "posture": "sit_floor",
    "support": "none",
    "frame": "three_quarter",
-   "body": "rear_3q",
-   "head": "over_shoulder",
-   "camera": "eye",
-   "right": "prop",
-   "left": "down",
-   "legs": "walk_pause",
+   "body": "front_3q",
+   "head": "tilt",
+   "camera": "high",
+   "right": "chin_knee",
+   "left": "floor_brace",
+   "legs": "knee_up",
    "gaze": "camera",
    "item": "plunge_onepiece",
-   "expr": "wink",
+   "expr": "amused",
    "axes": {
     "overall_intensity": "strong",
     "skin_exposure": "bold"
@@ -153,6 +153,14 @@
    },
    "aspect": "2:3",
    "unlocked": []
+  }
+ ],
+ "replanned": [
+  {
+   "slot": 1,
+   "seed": 11,
+   "date": "2026-11-06",
+   "why": "팔 · 헤드폰 오류로 자세 다시"
   }
  ]
 }
