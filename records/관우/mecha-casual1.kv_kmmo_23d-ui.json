@@ -50,19 +50,25 @@
    1536
   ],
   "quality": "medium",
-  "png_sha256": "05032a21dac3fc65decb072779b4755e5c103259e720912fadbe8832efd4191b",
+  "png_sha256": "4ef10c1688dda728fded5aa37f0406d86610a17d6754c92d12be9589a57415df",
   "webp": {
    "quality": 90
   },
-  "webp_sha256": "75f3e17541abf64fffa739eeb2e9542185385650ec6a0b8ca24a3b411582ddcb",
+  "webp_sha256": "88afb163a09840ed91913d922780942ff4d3d4e42c8413a6076abf42e125d197",
   "prompt_form": "en-prompt",
   "prompt_sha256": "cc671395ded0d77943d4d12da2b046e30fc3d72c1087470743a2c17c38de0275",
   "retries": [
    {
     "n": 1,
-    "status": "ok"
+    "status": "ok",
+    "note": "첫 그림 팔이 셋 — 교체"
+   },
+   {
+    "n": 2,
+    "status": "ok",
+    "note": "같은 지시문 두 장(1a · 1b) 중 1b"
    }
   ]
  },
- "acceptance": "user_approval_2026-11-06 — 「1,2,1 로 하고」 「올려줘」"
+ "acceptance": "user_approval_2026-11-06 — 「1,2,1 로 하고」 「올려줘」 · 교체 2026-11-06 「아이고 관우 메카1 일상컷 팔이 세개다」"
 }
