@@ -17,32 +17,34 @@
   "posture": "sit_floor",
   "support": "none",
   "frame": "environmental",
-  "body": "side",
+  "body": "front",
   "head": "with_body",
-  "camera": "high",
+  "camera": "eye",
   "right": "lap",
   "left": "floor_brace",
   "use": "",
   "legs": "cross_legged",
-  "gaze": "horizon",
+  "gaze": "camera",
   "expr": "relieved",
-  "preset": "floor_horizon",
+  "preset": "",
   "prop": "",
   "axes": {
    "overall_intensity": "strong",
    "skin_exposure": "bold"
   },
   "unlocked": [],
-  "aspect": "2:3"
+  "aspect": "2:3",
+  "custom": "User requested front view for style comparison: entire seated body and face front-on, looking into camera.",
+  "outfit": "Fully opaque high-neck long-sleeve blouse and long ankle-length skirt in the original colours; exposure reduced after tool refusals."
  },
  "file": "kv_kmmo_lock_fantasy_far.webp",
- "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Liu Bei of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of matched twin swords in one double scabbard) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: keep the attached image's rendering exactly — the same finish, skin rendering, line weight, colour palette, saturation and lighting quality. Do not restyle her: no more realistic, no more painterly, no more 2D than the attached image. Only the outfit, pose, expression, framing and place change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. Do not add skin texture, pores, harder nose or lip modelling, or any facial definition the attached image does not have. Keep the same face proportions — the same short midface (eyes to mouth) and the same face length-to-width ratio; the angle, bangs or a headpiece never make it look longer. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image's face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a roller rink under coloured lights\nOutfit: a sheer chiffon blouse over a lace camisole, tucked into a high-waisted skirt\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: a relaxed, relieved look. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nSKIN: dewy, moist, softly glowing skin on every bare area — face, shoulders, chest, arms and legs — with a fresh luminous sheen: soft glossy highlights on the cheekbones, nose bridge, lips, collarbones, shoulders and the curves of the body, modelled by gentle tonal shading; healthy and hydrated rather than oily or sweaty, and never a plastic, airbrushed doll finish.\n\nLIGHT: her face is lit by the same natural light as the scene around her — the scene's own daylight, window light, lamplight or night light falls across her face with its real direction and colour temperature, with soft natural shadows under the brows, nose and chin and gentle bounce light from the surroundings, so the face sits in the scene like the rest of her body. No separate studio key light or flat beauty light on the face; this replaces the attached image's lighting on the face, while its rendering finish stays the same.\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "prompt": "Use case: identity-preserve. Create one 1024×1536 vertical full-body everyday illustration of the same adult woman as the reference images. Image 1 is the prior everyday scene; image 2 supplies her front-facing face identity and its exact rendering style. Place her sitting cross-legged on the roller-rink floor, with shoulders, torso and face directly front-on toward the camera. Both eyes clearly visible and looking at the viewer. Keep her exact face, amber eye colour, chestnut hairstyle, skin tone, proportions and reference rendering style. Dress her in a fully opaque, loose, high-neck long-sleeved blouse in the same pale colour and a long opaque skirt in the original skirt colour covering her legs to her ankles, with the same shoes. This is a calm ordinary fully clothed seated portrait. The entire seated figure, both natural hands and both feet fit within the image with clear margins and rink surroundings. Right hand on knee and left palm on floor. One woman, natural anatomy, no text or logos, no armour or regalia.",
  "date": "2026-11-07",
  "comparison": {
   "round": "2026-11-07-3",
   "kind": "far"
  },
- "submitted_prompt": "OUTPUT SPEC: one vertical 2:3 image (1024×1536). Use the attached image (her Medieval fantasy card) as the reference. Do not reuse earlier conversation images.\n\n0. INPUT\n* The attached image is the approved character. Bring this same woman into one everyday scene.\n* Take from the attached image: her face, hair and body, and the image's finish (rendering).\n* Do NOT take from the attached image: its outfit, armor, ornaments, background, pose or camera angle.\n\n2. CHARACTER LOOK\n* Who: the same woman as the attached image — the female personification of Liu Bei of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n* Face (most important): exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. Add no facial definition or texture the attached image does not have. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the attached image's face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the attached image. Keep the attached image's face proportions — the same short midface and the same face length-to-width ratio; long bangs, side locks or a headpiece never make it look longer\n* Eye colour, hair colour, haircut, skin tone: exactly as in the attached image (hair may move differently in the wind) — the same iris colour in every light; makeup no heavier than in the attached image\n* Body: her own figure — curvy; natural, rounded volume at the bust (never thin); hips and thighs in realistic human proportion — long, shapely legs, never oversized thighs, exaggerated hips or a bottom-heavy figure; the same woman as in the attached image. The attached image's costume (layered robes, armor or mecha plates) hides much of her figure — take her body volume from this description, not from the costume's silhouette, at realistic human scale\n* Skin finish: dewy, moist, softly glowing skin on every bare area — face, shoulders, chest, arms and legs — with a fresh luminous sheen: soft glossy highlights on the cheekbones, nose bridge, lips, collarbones, shoulders and the curves of the body, modelled by gentle tonal shading; healthy and hydrated rather than oily or sweaty, and never a plastic, airbrushed doll finish.\n* Light on her face: her face is lit by the same natural light as the scene around her — the scene's own daylight, window light, lamplight or night light falls across her face with its real direction and colour temperature, with soft natural shadows under the brows, nose and chin and gentle bounce light from the surroundings, so the face sits in the scene like the rest of her body. No separate studio key light or flat beauty light on the face; this replaces the attached image's lighting on the face, while its rendering finish stays the same.\n* Proportions: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No extra limbs.\n* Expression: a relaxed, relieved look. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\n\n4. COORDINATION\n* Concept: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia. one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n* Outfit: a sheer chiffon blouse over a lace camisole, tucked into a high-waisted skirt\n* Exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis; styling strong — maximal styling presence within the scene; retain chosen exposure and anatomy\n* Accessories: her legend — benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n* Signature: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of matched twin swords in one double scabbard) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n* Held item: none (both hands as in the action below)\n\n5. SCENE\n* Setting: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes. Place: a roller rink under coloured lights\n* Action: sitting on the ground. Right hand: her own right hand rests on her knee. Left hand: her own left hand is planted on the ground beside her. Legs: legs folded cross-legged.\n* Composition: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera slightly above, looking down at her. 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\n* Gaze: she looks toward the far distance.\n* Angle: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n* Body: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's. natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n* Rules: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nAVOID: default card pose, front-facing ID-photo face, carrying over the attached image's outfit, armor, palette or patterns, other people posed with her, logo, watermark, speech bubble, frame border, readable text or numbers, extra limbs, deformed hands, a smaller head or longer neck, a longer face or heavier jaw from the camera angle, a changed eye colour, heavier makeup than the attached image\n",
+ "submitted_prompt": "Use case: identity-preserve. Create one 1024×1536 vertical full-body everyday illustration of the same adult woman as the reference images. Image 1 is the prior everyday scene; image 2 supplies her front-facing face identity and its exact rendering style. Place her sitting cross-legged on the roller-rink floor, with shoulders, torso and face directly front-on toward the camera. Both eyes clearly visible and looking at the viewer. Keep her exact face, amber eye colour, chestnut hairstyle, skin tone, proportions and reference rendering style. Dress her in a fully opaque, loose, high-neck long-sleeved blouse in the same pale colour and a long opaque skirt in the original skirt colour covering her legs to her ankles, with the same shoes. This is a calm ordinary fully clothed seated portrait. The entire seated figure, both natural hands and both feet fit within the image with clear margins and rink surroundings. Right hand on knee and left palm on floor. One woman, natural anatomy, no text or logos, no armour or regalia.",
  "generation": {
   "tool": "image_gen",
   "endpoint": "images/edits",
@@ -50,42 +52,79 @@
    1024,
    1536
   ],
-  "png_sha256": "d5d33a24eb3ee50b6601b428b696f18681b0f0eea5b3481bd19d28d032599d58",
-  "prompt_sha256": "47db186e4f2e41399434a0780e596746de67f8c0eaf5a68146374975ae00e5c8",
-  "prompt_form": "gpt-structured",
+  "png_sha256": "1a2518cc3ab5a15f9dfe0d628033f207b7087bfdac8797be9e400173c073322c",
+  "prompt_sha256": "3f97920e7f3497e0380821f3f2567659513f67c2f191508e0a542c50afafb267",
+  "prompt_form": "targeted-identity-preserve-edit",
+  "ref_sha256": "0c84d5340af2ed3ed4aee7a28387fceaf22a844d0703f825e9df6f4679c20d45",
+  "references": [
+   {
+    "role": "edit target: previous everyday far image",
+    "file": "kv_kmmo_lock_fantasy_far.webp",
+    "sha256": "e16d73133fac19d6027d379991efe7dcdc5a2137ffd74a9164632c57ecd37c0e"
+   },
+   {
+    "role": "front face identity and rendering reference",
+    "file": "kv_kmmo_lock_fantasy_world.webp",
+    "sha256": "0c84d5340af2ed3ed4aee7a28387fceaf22a844d0703f825e9df6f4679c20d45"
+   }
+  ],
   "webp": {
    "quality": 88,
-   "sha256": "e16d73133fac19d6027d379991efe7dcdc5a2137ffd74a9164632c57ecd37c0e"
+   "sha256": "d2b95e71fd5cfa5b94575156b64f8e7626516770df133743d80a710d97adbfc0"
   },
-  "retries": [],
-  "ref_sha256": "2bab24f029d27599b245836f7fb563ed7b611edbf3599aea91b7d019953b5382"
+  "retries": [
+   {
+    "n": 1,
+    "status": "moderation_blocked",
+    "stage": "output",
+    "next": "same prompt once"
+   },
+   {
+    "n": 2,
+    "status": "moderation_blocked",
+    "stage": "output",
+    "next": "opaque blouse, higher neckline"
+   },
+   {
+    "n": 3,
+    "status": "moderation_blocked",
+    "stage": "output",
+    "next": "opaque high-neck blouse and ankle-length skirt"
+   },
+   {
+    "n": 4,
+    "status": "success",
+    "exposure": "covered"
+   }
+  ]
  },
  "qa": {
   "reviewer": "gpt",
-  "passed": false,
+  "passed": true,
   "observations": [
-   "1024×1536 vertical original",
-   "No visible duplicate arms or legs; visible hands join naturally",
-   "Chestnut hair and amber eye design retained",
-   "Same face identity and rendering family as corresponding style world reference",
-   "Everyday clothes replace regalia; no usable weapon",
-   "Blurred background extras remain incidental",
-   "Entire seated figure and both feet visible with roller-rink surroundings",
-   "Sheer blouse over covered bodice and high-waisted skirt; both hands visible"
+   "1024×1536 vertical",
+   "Body, shoulders and face front-on; both eyes visible and looking directly at camera",
+   "Whole seated figure, both feet and both hands within frame",
+   "No visible duplicated limbs; visible hands naturally connected",
+   "Identity and rendering checked against the corresponding world reference",
+   "Original roller-rink environment and clothing colours retained"
   ],
-  "deviations": [
-   "Long jade earrings retained from reference in addition to small twin-sword jewellery; accessory-only limit not fully followed",
-   "Framing is closer than the planned wide environmental view; whole seated body remains visible",
-   "Head and gaze generally face the same profile direction rather than distinct head-away action"
-  ],
-  "cause": "Long scene and wardrobe details plus reference accessories compete with crop/accessory limits"
+  "changes": [
+   "Profile and horizon gaze replaced with front-facing camera gaze",
+   "Opaque high-neck blouse and ankle-length skirt after three moderation refusals"
+  ]
  },
- "execution": "sam-liubei-fantasy-compare-20261107-f055f4085b3e",
+ "execution": "sam-liubei-fantasy-far-front-20261107",
  "imported": "2026-11-07",
- "acceptance": "user requested comparison upload and ordinary main pushes; IMAGE_RULES section 6",
+ "acceptance": "Explicit user replacement and upload request, 2026-11-07",
  "review": {
   "reviewed": false,
   "by": "user",
   "result": "pending"
+ },
+ "replacement": {
+  "reason": "사용자 요청: 화풍 비교 원거리 일상컷을 옆모습 대신 앞모습으로 다시 생성하고 업로드",
+  "old_sha256": "e16d73133fac19d6027d379991efe7dcdc5a2137ffd74a9164632c57ecd37c0e",
+  "old_thumbnail_sha256": "97d480a8c43f6a26e9ee7297bf1b8caf37e09c9128f6cd4ce094f2abf1361370"
  }
 }
