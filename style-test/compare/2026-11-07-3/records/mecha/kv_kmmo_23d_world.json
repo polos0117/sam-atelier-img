@@ -1,0 +1,92 @@
+{
+ "atelier": "samguk",
+ "card": "유비",
+ "faction": "shu",
+ "role": "lord",
+ "world": "mecha",
+ "style": "kv_kmmo_23d",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "age": "late_20s",
+   "impression": "soft",
+   "skin_tone": "warm_beige",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "bare",
+   "expr": "gentle",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "round",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "curvy",
+   "hair_color": "chestnut",
+   "hair": "long_wavy",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "유비_mecha_kv_kmmo_23d_f.webp",
+ "prompt": "Create ONE finished illustration of Liu Bei from Romance of the Three Kingdoms reimagined as a beautiful adult woman. A single vertical 2:3 full-body character illustration, head to boots fully visible.\n\nSTYLE:\nPremium Korean MMORPG official character illustration, approximately 2.3D in appearance. An elegant illustrated face with softly dimensional modelling, refined painted shading, rich colours and precise material rendering. Keep the face recognisably illustrated, with smooth skin and carefully controlled highlights. Detailed metal, embroidered fabric and flowing hair, all rendered consistently in the same polished game illustration style.\nGENRE LOCK: wuxia, high fantasy and mecha change only the costume, equipment and setting; the face, skin, hair rendering and this illustration style stay exactly the same in every genre.\n\nCHARACTER:\nOne poised adult woman — Liu Bei (유비), the benevolent founder of Shu Han, who swore sisterhood in the Peach Garden; her nature: benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. A refined, beautiful face — oval face, almond-shaped eyes, realistically proportioned eyes, outer eye corners drooping downward, soft rounded brows, straight narrow nose, full wide lips, a bare, makeup-free face; a soft, gentle warmth; expression: a warm, gentle look with a faint smile. Eyes and skin: amber eyes, warm beige skin.\n\nHair: muted, low-saturation warm chestnut-brown hair, long straight hair, center-parted bangs framing the face.\n\nA graceful, visibly curvaceous adult figure — curvy — long legs and a narrow waist on a full, curvaceous figure, with soft, rounded volume at bust, hips and thighs; never thin, flat or boyishly straight; balanced natural proportions, hips and thighs within natural, realistic proportion. Two natural human hands, five fingers each.\n\nCOSTUME AND EQUIPMENT — MECHA (far-future science fiction):\nElaborate command-type mecha armour with aged-gold ornamentation: sculpted angular shoulder units with command fins, layered hard-surface plates with engraved borders, a fitted armoured bodice with an emblem core and a structured waist, articulated armoured skirts and rigid cape-like binder plates, heeled armoured boots. A crowned command head unit with a small antenna crest sits behind her hair, leaving her face fully visible. Faction mecha design: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines; the plating reads as solid engraved metal armour, not cloth. Overall silhouette: a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape — only the overall shape is fixed; design the details freely. Colours: jade green, imperial gold, earthen brown, white jade. Motifs drawn from her nature: benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people. The costume is tailored to her curves, with a coherent silhouette and finely crafted detail rather than clutter. EXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\n\nHer signature item — a pair of matched twin swords in one double scabbard — is drawn whole at full scale, entirely within the image.\n\nPOSE AND SETTING:\nShe stands confidently, her body turned slightly while her face looks toward the viewer. One hand rests naturally on her signature item; her other arm hangs relaxed beside her body. Two natural human hands, five fingers each; she holds nothing else — no cup, goblet or other props.\n\nSetting: inside a vast glass dome over terraced gardens, a ringed gas giant hanging in the sky above, with a detailed foreground and softly receding distance.\n\nGentle, soft light on her face and figure, clear atmospheric depth. No text, logo or watermark.",
+ "date": "2026-11-07",
+ "comparison": {
+  "round": "2026-11-07-3",
+  "world": "mecha",
+  "kind": "world",
+  "source": "prompt.html shared assembler",
+  "designModified": false
+ },
+ "generation": {
+  "tool": "image_gen",
+  "model": "tool default; no model override exposed",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d1d260aa1bf29a74609cd34ad1db388bba140f0ad52c673432e39eab33ba96c3",
+  "prompt_sha256": "37d256620bc00925cceb6900aae238d084d8e51e010c2c3043460b13a52410d6",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 88
+  },
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3",
+   "한 명의 성인 여성; 추가 사지나 분리된 손은 보이지 않음",
+   "유비 설계의 쌍검·옥 귀걸이와 촉 팔레트·고리 관형 실루엣",
+   "로고·워터마크·읽히는 글자 없음"
+  ],
+  "deviations": [
+   "메카 흉갑·관형 고리가 있으나 어깨의 긴 판 일부가 자수 천 망토로 표현됨"
+  ],
+  "cause": "의상·크롭·장신구 조건과 생성 결과의 차이를 기록. 지시문은 수정하지 않음."
+ },
+ "acceptance": "user requested style comparison upload and normal main update, 2026-11-07",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
