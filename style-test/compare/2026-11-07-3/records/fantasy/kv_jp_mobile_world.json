@@ -1,0 +1,93 @@
+{
+ "atelier": "samguk",
+ "card": "유비",
+ "faction": "shu",
+ "role": "lord",
+ "world": "fantasy",
+ "style": "kv_jp_mobile",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "age": "late_20s",
+   "impression": "soft",
+   "skin_tone": "warm_beige",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "bare",
+   "expr": "gentle",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "heart",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "curvy",
+   "hair_color": "chestnut",
+   "hair": "braids",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "kv_jp_mobile_fantasy_world.webp",
+ "prompt": "Use case: stylized-concept. Create ONE finished illustration of Liu Bei from Romance of the Three Kingdoms personified as a beautiful adult human woman, in a high-quality Japanese realistic mobile-game character art style. Brand-new image from text only.\n\nSTYLE: Premium Japanese fantasy mobile-game promotional key visual with refined realistic CG-like dimensional modelling and polished painterly finishing. An elegant idealised East Asian adult face with natural-size expressive eyes, a softly sculpted nose, naturally shaped lips, a compact oval face and softly defined jaw. Convincing facial depth, beautifully controlled skin shading, subtle matte-satin skin, realistic hair volume and precisely differentiated metal, silk and leather. Rich clear colours, crisp focal detail and cinematic lighting. Avoid flat anime cel shading, oversized anime eyes, a plastic doll face, exaggerated makeup and photographic live-action appearance.\n\nCHARACTER: One woman, female Liu Bei (유비), the benevolent founder of Shu Han, who swore sisterhood in the Peach Garden; her nature: benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. A refined, beautiful face — oval face, almond-shaped eyes, realistically proportioned eyes, outer eye corners drooping downward, soft rounded brows, straight narrow nose, full wide lips, a bare, makeup-free face; a soft, gentle warmth; expression: a warm, gentle look with a faint smile. Eyes and skin: amber eyes, warm beige skin. Hair: muted, low-saturation warm chestnut-brown hair, long straight hair, center-parted bangs framing the face. Graceful, curvaceous adult physique — curvy; balanced natural proportions around 7.5 heads tall, natural neck and limbs.\n\nCOSTUME AND EQUIPMENT: Elaborate Western high-fantasy monarch's regalia with aged-gold ornamentation — no East-Asian robes or armour: a sculpted cuirass with engraved borders, articulated pauldrons and gauntlets, a long heraldic tabard embroidered with her crest, layered armoured skirts and a fur-trimmed royal mantle, heeled armoured boots. A slim jewelled crown decorates her hair. Overall silhouette: a great crown and a fur-trimmed royal mantle over an ornate breastplate — a ceremonial, regal silhouette — only the overall shape is fixed; design the details freely. Colours: jade green, imperial gold, earthen brown, white jade. Convincing armour construction and weight with sharp selective metallic reflections, soft silk lustre and restrained leather details. Western high-fantasy knightly design, no East-Asian robes or armour. EXPOSURE (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume described above, its material and palette. Signature item: a pair of matched twin swords in one double scabbard, drawn whole at full scale.\n\nCOMPOSITION AND SCENE: Single vertical 2:3 full-body portrait, head and boots entirely visible with comfortable margins. She stands in a poised heroic three-quarter stance, looking toward the viewer. One hand holds her signature item naturally beside her — if it is a long weapon, nearly vertical with its butt resting on the ground — the entire item including its tip inside the frame. Her other hand rests naturally near her waist, clearly visible. Setting: beneath a vast ancient oak where oaths are sworn, glowing green motes in the air, a stone castle on the ridge behind — softly blurred in the distance, it provides depth without competing with the character. A soft wind moves her hair and the loose fabric of her costume. Cool daylight and restrained warm reflected light reveal her face and the costume clearly.\n\nANATOMY: Exactly one head, two arms, two natural human hands, five fingers on each hand, two legs. Both hands visible and correctly connected. No extra or missing limbs. No other characters. No writing, logos, borders, interface or watermark.",
+ "date": "2026-11-07",
+ "comparison": {
+  "round": "2026-11-07-3",
+  "kind": "world"
+ },
+ "submitted_prompt": "Use case: stylized-concept. Create ONE finished illustration of Liu Bei from Romance of the Three Kingdoms personified as a beautiful adult human woman, in a high-quality Japanese realistic mobile-game character art style. Brand-new image from text only.\n\nSTYLE: Premium Japanese fantasy mobile-game promotional key visual with refined realistic CG-like dimensional modelling and polished painterly finishing. An elegant idealised East Asian adult face with natural-size expressive eyes, a softly sculpted nose, naturally shaped lips, a compact oval face and softly defined jaw. Convincing facial depth, beautifully controlled skin shading, subtle matte-satin skin, realistic hair volume and precisely differentiated metal, silk and leather. Rich clear colours, crisp focal detail and cinematic lighting. Avoid flat anime cel shading, oversized anime eyes, a plastic doll face, exaggerated makeup and photographic live-action appearance.\n\nCHARACTER: One woman, female Liu Bei (유비), the benevolent founder of Shu Han, who swore sisterhood in the Peach Garden; her nature: benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. A refined, beautiful face — oval face, almond-shaped eyes, realistically proportioned eyes, outer eye corners drooping downward, soft rounded brows, straight narrow nose, full wide lips, a bare, makeup-free face; a soft, gentle warmth; expression: a warm, gentle look with a faint smile. Eyes and skin: amber eyes, warm beige skin. Hair: muted, low-saturation warm chestnut-brown hair, long straight hair, center-parted bangs framing the face. Graceful, curvaceous adult physique — curvy; balanced natural proportions around 7.5 heads tall, natural neck and limbs.\n\nCOSTUME AND EQUIPMENT: Elaborate Western high-fantasy monarch's regalia with aged-gold ornamentation — no East-Asian robes or armour: a sculpted cuirass with engraved borders, articulated pauldrons and gauntlets, a long heraldic tabard embroidered with her crest, layered armoured skirts and a fur-trimmed royal mantle, heeled armoured boots. A slim jewelled crown decorates her hair. Overall silhouette: a great crown and a fur-trimmed royal mantle over an ornate breastplate — a ceremonial, regal silhouette — only the overall shape is fixed; design the details freely. Colours: jade green, imperial gold, earthen brown, white jade. Convincing armour construction and weight with sharp selective metallic reflections, soft silk lustre and restrained leather details. Western high-fantasy knightly design, no East-Asian robes or armour. EXPOSURE (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume described above, its material and palette. Signature item: a pair of matched twin swords in one double scabbard, drawn whole at full scale.\n\nCOMPOSITION AND SCENE: Single vertical 2:3 full-body portrait, head and boots entirely visible with comfortable margins. She stands in a poised heroic three-quarter stance, looking toward the viewer. One hand holds her signature item naturally beside her — if it is a long weapon, nearly vertical with its butt resting on the ground — the entire item including its tip inside the frame. Her other hand rests naturally near her waist, clearly visible. Setting: beneath a vast ancient oak where oaths are sworn, glowing green motes in the air, a stone castle on the ridge behind — softly blurred in the distance, it provides depth without competing with the character. A soft wind moves her hair and the loose fabric of her costume. Cool daylight and restrained warm reflected light reveal her face and the costume clearly.\n\nANATOMY: Exactly one head, two arms, two natural human hands, five fingers on each hand, two legs. Both hands visible and correctly connected. No extra or missing limbs. No other characters. No writing, logos, borders, interface or watermark.",
+ "ref": "",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "df3869a0cfa2efe484aa18d6852b46d0a30324c732195db4c080f9c3607382d7",
+  "prompt_sha256": "830e1cad0bb6384ee7816644654b7216ede970b21414bc0785d0f4ba3201b56b",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 88,
+   "sha256": "6131deb7b5c11ae3217a8bb46401354229b104e6c0853e099cf57ee762039608"
+  },
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "observations": [
+   "1024×1536 vertical original",
+   "No visible duplicate arms or legs; visible hands join naturally",
+   "Chestnut hair and amber eye design retained",
+   "Western medieval crown, breastplate and royal mantle",
+   "Matched twin swords in double scabbard; jade and gold faction motifs",
+   "One principal woman, no horse or second character"
+  ],
+  "deviations": [],
+  "cause": ""
+ },
+ "execution": "sam-liubei-fantasy-compare-20261107-f055f4085b3e",
+ "imported": "2026-11-07",
+ "acceptance": "user requested comparison upload and ordinary main pushes; IMAGE_RULES section 6",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
