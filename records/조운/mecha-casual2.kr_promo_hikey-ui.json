@@ -1,0 +1,125 @@
+{
+ "atelier": "samguk",
+ "card": "조운",
+ "faction": "shu",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "kr_promo_hikey",
+ "styleVersion": "v1",
+ "ref": "조운_mecha_kr_promo_hikey_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_forest",
+  "ofam": "homewear",
+  "item": "knit_dress_home",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "lantern_raise",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "",
+  "expr": "proud",
+  "preset": "raise_chest",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "조운_mecha_kr_promo_hikey_f_casual2.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhao Yun of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — calm, flawless courage, gleaming silver armor with white plumes, cutting through a hundred thousand enemies at Changban to save the infant heir, a body made all of courage, quiet modesty — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a silver dragon-crested spear) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with a soft subsurface glow on the skin and a small refined face with delicate realistic-anime features. Refined fabric and accessory rendering with fine jewellery detail; polished metal, silk and gems catch sharp highlights. Luxurious, high-detail, character-select-screen quality — the same rendering quality as the attached image. No visible outlines or flat cel shading.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. Keep the same face proportions — the same short midface (eyes to mouth) and the same face length-to-width ratio; the angle, bangs or a headpiece never make it look longer. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image's face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Her designed face, exactly as in the attached image: oval face, wide almond eyes, moderately sized, realistically proportioned eyes, level outer eye corners, thick straight brows, straight narrow nose, small bow lips, a bare, makeup-free face; emerald-green eyes; a cool, aloof beauty. Keep every one of these features and their proportions — the expression may change only the brows, eyelids and mouth.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a walkway through a forest dome inside a colony ship, trees under an artificial sky\nOutfit: a soft body-hugging knit dress\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand stays outside the frame.\nPROP: with her own right hand she lifts a small hand lantern to chest height; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: a proud, poised look with a faint closed-lip smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more bare shoulder and collarbone inside the crop; the crop stays exactly where CROP sets it and never moves down to show more; cover the chest\n\nSKIN: her own skin tone — fair skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, collarbone, arms and every exposed area, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate natural microtexture, lifelike subsurface scattering and smoothly dimensional shading; small localized highlights — any water or sweat only as small droplets and thin trails that do not change the skin colour, never a thick or uniformly glossy coating. Do not whiten or darken her skin tone; no orange, yellow or bronze tint, no chalky whiteness, blown-out highlights or ashen cast.\n\nLIGHT: a bright, elegant high-key cinematic colour treatment with luminous skin and clean colour separation. Soft bright frontal light gently lifts her face and exposed skin, keeping the midtones bright, translucent and evenly readable, with facial dimension preserved around the eyes, nose, cheeks, lips and jaw and gentle, colour-clean shadows. The scene's own light — daylight, sunset, window light, lamplight or night light — comes from behind and to one side as restrained rim highlights along her hair, shoulders and silhouette, and colours the background and reflections, but never tints her skin orange, yellow, blue, purple or grey. No heavy colour grade, dark crushed contrast, cool desaturation, chalky skin or excessive bloom. The face and nearby hair are sharply resolved; the surroundings fall into gentle shallow depth of field.\n\nBODY LINE: her figure is the attached image's, refined toward a slimmer, cinched waist, slightly wider, rounder hips and slightly fuller upper thighs (only the top of the thighs; knees and calves stay slender). The outfit and pose clearly show her body line — the curve from bust to a narrow waist and out over the hips and upper thighs reads at a glance, a graceful hourglass silhouette at realistic human scale.\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-08",
+ "record": "records/조운/mecha-casual2.kr_promo_hikey-ui.json",
+ "storage": {
+  "card": "조운",
+  "out": "casual",
+  "world": "mecha",
+  "style": "kr_promo_hikey",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "조운": {
+    "era": "nation",
+    "place": "nation_forest",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "raise_chest",
+    "use": "lantern_raise",
+    "kind": "raise",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "out",
+    "legs": "",
+    "gaze": "",
+    "item": "knit_dress_home",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "execution": "sam-zhaoyun-20261108-4f6889786089",
+ "imported": "2026-11-08",
+ "acceptance": "사용자 세계컷 선택 1,1,1 및 이미지·도감 변경 커밋/main 일반 push 승인. 반환된 이미지는 노출 검열로 재생성하지 않음.",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "339e9c246b82d4f0ca7443609fe7982581b4a6ebb2ef8909c509712e85008c64",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "de346c7b0479610119e1f9b913c98b552983752621347c1ed07974883ad788ef"
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "268e05cc206b881f00b5f72b2246d30bd92d8f9be459be52b20d672cd955b6a0",
+  "successful_images_returned": 1,
+  "regenerated_after_success": false,
+  "ref_sha256": "bfb05483a69bcff5a61a94401617fb12071a68548f76b12e0909c36efc7fc723",
+  "reference_format": "approved original PNG",
+  "ref_webp_sha256": "e4f74519d8a3aadea2bfb724b2b5a72ad92290cdb01909af758626918f1da308"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "339e9c246b82d4f0ca7443609fe7982581b4a6ebb2ef8909c509712e85008c64",
+  "passed": true,
+  "observations": [
+   "1024×1536 세로 2:3",
+   "메카 세계의 숲길, 니트 차림, 얼굴 가까이 등불을 들어 봄",
+   "참고 그림의 은백 단발과 에메랄드 눈 유지, 무기 없음"
+  ],
+  "cause": ""
+ },
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

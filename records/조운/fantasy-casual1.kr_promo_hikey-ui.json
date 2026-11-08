@@ -1,0 +1,145 @@
+{
+ "atelier": "samguk",
+ "card": "조운",
+ "faction": "shu",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_promo_hikey",
+ "styleVersion": "v1",
+ "ref": "조운_fantasy_kr_promo_hikey_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_calligraphy",
+  "ofam": "lingerie",
+  "item": "asymmetric_lingerie",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "gourd_hold",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "expr": "focused",
+  "preset": "squat_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "low"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "조운_fantasy_kr_promo_hikey_f_casual1.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhao Yun of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — calm, flawless courage, gleaming silver armor with white plumes, cutting through a hundred thousand enemies at Changban to save the infant heir, a body made all of courage, quiet modesty — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a silver dragon-crested spear) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with a soft subsurface glow on the skin and a small refined face with delicate realistic-anime features. Refined fabric and accessory rendering with fine jewellery detail; polished metal, silk and gems catch sharp highlights. Luxurious, high-detail, character-select-screen quality — the same rendering quality as the attached image. No visible outlines or flat cel shading.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. Keep the same face proportions — the same short midface (eyes to mouth) and the same face length-to-width ratio; the angle, bangs or a headpiece never make it look longer. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image's face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Her designed face, exactly as in the attached image: oval face, wide almond eyes, moderately sized, realistically proportioned eyes, level outer eye corners, thick straight brows, straight narrow nose, small bow lips, a bare, makeup-free face; emerald-green eyes; a cool, aloof beauty. Keep every one of these features and their proportions — the expression may change only the brows, eyelids and mouth.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: a present-day place where the Three Kingdoms is remembered — a museum of Han relics, a restored plank road, the Red Cliffs park, an old city wall, a Chengdu teahouse, the Wuhou Shrine, a Guan Yu temple, Baidicheng, the Changban Bridge, a film set, an opera dressing room, a calligraphy class or a festival street.\n\nSCENE (chosen):\nPlace: a calligraphy classroom with low wooden desks, rice paper, brushes and ink stones, finished scrolls drying on a line\nOutfit: an asymmetric lingerie set with one shoulder strap and a diagonal neckline\nPOSTURE: crouching low on her heels.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head tilted slightly; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she holds a gourd-shaped wine flask on a red cord by its cord at chest height; it is all she holds.\nLEGS: crouched on the balls of her feet, knees bent.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: attentive, steady eyes, mouth closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: low — mostly covered clothing, limited neck/hand exposure unless outfit is explicit\n\nSKIN: her own skin tone — fair skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, collarbone, arms and every exposed area, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate natural microtexture, lifelike subsurface scattering and smoothly dimensional shading; small localized highlights — any water or sweat only as small droplets and thin trails that do not change the skin colour, never a thick or uniformly glossy coating. Do not whiten or darken her skin tone; no orange, yellow or bronze tint, no chalky whiteness, blown-out highlights or ashen cast.\n\nLIGHT: a bright, elegant high-key cinematic colour treatment with luminous skin and clean colour separation. Soft bright frontal light gently lifts her face and exposed skin, keeping the midtones bright, translucent and evenly readable, with facial dimension preserved around the eyes, nose, cheeks, lips and jaw and gentle, colour-clean shadows. The scene's own light — daylight, sunset, window light, lamplight or night light — comes from behind and to one side as restrained rim highlights along her hair, shoulders and silhouette, and colours the background and reflections, but never tints her skin orange, yellow, blue, purple or grey. No heavy colour grade, dark crushed contrast, cool desaturation, chalky skin or excessive bloom. The face and nearby hair are sharply resolved; the surroundings fall into gentle shallow depth of field.\n\nBODY LINE: her figure is the attached image's, refined toward a slimmer, cinched waist, slightly wider, rounder hips and slightly fuller upper thighs (only the top of the thighs; knees and calves stay slender). The outfit and pose clearly show her body line — the curve from bust to a narrow waist and out over the hips and upper thighs reads at a glance, a graceful hourglass silhouette at realistic human scale.\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-08",
+ "record": "records/조운/fantasy-casual1.kr_promo_hikey-ui.json",
+ "storage": {
+  "card": "조운",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_promo_hikey",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "조운": {
+    "era": "heritage",
+    "place": "heritage_calligraphy",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "squat_prop",
+    "use": "gourd_hold",
+    "posture": "squat",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front",
+    "head": "tilt",
+    "camera": "high",
+    "right": "prop",
+    "left": "lap",
+    "legs": "squat_heels",
+    "gaze": "at_prop",
+    "item": "asymmetric_lingerie",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "low"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ },
+ "execution": "sam-zhaoyun-20261108-4f6889786089",
+ "imported": "2026-11-08",
+ "acceptance": "사용자 세계컷 선택 1,1,1 및 이미지·도감 변경 커밋/main 일반 push 승인. 반환된 이미지는 노출 검열로 재생성하지 않음.",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "4ff6e82479ea73a758242f7138da8d8416df4c9479908c0f8dfd6ab75cab96bc",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "95ef1ab9e9e9a54e1aaf9184c7b89c68765cda4a98403025e9f4a7e881bcb549"
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "moderation_blocked_output",
+    "exposure": "bold",
+    "request_id": "e3834210-22c3-4cd5-9dda-4b90c6729bde",
+    "image_returned": false
+   },
+   {
+    "n": 2,
+    "status": "moderation_blocked_output",
+    "exposure": "bold",
+    "request_id": "c5f23e46-46d6-4f67-9046-16d4a21c60a1",
+    "image_returned": false
+   },
+   {
+    "n": 3,
+    "status": "moderation_blocked_input",
+    "exposure": "moderate",
+    "request_id": "d3ed6f87-b1d5-41a1-a89f-2e06e99f9f57",
+    "image_returned": false
+   }
+  ],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "486dc95828ec33febb1a356c6e1ed3d80095c8034f3956047136be798c09c87c",
+  "successful_images_returned": 1,
+  "regenerated_after_success": false,
+  "ref_sha256": "7489991a357257497d1796b65ca5037f7a44c0d9f3e8b1d78a5cee018ed59c17",
+  "reference_format": "approved original PNG",
+  "ref_webp_sha256": "42774de3e9f537a9122f6b93a3c51c8e52d0da2f3d26fe29c3be3f119e484bc7"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4ff6e82479ea73a758242f7138da8d8416df4c9479908c0f8dfd6ab75cab96bc",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3",
+   "서예 교실, 비대칭 란제리 차림, 쪼그려 앉아 술 호리병을 봄",
+   "노출 low 요청 뒤 반환됐지만 의상 자체가 란제리로 유지돼 대부분 덮는 노출 설정은 충분히 반영되지 않음"
+  ],
+  "cause": "노출 low 요청 뒤 반환됐지만 의상 자체가 란제리로 유지돼 대부분 덮는 노출 설정은 충분히 반영되지 않음"
+ },
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
