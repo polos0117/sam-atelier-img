@@ -4,7 +4,7 @@
   {
    "key": "장료",
    "execution": "sam-zhangliao-20261108-6a4edf81391a",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-08T05:53:29.073Z",
    "date_kst": "2026-11-08",
    "date_utc": "2026-11-08",
@@ -228,7 +228,11 @@
     },
     "user_message": "삼국1, 판타지1,메카2"
    },
-   "phase": "18 images prepared; registration pending"
+   "phase": "images and catalogue registered",
+   "done_at": "2026-11-08T06:28:04.854Z",
+   "done_by": "sam-zhangliao-20261108-6a4edf81391a",
+   "image_commit": "482a1ffdf42a61067ad7440f234c1cbbe0172b4c",
+   "catalogue_commit": "1dacd01aff1fd6859651da6ccfa3840d14267372"
   }
  ]
 }
