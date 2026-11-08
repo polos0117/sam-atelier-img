@@ -4,7 +4,7 @@
   {
    "key": "유비",
    "execution": "sam-liubei-20261108-fe24",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-08T05:23:12.832Z",
    "date_kst": "2026-11-08",
    "date_utc": "2026-11-08",
@@ -27,7 +27,16 @@
     "유비_mecha_kr_promo_hikey_f_casual3.webp",
     "유비_mecha_kr_promo_hikey_f_casual4.webp",
     "유비_mecha_kr_promo_hikey_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-08T05:54:35.478Z",
+   "done_by": "sam-liubei-20261108-fe24",
+   "selected_candidates": {
+    "samguk": 2,
+    "fantasy": 2,
+    "mecha": 2
+   },
+   "image_commit": "f306a04521c40f5c9ada7871938045c1d5e68393",
+   "code_commit": "cde88cb1ce0e33d3fc1214cdfc1c114d9794184b"
   }
  ]
 }
