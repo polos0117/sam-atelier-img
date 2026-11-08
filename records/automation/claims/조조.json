@@ -34,7 +34,7 @@
   {
    "key": "조조",
    "execution": "sam-caocao-20261109-20d8736f",
-   "status": "working",
+   "status": "released",
    "claimed_at": "2026-11-08T18:39:35.435Z",
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-08",
@@ -61,13 +61,13 @@
     "조조_mecha_mmorpg_cg_f_casual5.webp",
     "조조_mecha_mmorpg_cg_f_casual6.webp"
    ],
-   "stage": "awaiting_world_selection",
+   "stage": "cancelled",
    "style": "mmorpg_cg",
    "candidate_count": 8,
    "selection_sheet_library_file_id": "libfile_c83f3202531081918d1566ff4e9ce306",
    "candidate_archive_library_file_id": "libfile_5808823baa008191b2736576dca5f337",
    "workspace": "/workspace/scratch/20d8736f0a31/cao-cao-work",
-   "note": "사용자 요청으로 삼국시대 3·4번 후보 추가. 총 8장, 선택 전 일상컷·도감 등록은 진행하지 않음. 기존 프롬프트 원문, 참조 이미지 없이 생성.",
+   "note": "사용자 취소. 기존 후보는 보존. 이 실행의 일상컷 제작·도감 등록은 진행하지 않음.",
    "candidates_by_world": {
     "samguk": [
      1,
@@ -83,7 +83,10 @@
      1,
      2
     ]
-   }
+   },
+   "approval": "이번 생성은 취소할게",
+   "released_by": "sam-caocao-20261109-20d8736f",
+   "released_at": "2026-11-08T19:13:13.277Z"
   }
  ]
 }
