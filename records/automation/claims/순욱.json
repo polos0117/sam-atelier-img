@@ -34,7 +34,7 @@
   {
    "key": "순욱",
    "execution": "sam-xunyu-20261108-401c109de2e2",
-   "status": "blocked",
+   "status": "released",
    "claimed_at": "2026-11-08T11:26:19.313Z",
    "date_kst": "2026-11-08",
    "date_utc": "2026-11-08",
@@ -59,7 +59,22 @@
     "순욱_mecha_kr_promo_hikey_f_casual5.webp"
    ],
    "reason": "fantasy-casual4: original, same-prompt retry, moderate, low and one planner scene change all moderation_blocked without returned image. 17 completed images registered.",
-   "blocked_at": "2026-11-08T12:00:29.465469+00:00"
+   "blocked_at": "2026-11-08T12:00:29.465469+00:00",
+   "approval": "막힌거 다른구도로 다시 해줘",
+   "released_by": "sam-xunyu-20261108-401c109de2e2-reframe1",
+   "released_at": "2026-11-08T12:08:46.796840+00:00"
+  },
+  {
+   "key": "순욱",
+   "execution": "sam-xunyu-20261108-401c109de2e2-reframe1",
+   "status": "working",
+   "claimed_at": "2026-11-08T12:08:46.796856+00:00",
+   "date_kst": "2026-11-08",
+   "date_utc": "2026-11-08",
+   "missing": [
+    "순욱_fantasy_kr_promo_hikey_f_casual4.webp"
+   ],
+   "approval": "막힌거 다른구도로 다시 해줘"
   }
  ]
 }
