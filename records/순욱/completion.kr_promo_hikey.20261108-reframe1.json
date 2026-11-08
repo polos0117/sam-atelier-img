@@ -1,0 +1,11 @@
+{
+ "execution": "sam-xunyu-20261108-401c109de2e2-reframe1",
+ "user_instruction": "막힌거 다른구도로 다시 해줘",
+ "resolved": "fantasy-casual4",
+ "previous_blocked_record": "fantasy-casual4.kr_promo_hikey.blocked.json",
+ "status": "complete",
+ "total_world_images": 3,
+ "total_casual_images": 15,
+ "prompt_sha256": "47fb8032bed367ac473c5a7272fcc0e969816849bec5b49a35af98ebe727ef4c",
+ "actual_fantasy_bundle_check": "passed: 5 returned images, required categories, far/near framing and signature item present"
+}
