@@ -30,6 +30,34 @@
    ],
    "done_at": "2026-11-02T15:18:04.084Z",
    "done_by": "sam-ganning-0846"
+  },
+  {
+   "key": "감녕",
+   "execution": "sam-ganning-20261108-7c04dd1cd1f5",
+   "status": "working",
+   "claimed_at": "2026-11-08T09:36:25.498Z",
+   "date_kst": "2026-11-08",
+   "date_utc": "2026-11-08",
+   "missing": [
+    "감녕_samguk_kr_promo_hikey_f.webp",
+    "감녕_samguk_kr_promo_hikey_f_casual1.webp",
+    "감녕_samguk_kr_promo_hikey_f_casual2.webp",
+    "감녕_samguk_kr_promo_hikey_f_casual3.webp",
+    "감녕_samguk_kr_promo_hikey_f_casual4.webp",
+    "감녕_samguk_kr_promo_hikey_f_casual5.webp",
+    "감녕_fantasy_kr_promo_hikey_f.webp",
+    "감녕_fantasy_kr_promo_hikey_f_casual1.webp",
+    "감녕_fantasy_kr_promo_hikey_f_casual2.webp",
+    "감녕_fantasy_kr_promo_hikey_f_casual3.webp",
+    "감녕_fantasy_kr_promo_hikey_f_casual4.webp",
+    "감녕_fantasy_kr_promo_hikey_f_casual5.webp",
+    "감녕_mecha_kr_promo_hikey_f.webp",
+    "감녕_mecha_kr_promo_hikey_f_casual1.webp",
+    "감녕_mecha_kr_promo_hikey_f_casual2.webp",
+    "감녕_mecha_kr_promo_hikey_f_casual3.webp",
+    "감녕_mecha_kr_promo_hikey_f_casual4.webp",
+    "감녕_mecha_kr_promo_hikey_f_casual5.webp"
+   ]
   }
  ]
 }
