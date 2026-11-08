@@ -1,0 +1,33 @@
+{
+ "key": "조조",
+ "runs": [
+  {
+   "key": "조조",
+   "execution": "sam-caocao-20261108-b609",
+   "status": "working",
+   "claimed_at": "2026-11-08T04:48:51.764Z",
+   "date_kst": "2026-11-08",
+   "date_utc": "2026-11-08",
+   "missing": [
+    "조조_samguk_kr_promo_hikey_f.webp",
+    "조조_samguk_kr_promo_hikey_f_casual1.webp",
+    "조조_samguk_kr_promo_hikey_f_casual2.webp",
+    "조조_samguk_kr_promo_hikey_f_casual3.webp",
+    "조조_samguk_kr_promo_hikey_f_casual4.webp",
+    "조조_samguk_kr_promo_hikey_f_casual5.webp",
+    "조조_fantasy_kr_promo_hikey_f.webp",
+    "조조_fantasy_kr_promo_hikey_f_casual1.webp",
+    "조조_fantasy_kr_promo_hikey_f_casual2.webp",
+    "조조_fantasy_kr_promo_hikey_f_casual3.webp",
+    "조조_fantasy_kr_promo_hikey_f_casual4.webp",
+    "조조_fantasy_kr_promo_hikey_f_casual5.webp",
+    "조조_mecha_kr_promo_hikey_f.webp",
+    "조조_mecha_kr_promo_hikey_f_casual1.webp",
+    "조조_mecha_kr_promo_hikey_f_casual2.webp",
+    "조조_mecha_kr_promo_hikey_f_casual3.webp",
+    "조조_mecha_kr_promo_hikey_f_casual4.webp",
+    "조조_mecha_kr_promo_hikey_f_casual5.webp"
+   ]
+  }
+ ]
+}
