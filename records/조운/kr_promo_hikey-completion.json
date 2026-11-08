@@ -1,0 +1,39 @@
+{
+ "card": "조운",
+ "style": "kr_promo_hikey",
+ "selection": {
+  "samguk": 1,
+  "fantasy": 1,
+  "mecha": 1
+ },
+ "execution": "sam-zhaoyun-20261108-4f6889786089",
+ "status": "complete",
+ "image_commit": "839462299e3f1d04f1142f9d22f2d44d42ffaf9e",
+ "catalog_commit": "7881c67bd217f67683eaa48041f03272d75741d9",
+ "images": 18,
+ "casual_images": 15,
+ "thumbnail_images": 18,
+ "generation_source_commit": "44885f6",
+ "regenerated_after_success": false,
+ "qa_exception_slots": [
+  "samguk",
+  "fantasy",
+  "samguk-casual1",
+  "samguk-casual3",
+  "fantasy-casual1",
+  "fantasy-casual2",
+  "fantasy-casual3",
+  "fantasy-casual5",
+  "mecha-casual1",
+  "mecha-casual4",
+  "mecha-casual5"
+ ],
+ "verification": [
+  "WebP 18 files at 1024x1536",
+  "18 automatic thumbnails present",
+  "three world slots and five casual slots per world in published catalog",
+  "catalog registration and Pages workflows succeeded"
+ ],
+ "note": "자동 썸네일 커밋 뒤 이미지 Pages가 새 썸네일을 포함하도록 이 완료 기록을 일반 커밋으로 반영."
+}
+
