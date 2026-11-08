@@ -4,7 +4,7 @@
   {
    "key": "손권",
    "execution": "sam-sunquan-20261108T1434Z",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-08T05:36:01.461Z",
    "date_kst": "2026-11-08",
    "date_utc": "2026-11-08",
@@ -27,7 +27,11 @@
     "손권_mecha_kr_promo_hikey_f_casual3.webp",
     "손권_mecha_kr_promo_hikey_f_casual4.webp",
     "손권_mecha_kr_promo_hikey_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-08T06:08:54.705Z",
+   "done_by": "sam-sunquan-20261108T1434Z",
+   "image_commit": "647f3102be16be8ac491860a8065ab5933715422",
+   "registration_commit": "44885f6e1d52b66decb417e7ca07b01e2b7ad1d5"
   }
  ]
 }
