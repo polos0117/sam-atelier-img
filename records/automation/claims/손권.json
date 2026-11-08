@@ -32,6 +32,37 @@
    "done_by": "sam-sunquan-20261108T1434Z",
    "image_commit": "647f3102be16be8ac491860a8065ab5933715422",
    "registration_commit": "44885f6e1d52b66decb417e7ca07b01e2b7ad1d5"
+  },
+  {
+   "key": "손권",
+   "execution": "sam-sunquan-20261109-59e3434f46aa",
+   "status": "working",
+   "claimed_at": "2026-11-08T23:48:53.589Z",
+   "date_kst": "2026-11-09",
+   "date_utc": "2026-11-08",
+   "missing": [
+    "손권_samguk_mmorpg_cg_f.webp",
+    "손권_samguk_mmorpg_cg_f_casual1.webp",
+    "손권_samguk_mmorpg_cg_f_casual2.webp",
+    "손권_samguk_mmorpg_cg_f_casual3.webp",
+    "손권_samguk_mmorpg_cg_f_casual4.webp",
+    "손권_samguk_mmorpg_cg_f_casual5.webp",
+    "손권_samguk_mmorpg_cg_f_casual6.webp",
+    "손권_fantasy_mmorpg_cg_f.webp",
+    "손권_fantasy_mmorpg_cg_f_casual1.webp",
+    "손권_fantasy_mmorpg_cg_f_casual2.webp",
+    "손권_fantasy_mmorpg_cg_f_casual3.webp",
+    "손권_fantasy_mmorpg_cg_f_casual4.webp",
+    "손권_fantasy_mmorpg_cg_f_casual5.webp",
+    "손권_fantasy_mmorpg_cg_f_casual6.webp",
+    "손권_mecha_mmorpg_cg_f.webp",
+    "손권_mecha_mmorpg_cg_f_casual1.webp",
+    "손권_mecha_mmorpg_cg_f_casual2.webp",
+    "손권_mecha_mmorpg_cg_f_casual3.webp",
+    "손권_mecha_mmorpg_cg_f_casual4.webp",
+    "손권_mecha_mmorpg_cg_f_casual5.webp",
+    "손권_mecha_mmorpg_cg_f_casual6.webp"
+   ]
   }
  ]
 }
