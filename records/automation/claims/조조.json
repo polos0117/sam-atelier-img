@@ -118,7 +118,7 @@
     "조조_mecha_mmorpg_cg_f_casual5.webp",
     "조조_mecha_mmorpg_cg_f_casual6.webp"
    ],
-   "stage": "generating_casuals",
+   "stage": "regenerating_casuals",
    "style": "mmorpg_cg",
    "candidate_count": 6,
    "candidates_by_world": {
@@ -144,7 +144,12 @@
     "fantasy": 2,
     "mecha": 2
    },
-   "selection_user": "2,2,2"
+   "selection_user": "2,2,2",
+   "redo": {
+    "why": "사용자: 일상컷 생성기에 문구 빠뜨린게 있어서 일상컷은 처음부터 재작업해줘",
+    "generator_commit": "96c4201",
+    "preserve_previous": true
+   }
   }
  ]
 }
