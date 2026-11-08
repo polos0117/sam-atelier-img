@@ -4,7 +4,7 @@
   {
    "key": "조조",
    "execution": "sam-caocao-20261108-b609",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-08T04:48:51.764Z",
    "date_kst": "2026-11-08",
    "date_utc": "2026-11-08",
@@ -27,7 +27,9 @@
     "조조_mecha_kr_promo_hikey_f_casual3.webp",
     "조조_mecha_kr_promo_hikey_f_casual4.webp",
     "조조_mecha_kr_promo_hikey_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-08T05:22:32.811Z",
+   "done_by": "sam-caocao-20261108-b609"
   }
  ]
 }
