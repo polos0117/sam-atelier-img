@@ -1,0 +1,147 @@
+{
+ "atelier": "samguk",
+ "card": "조조",
+ "faction": "wei",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "ref": "조조_mecha_mmorpg_cg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_office",
+  "ofam": "lingerie",
+  "item": "cage_back",
+  "posture": "walk",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "rear_3q",
+  "head": "over_shoulder",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "camera_carry",
+  "legs": "walk_pause",
+  "gaze": "camera",
+  "color": "vivid",
+  "expr": "pensive",
+  "preset": "walk_lookback",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "moderate"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "조조_mecha_mmorpg_cg_f_casual1.webp",
+ "prompt": "Use the attached image as the reference: the same woman — Cao Cao of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a modern glass-walled office at dusk — a desk with a monitor, a swivel chair and city lights beyond the window\nOutfit: a lingerie set whose bralette back is crossed by geometric straps — in one bright, saturated colour such as cherry red, cobalt blue, sunflower yellow or kelly green; the outfit colour reads clearly at first glance, open at the collarbone and showing her arms or lower legs, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — on the image's right side, since her back is to the camera.\nLEFT HAND: her own left arm hangs relaxed at her side — on the image's left side, since her back is to the camera.\nPROP: with her own right hand she carries a camera by its grip at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: a quiet, thoughtful look, lips lightly closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (the Sky-Leaning Sword, an ornate long jian) appears only as a belt charm modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-08",
+ "record": "records/조조/mecha-casual1.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "조조",
+  "out": "casual",
+  "world": "mecha",
+  "style": "mmorpg_cg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 1,
+  "scenes": {
+   "조조": {
+    "era": "now",
+    "place": "street_office",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_lookback",
+    "use": "camera_carry",
+    "posture": "walk",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "rear_3q",
+    "head": "over_shoulder",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_pause",
+    "gaze": "camera",
+    "item": "cage_back",
+    "expr": "pensive",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "moderate"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "vivid"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "5ae926985a1f83db10d1362930082ebe5163f701125b02a40139adf6d1f1a547",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8e301f4e059af883b9d7970d666071b8879e33d395b149d1db5611d30676ca5c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "717654d3ea16f85406755f0a0986647d2ce0ae53bf23b976c1618b46f498438a",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "bef683fedd85cd2a330c31b180213be7cb33c41dcdb0ca14d874db900db39cad",
+  "generator_commit": "96c4201",
+  "retries": [
+   {
+    "n": 1,
+    "status": "moderation_blocked",
+    "stage": "output",
+    "exposure": "bold"
+   },
+   {
+    "n": 2,
+    "status": "moderation_blocked",
+    "stage": "input",
+    "exposure": "bold",
+    "prompt_unchanged": true
+   },
+   {
+    "n": 3,
+    "status": "success",
+    "exposure": "moderate",
+    "why": "IMAGE_RULES 필터 순서에 따른 한 단계 낮춤"
+   }
+  ],
+  "redo": {
+   "why": "사용자 요청: 누락된 출력 크기 문구를 복원한 생성기로 일상컷 처음부터 재작업",
+   "previous_outputs_preserved": true
+  }
+ },
+ "execution": "sam-caocao-20261109-4ef496a2",
+ "imported": "2026-11-09",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8e301f4e059af883b9d7970d666071b8879e33d395b149d1db5611d30676ca5c",
+  "passed": false,
+  "exposure": "stronger",
+  "observations": [
+   "1024×1536, 성인 여성 얼굴과 보라색 눈/짙은 머리색/화풍 유지, 뚜렷한 팔·다리 중복 없음",
+   "일상 소품 사용, 손에 든 실제 무기 없음",
+   "사무실·파랑 스트랩 란제리·돌아보기·오른손 카메라 구현. moderate 설정보다 실제 노출 강함. 생성된 결과는 보존."
+  ],
+  "cause": "참고 세계 그림의 장식·배경 영향 또는 구도 지시 미준수"
+ },
+ "acceptance": "user approved automatic QA and registration; preserve completed images without exposure-based regeneration",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

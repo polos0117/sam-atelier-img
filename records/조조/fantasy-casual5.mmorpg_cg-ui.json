@@ -1,0 +1,127 @@
+{
+ "atelier": "samguk",
+ "card": "조조",
+ "faction": "wei",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "ref": "조조_fantasy_mmorpg_cg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_diner",
+  "ofam": "halloween",
+  "item": "hw_devil",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sketch_draw",
+  "legs": "knees_together",
+  "gaze": "at_prop",
+  "situ": "strap",
+  "expr": "sensual",
+  "preset": "side_chair_read",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "조조_fantasy_mmorpg_cg_f_casual5.webp",
+ "prompt": "Use the attached image as the reference: the same woman — Cao Cao of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a retro American diner — a chrome counter, vinyl booths, a jukebox and neon signs in the window\nOutfit: a she-devil costume — a glossy red corset mini dress with a sweetheart neckline, small curved horns and a pointed tail; right now — one strap — or one side of the neckline — has slipped down off her shoulder, baring that whole shoulder and the top of her arm; she leaves it as it is, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she sketches in a sketchbook and pencil — her own right hand draws with the pencil, her own left hand holds the sketchbook open.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: softly lidded eyes, lips relaxed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (the Sky-Leaning Sword, an ornate long jian) appears only as a charm bracelet modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-08",
+ "record": "records/조조/fantasy-casual5.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "조조",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "mmorpg_cg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "조조": {
+    "era": "now",
+    "place": "street_diner",
+    "ofam": "halloween",
+    "treeV": 2,
+    "prop": "",
+    "preset": "side_chair_read",
+    "use": "sketch_draw",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "at_prop",
+    "item": "hw_devil",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "situ": "strap"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "b07f9ba8d7fada62851e0623513b09d729d413570389ec68415b1a9e8b8cd0a6",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8a5471f3c2325b8514fcb34ce857641d839a96de377a18c79382e634a91bb255",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "2e68f1f79c19aa90b4a7c0b916d604f4f709fc08bc3c656da6cdf35ee011f811",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "dc3ef7714c0903a560211e2e0c175f564e171309bdf7ab5ec57de7edb9a59a2e",
+  "generator_commit": "96c4201",
+  "retries": [],
+  "redo": {
+   "why": "사용자 요청: 누락된 출력 크기 문구를 복원한 생성기로 일상컷 처음부터 재작업",
+   "previous_outputs_preserved": true
+  }
+ },
+ "execution": "sam-caocao-20261109-4ef496a2",
+ "imported": "2026-11-09",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8a5471f3c2325b8514fcb34ce857641d839a96de377a18c79382e634a91bb255",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "1024×1536, 성인 여성 얼굴과 보라색 눈/짙은 머리색/화풍 유지, 뚜렷한 팔·다리 중복 없음",
+   "일상 소품 사용, 손에 든 실제 무기 없음",
+   "다이너·붉은 악마 코스튬·내려온 어깨끈·측면 앉기·스케치북 구현."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user approved automatic QA and registration; preserve completed images without exposure-based regeneration",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

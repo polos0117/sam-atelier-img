@@ -1,0 +1,129 @@
+{
+ "atelier": "samguk",
+ "card": "조조",
+ "faction": "wei",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "ref": "조조_mecha_mmorpg_cg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_temple",
+  "ofam": "homewear",
+  "item": "robe_morning",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "cup_wrap",
+  "kind": "both",
+  "legs": "",
+  "gaze": "camera",
+  "color": "jewel",
+  "expr": "sensual",
+  "preset": "wrap_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "조조_mecha_mmorpg_cg_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — Cao Cao of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a quiet memorial hall aboard a starship, soft light on a wall of abstract light panels without text\nOutfit: a loosely tied robe — in rich jewel tones such as emerald, sapphire, amethyst or wine red; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body facing the camera; head tilted slightly; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a cup in both hands, wrapped around its warm sides — her own right hand curls around the right side of the cup, her own left hand curls around the left side.\nGAZE: she looks into the camera.\nEXPRESSION: softly lidded eyes, lips relaxed.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (the Sky-Leaning Sword, an ornate long jian) appears only as a hair ornament modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-08",
+ "record": "records/조조/mecha-casual2.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "조조",
+  "out": "casual",
+  "world": "mecha",
+  "style": "mmorpg_cg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "조조": {
+    "era": "nation",
+    "place": "nation_temple",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "wrap_close",
+    "use": "cup_wrap",
+    "kind": "both",
+    "posture": "stand",
+    "support": "none",
+    "frame": "chest_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "",
+    "gaze": "camera",
+    "item": "robe_morning",
+    "expr": "sensual",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "jewel"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "5ae926985a1f83db10d1362930082ebe5163f701125b02a40139adf6d1f1a547",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e812848c4d49b385aad7146b8e031455f837b118a1d1a53089b2eb5ec7cb0a56",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "3efb59a3c83cf567d187d1053e4d8571356e13e586c49368dbdf311391fa1d1d",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "aa47c25e52c4428ea189d489f7b76f1de774eebe22f6ea3bf930cafbd6a94ac9",
+  "generator_commit": "96c4201",
+  "retries": [],
+  "redo": {
+   "why": "사용자 요청: 누락된 출력 크기 문구를 복원한 생성기로 일상컷 처음부터 재작업",
+   "previous_outputs_preserved": true
+  }
+ },
+ "execution": "sam-caocao-20261109-4ef496a2",
+ "imported": "2026-11-09",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e812848c4d49b385aad7146b8e031455f837b118a1d1a53089b2eb5ec7cb0a56",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "1024×1536, 성인 여성 얼굴과 보라색 눈/짙은 머리색/화풍 유지, 뚜렷한 팔·다리 중복 없음",
+   "일상 소품 사용, 손에 든 실제 무기 없음",
+   "함선 추모실·보석색 로브·양손에 컵 구현."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user approved automatic QA and registration; preserve completed images without exposure-based regeneration",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "atelier": "samguk",
+ "card": "조조",
+ "faction": "wei",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "ref": "조조_samguk_mmorpg_cg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_wedding",
+  "ofam": "bridal",
+  "item": "open_back_gown",
+  "posture": "sit_lean",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "bouquet_both",
+  "legs": "knees_together",
+  "gaze": "",
+  "color": "pastel",
+  "expr": "proud",
+  "preset": "table_lean_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "조조_samguk_mmorpg_cg_f_casual3.webp",
+ "prompt": "Use the attached image as the reference: the same woman — Cao Cao of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a bridal room, garden aisle or reception hall\nOutfit: an open-back wedding gown — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she holds a small bouquet in both hands at her waist — her own right hand around the stems, her own left hand around the stems.\nLEGS: knees together, feet slightly apart.\nEXPRESSION: a proud, poised look with a faint closed-lip smile.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (the Sky-Leaning Sword, an ornate long jian) appears only as a pendant on a fine chain modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-08",
+ "record": "records/조조/samguk-casual3.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "조조",
+  "out": "casual",
+  "world": "samguk",
+  "style": "mmorpg_cg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 3,
+  "scenes": {
+   "조조": {
+    "era": "now",
+    "place": "stage_wedding",
+    "ofam": "bridal",
+    "treeV": 2,
+    "prop": "",
+    "preset": "table_lean_use",
+    "use": "bouquet_both",
+    "posture": "sit_lean",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "knees_together",
+    "gaze": "",
+    "item": "open_back_gown",
+    "expr": "proud",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "pastel"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "2170f421add83859c2e19b4a9029c3d442cd6088dc38c43df2aa5559ee4bc04e",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "0899c5263afc69fa3a2950d3eb35f5fea3d5e0b76c96b8f6ef3dbe50554a259b",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "759384886eaf97ef790e47293b7fad338ec486269bb040cf295036cbdaebe767",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "55fd6d3cdfcebbed1aff8b5faadacd3aa508595c7646e7d25f020ee87b07ee2a",
+  "generator_commit": "96c4201",
+  "retries": [],
+  "redo": {
+   "why": "사용자 요청: 누락된 출력 크기 문구를 복원한 생성기로 일상컷 처음부터 재작업",
+   "previous_outputs_preserved": true
+  }
+ },
+ "execution": "sam-caocao-20261109-4ef496a2",
+ "imported": "2026-11-09",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0899c5263afc69fa3a2950d3eb35f5fea3d5e0b76c96b8f6ef3dbe50554a259b",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "1024×1536, 성인 여성 얼굴과 보라색 눈/짙은 머리색/화풍 유지, 뚜렷한 팔·다리 중복 없음",
+   "일상 소품 사용, 손에 든 실제 무기 없음",
+   "웨딩·파스텔·꽃다발·앉은 자세 구현. 측면보다 3/4 측면이고 무릎까지 보임."
+  ],
+  "cause": "참고 세계 그림의 장식·배경 영향 또는 구도 지시 미준수"
+ },
+ "acceptance": "user approved automatic QA and registration; preserve completed images without exposure-based regeneration",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

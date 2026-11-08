@@ -1,0 +1,127 @@
+{
+ "atelier": "samguk",
+ "card": "조조",
+ "faction": "wei",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "ref": "조조_samguk_mmorpg_cg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_garden",
+  "ofam": "homewear",
+  "item": "linen_lounge",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "clasp_both",
+  "left": "clasp_both",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "earth",
+  "expr": "calm",
+  "preset": "clasp_low",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "조조_samguk_mmorpg_cg_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — Cao Cao of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a walled garden with a lotus pond, a zigzag stone bridge and a small open pavilion\nOutfit: a light linen lounge set — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head tilted slightly; camera slightly below, looking up at her.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nBOTH HANDS: both hands clasp loosely together in front of her chest.\nGAZE: she looks into the camera.\nEXPRESSION: a relaxed, unforced face, lips gently closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (the Sky-Leaning Sword, an ornate long jian) appears only as a bag charm modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-08",
+ "record": "records/조조/samguk-casual2.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "조조",
+  "out": "casual",
+  "world": "samguk",
+  "style": "mmorpg_cg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "조조": {
+    "era": "nation",
+    "place": "nation_garden",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "clasp_low",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "tilt",
+    "camera": "low",
+    "right": "clasp_both",
+    "left": "clasp_both",
+    "legs": "",
+    "gaze": "camera",
+    "item": "linen_lounge",
+    "expr": "calm",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "2170f421add83859c2e19b4a9029c3d442cd6088dc38c43df2aa5559ee4bc04e",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "d75f87cf5153332e6f0a6ac8c8228f871a5c23abab8f5f507097a116eeb3afae",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "90779172c5246f81d5730d7fe10bccbf42df0928741cf240a4dda595d2d84ebe",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "4ba01bc0a3d30a1f085b3adf8f778db9f7c4ac689a4b5f3ed7d0b8583b5861ef",
+  "generator_commit": "96c4201",
+  "retries": [],
+  "redo": {
+   "why": "사용자 요청: 누락된 출력 크기 문구를 복원한 생성기로 일상컷 처음부터 재작업",
+   "previous_outputs_preserved": true
+  }
+ },
+ "execution": "sam-caocao-20261109-4ef496a2",
+ "imported": "2026-11-09",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d75f87cf5153332e6f0a6ac8c8228f871a5c23abab8f5f507097a116eeb3afae",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "1024×1536, 성인 여성 얼굴과 보라색 눈/짙은 머리색/화풍 유지, 뚜렷한 팔·다리 중복 없음",
+   "일상 소품 사용, 손에 든 실제 무기 없음",
+   "린넨 라운지 세트보다 문양과 장식이 많은 전통 의상으로 표현됨."
+  ],
+  "cause": "참고 세계 그림의 장식·배경 영향 또는 구도 지시 미준수"
+ },
+ "acceptance": "user approved automatic QA and registration; preserve completed images without exposure-based regeneration",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

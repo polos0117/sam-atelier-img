@@ -118,7 +118,7 @@
     "조조_mecha_mmorpg_cg_f_casual5.webp",
     "조조_mecha_mmorpg_cg_f_casual6.webp"
    ],
-   "stage": "regenerating_casuals",
+   "stage": "images_published",
    "style": "mmorpg_cg",
    "candidate_count": 6,
    "candidates_by_world": {
@@ -137,7 +137,7 @@
    },
    "selection_sheet_library_file_id": "libfile_62db1882ddc481919271d7b89e52fbff",
    "workspace": "/workspace/scratch/4ef496a2a719/work",
-   "note": "세계별 후보 선택 대기. 일상컷·도감 등록 전. 프롬프트는 생성기 원문 그대로. 삼국시대2의 첫 호출만 결과 없이 차단되어 동일 프롬프트 1회 재시도. 생성된 후보는 모두 보존.",
+   "note": "세계컷 2,2,2 및 수정 생성기로 재작업한 일상컷 18장. 크기 1024x1536 확인, 구성/세계간 중복 검사 통과. QA 차이는 각 기록에 보존. 도감 등록 대기.",
    "qa_note": "삼국시대·판타지 네 후보 모두 배경 기병/말 포함(one figure only 위반, Setting cavalry와 충돌). 메카2 지정된 두 개방부 외 가슴 노출 추가. 선택 전 사용자에게 알림.",
    "selected": {
     "samguk": 2,
@@ -149,7 +149,9 @@
     "why": "사용자: 일상컷 생성기에 문구 빠뜨린게 있어서 일상컷은 처음부터 재작업해줘",
     "generator_commit": "96c4201",
     "preserve_previous": true
-   }
+   },
+   "generated_worlds": 3,
+   "generated_casuals": 18
   }
  ]
 }

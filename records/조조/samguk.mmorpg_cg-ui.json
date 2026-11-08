@@ -1,0 +1,131 @@
+{
+ "atelier": "samguk",
+ "card": "조조",
+ "faction": "wei",
+ "role": "lord",
+ "world": "samguk",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "age": "late_20s",
+   "impression": "glamorous",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "smoky",
+   "expr": "cold_smile",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "face_shape": "heart",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "blue_black",
+   "hair": "updo_bun",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "조조_samguk_mmorpg_cg_f.webp",
+ "prompt": "A full-body vertical 2:3 character card image of Cao Cao from the Romance of the Three Kingdoms, reimagined as an adult woman — the ambitious hero of chaos who unified the north — warlord, chancellor and poet. late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nHer: a glamorous, sultry allure; fair skin; heart-shaped face; moderately sized, realistically proportioned eyes — narrow upturned eyes, outer eye corners slightly lifted; sharp angled brows; aquiline nose; full heart-shaped lips; pale violet eyes; smoky dark eye makeup. hourglass-figured — full bust and hips, distinctly narrow-waisted build; an updo bun with side-swept bangs; blue-black hair with a cold indigo sheen.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes keep the shape described above at a natural open size — never squeezed into narrow slits.\n\nHer legend: brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners.\n\nOutfit: Han-dynasty ruler's regalia — layered silk robes in her faction's colours with broad embroidered sleeves, a jade-and-gold guan headpiece or a mian crown with beaded strings, jade pendants at the sash, a ceremonial jian sword at the belt — a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape; colours deep navy blue, black lacquer, cold steel silver, ivory white. EXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; keep the costume material and palette.\n\nShe holds the Sky-Leaning Sword, an ornate long jian.\n\nPose: standing confidently, her body turned slightly while her face looks toward the viewer, one hand resting on her signature item. Expression: a faint cool smile, calm composed eyes.\n\nSetting: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow.\n\nOne figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.",
+ "date": "2026-11-08",
+ "record": "records/조조/samguk.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "조조",
+  "out": "world",
+  "world": "samguk",
+  "style": "mmorpg_cg",
+  "notes": {
+   "조조|samguk": {}
+  },
+  "looks": {
+   "조조|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "조조|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "candidate": 2,
+ "execution": "sam-caocao-20261109-4ef496a2",
+ "stage": "selected",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "89d7798f2cc155de875fc7b5b8026e6deee5409215e84c2001bde0a5ea71bfb1",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "53ddd3f9e9c5b19e010d3a03d585ccbc3a53e946a23bf0e680dc7d04042b31b9",
+  "prompt_modified": false,
+  "retries": [
+   {
+    "n": 1,
+    "status": "moderation_blocked output sexual",
+    "request_id": "3a227080-b7a9-47ca-9256-8d77888480f8",
+    "exposure": "bold"
+   },
+   {
+    "n": 2,
+    "status": "success",
+    "exposure": "bold",
+    "prompt_unchanged": true
+   }
+  ],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "2170f421add83859c2e19b4a9029c3d442cd6088dc38c43df2aa5559ee4bc04e"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "1024x1536, 전신, 양손과 검 보임, 팔/다리 수에 뚜렷한 이상 없음",
+   "삼국시대·판타지 배경에 병력과 말 존재: one figure only와 설정의 cavalry 문구 충돌",
+   "지정된 여백보다 인물이 프레임을 더 크게 채움",
+   "생성된 이미지는 노출을 이유로 재생성하지 않음"
+  ]
+ },
+ "imported": "2026-11-09",
+ "acceptance": "user selected 2,2,2; commit and normal push approved",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected candidate 2"
+ }
+}

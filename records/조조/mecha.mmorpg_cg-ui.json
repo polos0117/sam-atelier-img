@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "조조",
+ "faction": "wei",
+ "role": "lord",
+ "world": "mecha",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "age": "late_20s",
+   "impression": "glamorous",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "smoky",
+   "expr": "cold_smile",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "face_shape": "oval",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "blue_black",
+   "hair": "side_swept",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "조조_mecha_mmorpg_cg_f.webp",
+ "prompt": "A full-body vertical 2:3 character card image of Cao Cao from the Romance of the Three Kingdoms, reimagined as an adult woman — the ambitious hero of chaos who unified the north — warlord, chancellor and poet. late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nHer: a glamorous, sultry allure; fair skin; oval face; moderately sized, realistically proportioned eyes — deep-set eyes, outer eye corners slightly lifted; sharp angled brows; aquiline nose; full heart-shaped lips; pale violet eyes; smoky dark eye makeup. hourglass-figured — full bust and hips, distinctly narrow-waisted build; long side-swept hair with center-parted bangs framing the face; blue-black hair with a cold indigo sheen.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes keep the shape described above at a natural open size — never squeezed into narrow slits.\n\nHer legend: brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners.\n\nOutfit: a command-type mecha — crowned head unit with an antenna crest, cape-like binder wings, heavy chest plating with an emblem core, a flagship back unit; colours deep navy blue, black lacquer, cold steel silver, ivory white. EXPOSURE (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a bare waist and midriff between the bust plate and the hip armor; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\nShe holds the Sky-Leaning Sword, an ornate long jian, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette.\n\nPose: standing confidently, her body turned slightly while her face looks toward the viewer, one hand resting on her signature item. Expression: a faint cool smile, calm composed eyes.\n\nSetting: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow.\n\nOne figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.",
+ "date": "2026-11-08",
+ "record": "records/조조/mecha.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "조조",
+  "out": "world",
+  "world": "mecha",
+  "style": "mmorpg_cg",
+  "notes": {
+   "조조|mecha": {}
+  },
+  "looks": {
+   "조조|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "조조|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "candidate": 2,
+ "execution": "sam-caocao-20261109-4ef496a2",
+ "stage": "selected",
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "f5e541ff1d2e950eb2e87db53deecfc13ee98d4306df7a75107155441f506251",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "7689fc5dfaa30bb1371a98cf68c0bf958275474e3c288f95f4798ac04445ff0e",
+  "prompt_modified": false,
+  "retries": [],
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "webp_sha256": "5ae926985a1f83db10d1362930082ebe5163f701125b02a40139adf6d1f1a547"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "exposure": "stronger",
+  "observations": [
+   "1024x1536, 전신, 양손과 검 보임, 팔/다리 수에 뚜렷한 이상 없음",
+   "미래 궤도 요새·함대와 메카 장갑 표현",
+   "지정된 여백보다 인물이 프레임을 더 크게 채움",
+   "생성된 이미지는 노출을 이유로 재생성하지 않음"
+  ]
+ },
+ "imported": "2026-11-09",
+ "acceptance": "user selected 2,2,2; commit and normal push approved",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected candidate 2"
+ }
+}
