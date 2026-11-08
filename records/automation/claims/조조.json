@@ -91,7 +91,7 @@
   {
    "key": "조조",
    "execution": "sam-caocao-20261109-4ef496a2",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-08T21:12:51.274Z",
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-08",
@@ -118,7 +118,7 @@
     "조조_mecha_mmorpg_cg_f_casual5.webp",
     "조조_mecha_mmorpg_cg_f_casual6.webp"
    ],
-   "stage": "images_published",
+   "stage": "complete",
    "style": "mmorpg_cg",
    "candidate_count": 6,
    "candidates_by_world": {
@@ -137,7 +137,7 @@
    },
    "selection_sheet_library_file_id": "libfile_62db1882ddc481919271d7b89e52fbff",
    "workspace": "/workspace/scratch/4ef496a2a719/work",
-   "note": "세계컷 2,2,2 및 수정 생성기로 재작업한 일상컷 18장. 크기 1024x1536 확인, 구성/세계간 중복 검사 통과. QA 차이는 각 기록에 보존. 도감 등록 대기.",
+   "note": "선택 세계컷 3장 및 수정 생성기 재작업 일상컷 18장 등록 완료. 21장 모두 1024×1536. 새 묶음 검사 통과. 기존 이미지와 재작업 전 결과 보존.",
    "qa_note": "삼국시대·판타지 네 후보 모두 배경 기병/말 포함(one figure only 위반, Setting cavalry와 충돌). 메카2 지정된 두 개방부 외 가슴 노출 추가. 선택 전 사용자에게 알림.",
    "selected": {
     "samguk": 2,
@@ -151,7 +151,11 @@
     "preserve_previous": true
    },
    "generated_worlds": 3,
-   "generated_casuals": 18
+   "generated_casuals": 18,
+   "done_at": "2026-11-08T23:20:57.432Z",
+   "done_by": "sam-caocao-20261109-4ef496a2",
+   "image_commit": "06e395af4455523d8391add5fb12a67ed84d4fb4",
+   "code_commit": "cc801df1188c392b9c910d4dc36f31fa7df0c473"
   }
  ]
 }
