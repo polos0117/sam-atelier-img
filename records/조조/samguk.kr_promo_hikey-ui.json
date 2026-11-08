@@ -1,0 +1,129 @@
+{
+ "atelier": "samguk",
+ "card": "조조",
+ "faction": "wei",
+ "role": "lord",
+ "world": "samguk",
+ "style": "kr_promo_hikey",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "age": "early_30s",
+   "impression": "glamorous",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "smoky",
+   "expr": "cold_smile",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "face_shape": "heart",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "blue_black",
+   "hair": "updo_bun",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "조조_samguk_kr_promo_hikey_f.webp",
+ "prompt": "CONCEPT: a female personification of Cao Cao (조조), a ruler of Cao Wei in the Romance of the Three Kingdoms — the ambitious hero of chaos who unified the north — warlord, chancellor and poet. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure in the body type SILHOUETTE names — soft, rounded volume at the bust, and hips and thighs kept in realistic human proportion: long, shapely legs, never oversized thighs, exaggerated hips or a bottom-heavy figure; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Luxurious, high-detail finish.\nTRAITS of Cao Cao to carry in her design and the scene: brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners.\nFACTION — Cao Wei (魏). Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: hourglass-figured — full bust and hips, distinctly narrow-waisted build; an updo bun with side-swept bangs; blue-black hair with a cold indigo sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a glamorous, sultry allure; fair skin; heart-shaped face; moderately sized, realistically proportioned eyes — narrow upturned eyes, outer eye corners tilting sharply upward; sharp angled brows; aquiline nose; full heart-shaped lips; pale violet eyes; smoky dark eye makeup. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — THREE KINGDOMS ERA: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. COSTUME (Three Kingdoms era): Han-dynasty ruler's regalia — layered silk robes in her faction's colours with broad embroidered sleeves, a jade-and-gold guan headpiece or a mian crown with beaded strings, jade pendants at the sash, a ceremonial jian sword at the belt. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nOUTFIT SILHOUETTE: a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape. Only the overall shape is fixed; design the details freely. This silhouette overrides the overall shape of the role costume above.\nMOOD: bold martial-fantasy key art — wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: the Sky-Leaning Sword, an ornate long jian — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint cool smile, calm composed eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 曹.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.\n\nSKIN COLOUR AND RENDERING:\nHer own skin tone — fair skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, arms, hands and exposed legs, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate satin-like highlights, subtle texture, lifelike translucency and softly dimensional shading. Do not whiten or darken her skin tone, do not clip highlights or remove all shadows; no chalky, ashen, waxy or uniformly glossy skin, and the costume or setting never tints her skin.\n\nLIGHTING AND COLOUR:\nA bright, elegant high-key cinematic grade with luminous skin and clean colour separation. Soft bright frontal fill light gently lifts the face and exposed skin, keeping the midtones bright, translucent and evenly readable, with gentle, open, colour-clean shadows around the eyes, nose, lips, neck and limbs. The scene's own light comes from behind and to one side as a restrained rim, tracing hair strands, shoulder edges and fabric. Reflections from the costume, stone, metal or sky never cast a strong blue, purple, grey or orange tint on her skin. No heavy colour grade, dark crushed contrast, muddy shadows or cool desaturation.\n\nCAMERA AND COMPOSITION:\nVertical 2:3 full-body framing with modest headroom and clear space below the boots; the figure occupies most of the image height, and her head, hair ornaments, both hands, her signature item and both boots stay inside the frame. Natural portrait perspective — no wide-angle distortion and no exaggerated low camera angle; facial and body proportions stay balanced. She is sharply resolved from face to boots, the distance falls into gentle optical blur with clear atmospheric depth, and her face keeps enough detail to read her eyes, features and expression. No text, logo or watermark.",
+ "date": "2026-11-08",
+ "record": "records/조조/samguk.kr_promo_hikey-ui.json",
+ "storage": {
+  "card": "조조",
+  "out": "world",
+  "world": "samguk",
+  "style": "kr_promo_hikey",
+  "notes": {
+   "조조|samguk": {}
+  },
+  "looks": {
+   "조조|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "조조|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "b5a053581538b485d0d6ac6bc761abfffb064f1c8ff3996b91057f61f19c2fac",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "f81e7a39899d72ccb1f743e76bb41f2120411496a287417d9d5300aca9b64268"
+  },
+  "retries": [
+   {
+    "n": 1,
+    "status": "moderation_blocked output sexual",
+    "request_id": "2c61b0ef-00b4-4e06-ad73-11aa04c326ca",
+    "exposure": "bold"
+   },
+   {
+    "n": 2,
+    "status": "success",
+    "exposure": "bold"
+   }
+  ],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "6109b2bfb167969f28f3ff324a9c7b564b4148f4c6bfbca3922d636ef97b80d6"
+ },
+ "execution": "sam-caocao-20261108-b609",
+ "imported": "2026-11-08",
+ "acceptance": "user_approval_2026-11-08 — 이미지·도감 커밋 및 main 일반 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b5a053581538b485d0d6ac6bc761abfffb064f1c8ff3996b91057f61f19c2fac",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 실제 원본 확인",
+   "조조 1명 전신·남빛 흑발 올림머리·연보라 눈·봉황 관·남빛 한대풍 예복",
+   "두 팔·두 다리·양손 연결 자연스러움, 한 자루 검은 몸 앞에서 곧게 이어짐",
+   "배경에 작은 군사 다수가 표현돼 ONE FIGURE ONLY 불일치",
+   "읽히는 글자는 깃발 魏 한 글자"
+  ],
+  "cause": "WORLD의 armoured cavalry와 ONE FIGURE ONLY가 충돌해 배경 군사 생성"
+ }
+}

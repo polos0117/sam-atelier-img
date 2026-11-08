@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "조조",
+ "faction": "wei",
+ "role": "lord",
+ "world": "mecha",
+ "style": "kr_promo_hikey",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "age": "early_30s",
+   "impression": "glamorous",
+   "skin_tone": "fair",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "smoky",
+   "expr": "cold_smile",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "heart_full",
+   "face_shape": "oval",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "blue_black",
+   "hair": "side_swept",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "조조_mecha_kr_promo_hikey_f.webp",
+ "prompt": "CONCEPT: a female personification of Cao Cao (조조), a ruler of Cao Wei in the Romance of the Three Kingdoms — the ambitious hero of chaos who unified the north — warlord, chancellor and poet. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure in the body type SILHOUETTE names — soft, rounded volume at the bust, and hips and thighs kept in realistic human proportion: long, shapely legs, never oversized thighs, exaggerated hips or a bottom-heavy figure; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Luxurious, high-detail finish.\nTRAITS of Cao Cao to carry in her design and the scene: brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners.\nFACTION — Cao Wei. Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: hourglass-figured — full bust and hips, distinctly narrow-waisted build; long side-swept hair with center-parted bangs framing the face; blue-black hair with a cold indigo sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a glamorous, sultry allure; fair skin; oval face; moderately sized, realistically proportioned eyes — deep-set eyes, outer eye corners tilting sharply upward; sharp angled brows; aquiline nose; full heart-shaped lips; pale violet eyes; smoky dark eye makeup. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — MECHA: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls. MECHA DESIGN: she is a female mecha personification, built as a command-type mecha — crowned head unit with an antenna crest, cape-like binder wings, heavy chest plating with an emblem core, a flagship back unit; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines.\nMECHA SILHOUETTE: several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth. Only the overall shape is fixed; design the details freely.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: the Sky-Leaning Sword, an ornate long jian — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint cool smile, calm composed eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.\n\nSKIN COLOUR AND RENDERING:\nHer own skin tone — fair skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, arms, hands and exposed legs, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate satin-like highlights, subtle texture, lifelike translucency and softly dimensional shading. Do not whiten or darken her skin tone, do not clip highlights or remove all shadows; no chalky, ashen, waxy or uniformly glossy skin, and the costume or setting never tints her skin.\n\nLIGHTING AND COLOUR:\nA bright, elegant high-key cinematic grade with luminous skin and clean colour separation. Soft bright frontal fill light gently lifts the face and exposed skin, keeping the midtones bright, translucent and evenly readable, with gentle, open, colour-clean shadows around the eyes, nose, lips, neck and limbs. The scene's own light comes from behind and to one side as a restrained rim, tracing hair strands, shoulder edges and fabric. Reflections from the costume, stone, metal or sky never cast a strong blue, purple, grey or orange tint on her skin. No heavy colour grade, dark crushed contrast, muddy shadows or cool desaturation.\n\nCAMERA AND COMPOSITION:\nVertical 2:3 full-body framing with modest headroom and clear space below the boots; the figure occupies most of the image height, and her head, hair ornaments, both hands, her signature item and both boots stay inside the frame. Natural portrait perspective — no wide-angle distortion and no exaggerated low camera angle; facial and body proportions stay balanced. She is sharply resolved from face to boots, the distance falls into gentle optical blur with clear atmospheric depth, and her face keeps enough detail to read her eyes, features and expression. No text, logo or watermark.",
+ "date": "2026-11-08",
+ "record": "records/조조/mecha.kr_promo_hikey-ui.json",
+ "storage": {
+  "card": "조조",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_promo_hikey",
+  "notes": {
+   "조조|mecha": {}
+  },
+  "looks": {
+   "조조|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "조조|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen.imagegen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "92ac76f040b5f7b104e0194825cd1cb267a0115e840a840206a2c792ed761186",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "90b757ee0a6662213321ef9f75ca8b054c49300097e3f163bbae325026d266dd"
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "4d6826f17ff315e404f389c538ca44a9423e93a1cc18cdca401a1dad25fc9b19"
+ },
+ "execution": "sam-caocao-20261108-b609",
+ "imported": "2026-11-08",
+ "acceptance": "user_approval_2026-11-08 — 이미지·도감 커밋 및 main 일반 반영 승인",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "92ac76f040b5f7b104e0194825cd1cb267a0115e840a840206a2c792ed761186",
+  "passed": true,
+  "observations": [
+   "1024×1536 세로 2:3 실제 원본 확인",
+   "메카 왕관·판금 망토·남빛 장갑·우주 정거장·궤도 함대",
+   "긴 남빛 흑발·연보라 눈·밝은 피부·전신·한 자루 검",
+   "양손과 팔·두 다리 연결 정상, 인물은 조조 1명",
+   "읽히는 글자·로고·워터마크 없음"
+  ]
+ }
+}
