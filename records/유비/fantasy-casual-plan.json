@@ -16,31 +16,32 @@
  "cuts": [
   {
    "n": 1,
+   "treeV": 2,
    "era": "now",
    "place": "stage_festival",
    "ofam": "lingerie",
-   "treeV": 2,
-   "prop": "",
-   "preset": "walk_away",
-   "use": "icecream_hold",
-   "posture": "walk",
+   "item": "satin_teddy",
+   "posture": "stand",
    "support": "none",
-   "frame": "environmental",
-   "body": "back",
+   "frame": "full_body",
+   "body": "front_3q",
    "head": "with_body",
    "camera": "eye",
    "right": "prop",
    "left": "down",
-   "legs": "walk_stride",
-   "gaze": "horizon",
-   "item": "satin_teddy",
-   "expr": "",
+   "use": "icecream_hold",
+   "legs": "stand_relaxed",
+   "gaze": "camera",
+   "expr": "gentle",
+   "preset": "",
+   "prop": "",
+   "custom": "User-requested composition correction of the attached off-duty image. Preserve her recognizable face, chestnut braids, amber eyes, warm skin tone, the exact champagne satin teddy with its lace edging, jade earrings, ice-cream cone and lantern festival setting. Change the walking pose completely to a stationary relaxed full-body pose, torso and pelvis facing the same three-quarter-front direction. Two feet planted slightly apart, legs uncrossed, weight evenly distributed. Each thigh, knee, shin, ankle and foot follows one continuous natural anatomical chain. Both knees and both shoe toe boxes point in the same forward direction as the pelvis; heels behind the toes, no backward-facing foot or rotated lower leg. Both feet and the ground beneath them are clearly visible with margins. Keep the same rendering and exposure. One hand holds the ice cream naturally near shoulder height; the other arm hangs relaxed.",
    "axes": {
     "overall_intensity": "strong",
-    "skin_exposure": "bold"
+    "skin_exposure": "low"
    },
-   "aspect": "2:3",
-   "unlocked": []
+   "unlocked": [],
+   "aspect": "2:3"
   },
   {
    "n": 2,
@@ -160,5 +161,45 @@
   "slot": 1,
   "seed": 2081108,
   "reason": "No image returned after original twice and moderate/low once each"
+ },
+ "user_edits": [
+  {
+   "date": "2026-11-08",
+   "slot": 1,
+   "reason": "이미지 기준 왼쪽다리가 돌아갔는데? 다른 구도로 다시 만들어서 올려줘",
+   "previous_cut": {
+    "n": 1,
+    "era": "now",
+    "place": "stage_festival",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "walk_away",
+    "use": "icecream_hold",
+    "posture": "walk",
+    "support": "none",
+    "frame": "environmental",
+    "body": "back",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "legs": "walk_stride",
+    "gaze": "horizon",
+    "item": "satin_teddy",
+    "expr": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   }
+  }
+ ],
+ "validation_exception": {
+  "rule": "full_body framing max once per five-cut set",
+  "actual": 2,
+  "reason": "User-requested replacement to show both legs and shoes clearly after backward-facing foot defect. Existing casual2 is retained; no other image regenerated to satisfy framing quota."
  }
 }

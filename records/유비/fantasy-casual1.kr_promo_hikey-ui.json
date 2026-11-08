@@ -14,20 +14,21 @@
   "place": "stage_festival",
   "ofam": "lingerie",
   "item": "satin_teddy",
-  "posture": "walk",
+  "posture": "stand",
   "support": "none",
-  "frame": "environmental",
-  "body": "back",
+  "frame": "full_body",
+  "body": "front_3q",
   "head": "with_body",
   "camera": "eye",
   "right": "prop",
   "left": "down",
   "use": "icecream_hold",
-  "legs": "walk_stride",
-  "gaze": "horizon",
-  "expr": "",
-  "preset": "walk_away",
+  "legs": "stand_relaxed",
+  "gaze": "camera",
+  "expr": "gentle",
+  "preset": "",
   "prop": "",
+  "custom": "User-requested composition correction of the attached off-duty image. Preserve her recognizable face, chestnut braids, amber eyes, warm skin tone, the exact champagne satin teddy with its lace edging, jade earrings, ice-cream cone and lantern festival setting. Change the walking pose completely to a stationary relaxed full-body pose, torso and pelvis facing the same three-quarter-front direction. Two feet planted slightly apart, legs uncrossed, weight evenly distributed. Each thigh, knee, shin, ankle and foot follows one continuous natural anatomical chain. Both knees and both shoe toe boxes point in the same forward direction as the pelvis; heels behind the toes, no backward-facing foot or rotated lower leg. Both feet and the ground beneath them are clearly visible with margins. Keep the same rendering and exposure. One hand holds the ice cream naturally near shoulder height; the other arm hangs relaxed.",
   "axes": {
    "overall_intensity": "strong",
    "skin_exposure": "low"
@@ -36,120 +37,51 @@
   "aspect": "2:3"
  },
  "file": "유비_fantasy_kr_promo_hikey_f_casual1.webp",
- "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Liu Bei of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of matched twin swords in one double scabbard) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with a soft subsurface glow on the skin and a small refined face with delicate realistic-anime features. Refined fabric and accessory rendering with fine jewellery detail; polished metal, silk and gems catch sharp highlights. Luxurious, high-detail, character-select-screen quality — the same rendering quality as the attached image. No visible outlines or flat cel shading.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. Keep the same face proportions — the same short midface (eyes to mouth) and the same face length-to-width ratio; the angle, bangs or a headpiece never make it look longer. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image's face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Her designed face, exactly as in the attached image: oval face, soft droopy eyes, large eyes, outer eye corners drooping downward, soft rounded brows, straight narrow nose, full wide lips, a bare, makeup-free face; amber eyes; a soft, gentle warmth. Keep every one of these features and their proportions — the expression may change only the brows, eyelids and mouth.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a festival street of lanterns, food stalls and paper decorations\nOutfit: a satin teddy, one smooth piece from neckline to hip\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds an ice cream cone at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: low — mostly covered clothing, limited neck/hand exposure unless outfit is explicit\n\nSKIN: her own skin tone — warm beige skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, collarbone, arms and every exposed area, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate natural microtexture, lifelike subsurface scattering and smoothly dimensional shading; small localized highlights — any water or sweat only as small droplets and thin trails that do not change the skin colour, never a thick or uniformly glossy coating. Do not whiten or darken her skin tone; no orange, yellow or bronze tint, no chalky whiteness, blown-out highlights or ashen cast.\n\nLIGHT: a bright, elegant high-key cinematic colour treatment with luminous skin and clean colour separation. Soft bright frontal light gently lifts her face and exposed skin, keeping the midtones bright, translucent and evenly readable, with facial dimension preserved around the eyes, nose, cheeks, lips and jaw and gentle, colour-clean shadows. The scene's own light — daylight, sunset, window light, lamplight or night light — comes from behind and to one side as restrained rim highlights along her hair, shoulders and silhouette, and colours the background and reflections, but never tints her skin orange, yellow, blue, purple or grey. No heavy colour grade, dark crushed contrast, cool desaturation, chalky skin or excessive bloom. The face and nearby hair are sharply resolved; the surroundings fall into gentle shallow depth of field.\n\nBODY LINE: her figure is the attached image's, refined toward a slimmer, cinched waist, slightly wider, rounder hips and slightly fuller upper thighs (only the top of the thighs; knees and calves stay slender). The outfit and pose clearly show her body line — the curve from bust to a narrow waist and out over the hips and upper thighs reads at a glance, a graceful hourglass silhouette at realistic human scale.\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Liu Bei of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of matched twin swords in one double scabbard) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with a soft subsurface glow on the skin and a small refined face with delicate realistic-anime features. Refined fabric and accessory rendering with fine jewellery detail; polished metal, silk and gems catch sharp highlights. Luxurious, high-detail, character-select-screen quality — the same rendering quality as the attached image. No visible outlines or flat cel shading.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. Keep the same face proportions — the same short midface (eyes to mouth) and the same face length-to-width ratio; the angle, bangs or a headpiece never make it look longer. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image's face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Her designed face, exactly as in the attached image: oval face, soft droopy eyes, large eyes, outer eye corners drooping downward, soft rounded brows, straight narrow nose, full wide lips, a bare, makeup-free face; amber eyes; a soft, gentle warmth. Keep every one of these features and their proportions — the expression may change only the brows, eyelids and mouth.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a festival street of lanterns, food stalls and paper decorations\nOutfit: a satin teddy, one smooth piece from neckline to hip\nPOSTURE: standing.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds an ice cream cone at chest height; it is all she holds.\nLEGS: weight even on both legs.\nGAZE: she looks into the camera.\nEXPRESSION: a warm, gentle look with a faint smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\nNote: User-requested composition correction of the attached off-duty image. Preserve her recognizable face, chestnut braids, amber eyes, warm skin tone, the exact champagne satin teddy with its lace edging, jade earrings, ice-cream cone and lantern festival setting. Change the walking pose completely to a stationary relaxed full-body pose, torso and pelvis facing the same three-quarter-front direction. Two feet planted slightly apart, legs uncrossed, weight evenly distributed. Each thigh, knee, shin, ankle and foot follows one continuous natural anatomical chain. Both knees and both shoe toe boxes point in the same forward direction as the pelvis; heels behind the toes, no backward-facing foot or rotated lower leg. Both feet and the ground beneath them are clearly visible with margins. Keep the same rendering and exposure. One hand holds the ice cream naturally near shoulder height; the other arm hangs relaxed.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: low — mostly covered clothing, limited neck/hand exposure unless outfit is explicit\n\nSKIN: her own skin tone — warm beige skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, collarbone, arms and every exposed area, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate natural microtexture, lifelike subsurface scattering and smoothly dimensional shading; small localized highlights — any water or sweat only as small droplets and thin trails that do not change the skin colour, never a thick or uniformly glossy coating. Do not whiten or darken her skin tone; no orange, yellow or bronze tint, no chalky whiteness, blown-out highlights or ashen cast.\n\nLIGHT: a bright, elegant high-key cinematic colour treatment with luminous skin and clean colour separation. Soft bright frontal light gently lifts her face and exposed skin, keeping the midtones bright, translucent and evenly readable, with facial dimension preserved around the eyes, nose, cheeks, lips and jaw and gentle, colour-clean shadows. The scene's own light — daylight, sunset, window light, lamplight or night light — comes from behind and to one side as restrained rim highlights along her hair, shoulders and silhouette, and colours the background and reflections, but never tints her skin orange, yellow, blue, purple or grey. No heavy colour grade, dark crushed contrast, cool desaturation, chalky skin or excessive bloom. The face and nearby hair are sharply resolved; the surroundings fall into gentle shallow depth of field.\n\nBODY LINE: her figure is the attached image's, refined toward a slimmer, cinched waist, slightly wider, rounder hips and slightly fuller upper thighs (only the top of the thighs; knees and calves stay slender). The outfit and pose clearly show her body line — the curve from bust to a narrow waist and out over the hips and upper thighs reads at a glance, a graceful hourglass silhouette at realistic human scale.\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
  "date": "2026-11-08",
  "record": "records/유비/fantasy-casual1.kr_promo_hikey-ui.json",
- "storage": {
-  "card": "유비",
-  "out": "casual",
-  "world": "fantasy",
-  "style": "kr_promo_hikey",
-  "notes": {},
-  "looks": {},
-  "shots": {},
-  "walked": {},
-  "casualN": 1,
-  "scenes": {
-   "유비": {
-    "era": "now",
-    "place": "stage_festival",
-    "ofam": "lingerie",
-    "treeV": 2,
-    "prop": "",
-    "preset": "walk_away",
-    "use": "icecream_hold",
-    "posture": "walk",
-    "support": "none",
-    "frame": "environmental",
-    "body": "back",
-    "head": "with_body",
-    "camera": "eye",
-    "right": "prop",
-    "left": "down",
-    "legs": "walk_stride",
-    "gaze": "horizon",
-    "item": "satin_teddy",
-    "expr": "",
-    "axes": {
-     "overall_intensity": "strong",
-     "skin_exposure": "low"
-    },
-    "aspect": "2:3",
-    "unlocked": []
-   }
-  }
+ "edit_request": {
+  "user": "이미지 기준 왼쪽다리가 돌아갔는데? 다른 구도로 다시 만들어서 올려줘",
+  "reason": "User-requested pose replacement; preserve place, outfit, identity and exposure, select stationary uncrossed full-body pose through generator scene fields."
+ },
+ "edit_reference": "upload/01-1794117378881.png",
+ "execution": "sam-liubei-fix-20261108-fe24",
+ "imported": "2026-11-08",
+ "acceptance": "User explicitly requested a different composition and replacement upload of fantasy casual1.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
  },
  "generation": {
   "tool": "image_gen",
+  "mode": "built-in",
   "endpoint": "images/edits",
   "size": [
    1024,
    1536
   ],
-  "png_sha256": "719756e1e02a4163a29cf57465853a82ccf6f9316f136c15b4748f38633678d1",
+  "png_sha256": "4e2821e39b6d7928cdf42b369fad92d7b57f09fa38721266fc397f1a5a7ee8a0",
+  "ref_sha256": "79db0ae63d6a04b79880fb68138e6e95cf2dfad788fa95aac73619d62762a3fb",
+  "reference_role": "user-supplied off-duty image; identity/outfit/setting reference",
   "webp": {
    "quality": 90,
    "method": 6
   },
   "prompt_form": "en-prompt",
-  "prompt_sha256": "7c1572b0272664c5770adf1a5626b64111b4994982cbf1178f672d13ba916946",
-  "retries": [
-   {
-    "n": 1,
-    "status": "error",
-    "response": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 78fd2418-d6b8-4294-b03f-65bf7cbf7ac8. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
-    "exposure": "bold",
-    "replanned": false
-   },
-   {
-    "n": 2,
-    "status": "error",
-    "response": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID da906618-e6fc-4112-bd6e-c3144a772d40. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
-    "exposure": "bold",
-    "replanned": false
-   },
-   {
-    "n": 3,
-    "status": "error",
-    "response": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 79e6a8b2-01a3-4914-9144-006ca4b7cd2d. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"input\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
-    "exposure": "moderate",
-    "replanned": false
-   },
-   {
-    "n": 4,
-    "status": "error",
-    "response": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 1cd78391-33e4-455e-b738-1c51174773ee. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"input\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
-    "exposure": "low",
-    "replanned": false
-   },
-   {
-    "n": 5,
-    "status": "success",
-    "response": "image returned",
-    "exposure": "low",
-    "replanned": true
-   }
-  ],
-  "ref_sha256": "cb8790366eb0dddff6ca24fefad78f58b95011550c840d31802fd278aa87c58d"
+  "prompt_sha256": "fe597d95e38108dce40c0cd22a279b75440f9f046d2dd64dc948352cbe82ff33",
+  "retries": []
  },
- "execution": "sam-liubei-20261108-fe24",
- "imported": "2026-11-08",
  "qa": {
   "reviewer": "gpt",
-  "image_sha256": "719756e1e02a4163a29cf57465853a82ccf6f9316f136c15b4748f38633678d1",
-  "passed": false,
+  "image_sha256": "4e2821e39b6d7928cdf42b369fad92d7b57f09fa38721266fc397f1a5a7ee8a0",
+  "passed": true,
   "observations": [
-   "1024x1536; one main adult woman; no logo, watermark or border.",
-   "Visible limbs connect through natural wrists, elbows and shoulders; no extra limbs or usable off-duty weapons observed.",
-   "Festival street, satin teddy and ice-cream cone, natural walking step; no usable weapon.",
-   "DEVIATION: planned walking away with back facing camera is rendered walking toward camera."
-  ],
-  "cause": "DEVIATION: planned walking away with back facing camera is rendered walking toward camera."
- },
- "acceptance": "User authorized commit and normal main update; selected world candidate 2 for all worlds. No censorship-based regeneration of returned images.",
- "review": {
-  "reviewed": false,
-  "by": "user",
-  "result": "pending"
+   "1024x1536, one adult woman, both hands and full legs and feet visible.",
+   "New stationary pose: legs uncrossed and separated; each hip/thigh/knee/shin/ankle/foot forms a continuous anatomical chain.",
+   "Both kneecaps and shoe toe boxes face forward consistently; shoe heels are behind the toes. No backward-facing foot.",
+   "Chestnut braids, amber eyes, champagne satin teddy, jade earrings, ice-cream cone and lantern festival setting preserved.",
+   "No readable text, logo, watermark or border."
+  ]
  }
 }
