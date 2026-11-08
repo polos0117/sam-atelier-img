@@ -67,14 +67,20 @@
   {
    "key": "순욱",
    "execution": "sam-xunyu-20261108-401c109de2e2-reframe1",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-08T12:08:46.796856+00:00",
    "date_kst": "2026-11-08",
    "date_utc": "2026-11-08",
    "missing": [
     "순욱_fantasy_kr_promo_hikey_f_casual4.webp"
    ],
-   "approval": "막힌거 다른구도로 다시 해줘"
+   "approval": "막힌거 다른구도로 다시 해줘",
+   "done_at": "2026-11-08T12:17:02.428Z",
+   "done_by": "sam-xunyu-20261108-401c109de2e2-reframe1",
+   "completed_images": {
+    "world": 3,
+    "casual": 15
+   }
   }
  ]
 }
