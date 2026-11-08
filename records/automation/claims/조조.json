@@ -30,6 +30,37 @@
    ],
    "done_at": "2026-11-08T05:22:32.811Z",
    "done_by": "sam-caocao-20261108-b609"
+  },
+  {
+   "key": "조조",
+   "execution": "sam-caocao-20261109-20d8736f",
+   "status": "working",
+   "claimed_at": "2026-11-08T18:39:35.435Z",
+   "date_kst": "2026-11-09",
+   "date_utc": "2026-11-08",
+   "missing": [
+    "조조_samguk_mmorpg_cg_f.webp",
+    "조조_samguk_mmorpg_cg_f_casual1.webp",
+    "조조_samguk_mmorpg_cg_f_casual2.webp",
+    "조조_samguk_mmorpg_cg_f_casual3.webp",
+    "조조_samguk_mmorpg_cg_f_casual4.webp",
+    "조조_samguk_mmorpg_cg_f_casual5.webp",
+    "조조_samguk_mmorpg_cg_f_casual6.webp",
+    "조조_fantasy_mmorpg_cg_f.webp",
+    "조조_fantasy_mmorpg_cg_f_casual1.webp",
+    "조조_fantasy_mmorpg_cg_f_casual2.webp",
+    "조조_fantasy_mmorpg_cg_f_casual3.webp",
+    "조조_fantasy_mmorpg_cg_f_casual4.webp",
+    "조조_fantasy_mmorpg_cg_f_casual5.webp",
+    "조조_fantasy_mmorpg_cg_f_casual6.webp",
+    "조조_mecha_mmorpg_cg_f.webp",
+    "조조_mecha_mmorpg_cg_f_casual1.webp",
+    "조조_mecha_mmorpg_cg_f_casual2.webp",
+    "조조_mecha_mmorpg_cg_f_casual3.webp",
+    "조조_mecha_mmorpg_cg_f_casual4.webp",
+    "조조_mecha_mmorpg_cg_f_casual5.webp",
+    "조조_mecha_mmorpg_cg_f_casual6.webp"
+   ]
   }
  ]
 }
