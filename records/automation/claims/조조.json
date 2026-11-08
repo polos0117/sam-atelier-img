@@ -63,11 +63,27 @@
    ],
    "stage": "awaiting_world_selection",
    "style": "mmorpg_cg",
-   "candidate_count": 6,
+   "candidate_count": 8,
    "selection_sheet_library_file_id": "libfile_c83f3202531081918d1566ff4e9ce306",
    "candidate_archive_library_file_id": "libfile_5808823baa008191b2736576dca5f337",
    "workspace": "/workspace/scratch/20d8736f0a31/cao-cao-work",
-   "note": "세계별 1·2번 후보 생성 완료. IMAGE_RULES 1절에 따라 선택 전 일상컷·도감 등록을 진행하지 않음. 생성 결과는 노출을 이유로 재생성하지 않음."
+   "note": "사용자 요청으로 삼국시대 3·4번 후보 추가. 총 8장, 선택 전 일상컷·도감 등록은 진행하지 않음. 기존 프롬프트 원문, 참조 이미지 없이 생성.",
+   "candidates_by_world": {
+    "samguk": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "fantasy": [
+     1,
+     2
+    ],
+    "mecha": [
+     1,
+     2
+    ]
+   }
   }
  ]
 }
