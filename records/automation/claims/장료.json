@@ -1,0 +1,33 @@
+{
+ "key": "장료",
+ "runs": [
+  {
+   "key": "장료",
+   "execution": "sam-zhangliao-20261108-6a4edf81391a",
+   "status": "working",
+   "claimed_at": "2026-11-08T05:53:29.073Z",
+   "date_kst": "2026-11-08",
+   "date_utc": "2026-11-08",
+   "missing": [
+    "장료_samguk_kr_promo_hikey_f.webp",
+    "장료_samguk_kr_promo_hikey_f_casual1.webp",
+    "장료_samguk_kr_promo_hikey_f_casual2.webp",
+    "장료_samguk_kr_promo_hikey_f_casual3.webp",
+    "장료_samguk_kr_promo_hikey_f_casual4.webp",
+    "장료_samguk_kr_promo_hikey_f_casual5.webp",
+    "장료_fantasy_kr_promo_hikey_f.webp",
+    "장료_fantasy_kr_promo_hikey_f_casual1.webp",
+    "장료_fantasy_kr_promo_hikey_f_casual2.webp",
+    "장료_fantasy_kr_promo_hikey_f_casual3.webp",
+    "장료_fantasy_kr_promo_hikey_f_casual4.webp",
+    "장료_fantasy_kr_promo_hikey_f_casual5.webp",
+    "장료_mecha_kr_promo_hikey_f.webp",
+    "장료_mecha_kr_promo_hikey_f_casual1.webp",
+    "장료_mecha_kr_promo_hikey_f_casual2.webp",
+    "장료_mecha_kr_promo_hikey_f_casual3.webp",
+    "장료_mecha_kr_promo_hikey_f_casual4.webp",
+    "장료_mecha_kr_promo_hikey_f_casual5.webp"
+   ]
+  }
+ ]
+}
