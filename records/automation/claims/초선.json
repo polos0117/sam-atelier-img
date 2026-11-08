@@ -34,7 +34,7 @@
   {
    "key": "초선",
    "execution": "sam-diaochan-20261108-3b4a2f20cfc6",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-08T09:51:35.104Z",
    "date_kst": "2026-11-08",
    "date_utc": "2026-11-08",
@@ -57,7 +57,16 @@
     "초선_mecha_kr_promo_hikey_f_casual3.webp",
     "초선_mecha_kr_promo_hikey_f_casual4.webp",
     "초선_mecha_kr_promo_hikey_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-08T10:37:52.140Z",
+   "done_by": "sam-diaochan-20261108-3b4a2f20cfc6",
+   "selection": {
+    "samguk": 2,
+    "fantasy": 1,
+    "mecha": 2
+   },
+   "image_commit": "ace8bb1d5d789bb7b78b0186222aa62628450416",
+   "code_commit": "14cb35c0c6a3c4d91235be447cbbcc0319e41759"
   }
  ]
 }
