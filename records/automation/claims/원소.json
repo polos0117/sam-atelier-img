@@ -78,6 +78,37 @@
    ],
    "done_at": "2026-11-02T14:28:43.308Z",
    "done_by": "sam-yuanshao-resume-f4a9"
+  },
+  {
+   "key": "원소",
+   "execution": "sam-yuanshao-api25-20261109-codex",
+   "status": "working",
+   "claimed_at": "2026-11-09T14:54:29.314Z",
+   "date_kst": "2026-11-09",
+   "date_utc": "2026-11-09",
+   "missing": [
+    "원소_samguk_mmorpg_cg_f.webp",
+    "원소_samguk_mmorpg_cg_f_casual1.webp",
+    "원소_samguk_mmorpg_cg_f_casual2.webp",
+    "원소_samguk_mmorpg_cg_f_casual3.webp",
+    "원소_samguk_mmorpg_cg_f_casual4.webp",
+    "원소_samguk_mmorpg_cg_f_casual5.webp",
+    "원소_samguk_mmorpg_cg_f_casual6.webp",
+    "원소_fantasy_mmorpg_cg_f.webp",
+    "원소_fantasy_mmorpg_cg_f_casual1.webp",
+    "원소_fantasy_mmorpg_cg_f_casual2.webp",
+    "원소_fantasy_mmorpg_cg_f_casual3.webp",
+    "원소_fantasy_mmorpg_cg_f_casual4.webp",
+    "원소_fantasy_mmorpg_cg_f_casual5.webp",
+    "원소_fantasy_mmorpg_cg_f_casual6.webp",
+    "원소_mecha_mmorpg_cg_f.webp",
+    "원소_mecha_mmorpg_cg_f_casual1.webp",
+    "원소_mecha_mmorpg_cg_f_casual2.webp",
+    "원소_mecha_mmorpg_cg_f_casual3.webp",
+    "원소_mecha_mmorpg_cg_f_casual4.webp",
+    "원소_mecha_mmorpg_cg_f_casual5.webp",
+    "원소_mecha_mmorpg_cg_f_casual6.webp"
+   ]
   }
  ]
 }
