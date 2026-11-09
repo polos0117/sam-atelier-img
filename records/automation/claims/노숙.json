@@ -1,0 +1,36 @@
+{
+ "key": "노숙",
+ "runs": [
+  {
+   "key": "노숙",
+   "execution": "sam-lusu-api25-20261109-codex",
+   "status": "working",
+   "claimed_at": "2026-11-09T23:21:45.037Z",
+   "date_kst": "2026-11-10",
+   "date_utc": "2026-11-09",
+   "missing": [
+    "노숙_samguk_mmorpg_cg_f.webp",
+    "노숙_samguk_mmorpg_cg_f_casual1.webp",
+    "노숙_samguk_mmorpg_cg_f_casual2.webp",
+    "노숙_samguk_mmorpg_cg_f_casual3.webp",
+    "노숙_samguk_mmorpg_cg_f_casual4.webp",
+    "노숙_samguk_mmorpg_cg_f_casual5.webp",
+    "노숙_samguk_mmorpg_cg_f_casual6.webp",
+    "노숙_fantasy_mmorpg_cg_f.webp",
+    "노숙_fantasy_mmorpg_cg_f_casual1.webp",
+    "노숙_fantasy_mmorpg_cg_f_casual2.webp",
+    "노숙_fantasy_mmorpg_cg_f_casual3.webp",
+    "노숙_fantasy_mmorpg_cg_f_casual4.webp",
+    "노숙_fantasy_mmorpg_cg_f_casual5.webp",
+    "노숙_fantasy_mmorpg_cg_f_casual6.webp",
+    "노숙_mecha_mmorpg_cg_f.webp",
+    "노숙_mecha_mmorpg_cg_f_casual1.webp",
+    "노숙_mecha_mmorpg_cg_f_casual2.webp",
+    "노숙_mecha_mmorpg_cg_f_casual3.webp",
+    "노숙_mecha_mmorpg_cg_f_casual4.webp",
+    "노숙_mecha_mmorpg_cg_f_casual5.webp",
+    "노숙_mecha_mmorpg_cg_f_casual6.webp"
+   ]
+  }
+ ]
+}
