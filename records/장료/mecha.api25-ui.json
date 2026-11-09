@@ -1,0 +1,90 @@
+{
+ "atelier": "samguk",
+ "card": "장료",
+ "faction": "wei",
+ "role": "general",
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "steel_blue",
+   "impression": "fierce",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "early_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "bare",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "square_soft",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "blue_black",
+   "hair": "short_crop",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "장료_mecha_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Zhang Liao from the Romance of the Three Kingdoms, reimagined as an adult woman — the terror of Hefei who shook a hundred thousand with eight hundred. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\n\nWorld (fixed): year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely; 2) heavy assault bulk — big, thick shoulder and leg armor, a broad upper silhouette and large thrusters on the back and legs, while the torso stays fitted and the waist narrow; 3) several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them; 4) minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette; 5) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 6) complete full-body armor with plates joined seamlessly from neck to feet — bare skin only on the face and where EXPOSURE allows, dense visible seams and joints; 7) a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape; 8) mecha armor shaped like a medieval knight's plate — big rounded pauldrons, a breastplate, layered plates below the waist, a head ornament instead of a helmet so her face shows; 9) several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth; 10) one long segmented mechanical tail reaching from the back of her waist, tipped with a weapon or ornament. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a crescent-bladed halberd, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette.\n\nHair colour (fixed — ours): blue-black hair with a cold indigo sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 704,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 704
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1047
+  },
+  "seconds": 18.796,
+  "png_sha256": "f7c5701f77754bc090e0df2795711113b5b88b2fdee8cdf6acc33806f1ea6683",
+  "prompt_sha256": "244a85ca0109ba5c7694d77a181d01b75bed62201d82b9b0daed6bd2f9bb3ec1",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "gpt_free",
+  "free_prompt": "A full-body character card image of Zhang Liao of the Three Kingdoms reimagined as an adult woman in her mid-twenties — the terror of Hefei who shook a hundred thousand with eight hundred. She is a woman, no facial hair, no facial lines.\n\nStyle: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nHer: coiled and ready to launch — bright cyan-blue eyes, focused straight brows, lips pressed in a calm determined line, a thin silver eyeliner wing and a cool nude lip. Face proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any headpiece sits above her hairline and never lengthens her face; her eyes stay at a natural open size. Hair colour exactly blue-black with a cold indigo sheen. Hairstyle: a sleek short bob with a long asymmetric side lock, tucked under a slim crescent-shaped sensor crest above her hairline.\n\nCostume: minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette. Her own idea from her legendary shock charge: the calf and ankle thrusters are built as stacked curved fins shaped like crescent-moon blades, venting cold blue light, and the same crescent fins line her forearms like a charge-ready edge. Hard-surface navy-black and steel-silver mecha plates with visible thickness, panel lines and ivory glow lines following her curves, a deep open plate collar baring her cleavage, bare shoulders and a bare midriff between chest and hip plates, bare thigh skin between the hip plates and the armoured thigh-high boots; intimate areas covered. War-general rank: an elaborate layered chest plate, engraved command insignia shapes, dense seams and joints. Colours: deep navy blue, black lacquer, cold steel silver, ivory white.\n\nWeapon: a crescent-bladed halberd rebuilt as a far-future energy halberd of the same silhouette, a single long shaft with a glowing crescent blade, held low and back in her right hand as she leans forward.\n\nSetting: a launch rail inside the hangar of a navy-black orbital fortress, hard white floodlights, the launch doors open on a starfield and a cold blue planet, capital ships in the distance.\n\nVertical 2:3 (1024×1536) full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her head or headpiece to both boots inside the frame, about four-fifths of the image height; her hands and the halberd stay inside the frame. Camera at chest height, natural portrait perspective, no wide-angle distortion, no low angle. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture or hanzi; no logo or watermark.",
+  "free_by": "claude",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "imported": "2026-11-09"
+}
