@@ -1,0 +1,112 @@
+{
+ "atelier": "samguk",
+ "card": "육손",
+ "faction": "wu",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "ref": "육손_samguk_api25_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_diner",
+  "ofam": "swimwear",
+  "item": "highleg_onepiece",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "iced_hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "color": "neutral",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "육손_samguk_api25_f_casual1.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Lu Xun of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — calm genius and patience, scholar's robes over light armor, flames reflected in her eyes — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a retro American diner — a chrome counter, vinyl booths, a jukebox and neon signs in the window\nOutfit: a high-leg one-piece swimsuit with a high neckline — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a tall iced coffee in a clear cup with a straw at chest height; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 2147,
+   "input_tokens_details": {
+    "image_tokens": 864,
+    "text_tokens": 1283
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 2490
+  },
+  "seconds": 18.557,
+  "png_sha256": "b789e647fe62935d28a8de7e8dca50e7bde68af069068ec0766cc5efaaeab621",
+  "prompt_sha256": "9da4cf370598b50dee4ad375349012178a20155d4a00a5aa7e4e356bef608009",
+  "retries": [
+   {
+    "n": 1,
+    "status": "safety",
+    "exposure": "bold"
+   },
+   {
+    "n": 2,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "ref_sha256": "e62bfe27f4faf6f0b8fb36a2b53256eaa0b42aadef7b68c209db12de4b874ccb",
+  "ref_sent": {
+   "size": [
+    768,
+    1152
+   ],
+   "sha256": "6b1ff0bf8cd660ee3a705f9c1406e9034686ed5f38e632ef669dff4e3cbbaa75"
+  },
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-luxun-api25-20261109-codex",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "b789e647fe62935d28a8de7e8dca50e7bde68af069068ec0766cc5efaaeab621",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "고른 세계 그림과 얼굴·머리색·피부색이 이어지는 성인 여성 일상컷.",
+   "계획은 머리를 몸과 같은 방향으로 두지만, 결과는 어깨 너머로 카메라를 돌아봄."
+  ],
+  "cause": "생성 결과가 계획의 구도·표정·자세 또는 배경 지시 일부를 따르지 않음. 원본 보존."
+ },
+ "acceptance": "user_approval_2026-11-02 — GPT 세션은 AI 검수 뒤 바로 올리고 사용자가 등록 뒤 본다.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "imported": "2026-11-09"
+}
