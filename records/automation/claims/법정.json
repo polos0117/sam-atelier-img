@@ -4,7 +4,7 @@
   {
    "key": "법정",
    "execution": "sam-fazheng-casual-v2-339590c73ab5",
-   "status": "working",
+   "status": "released",
    "claimed_at": "2026-11-03T12:37:41.897Z",
    "date_kst": "2026-11-03",
    "date_utc": "2026-11-03",
@@ -27,7 +27,10 @@
     "법정_mecha_kr_mmorpg_f_casual3.webp",
     "법정_mecha_kr_mmorpg_f_casual4.webp",
     "법정_mecha_kr_mmorpg_f_casual5.webp"
-   ]
+   ],
+   "approval": "응 정리해줘 — 옛 법정 잠금 정리 후 2.5 작업 진행",
+   "released_by": "sam-fazheng-api25-20261109-codex",
+   "released_at": "2026-11-09T21:16:17.186Z"
   }
  ]
 }
