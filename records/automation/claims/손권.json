@@ -62,7 +62,245 @@
     "손권_mecha_mmorpg_cg_f_casual4.webp",
     "손권_mecha_mmorpg_cg_f_casual5.webp",
     "손권_mecha_mmorpg_cg_f_casual6.webp"
-   ]
+   ],
+   "phase": "awaiting_world_selection",
+   "style": "mmorpg_cg",
+   "candidate_count": 9,
+   "selection_sheet_library_file_id": "libfile_9160ff55f3588191a2d397d544061db5",
+   "candidate_manifest": {
+    "character": "손권",
+    "style": "mmorpg_cg",
+    "execution": "sam-sunquan-20261109-59e3434f46aa",
+    "status": "awaiting_world_selection",
+    "candidates": [
+     {
+      "world": "samguk",
+      "number": 1,
+      "path": "/workspace/scratch/59e3434f46aa/generated_images/exec-2256d4b4-75ba-4088-bc14-f9bde0761bda.png",
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "dc4e4c62e55e2bcb352434519e8f0e7f4a740a7ac694b2a4a69a116c9bb3f5ba",
+      "prompt_sha256": "91a2e4e3deb8e6a5a5714bce6a4e54e43e23358860ec9aedea0fdbd43ec713fe",
+      "tool": "image_gen",
+      "prompt_form": "en-prompt",
+      "reference": null,
+      "retries": [],
+      "qa": {
+       "single_figure": true,
+       "full_body": true,
+       "exposure": "match",
+       "observations": [
+        "양손과 양발, 한 자루 검 확인",
+        "머리 위 여백은 지정한 구도보다 적음"
+       ],
+       "passed": false
+      }
+     },
+     {
+      "world": "samguk",
+      "number": 2,
+      "path": "/workspace/scratch/59e3434f46aa/generated_images/exec-c2d4a4fd-3f10-4b46-bd16-05043f2fa64d.png",
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "e8d96cee2d14ece35b12aa6a7ad248e92e3d707c6291832b2b56a5dc92d93df3",
+      "prompt_sha256": "91a2e4e3deb8e6a5a5714bce6a4e54e43e23358860ec9aedea0fdbd43ec713fe",
+      "tool": "image_gen",
+      "prompt_form": "en-prompt",
+      "reference": null,
+      "retries": [],
+      "qa": {
+       "single_figure": true,
+       "full_body": true,
+       "exposure": "match",
+       "observations": [
+        "양손과 양발, 한 자루 검 확인",
+        "머리 위 여백은 지정한 구도보다 적음"
+       ],
+       "passed": false
+      }
+     },
+     {
+      "world": "samguk",
+      "number": 3,
+      "path": "/workspace/scratch/59e3434f46aa/generated_images/exec-4d1c98f8-f147-4114-87c2-d4483ea7b6ec.png",
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "e413bbd686219d9d6899551aca1a0b7dfb7a027fe32882be2cab0e0787ee8533",
+      "prompt_sha256": "91a2e4e3deb8e6a5a5714bce6a4e54e43e23358860ec9aedea0fdbd43ec713fe",
+      "tool": "image_gen",
+      "prompt_form": "en-prompt",
+      "reference": null,
+      "retries": [],
+      "qa": {
+       "single_figure": true,
+       "full_body": true,
+       "exposure": "match",
+       "observations": [
+        "양손과 양발, 한 자루 검 확인",
+        "머리 위 여백은 지정한 구도보다 적음"
+       ],
+       "passed": false
+      }
+     },
+     {
+      "world": "fantasy",
+      "number": 1,
+      "path": "/workspace/scratch/59e3434f46aa/generated_images/exec-a2144c29-1031-4f75-a87c-158698203e82.png",
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "57212691f1a80b5f83f646e44682a7057d446d1857283ad22eb7f75a673ab338",
+      "prompt_sha256": "eecc4c31b7420dfbf95c70fd7434e729b979f6913c5cd76e9b0629d904e76aea",
+      "tool": "image_gen",
+      "prompt_form": "en-prompt",
+      "reference": null,
+      "retries": [],
+      "qa": {
+       "single_figure": true,
+       "full_body": true,
+       "exposure": "match",
+       "observations": [
+        "양손과 양발, 한 자루 검 확인",
+        "머리 위 여백은 지정한 구도보다 적음"
+       ],
+       "passed": false
+      }
+     },
+     {
+      "world": "fantasy",
+      "number": 2,
+      "path": "/workspace/scratch/59e3434f46aa/generated_images/exec-0620da68-854d-4b2d-926b-db3ea97b191b.png",
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "5375ed00f5241712a9628e7ad930fa170d29303e25d61f387422060837466cdc",
+      "prompt_sha256": "eecc4c31b7420dfbf95c70fd7434e729b979f6913c5cd76e9b0629d904e76aea",
+      "tool": "image_gen",
+      "prompt_form": "en-prompt",
+      "reference": null,
+      "retries": [],
+      "qa": {
+       "single_figure": true,
+       "full_body": true,
+       "exposure": "match",
+       "observations": [
+        "양손과 양발, 한 자루 검 확인",
+        "머리 위 여백은 지정한 구도보다 적음"
+       ],
+       "passed": false
+      }
+     },
+     {
+      "world": "fantasy",
+      "number": 3,
+      "path": "/workspace/scratch/59e3434f46aa/generated_images/exec-cb39a2b1-cca5-4af1-94f5-438ab6984acb.png",
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "dc0405a0dbf63784035810b9783f5ec2bdc76d4de41664eb13c1416d694fbbe9",
+      "prompt_sha256": "eecc4c31b7420dfbf95c70fd7434e729b979f6913c5cd76e9b0629d904e76aea",
+      "tool": "image_gen",
+      "prompt_form": "en-prompt",
+      "reference": null,
+      "retries": [],
+      "qa": {
+       "single_figure": true,
+       "full_body": true,
+       "exposure": "match",
+       "observations": [
+        "양손과 양발, 한 자루 검 확인",
+        "머리 위 여백은 지정한 구도보다 적음"
+       ],
+       "passed": false
+      }
+     },
+     {
+      "world": "mecha",
+      "number": 1,
+      "path": "/workspace/scratch/59e3434f46aa/generated_images/exec-1525ef74-03d0-4105-9530-377ff77f7da1.png",
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "e258b021d4b551e15238a2efaa14be4893f62e9097373e7ed896f8e347a268d3",
+      "prompt_sha256": "e8b2de8ad49a227a1103e1da5f61af0559bdc75376e6b0bb24899b1325d283ea",
+      "tool": "image_gen",
+      "prompt_form": "en-prompt",
+      "reference": null,
+      "retries": [],
+      "qa": {
+       "single_figure": true,
+       "full_body": true,
+       "exposure": "match",
+       "observations": [
+        "양손과 양발, 한 자루 검 확인",
+        "머리 위 여백은 지정한 구도보다 적음"
+       ],
+       "passed": false
+      }
+     },
+     {
+      "world": "mecha",
+      "number": 2,
+      "path": "/workspace/scratch/59e3434f46aa/generated_images/exec-8aba2736-fe93-4b68-be36-7817b41ecba3.png",
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "25abe1fe7690f7257c476bb665e0d198aad1f4efec0f0b64250f40ac9e80d26b",
+      "prompt_sha256": "e8b2de8ad49a227a1103e1da5f61af0559bdc75376e6b0bb24899b1325d283ea",
+      "tool": "image_gen",
+      "prompt_form": "en-prompt",
+      "reference": null,
+      "retries": [],
+      "qa": {
+       "single_figure": true,
+       "full_body": true,
+       "exposure": "match",
+       "observations": [
+        "양손과 양발, 한 자루 검 확인",
+        "머리 위 여백은 지정한 구도보다 적음"
+       ],
+       "passed": false
+      }
+     },
+     {
+      "world": "mecha",
+      "number": 3,
+      "path": "/workspace/scratch/59e3434f46aa/generated_images/exec-b04a11b8-c4e6-48c1-9e0b-45c8efa0b2f5.png",
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "0a63a7182de741a8ca19196d3c4e0a26087aaa42e52a1f3ef05661f27338772e",
+      "prompt_sha256": "e8b2de8ad49a227a1103e1da5f61af0559bdc75376e6b0bb24899b1325d283ea",
+      "tool": "image_gen",
+      "prompt_form": "en-prompt",
+      "reference": null,
+      "retries": [],
+      "qa": {
+       "single_figure": true,
+       "full_body": true,
+       "exposure": "match",
+       "observations": [
+        "양손과 양발, 한 자루 검 확인",
+        "머리 위 여백은 지정한 구도보다 적음"
+       ],
+       "passed": false
+      }
+     }
+    ]
+   },
+   "reason": "세계별 후보 3장씩 생성 완료. 사용자 선택 후 선택한 세계 그림과 일상컷을 등록. 생성 원문 수정 및 임의 재생성 없음."
   }
  ]
 }
