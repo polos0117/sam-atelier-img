@@ -1,0 +1,88 @@
+{
+ "atelier": "samguk",
+ "card": "여몽",
+ "faction": "wu",
+ "role": "general",
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ember",
+   "impression": "sharp",
+   "expr": "smug",
+   "skin_tone": "fair",
+   "age": "late_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "smoky",
+   "brows": "high_arched",
+   "nose": "upturned",
+   "lips": "plush_pout",
+   "face_shape": "v_line",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "wine_red",
+   "hair": "pixie",
+   "bangs": "asymmetric"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "여몽_samguk_api25_f.webp",
+ "prompt": "CONCEPT: a female personification of Lü Meng (여몽), a general of Eastern Wu in the Romance of the Three Kingdoms — the soldier who read books and in three days became another person. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Lü Meng to carry in her design and the scene: a rough soldier turned brilliant strategist, books strapped beside her saber, the white-robed stealth assault on Jing.\nFACTION — Eastern Wu (吳). Palette: crimson red, gold, river teal, black lacquer.\nAGE: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: petite and compact yet curvaceous — full bust and rounded hips on a small frame build; a pixie cut with asymmetric bangs; deep wine-red hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a sharp, striking, intense look; fair skin; delicate V-line face with a small, soft chin; smaller, narrower eyes than usual anime proportion — large round eyes, outer eye corners drooping downward; gracefully arched brows; upturned nose; soft, full lips; ember-orange eyes; smoky dark eye makeup.\nWORLD — THREE KINGDOMS ERA: Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nOUTFIT SILHOUETTE: a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath. Only the overall shape is fixed; design the details freely. This silhouette overrides the overall shape of the role costume above.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; keep the costume material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a saber with a book strapped to its scabbard — in the form this WORLD gives it. She holds or carries it, drawn at full scale. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint knowing smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 吳 or 呂.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1233,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1233
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1576
+  },
+  "seconds": 20.033,
+  "png_sha256": "8848db192710f25d3f688e472a22f6d08e08171d62bf591a7f06209f78244e8c",
+  "prompt_sha256": "d374a04f8c760a2b598ddb316793033574fff4a6438044895b6248a3303ddbf2",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "ours",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "imported": "2026-11-09"
+}
