@@ -1,0 +1,122 @@
+{
+  "atelier": "samguk",
+  "card": "문앙",
+  "faction": "wei",
+  "slot": "casual2",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "mmorpg_cg",
+  "styleVersion": "v1",
+  "ref": "문앙_fantasy_mmorpg_cg_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "nation",
+    "place": "nation_temple",
+    "ofam": "homewear",
+    "item": "soft_tank_shorts",
+    "posture": "stand",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "reach",
+    "left": "chest_hand",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "color": "neutral",
+    "expr": "proud",
+    "preset": "reach_waist",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "문앙_fantasy_mmorpg_cg_f_casual2.webp",
+  "prompt": "Use the attached image as the reference: the same woman — Wen Yang of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the nave of a Gothic cathedral with stained-glass windows, candles and stone columns\nOutfit: a soft ribbed tank top and short cotton shorts — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand reaches gently toward the camera.\nLEFT HAND: her own left hand rests lightly on her collarbone.\nGAZE: she looks into the camera.\nEXPRESSION: a proud, poised look with a faint closed-lip smile.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — peerless solo courage, a steel whip-sword — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (a steel whip-sword) appears only as a ring modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-09",
+  "record": "records/문앙/fantasy-casual2.mmorpg_cg-ui.json",
+  "storage": {
+    "card": "문앙",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "mmorpg_cg",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 2,
+    "scenes": {
+      "문앙": {
+        "era": "nation",
+        "place": "nation_temple",
+        "ofam": "homewear",
+        "treeV": 2,
+        "prop": "",
+        "preset": "reach_waist",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "waist_up",
+        "body": "front",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "reach",
+        "left": "chest_hand",
+        "legs": "",
+        "gaze": "camera",
+        "item": "soft_tank_shorts",
+        "expr": "proud",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "neutral"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "4f0504335fc956e5a0e9d0a17a20d4c2ab68f78964ba7e3580e12abd3775e0ab",
+    "ref_sha256": "ddc457db45eceb902f52bae475a2174750be6125872476e35bd6748da14fc811",
+    "ref_file": "문앙_fantasy_mmorpg_cg_f.webp",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "f86a344c7c13b67af2aa0a8020b81aebef2a216ef9eb1259e28a38a759c99915",
+    "retries": []
+  },
+  "execution": "sam-wenyang-fresh-20261110-4c571f",
+  "imported": "2026-11-10",
+  "acceptance": "User selected world 4/4/4 and authorized normal main push; preserve successful images.",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  },
+  "qa": {
+    "reviewer": "gpt-session",
+    "image_sha256": "4f0504335fc956e5a0e9d0a17a20d4c2ab68f78964ba7e3580e12abd3775e0ab",
+    "passed": false,
+    "exposure": "match",
+    "observations": [
+      "1024x1536; same recognizable face, black hair and skin as selected world image.",
+      "No weapon, logo or watermark. Visible limbs and fingers show no obvious count defect.",
+      "The waist-up crop extends into the shorts."
+    ],
+    "cause": "Place/outfit/frame instructions are imperfectly followed or reference embellishment carried over; successful result preserved per user instruction."
+  }
+}

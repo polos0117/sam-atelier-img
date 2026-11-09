@@ -1,0 +1,117 @@
+{
+  "atelier": "samguk",
+  "card": "문앙",
+  "faction": "wei",
+  "role": "general",
+  "world": "fantasy",
+  "style": "mmorpg_cg",
+  "styleVersion": "v1",
+  "notes": {},
+  "look": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+  },
+  "design": {
+    "face": {
+      "eye_color": "ice_blue",
+      "impression": "fierce",
+      "expr": "confident",
+      "skin_tone": "fair",
+      "age": "late_20s",
+      "eye_size": "small",
+      "eye_tilt": "down",
+      "mark": "winged_liner",
+      "brows": "arched_thin",
+      "nose": "small_button",
+      "lips": "full_wide",
+      "face_shape": "round",
+      "eyes": "deep_set"
+    },
+    "silhouette": {
+      "body": "tall_curvy",
+      "hair_color": "jet_black",
+      "hair": "short_crop",
+      "bangs": "none"
+    }
+  },
+  "shot": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+  },
+  "file": "문앙_fantasy_mmorpg_cg_f.webp",
+  "prompt": "A full-body vertical 2:3 (1024×1536) character card image of Wen Yang from the Romance of the Three Kingdoms, reimagined as an adult woman — the young warrior who turned alone and drove back hundreds. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nWorld (fixed): a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a steel whip-sword, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): glossy jet-black hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nHer original face is softly heart-shaped with a very short midface, naturally open violet-grey eyes, a small refined nose and full defined lips. Glossy jet-black hair is a long wavy half-up cascade with a clean centre part. Her expression is confident with a subtle lifted mouth corner. Choose costume shape 9: dragon-scale armour covering the body with horn-shaped shoulder and head ornaments. Build the solitude-and-reversal legend into hinged concentric scale fans at the shoulders and waist, alternating forward and backward layering like a turning vortex, all in engraved cold silver and navy-black. Keep her face unobscured; deliberate bare shoulder gaps and a deep neckline, rich ivory cape lining. She holds one continuous Western mithril steel whip-sword with runic metal segments and a gem-set guard diagonally down at her side, blue rune light, her other hand raised with the palm visible. A naturally balanced three-quarter stance with her face toward the viewer. Empty black-stone citadel terrace overlooking snowy pine forests beneath a clear winter sky, no people or animals.\n\nOne figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+  "date": "2026-11-09",
+  "record": "records/문앙/fantasy.mmorpg_cg-ui.json",
+  "storage": {
+    "card": "문앙",
+    "out": "world",
+    "world": "fantasy",
+    "style": "mmorpg_cg",
+    "notes": {
+      "문앙|fantasy": {}
+    },
+    "looks": {
+      "문앙|fantasy": {
+        "params": {},
+        "faceDesignOn": true,
+        "silhouetteOn": true,
+        "exposure": "bold"
+      }
+    },
+    "shots": {
+      "문앙|fantasy": {
+        "scene": "",
+        "time": "",
+        "pose": "",
+        "expr": "",
+        "frame": ""
+      }
+    },
+    "walked": {},
+    "casualN": 1,
+    "scenes": {}
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/generations",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "ddc457db45eceb902f52bae475a2174750be6125872476e35bd6748da14fc811",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "retries": [],
+    "design": "gpt_free",
+    "free_prompt": "A full-body vertical 2:3 (1024×1536) character card image of Wen Yang from the Romance of the Three Kingdoms, reimagined as an adult woman — the young warrior who turned alone and drove back hundreds. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nWorld (fixed): a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a steel whip-sword, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): glossy jet-black hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nHer original face is softly heart-shaped with a very short midface, naturally open violet-grey eyes, a small refined nose and full defined lips. Glossy jet-black hair is a long wavy half-up cascade with a clean centre part. Her expression is confident with a subtle lifted mouth corner. Choose costume shape 9: dragon-scale armour covering the body with horn-shaped shoulder and head ornaments. Build the solitude-and-reversal legend into hinged concentric scale fans at the shoulders and waist, alternating forward and backward layering like a turning vortex, all in engraved cold silver and navy-black. Keep her face unobscured; deliberate bare shoulder gaps and a deep neckline, rich ivory cape lining. She holds one continuous Western mithril steel whip-sword with runic metal segments and a gem-set guard diagonally down at her side, blue rune light, her other hand raised with the palm visible. A naturally balanced three-quarter stance with her face toward the viewer. Empty black-stone citadel terrace overlooking snowy pine forests beneath a clear winter sky, no people or animals.\n\nOne figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "9f17e78b24723eb9a924cf4f8b820316d939635a055508886043a261712f97e9",
+    "selected_candidate": 4
+  },
+  "execution": "sam-wenyang-fresh-20261110-4c571f",
+  "imported": "2026-11-10",
+  "acceptance": "User selected 4,4,4 and authorized normal main push.",
+  "review": {
+    "reviewed": true,
+    "by": "user",
+    "result": "selected"
+  },
+  "qa": {
+    "reviewer": "gpt-session",
+    "image_sha256": "ddc457db45eceb902f52bae475a2174750be6125872476e35bd6748da14fc811",
+    "passed": true,
+    "exposure": "match",
+    "observations": [
+      "1024x1536, one adult woman, full body and both boots visible.",
+      "Two arms and two legs; hands anatomically plausible; continuous whip-sword clear of body.",
+      "Correct genre, jet-black hair and fair skin; no logo/watermark."
+    ]
+  }
+}

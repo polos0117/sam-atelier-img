@@ -1,0 +1,124 @@
+{
+  "atelier": "samguk",
+  "card": "문앙",
+  "faction": "wei",
+  "slot": "casual5",
+  "treeV": 2,
+  "world": "samguk",
+  "style": "mmorpg_cg",
+  "styleVersion": "v1",
+  "ref": "문앙_samguk_mmorpg_cg_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_marble_bath",
+    "ofam": "editorial",
+    "item": "retro_jumpsuit",
+    "posture": "sit_edge",
+    "support": "hip_edge",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "edge_brace_both",
+    "left": "edge_brace_both",
+    "use": "",
+    "legs": "feet_in_water",
+    "gaze": "horizon",
+    "color": "denim",
+    "situ": "undone",
+    "expr": "soft_smile",
+    "preset": "edge_dangle",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "문앙_samguk_mmorpg_cg_f_casual5.webp",
+  "prompt": "Use the attached image as the reference: the same woman — Wen Yang of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a Roman marble bath hall — columns, mosaic floors and a wide steaming pool lit from high windows\nOutfit: a sleek retro-futurist jumpsuit with vintage trim — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance; right now — she wears her top half undone — the zip or the top buttons open much lower than usual, so the neckline falls open over her collarbones and the inner curve of her chest, the loose edges slipping apart, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nBOTH HANDS: both hands brace on the edge on either side of her hips.\nLEGS: feet dipped in the water below the edge.\nGAZE: she looks toward the far distance.\nEXPRESSION: a faint soft smile, relaxed eyes.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — peerless solo courage, a steel whip-sword — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (a steel whip-sword) appears only as a ring modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-09",
+  "record": "records/문앙/samguk-casual5.mmorpg_cg-ui.json",
+  "storage": {
+    "card": "문앙",
+    "out": "casual",
+    "world": "samguk",
+    "style": "mmorpg_cg",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 5,
+    "scenes": {
+      "문앙": {
+        "era": "fantasy",
+        "place": "fx_marble_bath",
+        "ofam": "editorial",
+        "treeV": 2,
+        "prop": "",
+        "preset": "edge_dangle",
+        "use": "",
+        "posture": "sit_edge",
+        "support": "hip_edge",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "edge_brace_both",
+        "left": "edge_brace_both",
+        "legs": "feet_in_water",
+        "gaze": "horizon",
+        "item": "retro_jumpsuit",
+        "expr": "soft_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "situ": "undone",
+        "color": "denim"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "14c04922b096f9c88dda71b7f6730ba583085e443aa9ff42f6a15a6ae145d492",
+    "ref_sha256": "9b1cf2c417dd331e62f47daeb705eaeaeacd87a8f20a72cb6f482f2ed2578350",
+    "ref_file": "문앙_samguk_mmorpg_cg_f.webp",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "9abfd0fd98219934839c73946a2e1d1061e3cbad25decae0ad4ca3faa3fe138b",
+    "retries": []
+  },
+  "execution": "sam-wenyang-fresh-20261110-4c571f",
+  "imported": "2026-11-10",
+  "acceptance": "User selected world 4/4/4 and authorized normal main push; preserve successful images.",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  },
+  "qa": {
+    "reviewer": "gpt-session",
+    "image_sha256": "14c04922b096f9c88dda71b7f6730ba583085e443aa9ff42f6a15a6ae145d492",
+    "passed": false,
+    "exposure": "match",
+    "observations": [
+      "1024x1536; same recognizable face, black hair and skin as selected world image.",
+      "No weapon, logo or watermark. Visible limbs and fingers show no obvious count defect.",
+      "The full-body frame is tight at the immersed feet; her jumpsuit reads as short playsuit."
+    ],
+    "cause": "Place/outfit/frame instructions are imperfectly followed or reference embellishment carried over; successful result preserved per user instruction."
+  }
+}

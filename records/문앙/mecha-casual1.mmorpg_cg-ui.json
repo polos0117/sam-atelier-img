@@ -1,0 +1,124 @@
+{
+  "atelier": "samguk",
+  "card": "문앙",
+  "faction": "wei",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "mmorpg_cg",
+  "styleVersion": "v1",
+  "ref": "문앙_mecha_mmorpg_cg_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "fantasy",
+    "place": "fx_cloudpavilion",
+    "ofam": "roleplay",
+    "item": "expo_model",
+    "posture": "walk",
+    "support": "none",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "down",
+    "use": "book_hold",
+    "kind": "hold",
+    "legs": "walk_stride",
+    "gaze": "camera",
+    "color": "denim",
+    "expr": "relieved",
+    "preset": "stride_prop",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "문앙_mecha_mmorpg_cg_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — Wen Yang of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: an open pavilion floating above a sea of clouds at sunrise\nOutfit: a game-show booth model outfit — a sleek bodycon mini dress with glowing trim and a fitted cropped jacket, thigh-high boots — in denim blues and indigo, with white or cream as the only second colour; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a book closed against her chest; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: a relaxed, relieved look.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — peerless solo courage, a steel whip-sword — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (a steel whip-sword) appears only as a pair of drop earrings modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-09",
+  "record": "records/문앙/mecha-casual1.mmorpg_cg-ui.json",
+  "storage": {
+    "card": "문앙",
+    "out": "casual",
+    "world": "mecha",
+    "style": "mmorpg_cg",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "문앙": {
+        "era": "fantasy",
+        "place": "fx_cloudpavilion",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "stride_prop",
+        "use": "book_hold",
+        "kind": "hold",
+        "posture": "walk",
+        "support": "none",
+        "frame": "full_body",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "down",
+        "legs": "walk_stride",
+        "gaze": "camera",
+        "item": "expo_model",
+        "expr": "relieved",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "denim"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "60044fe7e7b7785598c0a746248b46f2a1c55b0fbfd11ddf8ab8a8d41e7c0ffc",
+    "ref_sha256": "f710218504e5fbf25b9e6a1c768f737a61d960add116a1b93860e6b0e0448dec",
+    "ref_file": "문앙_mecha_mmorpg_cg_f.webp",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "81e52dc66c73653e55b5b05b4e87bf0a30468b8e87e38a7ee1994e6dfa8012f2",
+    "retries": []
+  },
+  "execution": "sam-wenyang-fresh-20261110-4c571f",
+  "imported": "2026-11-10",
+  "acceptance": "User selected world 4/4/4 and authorized normal main push; preserve successful images.",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  },
+  "qa": {
+    "reviewer": "gpt-session",
+    "image_sha256": "60044fe7e7b7785598c0a746248b46f2a1c55b0fbfd11ddf8ab8a8d41e7c0ffc",
+    "passed": false,
+    "exposure": "match",
+    "observations": [
+      "1024x1536; same recognizable face, black hair and skin as selected world image.",
+      "No weapon, logo or watermark. Visible limbs and fingers show no obvious count defect.",
+      "The booth-model mini dress and jacket inherited the reference navy/silver palette and elaborate regalia-like decoration."
+    ],
+    "cause": "Place/outfit/frame instructions are imperfectly followed or reference embellishment carried over; successful result preserved per user instruction."
+  }
+}

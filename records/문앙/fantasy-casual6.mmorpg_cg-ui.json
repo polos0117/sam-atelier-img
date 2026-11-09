@@ -1,0 +1,123 @@
+{
+  "atelier": "samguk",
+  "card": "문앙",
+  "faction": "wei",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "fantasy",
+  "style": "mmorpg_cg",
+  "styleVersion": "v1",
+  "ref": "문앙_fantasy_mmorpg_cg_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "heritage",
+    "place": "heritage_baidi",
+    "ofam": "dongtan",
+    "item": "festival_chain",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "use": "sketch_draw",
+    "legs": "knees_together",
+    "gaze": "at_prop",
+    "ofree": true,
+    "expr": "half_smile",
+    "preset": "side_chair_read",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "문앙_fantasy_mmorpg_cg_f_casual6.webp",
+  "prompt": "Use the attached image as the reference: the same woman — Wen Yang of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the long stone stairway of Baidicheng above the Yangtze gorge, worn steps with stone railings, old pines and the river far below\nOutfit: a plum silk scarf top folded into a deep asymmetric neckline and tied at one shoulder, an open back and bare waist, paired with high-waisted terracotta culotte shorts with curved side openings and leather lace-up sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she sketches in a sketchbook and pencil — her own right hand draws with the pencil, her own left hand holds the sketchbook open.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: a slight smile, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — peerless solo courage, a steel whip-sword — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (a steel whip-sword) appears only as a brooch modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-09",
+  "record": "records/문앙/fantasy-casual6.mmorpg_cg-ui.json",
+  "storage": {
+    "card": "문앙",
+    "out": "casual",
+    "world": "fantasy",
+    "style": "mmorpg_cg",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "문앙": {
+        "era": "heritage",
+        "place": "heritage_baidi",
+        "ofam": "dongtan",
+        "treeV": 2,
+        "prop": "",
+        "preset": "side_chair_read",
+        "use": "sketch_draw",
+        "posture": "sit_chair",
+        "support": "none",
+        "frame": "full_body",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "prop",
+        "left": "prop",
+        "legs": "knees_together",
+        "gaze": "at_prop",
+        "item": "festival_chain",
+        "expr": "half_smile",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "ofree": true
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "ed543a3d110b89e06b38754d33148970cc948e493c0e23523bef1205e75031b7",
+    "ref_sha256": "ddc457db45eceb902f52bae475a2174750be6125872476e35bd6748da14fc811",
+    "ref_file": "문앙_fantasy_mmorpg_cg_f.webp",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "0f2d2523e572d7edbcdaa7766015c759733a0a2dfd59998c3a36b5aa9b40f895",
+    "retries": [],
+    "free_prompt": "Use the attached image as the reference: the same woman — Wen Yang of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: the long stone stairway of Baidicheng above the Yangtze gorge, worn steps with stone railings, old pines and the river far below\nOutfit: a plum silk scarf top folded into a deep asymmetric neckline and tied at one shoulder, an open back and bare waist, paired with high-waisted terracotta culotte shorts with curved side openings and leather lace-up sandals, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she sketches in a sketchbook and pencil — her own right hand draws with the pencil, her own left hand holds the sketchbook open.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: a slight smile, lips closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — peerless solo courage, a steel whip-sword — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (a steel whip-sword) appears only as a brooch modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+    "free_outfit": true,
+    "free_outfit_reason": "Pack ofree instruction: replace only Outfit line with concrete outfit absent from catalog."
+  },
+  "execution": "sam-wenyang-fresh-20261110-4c571f",
+  "imported": "2026-11-10",
+  "acceptance": "User selected world 4/4/4 and authorized normal main push; preserve successful images.",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  },
+  "qa": {
+    "reviewer": "gpt-session",
+    "image_sha256": "ed543a3d110b89e06b38754d33148970cc948e493c0e23523bef1205e75031b7",
+    "passed": true,
+    "exposure": "match",
+    "observations": [
+      "1024x1536; same recognizable face, black hair and skin as selected world image.",
+      "No weapon, logo or watermark. Visible limbs and fingers show no obvious count defect."
+    ]
+  }
+}

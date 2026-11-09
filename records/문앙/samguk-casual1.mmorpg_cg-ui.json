@@ -1,0 +1,138 @@
+{
+  "atelier": "samguk",
+  "card": "문앙",
+  "faction": "wei",
+  "slot": "casual1",
+  "treeV": 2,
+  "world": "samguk",
+  "style": "mmorpg_cg",
+  "styleVersion": "v1",
+  "ref": "문앙_samguk_mmorpg_cg_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "heritage",
+    "place": "heritage_luofeng",
+    "ofam": "roleplay",
+    "item": "dance_crew",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "chest_up",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "arms_crossed",
+    "left": "arms_crossed",
+    "use": "",
+    "legs": "",
+    "gaze": "camera",
+    "color": "pastel",
+    "expr": "curious",
+    "preset": "crossed_wall",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "moderate"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "문앙_samguk_mmorpg_cg_f_casual1.webp",
+  "prompt": "Use the attached image as the reference: the same woman — Wen Yang of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a small mountain-path shrine at the Slope of the Fallen Phoenix — a stone tablet among pines, a narrow trail and drifting mist\nOutfit: a dance-crew stage outfit — a cropped tank top, a cargo mini skirt with chains and fingerless gloves — in a soft pastel palette such as powder pink, baby blue, mint or lavender; the outfit colour reads clearly at first glance, open at the collarbone and showing her arms or lower legs, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: one brow slightly raised, attentive eyes.\n\nFraming: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — peerless solo courage, a steel whip-sword — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (a steel whip-sword) appears only as a pair of drop earrings modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "date": "2026-11-09",
+  "record": "records/문앙/samguk-casual1.mmorpg_cg-ui.json",
+  "storage": {
+    "card": "문앙",
+    "out": "casual",
+    "world": "samguk",
+    "style": "mmorpg_cg",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 1,
+    "scenes": {
+      "문앙": {
+        "era": "heritage",
+        "place": "heritage_luofeng",
+        "ofam": "roleplay",
+        "treeV": 2,
+        "prop": "",
+        "preset": "crossed_wall",
+        "use": "",
+        "posture": "lean_wall",
+        "support": "back_wall",
+        "frame": "chest_up",
+        "body": "front_3q",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "arms_crossed",
+        "left": "arms_crossed",
+        "legs": "",
+        "gaze": "camera",
+        "item": "dance_crew",
+        "expr": "curious",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "moderate"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "color": "pastel"
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "7f6c0ed37447fb274419d2eb8704bcff871a88d3c22ae6c254fb7317dd5f73d2",
+    "ref_sha256": "9b1cf2c417dd331e62f47daeb705eaeaeacd87a8f20a72cb6f482f2ed2578350",
+    "ref_file": "문앙_samguk_mmorpg_cg_f.webp",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "a344bee98c0142bb579dd2199793df3ddda30e4c27b66daaff85aae67eb890fe",
+    "retries": [
+      {
+        "n": 1,
+        "status": "moderation_blocked/output/sexual",
+        "exposure": "bold",
+        "request_id": "2138ded0-4a02-4533-82a3-a28a4a98e5b2"
+      },
+      {
+        "n": 2,
+        "status": "moderation_blocked/output/sexual",
+        "exposure": "bold",
+        "request_id": "713bc359-8a50-41d8-9171-53ec8a8ae542"
+      },
+      {
+        "n": 3,
+        "status": "success",
+        "exposure": "moderate"
+      }
+    ]
+  },
+  "execution": "sam-wenyang-fresh-20261110-4c571f",
+  "imported": "2026-11-10",
+  "acceptance": "User selected world 4/4/4 and authorized normal main push; preserve successful images.",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  },
+  "qa": {
+    "reviewer": "gpt-session",
+    "image_sha256": "7f6c0ed37447fb274419d2eb8704bcff871a88d3c22ae6c254fb7317dd5f73d2",
+    "passed": true,
+    "exposure": "match",
+    "observations": [
+      "1024x1536; same recognizable face, black hair and skin as selected world image.",
+      "No weapon, logo or watermark. Visible limbs and fingers show no obvious count defect."
+    ]
+  }
+}
