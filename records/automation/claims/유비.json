@@ -191,7 +191,7 @@
     "유비_mecha_mmorpg_cg_f_casual5.webp",
     "유비_mecha_mmorpg_cg_f_casual6.webp"
    ],
-   "phase": "awaiting_world_selection",
+   "phase": "generating_casuals",
    "candidates": 12,
    "selection_sheet_library_file_id": "libfile_492026afad2881918ac2547b1ff55101",
    "candidates_archive_library_file_id": "libfile_e5e349f3cbb8819180c0599acd0f91fc",
@@ -201,7 +201,13 @@
     "3": "gpt_free_1",
     "4": "gpt_free_2"
    },
-   "note": "All twelve world candidates newly generated using built-in image_gen. Original sheets ignored and preserved. Every returned image preserved without exposure-related regeneration. Samguk 2 had one output moderation rejection, then succeeded with the identical prompt. Candidate archive contains originals, exact prompts and QA records."
+   "note": "All twelve world candidates newly generated using built-in image_gen. Original sheets ignored and preserved. Every returned image preserved without exposure-related regeneration. Samguk 2 had one output moderation rejection, then succeeded with the identical prompt. Candidate archive contains originals, exact prompts and QA records.",
+   "selected_candidates": {
+    "samguk": 1,
+    "fantasy": 1,
+    "mecha": 1
+   },
+   "selection_approval": "1,1,1 로 진행해줘"
   }
  ]
 }
