@@ -1,0 +1,105 @@
+{
+ "atelier": "samguk",
+ "card": "원소",
+ "faction": "qun",
+ "role": "lord",
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "gold",
+   "impression": "regal",
+   "expr": "proud",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "gloss",
+   "brows": "arched_thin",
+   "nose": "small_button",
+   "lips": "full_wide",
+   "face_shape": "round",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "antique_gold",
+   "hair": "side_swept",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "원소_mecha_api25_f.webp",
+ "prompt": "CONCEPT: a female personification of Yuan Shao (원소), a ruler of the rival warlords in the Romance of the Three Kingdoms — the proud lord of a family with four generations of ducal ministers. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Yuan Shao to carry in her design and the scene: noble arrogance and indecision, magnificent golden armor, banners of the great Yuan clan.\nFACTION — the rival warlords. Palette: imperial gold, deep navy, ivory white and bronze.\nAGE: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nSILHOUETTE: hourglass-figured — full bust and hips, distinctly narrow-waisted build; long side-swept hair with curtain bangs; antique-gold hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a regal, imperious haughtiness; fair skin; round face; smaller, narrower eyes than usual anime proportion — soft droopy eyes, outer eye corners drooping downward; thin arched brows; small button nose; full wide lips; gold eyes; glossy nude lips.\nWORLD — MECHA: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking. MECHA DESIGN: she is a female mecha personification, built as a command-type mecha — crowned head unit with an antenna crest, cape-like binder wings, heavy chest plating with an emblem core, a flagship back unit; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. Mecha plating covers her frame except where EXPOSURE opens it — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: imperial-gold and deep-navy plating with ivory panels and bronze trim, aristocratic layered silhouette, heraldic crest shapes, gold glow lines.\nMECHA SILHOUETTE: a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar. Only the overall shape is fixed; design the details freely.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a bare waist and midriff between the bust plate and the hip armor; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a jeweled ceremonial sword — rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings. She holds or carries it, drawn at full scale. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a proud, poised look with a faint closed-lip smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1328,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1328
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1671
+  },
+  "seconds": 18.948,
+  "png_sha256": "2ef26e59eb84e80bc5c8dd2040ac8b826c340b168a0011a8805f0eeb3b8e64ca",
+  "prompt_sha256": "7abe7c81fc1310d17310594af14b47a32f55d02d5de43f79eb45039e5659ff11",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "ours",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-yuanshao-api25-20261109-codex",
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "2ef26e59eb84e80bc5c8dd2040ac8b826c340b168a0011a8805f0eeb3b8e64ca",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "User-selected world candidate (1,3,1); full adult figure with continuous ceremonial sword and ornate world-specific regalia.",
+   "1024x1536; same adult facial identity and hair as chosen reference; no obvious duplicated limbs in comparison-grid review."
+  ]
+ },
+ "imported": "2026-11-09"
+}
