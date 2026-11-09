@@ -34,7 +34,7 @@
   {
    "key": "문앙",
    "execution": "sam-wenyang-api25-20261109-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-09T15:17:16.242Z",
    "date_kst": "2026-11-10",
    "date_utc": "2026-11-09",
@@ -60,7 +60,39 @@
     "문앙_mecha_mmorpg_cg_f_casual4.webp",
     "문앙_mecha_mmorpg_cg_f_casual5.webp",
     "문앙_mecha_mmorpg_cg_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-09T15:34:45.136157+00:00",
+   "done_by": "sam-wenyang-api25-20261109-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "문앙_samguk_api25_f.webp",
+     "문앙_samguk_api25_f_casual1.webp",
+     "문앙_samguk_api25_f_casual2.webp",
+     "문앙_samguk_api25_f_casual3.webp",
+     "문앙_samguk_api25_f_casual4.webp",
+     "문앙_samguk_api25_f_casual5.webp",
+     "문앙_samguk_api25_f_casual6.webp",
+     "문앙_fantasy_api25_f.webp",
+     "문앙_fantasy_api25_f_casual1.webp",
+     "문앙_fantasy_api25_f_casual2.webp",
+     "문앙_fantasy_api25_f_casual3.webp",
+     "문앙_fantasy_api25_f_casual4.webp",
+     "문앙_fantasy_api25_f_casual5.webp",
+     "문앙_fantasy_api25_f_casual6.webp",
+     "문앙_mecha_api25_f.webp",
+     "문앙_mecha_api25_f_casual1.webp",
+     "문앙_mecha_api25_f_casual2.webp",
+     "문앙_mecha_api25_f_casual3.webp",
+     "문앙_mecha_api25_f_casual4.webp",
+     "문앙_mecha_api25_f_casual5.webp",
+     "문앙_mecha_api25_f_casual6.webp"
+    ],
+    "image_commit": "5e221d2137b6228d9d2544219ef11853fda2c8a4",
+    "registration_commit": "716d2504d4676b1bfab5593d810e816f1e4b701a",
+    "approval": "응 올려줘.",
+    "note": "Requested api25 verified: world1 + casual6 per world. Claim CLI computes default mmorpg_cg missing; completion scoped to requested api25 without changing defaults."
+   }
   }
  ]
 }
