@@ -1,0 +1,90 @@
+{
+ "atelier": "samguk",
+ "card": "동탁",
+ "faction": "qun",
+ "role": "lord",
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "crimson",
+   "impression": "glamorous",
+   "expr": "cold_smile",
+   "skin_tone": "porcelain",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "blush",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "v_line",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair_color": "plum_black",
+   "hair": "updo_bun",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "동탁_samguk_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Dong Zhuo from the Romance of the Three Kingdoms, reimagined as an adult woman — the tyrant who burned Luoyang and fell by her own excess. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: gluttonous power and cruelty, heavy gold-and-violet armor, a feast of excess, flames of Luoyang.\n\nWorld (fixed): the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 2) layered trailing court regalia with a tall crown, long hanging sashes and jade pendants — a ceremonial, stately silhouette; 3) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 4) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 5) a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a heavy golden mace.\n\nHair colour (fixed — ours): plum-black hair with a violet sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): blood crimson, black iron, tarnished gold and smoky grey.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 680,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 680
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1023
+  },
+  "seconds": 20.198,
+  "png_sha256": "e6e96d1d3811286f7f51ae9e6d9deec618004973059e30a30f041b6a4aabf46b",
+  "prompt_sha256": "4a9f2d5b7466ad69ba36c7d955f30ba5ffc3fa76795e714599272ce3d46c2bcf",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "gpt_free",
+  "free_prompt": "A full-body character card image of Dong Zhuo of the Three Kingdoms reimagined as an adult woman in her late twenties — a graceful grown-up face with soft, smooth contours, no wrinkles — the tyrant who burned Luoyang and fell by her own excess. She is a woman, no facial hair.\n\nStyle: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nHer: languid, decadent arrogance — naturally open violet-grey eyes, sleek arched brows, a lazy self-satisfied smile, smoky plum eyeshadow and a dark wine lip. Face proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any headpiece sits above her hairline and never lengthens her face; her eyes stay at a natural open size. Hair colour exactly plum-black with a violet sheen. Skin tone exactly porcelain-pale. Hairstyle: a towering looped court coiffure pierced with many gold hairpins and strings of garnets, two long locks falling over her shoulders.\n\nCostume: a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape. Her own idea from the feast of excess: the strands hanging from the crown and from the robe's collar are strung with tiny gold wine cups, jewelled grapes and coins instead of plain beads, so she drips with the spoils of her banquets. A heavy blood-crimson and black brocade robe opened into a deep neckline with natural cleavage, bare shoulders where the outer robe slips back by design, a tarnished-gold underskirt slit high over one bare leg, black lacquer platform slippers; intimate areas covered. Sovereign rank: a massive gold collar set with garnets, rings on every finger, dense gold embroidery on every layer. Colours: blood crimson, black iron, tarnished gold and smoky grey.\n\nWeapon: a heavy golden mace with a flanged head, held upright in her right hand as she stands before a gilded throne.\n\nSetting: a gilded throne on a dais in a palace hall in Luoyang, a banquet table piled with dishes and wine vessels before her, the city burning orange through the open doors behind, a crimson banner bearing the single character 董.\n\nVertical 2:3 (1024×1536) full-body framing with modest headroom and clear space below the feet — the whole figure from the top of her crown or headpiece to both feet inside the frame, about four-fifths of the image height; her hands and the mace stay inside the frame. Camera at chest height, natural portrait perspective, no wide-angle distortion, no low angle. One figure only, natural hands with five fingers; no other text, no logo or watermark.",
+  "free_by": "claude",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "imported": "2026-11-09"
+}

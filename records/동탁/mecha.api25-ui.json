@@ -1,0 +1,88 @@
+{
+ "atelier": "samguk",
+ "card": "동탁",
+ "faction": "qun",
+ "role": "lord",
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "crimson",
+   "impression": "glamorous",
+   "expr": "cold_smile",
+   "skin_tone": "porcelain",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "blush",
+   "brows": "low_heavy",
+   "nose": "broad_soft",
+   "lips": "small_bow",
+   "face_shape": "diamond",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair_color": "plum_black",
+   "hair": "side_ponytail",
+   "bangs": "asymmetric"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "동탁_mecha_api25_f.webp",
+ "prompt": "CONCEPT: a female personification of Dong Zhuo (동탁), a ruler of the rival warlords in the Romance of the Three Kingdoms — the tyrant who burned Luoyang and fell by her own excess. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Dong Zhuo to carry in her design and the scene: gluttonous power and cruelty, heavy gold-and-violet armor, a feast of excess, flames of Luoyang.\nFACTION — the rival warlords. Palette: blood crimson, black iron, tarnished gold and smoky grey.\nAGE: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nSILHOUETTE: voluptuous, generously curved at bust, hips and thighs build; a side ponytail over one shoulder with asymmetric bangs; plum-black hair with a violet sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a glamorous, sultry allure; porcelain-pale skin; diamond-shaped face; moderately sized, realistically proportioned eyes — narrow upturned eyes, outer eye corners tilting sharply upward; low heavy brows; broad soft nose; small bow lips; crimson eyes; rosy flushed cheeks.\nWORLD — MECHA: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking. MECHA DESIGN: she is a female mecha personification, built as a command-type mecha — crowned head unit with an antenna crest, cape-like binder wings, heavy chest plating with an emblem core, a flagship back unit; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. Mecha plating covers her frame except where EXPOSURE opens it — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: blood-crimson and black-iron plating with tarnished-gold trim, heavy tyrant's spiked silhouette with battle scars, smoky exhaust vents, crimson glow lines.\nMECHA SILHOUETTE: large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor. Only the overall shape is fixed; design the details freely.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her mecha frame is cut open by design in only these places — a bare waist and midriff between the bust plate and the hip armor, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a heavy golden mace — rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings. She holds or carries it, drawn at full scale. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint cool smile, calm composed eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1330,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1330
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1673
+  },
+  "seconds": 22.266,
+  "png_sha256": "a91c40e30564d60a9c94efd7d9f11523ba0632d0b986b36c3489736dddceb4b5",
+  "prompt_sha256": "cbd1a3f4ad4e510a9996379b86e6bd98edb44dd4e29799c45cfc878c501ac5dc",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "ours",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "imported": "2026-11-09"
+}
