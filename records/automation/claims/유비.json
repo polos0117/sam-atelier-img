@@ -164,7 +164,7 @@
   {
    "key": "유비",
    "execution": "sam-liubei-20261109-0e685692",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-09T05:33:47.067Z",
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-09",
@@ -191,7 +191,7 @@
     "유비_mecha_mmorpg_cg_f_casual5.webp",
     "유비_mecha_mmorpg_cg_f_casual6.webp"
    ],
-   "phase": "generating_casuals",
+   "phase": "complete",
    "candidates": 12,
    "selection_sheet_library_file_id": "libfile_492026afad2881918ac2547b1ff55101",
    "candidates_archive_library_file_id": "libfile_e5e349f3cbb8819180c0599acd0f91fc",
@@ -207,7 +207,27 @@
     "fantasy": 1,
     "mecha": 1
    },
-   "selection_approval": "1,1,1 로 진행해줘"
+   "selection_approval": "1,1,1 로 진행해줘",
+   "done_at": "2026-11-09T07:57:19.684Z",
+   "done_by": "sam-liubei-20261109-0e685692",
+   "image_commit": "96f7e466d1f55ad7b9c7bcca240371bf0870ebd0",
+   "code_commit": "b1e27ecd9c1f085205e4e2a4aec0f11575448fd1",
+   "patch_commit": "e751037ef94304c0036532a1eb2df1698ff70bd2",
+   "registered": {
+    "world": 3,
+    "casual": 18,
+    "total": 21
+   },
+   "validation": {
+    "dimensions": "21 images 1024x1536",
+    "plan_worlds": "all three passed; no duplicate scenes in current set",
+    "registration_missing": 0,
+    "thumbnails": 21,
+    "thumbnail_workflow": "success",
+    "registration_workflow": "success",
+    "pages_deployment": "success"
+   },
+   "qa_note": "Deviations preserved in per-image QA. Mecha casual3 umbrella shaft remains angular after the single allowed identical-prompt redo. No returned image regenerated because of exposure."
   }
  ]
 }
