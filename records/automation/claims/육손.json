@@ -34,7 +34,7 @@
   {
    "key": "육손",
    "execution": "sam-luxun-api25-20261109-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-09T14:32:25.922Z",
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-09",
@@ -60,7 +60,34 @@
     "육손_mecha_mmorpg_cg_f_casual4.webp",
     "육손_mecha_mmorpg_cg_f_casual5.webp",
     "육손_mecha_mmorpg_cg_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-09T15:09:57.721972+00:00",
+   "done_by": "sam-luxun-api25-20261109-codex",
+   "style": "api25",
+   "completed_files": [
+    "육손_samguk_api25_f.webp",
+    "육손_samguk_api25_f_casual1.webp",
+    "육손_samguk_api25_f_casual2.webp",
+    "육손_samguk_api25_f_casual3.webp",
+    "육손_samguk_api25_f_casual4.webp",
+    "육손_samguk_api25_f_casual5.webp",
+    "육손_samguk_api25_f_casual6.webp",
+    "육손_fantasy_api25_f.webp",
+    "육손_fantasy_api25_f_casual1.webp",
+    "육손_fantasy_api25_f_casual2.webp",
+    "육손_fantasy_api25_f_casual3.webp",
+    "육손_fantasy_api25_f_casual4.webp",
+    "육손_fantasy_api25_f_casual5.webp",
+    "육손_fantasy_api25_f_casual6.webp",
+    "육손_mecha_api25_f.webp",
+    "육손_mecha_api25_f_casual1.webp",
+    "육손_mecha_api25_f_casual2.webp",
+    "육손_mecha_api25_f_casual3.webp",
+    "육손_mecha_api25_f_casual4.webp",
+    "육손_mecha_api25_f_casual5.webp",
+    "육손_mecha_api25_f_casual6.webp"
+   ],
+   "reason": "API25 작업 완료. 기본 화풍만 확인하는 image-claim done 대신 api25 등록 21칸·썸네일·원격 Git 해시를 대조해 이 실행만 완료 처리. 다른 화풍은 변경하지 않음."
   }
  ]
 }
