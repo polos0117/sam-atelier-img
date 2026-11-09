@@ -101,7 +101,17 @@
     "유비_mecha_mmorpg_cg_f_casual4.webp",
     "유비_mecha_mmorpg_cg_f_casual5.webp",
     "유비_mecha_mmorpg_cg_f_casual6.webp"
-   ]
+   ],
+   "phase": "awaiting_world_selection",
+   "candidates": 12,
+   "selection_sheet_library_file_id": "libfile_333a4bc66b3481919d6346d7c686f7d8",
+   "candidates_archive_library_file_id": "libfile_43c0e8b8c65881918623dbdfa6e85179",
+   "selection_numbering": {
+    "1": "registered_1",
+    "2": "registered_2",
+    "3": "gpt_free_1",
+    "4": "gpt_free_2"
+   }
   }
  ]
 }
