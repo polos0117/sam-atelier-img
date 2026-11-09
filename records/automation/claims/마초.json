@@ -30,6 +30,37 @@
    ],
    "done_at": "2026-11-02T14:51:37.343Z",
    "done_by": "sam-machao-3fab9cac"
+  },
+  {
+   "key": "마초",
+   "execution": "sam-machao-api25-20261109-codex",
+   "status": "working",
+   "claimed_at": "2026-11-09T15:16:48.734Z",
+   "date_kst": "2026-11-10",
+   "date_utc": "2026-11-09",
+   "missing": [
+    "마초_samguk_mmorpg_cg_f.webp",
+    "마초_samguk_mmorpg_cg_f_casual1.webp",
+    "마초_samguk_mmorpg_cg_f_casual2.webp",
+    "마초_samguk_mmorpg_cg_f_casual3.webp",
+    "마초_samguk_mmorpg_cg_f_casual4.webp",
+    "마초_samguk_mmorpg_cg_f_casual5.webp",
+    "마초_samguk_mmorpg_cg_f_casual6.webp",
+    "마초_fantasy_mmorpg_cg_f.webp",
+    "마초_fantasy_mmorpg_cg_f_casual1.webp",
+    "마초_fantasy_mmorpg_cg_f_casual2.webp",
+    "마초_fantasy_mmorpg_cg_f_casual3.webp",
+    "마초_fantasy_mmorpg_cg_f_casual4.webp",
+    "마초_fantasy_mmorpg_cg_f_casual5.webp",
+    "마초_fantasy_mmorpg_cg_f_casual6.webp",
+    "마초_mecha_mmorpg_cg_f.webp",
+    "마초_mecha_mmorpg_cg_f_casual1.webp",
+    "마초_mecha_mmorpg_cg_f_casual2.webp",
+    "마초_mecha_mmorpg_cg_f_casual3.webp",
+    "마초_mecha_mmorpg_cg_f_casual4.webp",
+    "마초_mecha_mmorpg_cg_f_casual5.webp",
+    "마초_mecha_mmorpg_cg_f_casual6.webp"
+   ]
   }
  ]
 }
