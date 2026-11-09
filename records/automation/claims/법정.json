@@ -35,7 +35,7 @@
   {
    "key": "법정",
    "execution": "sam-fazheng-api25-20261109-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-09T21:16:19.046Z",
    "date_kst": "2026-11-10",
    "date_utc": "2026-11-09",
@@ -61,7 +61,34 @@
     "법정_mecha_mmorpg_cg_f_casual4.webp",
     "법정_mecha_mmorpg_cg_f_casual5.webp",
     "법정_mecha_mmorpg_cg_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-09T22:57:50.983451+00:00",
+   "done_by": "sam-fazheng-api25-20261109-codex",
+   "style": "api25",
+   "completed_files": [
+    "법정_samguk_api25_f.webp",
+    "법정_samguk_api25_f_casual1.webp",
+    "법정_samguk_api25_f_casual2.webp",
+    "법정_samguk_api25_f_casual3.webp",
+    "법정_samguk_api25_f_casual4.webp",
+    "법정_samguk_api25_f_casual5.webp",
+    "법정_samguk_api25_f_casual6.webp",
+    "법정_fantasy_api25_f.webp",
+    "법정_fantasy_api25_f_casual1.webp",
+    "법정_fantasy_api25_f_casual2.webp",
+    "법정_fantasy_api25_f_casual3.webp",
+    "법정_fantasy_api25_f_casual4.webp",
+    "법정_fantasy_api25_f_casual5.webp",
+    "법정_fantasy_api25_f_casual6.webp",
+    "법정_mecha_api25_f.webp",
+    "법정_mecha_api25_f_casual1.webp",
+    "법정_mecha_api25_f_casual2.webp",
+    "법정_mecha_api25_f_casual3.webp",
+    "법정_mecha_api25_f_casual4.webp",
+    "법정_mecha_api25_f_casual5.webp",
+    "법정_mecha_api25_f_casual6.webp"
+   ],
+   "reason": "API25 선택 1·3·2와 일상컷 18장 업로드·도감 등록·자동 썸네일 검증 완료. 기본 화풍만 검사하는 image-claim done 대신 api25 등록 항목을 대조해 이 실행만 완료 처리. 기존 화풍 및 앞선 잠금 이력 보존."
   }
  ]
 }
