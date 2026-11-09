@@ -1,0 +1,90 @@
+{
+ "atelier": "samguk",
+ "card": "제갈량",
+ "faction": "shu",
+ "role": "strategist",
+ "world": "fantasy",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "gold",
+   "age": "mid_20s",
+   "impression": "elegant",
+   "skin_tone": "porcelain",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "expr": "half_smile",
+   "brows": "arched_thin",
+   "nose": "straight_narrow",
+   "lips": "small_bow",
+   "face_shape": "oval",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "busty_slender",
+   "hair_color": "ink_green",
+   "hair": "updo_bun",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "제갈량_fantasy_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Zhuge Liang from the Romance of the Three Kingdoms, reimagined as an adult woman — the Sleeping Dragon, chancellor and master strategist of Shu. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: a white crane-feather fan, serene foresight, the Eight Trigrams battle formation, borrowing the east wind and arrows with straw boats, wooden oxen and gliding horses, reading the stars.\n\nWorld (fixed): a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 2) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 3) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 4) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 5) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a white crane-feather fan, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette.\n\nHair colour (fixed — ours): ink-black hair with a deep green sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 680,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 680
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1023
+  },
+  "seconds": 19.537,
+  "png_sha256": "54744dd6da99311c9b75d3839273f7eb8f522ffd62bee9f3d9150d6fe8474896",
+  "prompt_sha256": "98d646e7ce4081c0626da224f73bc59e07fefaea87a8c1baf28f5c700a45ec92",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "gpt_free",
+  "free_prompt": "A full-body character card image of Zhuge Liang of the Three Kingdoms reimagined as an adult woman in her late twenties — a graceful grown-up face with soft, smooth contours, no wrinkles — the Sleeping Dragon, chancellor and master strategist of Shu. She is a woman, no facial hair.\n\nStyle: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nHer: brilliant, cool foresight — pale gold eyes, sharp elegant brows, a slight confident smile, smoky jade liner and a deep rose lip. Face proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any headpiece sits above her hairline and never lengthens her face; her eyes stay at a natural open size. Hair colour exactly ink-black with a deep green sheen. Skin tone exactly porcelain-pale. Hairstyle: a long side-parted cascade of waves over one shoulder, the other side pinned back with a gold star-shaped comb.\n\nCostume: a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette. Her own idea from the white crane-feather fan: the tall high collar and the shoulder mantle are built from layered white crane feathers set in tiers like an opened fan behind her head and across her shoulders, each feather tipped in gold. A jade-green velvet robe opened down the front into a deep plunging neckline, bare shoulders below the feather mantle, an ivory under-bodice, the robe parting from the hip over bare legs and earthen-brown leather boots; intimate areas covered. Scholarly rank: a gold astrolabe clasp at the waist, gold chains across the bodice, fine gold embroidery. Colours: jade green, imperial gold, earthen brown, white jade.\n\nWeapon: a white crane-feather fan reimagined as a Western high-fantasy feather fan of the same silhouette with a gold-and-white-jade handle, pointed forward in her right hand.\n\nSetting: the open observatory at the top of a fortified abbey on a green mountain ridge at night, a great brass armillary sphere, a sky full of stars, soft green nature-magic glowing.\n\nVertical 2:3 (1024×1536) full-body framing with modest headroom and clear space below the feet — the whole figure from the top of her head or headpiece to both feet inside the frame, about four-fifths of the image height; her hands and the fan stay inside the frame. Camera at chest height, natural portrait perspective, no wide-angle distortion, no low angle. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes or hanzi; no logo or watermark.",
+  "free_by": "claude",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "imported": "2026-11-09"
+}
