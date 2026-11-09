@@ -1,0 +1,36 @@
+{
+ "key": "방통",
+ "runs": [
+  {
+   "key": "방통",
+   "execution": "sam-pangtong-api25-20261109-codex",
+   "status": "working",
+   "claimed_at": "2026-11-09T14:25:00.800Z",
+   "date_kst": "2026-11-09",
+   "date_utc": "2026-11-09",
+   "missing": [
+    "방통_samguk_mmorpg_cg_f.webp",
+    "방통_samguk_mmorpg_cg_f_casual1.webp",
+    "방통_samguk_mmorpg_cg_f_casual2.webp",
+    "방통_samguk_mmorpg_cg_f_casual3.webp",
+    "방통_samguk_mmorpg_cg_f_casual4.webp",
+    "방통_samguk_mmorpg_cg_f_casual5.webp",
+    "방통_samguk_mmorpg_cg_f_casual6.webp",
+    "방통_fantasy_mmorpg_cg_f.webp",
+    "방통_fantasy_mmorpg_cg_f_casual1.webp",
+    "방통_fantasy_mmorpg_cg_f_casual2.webp",
+    "방통_fantasy_mmorpg_cg_f_casual3.webp",
+    "방통_fantasy_mmorpg_cg_f_casual4.webp",
+    "방통_fantasy_mmorpg_cg_f_casual5.webp",
+    "방통_fantasy_mmorpg_cg_f_casual6.webp",
+    "방통_mecha_mmorpg_cg_f.webp",
+    "방통_mecha_mmorpg_cg_f_casual1.webp",
+    "방통_mecha_mmorpg_cg_f_casual2.webp",
+    "방통_mecha_mmorpg_cg_f_casual3.webp",
+    "방통_mecha_mmorpg_cg_f_casual4.webp",
+    "방통_mecha_mmorpg_cg_f_casual5.webp",
+    "방통_mecha_mmorpg_cg_f_casual6.webp"
+   ]
+  }
+ ]
+}
