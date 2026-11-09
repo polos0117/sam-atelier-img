@@ -1,0 +1,90 @@
+{
+ "atelier": "samguk",
+ "card": "여포",
+ "faction": "qun",
+ "role": "general",
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "crimson",
+   "age": "early_20s",
+   "impression": "fierce",
+   "skin_tone": "golden_tan",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "expr": "smug",
+   "brows": "angled_sharp",
+   "nose": "aquiline",
+   "lips": "full_wide",
+   "face_shape": "diamond",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "plum_black",
+   "hair": "long_wavy",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "여포_samguk_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Lü Bu from the Romance of the Three Kingdoms, reimagined as an adult woman — the mightiest warrior under heaven, rider of Red Hare. Age: mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: unmatched might — the greatest warrior under heaven, two long pheasant-tail plumes rising from her headpiece, a red-and-black war cape, proud and capricious, betrayal after betrayal.\n\nWorld (fixed): the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 3) fitted light lamellar armor with short armored skirts slit for riding, bracers and greaves — a lean, practical cavalry silhouette; 4) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 5) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 6) a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; 7) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 8) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 9) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): the Sky Piercer, a crescent-bladed fangtian ji halberd.\n\nHair colour (fixed — ours): plum-black hair with a violet sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): golden tan skin. Keep exactly this skin tone.\n\nCostume colours (ours): scarlet red, black lacquer, burnished gold and white plume accents.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 813,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 813
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1156
+  },
+  "seconds": 19.044,
+  "png_sha256": "48f05da5cddee059a7c1a939bba546d238f3521ef68e7e9373f1b2fc256085f4",
+  "prompt_sha256": "6923afe7f9bde7aad4ef1da5248d7fc91d8a5093fe41a01aa4b5101177a183ef",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "gpt_free",
+  "free_prompt": "A full-body character card image of Lü Bu from the Romance of the Three Kingdoms, reimagined as an adult woman in her mid-twenties — the mightiest warrior under heaven, rider of Red Hare, in the chaos of the late Eastern Han around 190 AD. A clear adult face with no facial lines. She is a woman — no beard, moustache or facial hair.\n\nStyle: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nHer: stern and overwhelming — large, steady golden-hazel eyes, thick level brows, warm bronze shadow on her lids, lips pressed in a calm, unbeatable half-smile, a thin gold line painted at the corner of each eye. Face proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face; her eyes stay at a natural open size, never squeezed into narrow slits. Hair colour exactly plum-black with a violet sheen. Hairstyle: a heavy twin-loop warrior's bun high on the crown, wrapped in red cord, with long straight lengths falling from beneath it down her back. Skin tone exactly golden tan.\n\nCostume: layered laced lamellar armour, big heavy beast-head pauldrons and armoured skirts to the knees — a broad, weighty general's silhouette. Her own idea from her unmatched might: the two beast-head pauldrons are roaring tiger heads whose manes are built from tiers of small lamellar scales, and from the back of each tiger head a long white pheasant-tail plume rises as if from its crest, so the plumes grow out of the armour itself; the knee-length armoured skirt is laced in rows that fan outward like the layered scales of a tiger's ruff. A gold headpiece above her hairline. Imposing, richly worked armour with flagship-card detail: red silk lacing, black-lacquer scales, gold-chased edges, a broad belt with a beast-mask buckle, a red-and-black war cape behind. Bold exposure: an open, deep-cut lamellar collar baring her neckline, bare upper arms between pauldrons and bracers, the knee-length skirt split high at both sides to bare her thighs; intimate areas covered. Colours: scarlet red, black lacquer, burnished gold and white plume accents.\n\nWeapon: the Sky Piercer, a crescent-bladed fangtian ji halberd, one whole unbroken shaft, held two-handed in a low guard angled toward the viewer.\n\nPose and setting: a wide, grounded stance with her knees bent, as if bracing against an oncoming charge, on a trampled Yellow Turban battlefield under a stormy grey sky, broken spears, scattered yellow cloths and dust swirling around her boots.\n\nVertical 2:3 (1024×1536) full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her headpiece and plumes to both boots inside the frame, about four-fifths of the image height, the same camera distance in every genre; her hands and the halberd stay inside the frame. Camera at chest height, natural portrait perspective, no wide-angle distortion, no low angle, no close crop. One figure only, natural hands with five fingers; no text, no logo or watermark.",
+  "free_by": "claude",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "imported": "2026-11-09"
+}
