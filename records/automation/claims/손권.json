@@ -879,9 +879,402 @@
       "status": "working",
       "claimed_at": "2026-11-09T13:09:44.236Z",
       "style": "mmorpg_cg",
-      "phase": "generating_world_candidates",
-      "reason": "사용자 요청: 기존 시트 무시하고 신규 세계 후보 12장 생성. 선택 후 일상컷 및 일반 push.",
-      "missing": []
+      "phase": "awaiting_world_selection",
+      "reason": "Fresh twelve world candidates complete; await user selection per IMAGE_RULES section 1. Existing candidates preserved; no successful image regenerated. Registered uploads and casual work begin after selection.",
+      "missing": [],
+      "candidate_count": 12,
+      "candidate_manifest": {
+        "character": "손권",
+        "execution": "sam-sunquan-fresh-f3536e197987",
+        "source_commit": "f9901fcbb624859592b112c64b94e6130a11e9d8",
+        "style": "mmorpg_cg",
+        "status": "awaiting_world_selection",
+        "candidates": [
+          {
+            "world": "samguk",
+            "number": 1,
+            "design": "registered",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-917be237-e788-40af-9e6b-858a41423035.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/samguk-1.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "258a224f27a2b5d1bad3b7c8c28703139760ba1f0ea9c8949a1784881fa4aa68",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/samguk-prompt.txt",
+            "prompt_sha256": "db9beca3f5f24b6e72811a8c05240f13caea648e8530f862e7a62e9135b8758a",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "registered",
+              "retries": []
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested"
+              ]
+            }
+          },
+          {
+            "world": "samguk",
+            "number": 2,
+            "design": "registered",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-b2f4749b-1375-43d7-a5a7-a2dc0a41ae2a.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/samguk-2.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "02df54c1545be3ebe96474a944da9b61b38fe2324a7e534d351cb7755e0ef7ba",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/samguk-prompt.txt",
+            "prompt_sha256": "db9beca3f5f24b6e72811a8c05240f13caea648e8530f862e7a62e9135b8758a",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "registered",
+              "retries": []
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested"
+              ]
+            }
+          },
+          {
+            "world": "samguk",
+            "number": 3,
+            "design": "gpt_free",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-8a36f269-9b8f-4a9e-9326-dd05c3737b87.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/samguk-3.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "7f030fbbad21db4804bfec7880e46d2e5f7a1a3d9b02cf48b092dc92de2d0bf3",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/samguk-3-free-prompt.txt",
+            "prompt_sha256": "cbac59c17d2662d6544e497c60f18a2fc0c1104c029463cdc9b84c190160db16",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "gpt_free",
+              "retries": [],
+              "free_prompt": "Create ONE finished full-body vertical 2:3 (1024×1536) character card of Sun Quan from Romance of the Three Kingdoms reimagined as an adult woman — emperor of Wu and sovereign of the Yangtze. About twenty, a fresh young-adult face with no facial lines. She is a woman with no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nFair skin, bright jade-green almond eyes, a compact oval face and glossy deep wine-red hair in an intricate braided crown updo with long trailing lengths. Soft rose lips and a discerning restrained smile. Choose layered trailing court regalia with a tall jade-and-gold crown, long hanging sashes and jade pendants. Her layered crimson silk court robes and river-teal underskirt are built into branching panels like the channels of the Yangtze delta, three broad gold-edged trailing panels diverging from a black lacquer waist clasp, not merely printed with a river motif. Broad open sleeves, deep shaped neckline and high front-side slit preserve the stately ceremonial silhouette. She holds one imperial jian sword with a red tassel, point downward at her side, her other hand lightly extended palm upward. She stands on the stone terrace of a lotus-lined royal river pavilion at clear morning, crimson-sailed war junks and Jianye's Han-dynasty river fortifications behind her. Eastern Wu, 200–280 AD; Han clothing and architecture, no Japanese or Qing features. Only a banner or seal may carry a single faction character; no other text.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits. A voluptuous feminine figure with a full bust, narrow waist and balanced human hips and long legs.\n\nCostume colours: crimson red, gold, river teal, black lacquer. Her sovereign rank is immediately clear: layered, richly ornate and regal with flagship-card detail, engraving and jewellery, never plain or sparse. Exposure: bold — her outfit shows skin by deliberate design, a deep neckline, bare shoulders or arms, and a high slit or short hem; intimate areas covered.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow. One figure only, natural hands with five fingers; no logo or watermark.\n"
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested",
+                "Crown reaches the top edge; one boot is concealed by robe"
+              ]
+            }
+          },
+          {
+            "world": "samguk",
+            "number": 4,
+            "design": "gpt_free",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-57fa0344-77e2-4297-88ae-a47e35de2f21.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/samguk-4.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "aa588e52485b03d73441be4fc12a25c18007604cf7d518a504786f81ff14c9b1",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/samguk-4-free-prompt.txt",
+            "prompt_sha256": "14c569e5120cf724eb7f9e4a24102e3c459e78b2d8ae8f7692c2c92986154a25",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "gpt_free",
+              "retries": [],
+              "free_prompt": "Create ONE finished full-body vertical 2:3 (1024×1536) character card of Sun Quan from Romance of the Three Kingdoms reimagined as an adult woman — emperor of Wu and sovereign of the Yangtze. About twenty, a fresh young-adult face with no facial lines. She is a woman with no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nFair skin, luminous amber-gold eyes, a compact heart-shaped face and deep wine-red hair swept into a high ponytail with a soft side-parted fringe. Bold cinnabar lips and an assured direct gaze. Choose a lamellar breastplate above many layers of silk skirt flaring wide below the waist, firm above and flowing below. Black-lacquer and gold lamellar chest armour with a deep central neckline and cut-away bare upper arms; a grand crimson and river-teal flared skirt with a thigh-high opening. Build her fearless tiger-hunter legend into the garment's actual structure: overlapping curved gold-edged armour lames form muscular tiger-stripe-like arcs around her waist, then split into powerful fan-shaped silk skirt gores. An ornate sovereign guan crown rises above her hairline. She stands in a natural three-quarter frontal stance on a broad embankment stair, one foot slightly forward, one imperial jian sword with a red tassel held diagonally downward clear of her body and her free hand touching the waist clasp. Eastern Wu around 200–280 AD, golden late-afternoon river light, fortified red pavilions and distant crimson-sailed war junks. No animal appears. Only a banner or seal may carry a single faction character; no other text.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits. A voluptuous feminine figure with a full bust, narrow waist and balanced human hips and long legs.\n\nCostume colours: crimson red, gold, river teal, black lacquer. Her sovereign rank is immediately clear: layered, richly ornate and regal with flagship-card detail, engraving and jewellery, never plain or sparse. Exposure: bold — her outfit shows skin by deliberate design, a deep neckline, bare shoulders or arms, and a high slit or short hem; intimate areas covered.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow. One figure only, natural hands with five fingers; no logo or watermark.\n"
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested",
+                "Sword tip is very close to the left frame edge"
+              ]
+            }
+          },
+          {
+            "world": "fantasy",
+            "number": 1,
+            "design": "registered",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-97fd5455-0c4d-455b-a23b-200736044a09.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/fantasy-1.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "b7d7ddf133e80a4565826819c555d0bb743e5bd0490a2847a14e7a1d1e44e71c",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/fantasy-prompt.txt",
+            "prompt_sha256": "b31229d5bbd6fb14823e135e6bd18d9b9218b8d70aa58792cadfb5178ff8f04b",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "registered",
+              "retries": [
+                {
+                  "n": 1,
+                  "status": "moderation_blocked",
+                  "stage": "output",
+                  "unchanged_prompt": true
+                }
+              ]
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested"
+              ]
+            }
+          },
+          {
+            "world": "fantasy",
+            "number": 2,
+            "design": "registered",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-b72f05f2-acd8-4354-95fa-9d00fce4abba.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/fantasy-2.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "a1dacbb3286ec5fe734fe04580cc7be55b36332a355976cb131ce0a3719c883e",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/fantasy-prompt.txt",
+            "prompt_sha256": "b31229d5bbd6fb14823e135e6bd18d9b9218b8d70aa58792cadfb5178ff8f04b",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "registered",
+              "retries": []
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested"
+              ]
+            }
+          },
+          {
+            "world": "fantasy",
+            "number": 3,
+            "design": "gpt_free",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-41fdea89-da8f-4c64-a8bd-06009b7a3324.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/fantasy-3.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "94a4ce1408756801f86c96138859faac033717deda29fdc33fa4fa3f1adc2f1f",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/fantasy-3-free-prompt.txt",
+            "prompt_sha256": "df8670e315c9d0c9097a85d022bd02db6142ffdd158c0a1c3656ed507ff0e70c",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "gpt_free",
+              "retries": [],
+              "free_prompt": "Create ONE finished full-body vertical 2:3 (1024×1536) character card of Sun Quan from Romance of the Three Kingdoms reimagined as an adult woman — emperor of Wu and sovereign of the Yangtze. About twenty, a fresh young-adult face with no facial lines. She is a woman with no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nFair skin, clear sea-green eyes, compact rounded oval face, deep wine-red hair in long loose spiral curls with a side braid. Velvet ruby lips and a calm appraising smile. Choose a great crown and fur-trimmed royal mantle over an ornate breastplate, a ceremonial regal silhouette. A broad crimson royal mantle with ivory fur edging frames black enamel and gold breast armour, river-teal lining and tall engraved boots. Build her defence of the Yangtze into the breastplate and hip armour construction: nested sweeping curved metal lames lock together like river floodgates, with a split mantle flowing in two channels behind her. A deliberate deep neckline and bare upper arms, a high opening between hip panels and boots. Her single imperial straight double-edged sword is a Western high-fantasy version of the jian silhouette, mithril blade, engraved runic metal hilt, jeweled crossguard, leather grip, subtle magical glow, red tassel interpreted as a red heraldic sword-knot; no Chinese ornaments or wood. Frontal stance on a broad stone harbour balcony, sword held upright beside her shoulder, free hand resting on a waist plate. Medieval river delta kingdom, crimson-sailed galleons, red-stone harbour fortresses and distant fire magic reflected on dark water at early evening. Western medieval dress and setting only; no Chinese architecture, robes, junks or hanzi.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits. A voluptuous feminine figure with a full bust, narrow waist and balanced human hips and long legs.\n\nCostume colours: crimson red, gold, river teal, black lacquer. Her sovereign rank is immediately clear: layered, richly ornate and regal with flagship-card detail, engraving and jewellery, never plain or sparse. Exposure: bold — her outfit shows skin by deliberate design, a deep neckline, bare shoulders or arms, and a high slit or short hem; intimate areas covered.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow. One figure only, natural hands with five fingers; no logo or watermark.\n"
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested",
+                "Sword is directed downward despite an upright pose instruction"
+              ]
+            }
+          },
+          {
+            "world": "fantasy",
+            "number": 4,
+            "design": "gpt_free",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-4434d02c-db29-495f-ac62-c5fdc10299d9.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/fantasy-4.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "ae52a6191179df3aead3d00f907cd5e278626a48a7161fe69ee6daa150df6581",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/fantasy-4-free-prompt.txt",
+            "prompt_sha256": "7b0cfbaa420570dd431e0da5624a664bd9bda37bd299fbca7f97033d48ff9afe",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "gpt_free",
+              "retries": [],
+              "free_prompt": "Create ONE finished full-body vertical 2:3 (1024×1536) character card of Sun Quan from Romance of the Three Kingdoms reimagined as an adult woman — emperor of Wu and sovereign of the Yangtze. About twenty, a fresh young-adult face with no facial lines. She is a woman with no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nFair skin, pale violet almond eyes, a compact soft diamond face and deep wine-red hair in a smooth high braided bun with long side locks. Cranberry lips and a spirited confident expression. Choose large metal feathered wing ornaments spreading from her shoulders and a wing-shaped head ornament. Ornate crimson-and-black enamel breastplate with a deep neckline, bare shoulders, golden articulated wing ornaments, river-teal split skirt panels and elaborate high boots. Build her crimson fleet into the wing construction: layered metal feather plates take the swept triangular shape of taut galleon sails with gold structural ribs; their layers form the actual armour assembly. Sovereign crown above her hairline, gold jewellery and engraved fittings. Her single imperial straight double-edged sword is a Western high-fantasy version of the jian silhouette, polished steel and mithril, runic metal hilt, jeweled guard, leather grip, subtle magical blade glow, red heraldic sword-knot replacing the red tassel; no Chinese ornaments or wood. She stands turned slightly toward the viewer with both feet on the ground, one hand holding the sword point downward away from her body, her free hand open at her side. Sunlit medieval red-stone harbour gate, crimson galleons on the broad river delta and distant fire beacons. Western medieval dress and setting only; no Chinese architecture, robes, junks or hanzi.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits. A voluptuous feminine figure with a full bust, narrow waist and balanced human hips and long legs.\n\nCostume colours: crimson red, gold, river teal, black lacquer. Her sovereign rank is immediately clear: layered, richly ornate and regal with flagship-card detail, engraving and jewellery, never plain or sparse. Exposure: bold — her outfit shows skin by deliberate design, a deep neckline, bare shoulders or arms, and a high slit or short hem; intimate areas covered.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow. One figure only, natural hands with five fingers; no logo or watermark.\n"
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested"
+              ]
+            }
+          },
+          {
+            "world": "mecha",
+            "number": 1,
+            "design": "registered",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-6a461803-5dd3-4db6-8d8e-9de35b5d052f.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/mecha-1.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "d9a55618be07676aef4656ca8954b8a7d12ea30bd0261f694953aa570ad6c1b2",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/mecha-prompt.txt",
+            "prompt_sha256": "284744507863f0f2d8477342b331ac8e2883e695ff952f4aab57f859de6c359b",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "registered",
+              "retries": []
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested",
+                "Cape and hanging panels read as fabric"
+              ]
+            }
+          },
+          {
+            "world": "mecha",
+            "number": 2,
+            "design": "registered",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-999645d1-5bda-4678-8fb4-2f7f5e9a9d89.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/mecha-2.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "97ad311a2ed363be5fc41a3a0e4c7d33f02634675c1c7827d9c4837b750362f7",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/mecha-prompt.txt",
+            "prompt_sha256": "284744507863f0f2d8477342b331ac8e2883e695ff952f4aab57f859de6c359b",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "registered",
+              "retries": []
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested",
+                "Cape and hanging panels read as fabric"
+              ]
+            }
+          },
+          {
+            "world": "mecha",
+            "number": 3,
+            "design": "gpt_free",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-e1c7a500-fd6c-4b2f-9182-65140232eff8.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/mecha-3.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "1c2add19d4854a55da2bd6f1fd864989f08aec3822669e864a796050023bf5d3",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/mecha-3-free-prompt.txt",
+            "prompt_sha256": "43cd2d60ccc6041e04422b357ce212448c72adf3ae14630edd480f789242b223",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "gpt_free",
+              "retries": [],
+              "free_prompt": "Create ONE finished full-body vertical 2:3 (1024×1536) character card of Sun Quan from Romance of the Three Kingdoms reimagined as an adult woman — emperor of Wu and sovereign of the Yangtze. About twenty, a fresh young-adult face with no facial lines. She is a woman with no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nFair skin, bright ice-blue eyes, a compact oval face and deep wine-red hair in a sleek chin-length bob with curved side-swept bangs. Berry-red lips and a cool precise smile. Choose large wing-shaped binder plates spread symmetrically behind her back, with light body armour. All costume surfaces are solid hard-surface mecha armour with visible thickness, mechanical joints, panel seams and river-teal energy lines; face and hair remain human. Build her carrier fleet into the rigid crimson-and-black binder structure: stepped flight-deck-like plates overlap with small gold launch-rail ridges and articulated vents. Ornate crown antenna and gold engraved armour borders show her sovereign rank. A deep chest window and bare upper arms are designed armour openings, remaining torso and legs plated. No cloth, robe, gown or fabric skirt; every cape or wing shape is rigid armour. One imperial straight double-edged sword rebuilt as a high-tech jian-shaped weapon with an alloy mechanical grip, river-teal energy blade and a flexible red luminous technical ribbon in place of the tassel, no wood or bronze. Frontal commanding stance on a carrier observation deck, sword held point down beside her boot, free arm gently extended with relaxed fingers. Year 2190 Wu orbital fleet above an ocean world, blue planet and crimson carriers beyond the glass, a luminous nebula and neon hull lights. No traditional East Asian architecture, pagodas, tiled roofs or hanzi.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits. A voluptuous feminine figure with a full bust, narrow waist and balanced human hips and long legs.\n\nCostume colours: crimson red, gold, river teal, black lacquer. Her sovereign rank is immediately clear: layered, richly ornate and regal with flagship-card detail, engraving and jewellery, never plain or sparse. Exposure: bold — her outfit shows skin by deliberate design, a deep neckline, bare shoulders or arms, and a high slit or short hem; intimate areas covered.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow. One figure only, natural hands with five fingers; no logo or watermark.\n"
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested",
+                "Binder wings extend beyond left and right edges"
+              ]
+            }
+          },
+          {
+            "world": "mecha",
+            "number": 4,
+            "design": "gpt_free",
+            "path": "/workspace/scratch/f3536e197987/generated_images/exec-ee956ba2-1c05-4574-8ee0-c5a7d91d4884.png",
+            "webp_path": "/workspace/scratch/f3536e197987/sunquan-new/candidates/mecha-4.webp",
+            "size": [
+              1024,
+              1536
+            ],
+            "png_sha256": "0da459b7661f68fb122463da85343a544799238c64481a2c1d13996fdee6dfd3",
+            "prompt_path": "/workspace/scratch/f3536e197987/sunquan-new/pack/mecha-4-free-prompt.txt",
+            "prompt_sha256": "fee8ff4f4713901b17fe4a671a51d1375c9ad39762d1dd45e9131acf055a5b06",
+            "generation": {
+              "tool": "image_gen",
+              "endpoint": "images/generations",
+              "prompt_form": "en-prompt",
+              "design": "gpt_free",
+              "retries": [],
+              "free_prompt": "Create ONE finished full-body vertical 2:3 (1024×1536) character card of Sun Quan from Romance of the Three Kingdoms reimagined as an adult woman — emperor of Wu and sovereign of the Yangtze. About twenty, a fresh young-adult face with no facial lines. She is a woman with no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nFair skin, clear golden-amber eyes, a compact heart-shaped face and deep wine-red hair gathered into one thick low braid over her shoulder, with a parted fringe. Rich red lips and a composed authoritative gaze. Choose a long coat made from rigid plates from shoulders to below the knees, open at the front to reveal body armour, with an angular collar. Her entire costume is solid thick hard-surface crimson-and-black mecha plating, gold metallic edges, visible joints, panel lines and river-teal luminous channels; human face and hair. Build her Yangtze defence into the coat construction: broad interlocking armoured coat tails form staggered floodgate panels with inset gold structural ribs; shoulder plates rise like angular fortified river walls. A royal crown-like head unit with ornate mechanical engraving. Deliberate chest window and bare thigh gaps between hip and leg plates, remaining body plated. The long coat is rigid articulated armour, never cloth; no fabric robe, gown, skirt or cape. One imperial straight double-edged sword rebuilt as a high-tech jian-shaped weapon, alloy panelled blade with river-teal energy edge, mechanical grip and a flexible luminous red technical ribbon replacing the tassel, no wood or bronze. Three-quarter frontal grounded stance in a vast orbital flagship hangar, sword angled diagonally down at her side clear of her body, free hand resting lightly on a hip plate. Year 2190, open hangar view of an ocean planet, crimson carriers and storm clouds far below, cool white deck lighting and drifting particles. No traditional East Asian architecture, pagodas, tiled roofs or hanzi.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits. A voluptuous feminine figure with a full bust, narrow waist and balanced human hips and long legs.\n\nCostume colours: crimson red, gold, river teal, black lacquer. Her sovereign rank is immediately clear: layered, richly ornate and regal with flagship-card detail, engraving and jewellery, never plain or sparse. Exposure: bold — her outfit shows skin by deliberate design, a deep neckline, bare shoulders or arms, and a high slit or short hem; intimate areas covered.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow. One figure only, natural hands with five fingers; no logo or watermark.\n"
+            },
+            "qa": {
+              "reviewer": "gpt",
+              "passed": false,
+              "exposure": "match",
+              "observations": [
+                "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+                "Figure occupies more than requested four-fifths; headroom narrower than requested"
+              ]
+            }
+          }
+        ],
+        "note": "Twelve new candidates. No image regenerated after successful generation. Fantasy1 first call was output-moderation blocked; one unchanged-prompt retry succeeded. User choice required before registration or casual generation.",
+        "selection_sheet_library_file_id": "libfile_c28adad14d708191ac9be2a1d721e52e",
+        "selection_sheet_path": "/workspace/scratch/f3536e197987/sunquan-new/sunquan-world-selection-sheet-fresh.jpg"
+      },
+      "selection_sheet_library_file_id": "libfile_c28adad14d708191ac9be2a1d721e52e"
     }
   ]
 }
