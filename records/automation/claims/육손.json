@@ -30,6 +30,37 @@
    ],
    "done_at": "2026-11-02T14:12:09.663Z",
    "done_by": "sam-luxun-4567"
+  },
+  {
+   "key": "육손",
+   "execution": "sam-luxun-api25-20261109-codex",
+   "status": "working",
+   "claimed_at": "2026-11-09T14:32:25.922Z",
+   "date_kst": "2026-11-09",
+   "date_utc": "2026-11-09",
+   "missing": [
+    "육손_samguk_mmorpg_cg_f.webp",
+    "육손_samguk_mmorpg_cg_f_casual1.webp",
+    "육손_samguk_mmorpg_cg_f_casual2.webp",
+    "육손_samguk_mmorpg_cg_f_casual3.webp",
+    "육손_samguk_mmorpg_cg_f_casual4.webp",
+    "육손_samguk_mmorpg_cg_f_casual5.webp",
+    "육손_samguk_mmorpg_cg_f_casual6.webp",
+    "육손_fantasy_mmorpg_cg_f.webp",
+    "육손_fantasy_mmorpg_cg_f_casual1.webp",
+    "육손_fantasy_mmorpg_cg_f_casual2.webp",
+    "육손_fantasy_mmorpg_cg_f_casual3.webp",
+    "육손_fantasy_mmorpg_cg_f_casual4.webp",
+    "육손_fantasy_mmorpg_cg_f_casual5.webp",
+    "육손_fantasy_mmorpg_cg_f_casual6.webp",
+    "육손_mecha_mmorpg_cg_f.webp",
+    "육손_mecha_mmorpg_cg_f_casual1.webp",
+    "육손_mecha_mmorpg_cg_f_casual2.webp",
+    "육손_mecha_mmorpg_cg_f_casual3.webp",
+    "육손_mecha_mmorpg_cg_f_casual4.webp",
+    "육손_mecha_mmorpg_cg_f_casual5.webp",
+    "육손_mecha_mmorpg_cg_f_casual6.webp"
+   ]
   }
  ]
 }
