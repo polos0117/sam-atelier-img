@@ -1,0 +1,113 @@
+{
+ "atelier": "samguk",
+ "card": "마초",
+ "faction": "shu",
+ "role": "general",
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "ice_blue",
+   "impression": "glamorous",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "red_lip",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "round",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "antique_gold",
+   "hair": "ponytail",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "마초_mecha_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Ma Chao from the Romance of the Three Kingdoms, reimagined as an adult woman — the splendid Ma Chao of Xiliang, the brocade-armored warrior who once sent Cao Cao fleeing. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: dazzling beauty and pride of the western frontier, silver armor trimmed with brocade and a lion-head belt, a white plume, vengeance for her slain family, fierce charges across the Liang steppe.\n\nWorld (fixed): year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely; 2) heavy assault bulk — big, thick shoulder and leg armor, a broad upper silhouette and large thrusters on the back and legs, while the torso stays fitted and the waist narrow; 3) several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them; 4) minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette; 5) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 6) complete full-body armor with plates joined seamlessly from neck to feet — bare skin only on the face and where EXPOSURE allows, dense visible seams and joints; 7) a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape; 8) mecha armor shaped like a medieval knight's plate — big rounded pauldrons, a breastplate, layered plates below the waist, a head ornament instead of a helmet so her face shows; 9) several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth; 10) one long segmented mechanical tail reaching from the back of her waist, tipped with a weapon or ornament. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a silver dragon-tipped spear with a white tassel, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): antique-gold hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1176,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1176
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1519
+  },
+  "seconds": 19.613,
+  "png_sha256": "3d6a617885501a415d8afe18b231ad1339b37d68a19a63b0c0823cf439994fd7",
+  "prompt_sha256": "3944877a98c611a88f2847fa625a5175ffe2c84382a451d793bf5e1f80a76e7f",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "gpt_free",
+  "free_prompt": "Create this image. A full-body vertical 2:3 (1024×1536) character card image of Ma Chao from the Romance of the Three Kingdoms, reimagined as an adult woman — the splendid Ma Chao of Xiliang, the brocade-armored warrior who once sent Cao Cao fleeing. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: dazzling beauty and pride of the western frontier, silver armor trimmed with brocade and a lion-head belt, a white plume, vengeance for her slain family, fierce charges across the Liang steppe.\n\nWorld (fixed): year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a silver dragon-tipped spear with a white tassel, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): antique-gold hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nCostume choice 9: several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth. Thick white-jade and jade-green alloy shoulder-to-ankle plates, imperial-gold edges, earthen-brown articulated joints and green glow lines over a fitted armored torso. Her signature construction consists of interwoven sliding segments in the rigid cape plates, each rib alternating above and below its neighbor like metal brocade, ending in tapered aerodynamic charge vanes. The silhouette is a grand mechanical war mantle, visibly hard-surface metal with thickness, panel seams and joints; no fabric, skirt cloth or gown. Bold designed openings at shoulders and upper thighs, intimate areas covered. Ornate, commanding general's proportions and precise machined detail.\nAntique-gold hair in a sleek low side ponytail with softly parted bangs. A small softly rounded diamond face, naturally open pale blue-grey eyes, soft straight brows, discreet gold eye makeup and a relaxed muted-red mouth. Fair skin and an adult late-twenties face, a restrained, confident half-smile. Three-quarter stance, left hand holding one unbroken high-tech silver dragon-tipped spear upright beside her body and right hand resting lightly against a hip plate. The spear has a straight silver alloy shaft, fine panel lines and vents, jointed dragon-shaped socket with emitter nodes, a bright green energy blade and a glowing green core. No wood, silk tassel or forged bronze. A glass-domed garden city's orbital-elevator terrace, the ringed giant behind her and green starship dock lights in the distance. One woman only, no animals.\n\nOne figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.",
+  "free_by": "gpt-session",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-machao-api25-20261109-codex",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "3d6a617885501a415d8afe18b231ad1339b37d68a19a63b0c0823cf439994fd7",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "성인 여성 한 명을 중심으로 한 1024×1536 카드. 금빛 머리·밝은 피부·용두 창·세계 배경 확인.",
+   "양팔·양다리와 손·창자루 연결을 비교표에서 검토함.",
+   "하드서피스 장갑판·미래 도시와 녹색 에너지 날/코어 확인."
+  ]
+ },
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "selection": {
+  "by": "user",
+  "message": "1,2,4",
+  "number": 4
+ },
+ "imported": "2026-11-09"
+}
