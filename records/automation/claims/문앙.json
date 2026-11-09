@@ -30,6 +30,37 @@
    ],
    "done_at": "2026-11-02T13:42:36.474Z",
    "done_by": "sam-munang-eaf5"
+  },
+  {
+   "key": "문앙",
+   "execution": "sam-wenyang-api25-20261109-codex",
+   "status": "working",
+   "claimed_at": "2026-11-09T15:17:16.242Z",
+   "date_kst": "2026-11-10",
+   "date_utc": "2026-11-09",
+   "missing": [
+    "문앙_samguk_mmorpg_cg_f.webp",
+    "문앙_samguk_mmorpg_cg_f_casual1.webp",
+    "문앙_samguk_mmorpg_cg_f_casual2.webp",
+    "문앙_samguk_mmorpg_cg_f_casual3.webp",
+    "문앙_samguk_mmorpg_cg_f_casual4.webp",
+    "문앙_samguk_mmorpg_cg_f_casual5.webp",
+    "문앙_samguk_mmorpg_cg_f_casual6.webp",
+    "문앙_fantasy_mmorpg_cg_f.webp",
+    "문앙_fantasy_mmorpg_cg_f_casual1.webp",
+    "문앙_fantasy_mmorpg_cg_f_casual2.webp",
+    "문앙_fantasy_mmorpg_cg_f_casual3.webp",
+    "문앙_fantasy_mmorpg_cg_f_casual4.webp",
+    "문앙_fantasy_mmorpg_cg_f_casual5.webp",
+    "문앙_fantasy_mmorpg_cg_f_casual6.webp",
+    "문앙_mecha_mmorpg_cg_f.webp",
+    "문앙_mecha_mmorpg_cg_f_casual1.webp",
+    "문앙_mecha_mmorpg_cg_f_casual2.webp",
+    "문앙_mecha_mmorpg_cg_f_casual3.webp",
+    "문앙_mecha_mmorpg_cg_f_casual4.webp",
+    "문앙_mecha_mmorpg_cg_f_casual5.webp",
+    "문앙_mecha_mmorpg_cg_f_casual6.webp"
+   ]
   }
  ]
 }
