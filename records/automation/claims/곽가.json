@@ -34,7 +34,7 @@
   {
    "key": "곽가",
    "execution": "sam-guojia-api25-20261109-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-09T21:14:14.463Z",
    "date_kst": "2026-11-10",
    "date_utc": "2026-11-09",
@@ -60,7 +60,39 @@
     "곽가_mecha_mmorpg_cg_f_casual4.webp",
     "곽가_mecha_mmorpg_cg_f_casual5.webp",
     "곽가_mecha_mmorpg_cg_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-09T21:39:52.575190+00:00",
+   "done_by": "sam-guojia-api25-20261109-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "곽가_samguk_api25_f.webp",
+     "곽가_samguk_api25_f_casual1.webp",
+     "곽가_samguk_api25_f_casual2.webp",
+     "곽가_samguk_api25_f_casual3.webp",
+     "곽가_samguk_api25_f_casual4.webp",
+     "곽가_samguk_api25_f_casual5.webp",
+     "곽가_samguk_api25_f_casual6.webp",
+     "곽가_fantasy_api25_f.webp",
+     "곽가_fantasy_api25_f_casual1.webp",
+     "곽가_fantasy_api25_f_casual2.webp",
+     "곽가_fantasy_api25_f_casual3.webp",
+     "곽가_fantasy_api25_f_casual4.webp",
+     "곽가_fantasy_api25_f_casual5.webp",
+     "곽가_fantasy_api25_f_casual6.webp",
+     "곽가_mecha_api25_f.webp",
+     "곽가_mecha_api25_f_casual1.webp",
+     "곽가_mecha_api25_f_casual2.webp",
+     "곽가_mecha_api25_f_casual3.webp",
+     "곽가_mecha_api25_f_casual4.webp",
+     "곽가_mecha_api25_f_casual5.webp",
+     "곽가_mecha_api25_f_casual6.webp"
+    ],
+    "image_commit": "c6a9b928499843a5e366fa4c49e0445e3876140e",
+    "registration_commit": "cc12c574b236d9c22891ae72e8b8d00828bb4112",
+    "approval": "사용자 「응 업로드해줘」",
+    "note": "요청한 api25 세계3+일상18 및 썸네일 등록 확인. 원래 missing의 기본 mmorpg_cg 목록은 역사 기록으로 보존."
+   }
   }
  ]
 }
