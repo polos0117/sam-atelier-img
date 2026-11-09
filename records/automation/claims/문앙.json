@@ -97,12 +97,12 @@
     {
       "key": "문앙",
       "execution": "sam-wenyang-fresh-20261110-4c571f",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-09T21:07:35.224Z",
       "date_kst": "2026-11-10",
       "date_utc": "2026-11-09",
       "style": "mmorpg_cg",
-      "phase": "generating_casuals",
+      "phase": "complete",
       "missing": [
         "문앙_samguk_mmorpg_cg_f.webp",
         "문앙_samguk_mmorpg_cg_f_casual1.webp",
@@ -140,6 +140,38 @@
         "fantasy": 4,
         "mecha": 4,
         "user": "4,4,4"
+      },
+      "done_at": "2026-11-09T21:59:21.673Z",
+      "done_by": "sam-wenyang-fresh-20261110-4c571f",
+      "completion": {
+        "registered_files": [
+          "문앙_samguk_mmorpg_cg_f.webp",
+          "문앙_samguk_mmorpg_cg_f_casual1.webp",
+          "문앙_samguk_mmorpg_cg_f_casual2.webp",
+          "문앙_samguk_mmorpg_cg_f_casual3.webp",
+          "문앙_samguk_mmorpg_cg_f_casual4.webp",
+          "문앙_samguk_mmorpg_cg_f_casual5.webp",
+          "문앙_samguk_mmorpg_cg_f_casual6.webp",
+          "문앙_fantasy_mmorpg_cg_f.webp",
+          "문앙_fantasy_mmorpg_cg_f_casual1.webp",
+          "문앙_fantasy_mmorpg_cg_f_casual2.webp",
+          "문앙_fantasy_mmorpg_cg_f_casual3.webp",
+          "문앙_fantasy_mmorpg_cg_f_casual4.webp",
+          "문앙_fantasy_mmorpg_cg_f_casual5.webp",
+          "문앙_fantasy_mmorpg_cg_f_casual6.webp",
+          "문앙_mecha_mmorpg_cg_f.webp",
+          "문앙_mecha_mmorpg_cg_f_casual1.webp",
+          "문앙_mecha_mmorpg_cg_f_casual2.webp",
+          "문앙_mecha_mmorpg_cg_f_casual3.webp",
+          "문앙_mecha_mmorpg_cg_f_casual4.webp",
+          "문앙_mecha_mmorpg_cg_f_casual5.webp",
+          "문앙_mecha_mmorpg_cg_f_casual6.webp"
+        ],
+        "image_commit": "180de3c71f6e34b65412e485fecedb4f9abbc9b2",
+        "registration_commit": "cf53a4d3a8c3ea0c939866fcde203abca176efd8",
+        "thumbnail_commit": "e30f10e3145cb112838a1190d1337a49db6b3bf5",
+        "approval": "세계컷 선택 4,4,4; original task authorized normal main push.",
+        "note": "21 images + 21 generation/QA records + 3 style-scoped plans published. All 45 remote Git hashes verified; 21 thumbnails present, workflow successful. Default-style planner checks and style-scoped casual checker passed. Prior kr_mmorpg/api25 artwork unchanged. Three output moderation rejections recorded; successful images never regenerated for exposure."
       }
     }
   ]
