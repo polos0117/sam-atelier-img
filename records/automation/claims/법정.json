@@ -31,6 +31,37 @@
    "approval": "응 정리해줘 — 옛 법정 잠금 정리 후 2.5 작업 진행",
    "released_by": "sam-fazheng-api25-20261109-codex",
    "released_at": "2026-11-09T21:16:17.186Z"
+  },
+  {
+   "key": "법정",
+   "execution": "sam-fazheng-api25-20261109-codex",
+   "status": "working",
+   "claimed_at": "2026-11-09T21:16:19.046Z",
+   "date_kst": "2026-11-10",
+   "date_utc": "2026-11-09",
+   "missing": [
+    "법정_samguk_mmorpg_cg_f.webp",
+    "법정_samguk_mmorpg_cg_f_casual1.webp",
+    "법정_samguk_mmorpg_cg_f_casual2.webp",
+    "법정_samguk_mmorpg_cg_f_casual3.webp",
+    "법정_samguk_mmorpg_cg_f_casual4.webp",
+    "법정_samguk_mmorpg_cg_f_casual5.webp",
+    "법정_samguk_mmorpg_cg_f_casual6.webp",
+    "법정_fantasy_mmorpg_cg_f.webp",
+    "법정_fantasy_mmorpg_cg_f_casual1.webp",
+    "법정_fantasy_mmorpg_cg_f_casual2.webp",
+    "법정_fantasy_mmorpg_cg_f_casual3.webp",
+    "법정_fantasy_mmorpg_cg_f_casual4.webp",
+    "법정_fantasy_mmorpg_cg_f_casual5.webp",
+    "법정_fantasy_mmorpg_cg_f_casual6.webp",
+    "법정_mecha_mmorpg_cg_f.webp",
+    "법정_mecha_mmorpg_cg_f_casual1.webp",
+    "법정_mecha_mmorpg_cg_f_casual2.webp",
+    "법정_mecha_mmorpg_cg_f_casual3.webp",
+    "법정_mecha_mmorpg_cg_f_casual4.webp",
+    "법정_mecha_mmorpg_cg_f_casual5.webp",
+    "법정_mecha_mmorpg_cg_f_casual6.webp"
+   ]
   }
  ]
 }
