@@ -102,7 +102,7 @@
       "date_kst": "2026-11-10",
       "date_utc": "2026-11-09",
       "style": "mmorpg_cg",
-      "phase": "fresh_world_candidates",
+      "phase": "awaiting_world_selection",
       "missing": [
         "samguk-candidate1",
         "samguk-candidate2",
@@ -116,7 +116,16 @@
         "mecha-candidate2",
         "mecha-candidate3",
         "mecha-candidate4"
-      ]
+      ],
+      "candidates": {
+        "count": 12,
+        "style": "mmorpg_cg",
+        "layout": "rows: samguk,fantasy,mecha; columns: 1,2 registered / 3,4 GPT free",
+        "sheet_library_file_id": "libfile_a2e12b606cc48191af4f993bbfc9aa29",
+        "workspace": "/workspace/scratch/4c571f5340be/wenyang-new",
+        "generated_at": "2026-11-09T21:25:01.287Z",
+        "notes": "New candidates generated with image_gen. No exposure-based regeneration. Background cavalry issue in registered samguk1,2 and fantasy1,2 recorded. No selected image registration before user choice."
+      }
     }
   ]
 }
