@@ -102,20 +102,29 @@
       "date_kst": "2026-11-10",
       "date_utc": "2026-11-09",
       "style": "mmorpg_cg",
-      "phase": "awaiting_world_selection",
+      "phase": "generating_casuals",
       "missing": [
-        "samguk-candidate1",
-        "samguk-candidate2",
-        "samguk-candidate3",
-        "samguk-candidate4",
-        "fantasy-candidate1",
-        "fantasy-candidate2",
-        "fantasy-candidate3",
-        "fantasy-candidate4",
-        "mecha-candidate1",
-        "mecha-candidate2",
-        "mecha-candidate3",
-        "mecha-candidate4"
+        "문앙_samguk_mmorpg_cg_f.webp",
+        "문앙_samguk_mmorpg_cg_f_casual1.webp",
+        "문앙_samguk_mmorpg_cg_f_casual2.webp",
+        "문앙_samguk_mmorpg_cg_f_casual3.webp",
+        "문앙_samguk_mmorpg_cg_f_casual4.webp",
+        "문앙_samguk_mmorpg_cg_f_casual5.webp",
+        "문앙_samguk_mmorpg_cg_f_casual6.webp",
+        "문앙_fantasy_mmorpg_cg_f.webp",
+        "문앙_fantasy_mmorpg_cg_f_casual1.webp",
+        "문앙_fantasy_mmorpg_cg_f_casual2.webp",
+        "문앙_fantasy_mmorpg_cg_f_casual3.webp",
+        "문앙_fantasy_mmorpg_cg_f_casual4.webp",
+        "문앙_fantasy_mmorpg_cg_f_casual5.webp",
+        "문앙_fantasy_mmorpg_cg_f_casual6.webp",
+        "문앙_mecha_mmorpg_cg_f.webp",
+        "문앙_mecha_mmorpg_cg_f_casual1.webp",
+        "문앙_mecha_mmorpg_cg_f_casual2.webp",
+        "문앙_mecha_mmorpg_cg_f_casual3.webp",
+        "문앙_mecha_mmorpg_cg_f_casual4.webp",
+        "문앙_mecha_mmorpg_cg_f_casual5.webp",
+        "문앙_mecha_mmorpg_cg_f_casual6.webp"
       ],
       "candidates": {
         "count": 12,
@@ -125,6 +134,12 @@
         "workspace": "/workspace/scratch/4c571f5340be/wenyang-new",
         "generated_at": "2026-11-09T21:25:01.287Z",
         "notes": "New candidates generated with image_gen. No exposure-based regeneration. Background cavalry issue in registered samguk1,2 and fantasy1,2 recorded. No selected image registration before user choice."
+      },
+      "selection": {
+        "samguk": 4,
+        "fantasy": 4,
+        "mecha": 4,
+        "user": "4,4,4"
       }
     }
   ]
