@@ -156,6 +156,20 @@
    "done_by": "sam-caocao-20261109-4ef496a2",
    "image_commit": "06e395af4455523d8391add5fb12a67ed84d4fb4",
    "code_commit": "cc801df1188c392b9c910d4dc36f31fa7df0c473"
+  },
+  {
+   "key": "조조",
+   "execution": "sam-caocao-new-20261109-28361ec2",
+   "status": "working",
+   "claimed_at": "2026-11-09T03:45:27.536834+00:00",
+   "date_kst": "2026-11-09",
+   "date_utc": "2026-11-09",
+   "missing": [],
+   "stage": "new_world_candidates",
+   "style": "mmorpg_cg",
+   "candidate_count": 12,
+   "workspace": "/workspace/scratch/28361ec24100/caocao-new",
+   "note": "사용자가 기존 시트를 무시하고 새로 생성 요청. 등록된 그림은 보존. 세계별 등록 설계 2장+GPT 설계 2장, 선택 후 일상컷."
   }
  ]
 }
