@@ -34,7 +34,7 @@
   {
    "key": "장합",
    "execution": "sam-zhanghe-api25-20261109-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-09T13:56:33.161Z",
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-09",
@@ -60,7 +60,39 @@
     "장합_mecha_mmorpg_cg_f_casual4.webp",
     "장합_mecha_mmorpg_cg_f_casual5.webp",
     "장합_mecha_mmorpg_cg_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-09T14:19:26.182849+00:00",
+   "done_by": "sam-zhanghe-api25-20261109-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "장합_samguk_api25_f.webp",
+     "장합_samguk_api25_f_casual1.webp",
+     "장합_samguk_api25_f_casual2.webp",
+     "장합_samguk_api25_f_casual3.webp",
+     "장합_samguk_api25_f_casual4.webp",
+     "장합_samguk_api25_f_casual5.webp",
+     "장합_samguk_api25_f_casual6.webp",
+     "장합_fantasy_api25_f.webp",
+     "장합_fantasy_api25_f_casual1.webp",
+     "장합_fantasy_api25_f_casual2.webp",
+     "장합_fantasy_api25_f_casual3.webp",
+     "장합_fantasy_api25_f_casual4.webp",
+     "장합_fantasy_api25_f_casual5.webp",
+     "장합_fantasy_api25_f_casual6.webp",
+     "장합_mecha_api25_f.webp",
+     "장합_mecha_api25_f_casual1.webp",
+     "장합_mecha_api25_f_casual2.webp",
+     "장합_mecha_api25_f_casual3.webp",
+     "장합_mecha_api25_f_casual4.webp",
+     "장합_mecha_api25_f_casual5.webp",
+     "장합_mecha_api25_f_casual6.webp"
+    ],
+    "image_commit": "b9dc2586290a7d746231e61ec68ad309a6a51b26",
+    "registration_commit": "7f9de7c",
+    "note": "Requested api25 verified: world 1 + casual 6 per world. Claim CLI computes missing for current default mmorpg_cg; completion recorded for requested style without changing global defaults.",
+    "approval": "업로드 승인할게."
+   }
   }
  ]
 }
