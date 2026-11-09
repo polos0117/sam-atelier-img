@@ -876,11 +876,11 @@
     {
       "key": "손권",
       "execution": "sam-sunquan-fresh-f3536e197987",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-09T13:09:44.236Z",
       "style": "mmorpg_cg",
-      "phase": "images_complete_pending_registration",
-      "reason": "Selected worlds 3/4/3 and all 18 casual images completed; all three planner checks pass; one identity retry on samguk casual2, no exposure-based regeneration.",
+      "phase": "complete",
+      "reason": "Completed worlds 3/4/3 plus 18 casual images. Remote 45 image/record files match local Git blob hashes; atlas has all 21 new files, all prior entries retained; three planner checks, WebP decode/size, prompt hash and patch checks passed. Thumbnail workflow succeeded. No successful image regenerated for exposure; one unchanged identity retry retained.",
       "missing": [],
       "candidate_count": 12,
       "candidate_manifest": {
@@ -1305,7 +1305,16 @@
         "img/손권_mecha_mmorpg_cg_f_casual4.webp",
         "img/손권_mecha_mmorpg_cg_f_casual5.webp",
         "img/손권_mecha_mmorpg_cg_f_casual6.webp"
-      ]
+      ],
+      "done_at": "2026-11-09T14:04:32.837Z",
+      "done_by": "sam-sunquan-fresh-f3536e197987",
+      "image_commit": "79ec6334659a7088cb8dd042df02d75f91cdf189",
+      "registration_commit": "2af7bee7a9f5f0fbda0ad9e087946a9a443eb72a",
+      "thumbnail_workflow": {
+        "run_id": 42630502121,
+        "result": "success",
+        "verified_count": 21
+      }
     }
   ]
 }
