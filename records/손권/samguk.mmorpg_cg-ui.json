@@ -1,0 +1,120 @@
+{
+ "atelier": "samguk",
+ "card": "손권",
+ "faction": "wu",
+ "role": "lord",
+ "world": "samguk",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "indigo",
+   "age": "early_20s",
+   "impression": "regal",
+   "skin_tone": "fair",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "red_lip",
+   "expr": "confident",
+   "brows": "straight_thick",
+   "nose": "straight_narrow",
+   "lips": "heart_full",
+   "face_shape": "oval",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair_color": "wine_red",
+   "hair": "long_wavy",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "손권_samguk_mmorpg_cg_f.webp",
+ "prompt": "Create ONE finished full-body vertical 2:3 (1024×1536) character card of Sun Quan from Romance of the Three Kingdoms reimagined as an adult woman — emperor of Wu and sovereign of the Yangtze. About twenty, a fresh young-adult face with no facial lines. She is a woman with no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nFair skin, bright jade-green almond eyes, a compact oval face and glossy deep wine-red hair in an intricate braided crown updo with long trailing lengths. Soft rose lips and a discerning restrained smile. Choose layered trailing court regalia with a tall jade-and-gold crown, long hanging sashes and jade pendants. Her layered crimson silk court robes and river-teal underskirt are built into branching panels like the channels of the Yangtze delta, three broad gold-edged trailing panels diverging from a black lacquer waist clasp, not merely printed with a river motif. Broad open sleeves, deep shaped neckline and high front-side slit preserve the stately ceremonial silhouette. She holds one imperial jian sword with a red tassel, point downward at her side, her other hand lightly extended palm upward. She stands on the stone terrace of a lotus-lined royal river pavilion at clear morning, crimson-sailed war junks and Jianye's Han-dynasty river fortifications behind her. Eastern Wu, 200–280 AD; Han clothing and architecture, no Japanese or Qing features. Only a banner or seal may carry a single faction character; no other text.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits. A voluptuous feminine figure with a full bust, narrow waist and balanced human hips and long legs.\n\nCostume colours: crimson red, gold, river teal, black lacquer. Her sovereign rank is immediately clear: layered, richly ornate and regal with flagship-card detail, engraving and jewellery, never plain or sparse. Exposure: bold — her outfit shows skin by deliberate design, a deep neckline, bare shoulders or arms, and a high slit or short hem; intimate areas covered.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow. One figure only, natural hands with five fingers; no logo or watermark.\n",
+ "date": "2026-11-09",
+ "record": "records/손권/samguk.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "손권",
+  "out": "world",
+  "world": "samguk",
+  "style": "mmorpg_cg",
+  "notes": {
+   "손권|samguk": {}
+  },
+  "looks": {
+   "손권|samguk": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "손권|samguk": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "prompt_form": "en-prompt",
+  "design": "gpt_free",
+  "retries": [],
+  "free_prompt": "Create ONE finished full-body vertical 2:3 (1024×1536) character card of Sun Quan from Romance of the Three Kingdoms reimagined as an adult woman — emperor of Wu and sovereign of the Yangtze. About twenty, a fresh young-adult face with no facial lines. She is a woman with no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nFair skin, bright jade-green almond eyes, a compact oval face and glossy deep wine-red hair in an intricate braided crown updo with long trailing lengths. Soft rose lips and a discerning restrained smile. Choose layered trailing court regalia with a tall jade-and-gold crown, long hanging sashes and jade pendants. Her layered crimson silk court robes and river-teal underskirt are built into branching panels like the channels of the Yangtze delta, three broad gold-edged trailing panels diverging from a black lacquer waist clasp, not merely printed with a river motif. Broad open sleeves, deep shaped neckline and high front-side slit preserve the stately ceremonial silhouette. She holds one imperial jian sword with a red tassel, point downward at her side, her other hand lightly extended palm upward. She stands on the stone terrace of a lotus-lined royal river pavilion at clear morning, crimson-sailed war junks and Jianye's Han-dynasty river fortifications behind her. Eastern Wu, 200–280 AD; Han clothing and architecture, no Japanese or Qing features. Only a banner or seal may carry a single faction character; no other text.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits. A voluptuous feminine figure with a full bust, narrow waist and balanced human hips and long legs.\n\nCostume colours: crimson red, gold, river teal, black lacquer. Her sovereign rank is immediately clear: layered, richly ornate and regal with flagship-card detail, engraving and jewellery, never plain or sparse. Exposure: bold — her outfit shows skin by deliberate design, a deep neckline, bare shoulders or arms, and a high slit or short hem; intimate areas covered.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow. One figure only, natural hands with five fingers; no logo or watermark.\n",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "7f030fbbad21db4804bfec7880e46d2e5f7a1a3d9b02cf48b092dc92de2d0bf3",
+  "prompt_sha256": "cbac59c17d2662d6544e497c60f18a2fc0c1104c029463cdc9b84c190160db16",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+   "Figure occupies more than requested four-fifths; headroom narrower than requested",
+   "Crown reaches the top edge; one boot is concealed by robe"
+  ]
+ },
+ "execution": "sam-sunquan-fresh-f3536e197987",
+ "imported": "2026-11-09",
+ "selection": {
+  "candidate": 3,
+  "approved_by": "user",
+  "message": "3,4,3"
+ },
+ "acceptance": "Explicit user selection 3,4,3 and authorization to commit and normally push images and atlas data",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}

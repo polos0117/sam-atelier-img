@@ -1,0 +1,122 @@
+{
+ "atelier": "samguk",
+ "card": "손권",
+ "faction": "wu",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "ref": "손권_fantasy_mmorpg_cg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_harbor",
+  "ofam": "homewear",
+  "item": "oversized_tee",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "high",
+  "right": "lap",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "cross_legged",
+  "gaze": "horizon",
+  "color": "earth",
+  "expr": "amused",
+  "preset": "floor_horizon",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "손권_fantasy_mmorpg_cg_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — Sun Quan of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a harbour quay of a port town with tall sailing ships, crates and gulls overhead\nOutfit: an oversized tee and shorts — in warm earth tones such as camel, olive, rust, chocolate or burgundy; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: sitting on the ground.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera slightly above, looking down at her.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand is planted on the ground beside her.\nLEGS: legs folded cross-legged.\nGAZE: she looks toward the far distance.\nEXPRESSION: a small closed-lip smile that reaches the eyes.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — striking deep indigo-blue eyes and dark violet-red hair (her legendary 'blue eyes and purple beard'), steady judgment and trust in her ministers, a fearless tiger hunter, holding the Yangtze against two empires — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (an imperial jian sword with a red tassel) appears only as a pendant on a fine chain modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/손권/fantasy-casual2.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "손권",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "mmorpg_cg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "손권": {
+    "era": "nation",
+    "place": "nation_harbor",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_horizon",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "high",
+    "right": "lap",
+    "left": "floor_brace",
+    "legs": "cross_legged",
+    "gaze": "horizon",
+    "item": "oversized_tee",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "earth"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "ref_sha256": "ae52a6191179df3aead3d00f907cd5e278626a48a7161fe69ee6daa150df6581",
+  "png_sha256": "b674cbfb5c5aebdd9b9711029e3ba1fb877f393d64271939dba715bf86882d63",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "53462f4ba6e690887045d7301341b37c9eed01d020a5002c3502912ac11e8a54",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b674cbfb5c5aebdd9b9711029e3ba1fb877f393d64271939dba715bf86882d63",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "1024×1536; referenced selected world image directly; recognizable same adult face, skin and wine-red hair",
+   "No weapon or armour; signature sword appears only as small jewellery; natural connected limbs and visible hands",
+   "Exposure matches the requested outfit and crop; successful output preserved without exposure-based regeneration",
+   "Body is three-quarter rather than strict profile; some background architecture reads East Asian despite the medieval port plan; distant gulls are visible"
+  ],
+  "cause": "Generated interpretation of framing, lore and setting differs in the noted details"
+ },
+ "execution": "sam-sunquan-fresh-f3536e197987",
+ "imported": "2026-11-09",
+ "acceptance": "User approved completing casual illustrations and normal main push after selecting worlds 3,4,3",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "atelier": "samguk",
+ "card": "손권",
+ "faction": "wu",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "ref": "손권_fantasy_mmorpg_cg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_wedding",
+  "ofam": "traditional",
+  "item": "boubou_flow",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "lap",
+  "left": "natural",
+  "use": "",
+  "legs": "ankles_crossed",
+  "gaze": "camera",
+  "color": "mono",
+  "expr": "amused",
+  "preset": "ankles_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "손권_fantasy_mmorpg_cg_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same woman — Sun Quan of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a bridal room, garden aisle or reception hall\nOutfit: a flowing West African boubou — a wide floor-length embroidered robe with a matching head wrap — in a monochrome palette of black and charcoal with at most one white or grey accent; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: seated on a chair.\nSUPPORT: her back rests against the seat back.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests on her knee.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: both legs held close together, one ankle crossed over the other at the feet.\nGAZE: she looks into the camera.\nEXPRESSION: a small closed-lip smile that reaches the eyes.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — striking deep indigo-blue eyes and dark violet-red hair (her legendary 'blue eyes and purple beard'), steady judgment and trust in her ministers, a fearless tiger hunter, holding the Yangtze against two empires — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (an imperial jian sword with a red tassel) appears only as a pendant on a fine chain modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/손권/fantasy-casual6.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "손권",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "mmorpg_cg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "손권": {
+    "era": "now",
+    "place": "stage_wedding",
+    "ofam": "traditional",
+    "treeV": 2,
+    "prop": "",
+    "preset": "ankles_sit",
+    "use": "",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "lap",
+    "left": "natural",
+    "legs": "ankles_crossed",
+    "gaze": "camera",
+    "item": "boubou_flow",
+    "expr": "amused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "mono"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "ref_sha256": "ae52a6191179df3aead3d00f907cd5e278626a48a7161fe69ee6daa150df6581",
+  "png_sha256": "b2f2eff79c776543b9b0e08753bcc6c7cba081f998c33b7d1aa2b04bb4a34e51",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "90947fee6bc2741509cd1691f91877671d41a37b10dd961e0820f426f593034e",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b2f2eff79c776543b9b0e08753bcc6c7cba081f998c33b7d1aa2b04bb4a34e51",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "1024×1536; referenced selected world image directly; recognizable same adult face, skin and wine-red hair",
+   "No weapon or armour; signature sword appears only as small jewellery; natural connected limbs and visible hands",
+   "Exposure matches the requested outfit and crop; successful output preserved without exposure-based regeneration",
+   "Boubou is interpreted as a fitted formal gown rather than a wide robe"
+  ],
+  "cause": "Generated interpretation of framing, lore and setting differs in the noted details"
+ },
+ "execution": "sam-sunquan-fresh-f3536e197987",
+ "imported": "2026-11-09",
+ "acceptance": "User approved completing casual illustrations and normal main push after selecting worlds 3,4,3",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

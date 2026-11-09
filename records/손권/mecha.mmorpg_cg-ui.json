@@ -1,0 +1,120 @@
+{
+ "atelier": "samguk",
+ "card": "손권",
+ "faction": "wu",
+ "role": "lord",
+ "world": "mecha",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "indigo",
+   "age": "early_20s",
+   "impression": "regal",
+   "skin_tone": "fair",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "red_lip",
+   "expr": "confident",
+   "brows": "straight_thick",
+   "nose": "straight_narrow",
+   "lips": "heart_full",
+   "face_shape": "diamond",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "voluptuous",
+   "hair_color": "wine_red",
+   "hair": "ponytail",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "손권_mecha_mmorpg_cg_f.webp",
+ "prompt": "Create ONE finished full-body vertical 2:3 (1024×1536) character card of Sun Quan from Romance of the Three Kingdoms reimagined as an adult woman — emperor of Wu and sovereign of the Yangtze. About twenty, a fresh young-adult face with no facial lines. She is a woman with no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nFair skin, bright ice-blue eyes, a compact oval face and deep wine-red hair in a sleek chin-length bob with curved side-swept bangs. Berry-red lips and a cool precise smile. Choose large wing-shaped binder plates spread symmetrically behind her back, with light body armour. All costume surfaces are solid hard-surface mecha armour with visible thickness, mechanical joints, panel seams and river-teal energy lines; face and hair remain human. Build her carrier fleet into the rigid crimson-and-black binder structure: stepped flight-deck-like plates overlap with small gold launch-rail ridges and articulated vents. Ornate crown antenna and gold engraved armour borders show her sovereign rank. A deep chest window and bare upper arms are designed armour openings, remaining torso and legs plated. No cloth, robe, gown or fabric skirt; every cape or wing shape is rigid armour. One imperial straight double-edged sword rebuilt as a high-tech jian-shaped weapon with an alloy mechanical grip, river-teal energy blade and a flexible red luminous technical ribbon in place of the tassel, no wood or bronze. Frontal commanding stance on a carrier observation deck, sword held point down beside her boot, free arm gently extended with relaxed fingers. Year 2190 Wu orbital fleet above an ocean world, blue planet and crimson carriers beyond the glass, a luminous nebula and neon hull lights. No traditional East Asian architecture, pagodas, tiled roofs or hanzi.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits. A voluptuous feminine figure with a full bust, narrow waist and balanced human hips and long legs.\n\nCostume colours: crimson red, gold, river teal, black lacquer. Her sovereign rank is immediately clear: layered, richly ornate and regal with flagship-card detail, engraving and jewellery, never plain or sparse. Exposure: bold — her outfit shows skin by deliberate design, a deep neckline, bare shoulders or arms, and a high slit or short hem; intimate areas covered.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow. One figure only, natural hands with five fingers; no logo or watermark.\n",
+ "date": "2026-11-09",
+ "record": "records/손권/mecha.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "손권",
+  "out": "world",
+  "world": "mecha",
+  "style": "mmorpg_cg",
+  "notes": {
+   "손권|mecha": {}
+  },
+  "looks": {
+   "손권|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "손권|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "prompt_form": "en-prompt",
+  "design": "gpt_free",
+  "retries": [],
+  "free_prompt": "Create ONE finished full-body vertical 2:3 (1024×1536) character card of Sun Quan from Romance of the Three Kingdoms reimagined as an adult woman — emperor of Wu and sovereign of the Yangtze. About twenty, a fresh young-adult face with no facial lines. She is a woman with no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nFair skin, bright ice-blue eyes, a compact oval face and deep wine-red hair in a sleek chin-length bob with curved side-swept bangs. Berry-red lips and a cool precise smile. Choose large wing-shaped binder plates spread symmetrically behind her back, with light body armour. All costume surfaces are solid hard-surface mecha armour with visible thickness, mechanical joints, panel seams and river-teal energy lines; face and hair remain human. Build her carrier fleet into the rigid crimson-and-black binder structure: stepped flight-deck-like plates overlap with small gold launch-rail ridges and articulated vents. Ornate crown antenna and gold engraved armour borders show her sovereign rank. A deep chest window and bare upper arms are designed armour openings, remaining torso and legs plated. No cloth, robe, gown or fabric skirt; every cape or wing shape is rigid armour. One imperial straight double-edged sword rebuilt as a high-tech jian-shaped weapon with an alloy mechanical grip, river-teal energy blade and a flexible red luminous technical ribbon in place of the tassel, no wood or bronze. Frontal commanding stance on a carrier observation deck, sword held point down beside her boot, free arm gently extended with relaxed fingers. Year 2190 Wu orbital fleet above an ocean world, blue planet and crimson carriers beyond the glass, a luminous nebula and neon hull lights. No traditional East Asian architecture, pagodas, tiled roofs or hanzi.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits. A voluptuous feminine figure with a full bust, narrow waist and balanced human hips and long legs.\n\nCostume colours: crimson red, gold, river teal, black lacquer. Her sovereign rank is immediately clear: layered, richly ornate and regal with flagship-card detail, engraving and jewellery, never plain or sparse. Exposure: bold — her outfit shows skin by deliberate design, a deep neckline, bare shoulders or arms, and a high slit or short hem; intimate areas covered.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow. One figure only, natural hands with five fingers; no logo or watermark.\n",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1c2add19d4854a55da2bd6f1fd864989f08aec3822669e864a796050023bf5d3",
+  "prompt_sha256": "43cd2d60ccc6041e04422b357ce212448c72adf3ae14630edd480f789242b223",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "1024×1536; single adult woman; both hands visible; coherent world setting and palette",
+   "Figure occupies more than requested four-fifths; headroom narrower than requested",
+   "Binder wings extend beyond left and right edges"
+  ]
+ },
+ "execution": "sam-sunquan-fresh-f3536e197987",
+ "imported": "2026-11-09",
+ "selection": {
+  "candidate": 3,
+  "approved_by": "user",
+  "message": "3,4,3"
+ },
+ "acceptance": "Explicit user selection 3,4,3 and authorization to commit and normally push images and atlas data",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}

@@ -879,8 +879,8 @@
       "status": "working",
       "claimed_at": "2026-11-09T13:09:44.236Z",
       "style": "mmorpg_cg",
-      "phase": "generating_casual",
-      "reason": "Fresh twelve world candidates complete; await user selection per IMAGE_RULES section 1. Existing candidates preserved; no successful image regenerated. Registered uploads and casual work begin after selection.",
+      "phase": "images_complete_pending_registration",
+      "reason": "Selected worlds 3/4/3 and all 18 casual images completed; all three planner checks pass; one identity retry on samguk casual2, no exposure-based regeneration.",
       "missing": [],
       "candidate_count": 12,
       "candidate_manifest": {
@@ -1280,7 +1280,32 @@
         "fantasy": 4,
         "mecha": 3,
         "user_message": "3,4,3"
-      }
+      },
+      "image_count": 21,
+      "casual_count": 18,
+      "completed_files": [
+        "img/손권_samguk_mmorpg_cg_f.webp",
+        "img/손권_samguk_mmorpg_cg_f_casual1.webp",
+        "img/손권_samguk_mmorpg_cg_f_casual2.webp",
+        "img/손권_samguk_mmorpg_cg_f_casual3.webp",
+        "img/손권_samguk_mmorpg_cg_f_casual4.webp",
+        "img/손권_samguk_mmorpg_cg_f_casual5.webp",
+        "img/손권_samguk_mmorpg_cg_f_casual6.webp",
+        "img/손권_fantasy_mmorpg_cg_f.webp",
+        "img/손권_fantasy_mmorpg_cg_f_casual1.webp",
+        "img/손권_fantasy_mmorpg_cg_f_casual2.webp",
+        "img/손권_fantasy_mmorpg_cg_f_casual3.webp",
+        "img/손권_fantasy_mmorpg_cg_f_casual4.webp",
+        "img/손권_fantasy_mmorpg_cg_f_casual5.webp",
+        "img/손권_fantasy_mmorpg_cg_f_casual6.webp",
+        "img/손권_mecha_mmorpg_cg_f.webp",
+        "img/손권_mecha_mmorpg_cg_f_casual1.webp",
+        "img/손권_mecha_mmorpg_cg_f_casual2.webp",
+        "img/손권_mecha_mmorpg_cg_f_casual3.webp",
+        "img/손권_mecha_mmorpg_cg_f_casual4.webp",
+        "img/손권_mecha_mmorpg_cg_f_casual5.webp",
+        "img/손권_mecha_mmorpg_cg_f_casual6.webp"
+      ]
     }
   ]
 }
