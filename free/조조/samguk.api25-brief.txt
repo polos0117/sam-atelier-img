@@ -1,0 +1,31 @@
+Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Cao Cao from the Romance of the Three Kingdoms, reimagined as an adult woman — the ambitious hero of chaos who unified the north — warlord, chancellor and poet. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.
+
+You design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, costume and weapon are NOT free: take them from our designs below.
+
+Style (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.
+
+Inspiration only: brilliant ruthless ambition, a poet singing over wine before battle, the Bronze Sparrow Terrace, a magnetic and dangerous charm, suspicion and genius, black-and-navy war banners.
+
+World (fixed): Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. Her costume, weapon and setting belong to this world.
+
+Costume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 2) layered trailing court regalia with a tall crown, long hanging sashes and jade pendants — a ceremonial, stately silhouette; 3) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 4) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 5) a large phoenix crown with hanging bead strands and a weighty ceremonial robe — the headdress is the main shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.
+
+Weapon (fixed — ours): the Sky-Leaning Sword, an ornate long jian.
+
+Hair colour (fixed — ours): blue-black hair with a cold indigo sheen. Keep exactly this hair colour; only the hairstyle is yours.
+
+Costume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.
+
+Rank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.
+
+Exposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.
+
+Face proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.
+
+Composition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.
+
+If you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape from the list with another signature idea, another pose and setting.
+
+Write your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.
+
+Do not draw. Reply with only the final image prompt you would send to the image model, in English, nothing else.
