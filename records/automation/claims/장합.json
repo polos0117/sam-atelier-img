@@ -30,6 +30,37 @@
    ],
    "done_at": "2026-11-03T01:49:35.705Z",
    "done_by": "sam-zhanghe-17fb-20261103"
+  },
+  {
+   "key": "장합",
+   "execution": "sam-zhanghe-api25-20261109-codex",
+   "status": "working",
+   "claimed_at": "2026-11-09T13:56:33.161Z",
+   "date_kst": "2026-11-09",
+   "date_utc": "2026-11-09",
+   "missing": [
+    "장합_samguk_mmorpg_cg_f.webp",
+    "장합_samguk_mmorpg_cg_f_casual1.webp",
+    "장합_samguk_mmorpg_cg_f_casual2.webp",
+    "장합_samguk_mmorpg_cg_f_casual3.webp",
+    "장합_samguk_mmorpg_cg_f_casual4.webp",
+    "장합_samguk_mmorpg_cg_f_casual5.webp",
+    "장합_samguk_mmorpg_cg_f_casual6.webp",
+    "장합_fantasy_mmorpg_cg_f.webp",
+    "장합_fantasy_mmorpg_cg_f_casual1.webp",
+    "장합_fantasy_mmorpg_cg_f_casual2.webp",
+    "장합_fantasy_mmorpg_cg_f_casual3.webp",
+    "장합_fantasy_mmorpg_cg_f_casual4.webp",
+    "장합_fantasy_mmorpg_cg_f_casual5.webp",
+    "장합_fantasy_mmorpg_cg_f_casual6.webp",
+    "장합_mecha_mmorpg_cg_f.webp",
+    "장합_mecha_mmorpg_cg_f_casual1.webp",
+    "장합_mecha_mmorpg_cg_f_casual2.webp",
+    "장합_mecha_mmorpg_cg_f_casual3.webp",
+    "장합_mecha_mmorpg_cg_f_casual4.webp",
+    "장합_mecha_mmorpg_cg_f_casual5.webp",
+    "장합_mecha_mmorpg_cg_f_casual6.webp"
+   ]
   }
  ]
 }
