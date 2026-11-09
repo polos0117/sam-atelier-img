@@ -34,7 +34,7 @@
   {
    "key": "마초",
    "execution": "sam-machao-api25-20261109-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-09T15:16:48.734Z",
    "date_kst": "2026-11-10",
    "date_utc": "2026-11-09",
@@ -60,7 +60,34 @@
     "마초_mecha_mmorpg_cg_f_casual4.webp",
     "마초_mecha_mmorpg_cg_f_casual5.webp",
     "마초_mecha_mmorpg_cg_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-09T15:50:23.221517+00:00",
+   "done_by": "sam-machao-api25-20261109-codex",
+   "style": "api25",
+   "completed_files": [
+    "마초_samguk_api25_f.webp",
+    "마초_samguk_api25_f_casual1.webp",
+    "마초_samguk_api25_f_casual2.webp",
+    "마초_samguk_api25_f_casual3.webp",
+    "마초_samguk_api25_f_casual4.webp",
+    "마초_samguk_api25_f_casual5.webp",
+    "마초_samguk_api25_f_casual6.webp",
+    "마초_fantasy_api25_f.webp",
+    "마초_fantasy_api25_f_casual1.webp",
+    "마초_fantasy_api25_f_casual2.webp",
+    "마초_fantasy_api25_f_casual3.webp",
+    "마초_fantasy_api25_f_casual4.webp",
+    "마초_fantasy_api25_f_casual5.webp",
+    "마초_fantasy_api25_f_casual6.webp",
+    "마초_mecha_api25_f.webp",
+    "마초_mecha_api25_f_casual1.webp",
+    "마초_mecha_api25_f_casual2.webp",
+    "마초_mecha_api25_f_casual3.webp",
+    "마초_mecha_api25_f_casual4.webp",
+    "마초_mecha_api25_f_casual5.webp",
+    "마초_mecha_api25_f_casual6.webp"
+   ],
+   "reason": "API25 업로드·도감 등록 21칸·자동 썸네일 검증 완료. 기본 화풍만 검사하는 image-claim done 대신 api25 등록 항목을 대조해 이 실행만 완료 처리. 기존 화풍 보존."
   }
  ]
 }
