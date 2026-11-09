@@ -879,7 +879,7 @@
       "status": "working",
       "claimed_at": "2026-11-09T13:09:44.236Z",
       "style": "mmorpg_cg",
-      "phase": "awaiting_world_selection",
+      "phase": "generating_casual",
       "reason": "Fresh twelve world candidates complete; await user selection per IMAGE_RULES section 1. Existing candidates preserved; no successful image regenerated. Registered uploads and casual work begin after selection.",
       "missing": [],
       "candidate_count": 12,
@@ -1274,7 +1274,13 @@
         "selection_sheet_library_file_id": "libfile_c28adad14d708191ac9be2a1d721e52e",
         "selection_sheet_path": "/workspace/scratch/f3536e197987/sunquan-new/sunquan-world-selection-sheet-fresh.jpg"
       },
-      "selection_sheet_library_file_id": "libfile_c28adad14d708191ac9be2a1d721e52e"
+      "selection_sheet_library_file_id": "libfile_c28adad14d708191ac9be2a1d721e52e",
+      "selection": {
+        "samguk": 3,
+        "fantasy": 4,
+        "mecha": 3,
+        "user_message": "3,4,3"
+      }
     }
   ]
 }
