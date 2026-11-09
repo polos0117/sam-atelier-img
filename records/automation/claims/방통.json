@@ -4,7 +4,7 @@
   {
    "key": "방통",
    "execution": "sam-pangtong-api25-20261109-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-09T14:25:00.800Z",
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-09",
@@ -30,7 +30,39 @@
     "방통_mecha_mmorpg_cg_f_casual4.webp",
     "방통_mecha_mmorpg_cg_f_casual5.webp",
     "방통_mecha_mmorpg_cg_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-09T14:42:01.006838+00:00",
+   "done_by": "sam-pangtong-api25-20261109-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "방통_samguk_api25_f.webp",
+     "방통_samguk_api25_f_casual1.webp",
+     "방통_samguk_api25_f_casual2.webp",
+     "방통_samguk_api25_f_casual3.webp",
+     "방통_samguk_api25_f_casual4.webp",
+     "방통_samguk_api25_f_casual5.webp",
+     "방통_samguk_api25_f_casual6.webp",
+     "방통_fantasy_api25_f.webp",
+     "방통_fantasy_api25_f_casual1.webp",
+     "방통_fantasy_api25_f_casual2.webp",
+     "방통_fantasy_api25_f_casual3.webp",
+     "방통_fantasy_api25_f_casual4.webp",
+     "방통_fantasy_api25_f_casual5.webp",
+     "방통_fantasy_api25_f_casual6.webp",
+     "방통_mecha_api25_f.webp",
+     "방통_mecha_api25_f_casual1.webp",
+     "방통_mecha_api25_f_casual2.webp",
+     "방통_mecha_api25_f_casual3.webp",
+     "방통_mecha_api25_f_casual4.webp",
+     "방통_mecha_api25_f_casual5.webp",
+     "방통_mecha_api25_f_casual6.webp"
+    ],
+    "image_commit": "1b03dddcfd5c9d16763212a749f2ab203dcfb197",
+    "registration_commit": "6c2fe55",
+    "approval": "업로드해줘",
+    "note": "Requested api25 verified: world1 + casual6 per world. Claim tool computes current default mmorpg_cg missing; completion scoped to api25 without changing defaults."
+   }
   }
  ]
 }
