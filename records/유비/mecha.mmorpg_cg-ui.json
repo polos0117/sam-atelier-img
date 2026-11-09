@@ -1,0 +1,119 @@
+{
+ "atelier": "samguk",
+ "card": "유비",
+ "faction": "shu",
+ "role": "lord",
+ "world": "mecha",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "age": "mid_20s",
+   "impression": "soft",
+   "skin_tone": "warm_beige",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "bare",
+   "expr": "gentle",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "round",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "curvy",
+   "hair_color": "chestnut",
+   "hair": "long_wavy",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "유비_mecha_mmorpg_cg_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of Liu Bei from the Romance of the Three Kingdoms, reimagined as an adult woman — the benevolent founder of Shu Han, who swore sisterhood in the Peach Garden. mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nHer: a soft, gentle warmth; warm beige skin; round face; large eyes — large round eyes, outer eye corners drooping downward; soft rounded brows; straight narrow nose; full wide lips; amber eyes; a bare, makeup-free face. curvy build; long wavy hair with side-swept bangs; warm chestnut-brown hair.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes keep the shape described above at a natural open size — never squeezed into narrow slits.\n\nHer legend: benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people.\n\nOutfit: a command-type mecha — crowned head unit with an antenna crest, cape-like binder wings, heavy chest plating with an emblem core, a flagship back unit; colours jade green, imperial gold, earthen brown, white jade. EXPOSURE (bold): her mecha frame is cut open by design in only these places — a deep open chest window with natural cleavage framed by the chest plates, and a bare waist and midriff between the bust plate and the hip armor; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\n\nShe holds a pair of matched twin swords in one double scabbard, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette.\n\nPose: standing confidently, her body turned slightly while her face looks toward the viewer, one hand resting on her signature item. Expression: a warm, gentle look with a faint smile.\n\nSetting: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow.\n\nOne figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/유비/mecha.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "유비",
+  "out": "world",
+  "world": "mecha",
+  "style": "mmorpg_cg",
+  "notes": {
+   "유비|mecha": {}
+  },
+  "looks": {
+   "유비|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "유비|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "c6c1eccc352c30e927a0bf90058c953683f4bf1e496a463c8aac38e7ede09f19",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "c2facf8191f3c5007066205bf7d92ed241500d3216708e1b1cad549a40aa7919",
+  "retries": [],
+  "selected_candidate": 1,
+  "design": "registered",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "sam-liubei-20261109-0e685692",
+ "imported": "2026-11-09",
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "exposure": "stronger",
+  "observations": [
+   "One adult female figure; full body and both boots visible.",
+   "Both arms and both hands present; no obvious extra limbs.",
+   "Twin sword hilts and paired scabbard silhouette visible.",
+   "No logo or watermark.",
+   "Cloth-like embroidered tabard and cape panels are mixed with solid mecha plates. Thigh exposure is greater than the two specified chest/midriff openings.",
+   "Space colony, ringed planet and futuristic armour visible."
+  ],
+  "image_sha256": "c6c1eccc352c30e927a0bf90058c953683f4bf1e496a463c8aac38e7ede09f19"
+ },
+ "acceptance": "User authorized image and dex commits plus non-force main push; selected samguk/fantasy/mecha 1,1,1 on 2026-11-09. Returned images preserved without exposure-related regeneration.",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}

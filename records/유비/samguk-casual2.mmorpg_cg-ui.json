@@ -1,0 +1,121 @@
+{
+ "atelier": "samguk",
+ "card": "유비",
+ "faction": "shu",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "ref": "유비_samguk_mmorpg_cg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_garden",
+  "ofam": "homewear",
+  "item": "bralette_cardigan",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "pipa_play",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "color": "neutral",
+  "expr": "focused",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "유비_samguk_mmorpg_cg_f_casual2.webp",
+ "prompt": "Use the attached image as the reference: the same woman — Liu Bei of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a walled garden with a lotus pond, a zigzag stone bridge and a small open pavilion\nOutfit: a lace bralette under an open cardigan with soft shorts — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she plays a pipa lute held upright on her lap — her own right hand plucks the strings, her own left hand fingers the frets on the neck.\nLEGS: weight even on both legs.\nGAZE: her eyes are lowered.\nEXPRESSION: attentive, steady eyes, mouth closed.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (a pair of matched twin swords in one double scabbard) appears only as a brooch modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/유비/samguk-casual2.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "유비",
+  "out": "casual",
+  "world": "samguk",
+  "style": "mmorpg_cg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 2,
+  "scenes": {
+   "유비": {
+    "era": "nation",
+    "place": "nation_garden",
+    "ofam": "homewear",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "pipa_play",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "bralette_cardigan",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "color": "neutral"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "b243791f5f23002ea28f008407d47e1edccbfacb89e42987e24fccb795a79715",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "a347bb0e9fecfc4645a51fffb58f377c2031b487f5cb6db2ad9a108a718d7237",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "73912554f59113fe5f4ce8377eda988fae8dbd92c27570961db93c2e442019d5"
+ },
+ "execution": "sam-liubei-20261109-0e685692",
+ "imported": "2026-11-09",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a347bb0e9fecfc4645a51fffb58f377c2031b487f5cb6db2ad9a108a718d7237",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "1024x1536; same adult woman as the selected reference; no full-size weapon, crown or armour.",
+   "No obvious extra limbs; visible hands and held props reviewed; no logo or watermark.",
+   "Garden pond and pipa present; standing profile pose and both hands match. Figure is larger than the planned environmental framing."
+  ],
+  "cause": "Garden pond and pipa present; standing profile pose and both hands match. Figure is larger than the planned environmental framing."
+ },
+ "acceptance": "User authorized image and dex commits plus non-force main push; selected samguk/fantasy/mecha 1,1,1 on 2026-11-09. Returned images preserved without exposure-related regeneration.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

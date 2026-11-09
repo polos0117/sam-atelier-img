@@ -1,0 +1,122 @@
+{
+ "atelier": "samguk",
+ "card": "유비",
+ "faction": "shu",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "ref": "유비_mecha_mmorpg_cg_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_filmset",
+  "ofam": "dongtan",
+  "item": "club_cutout",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "lantern_carry",
+  "legs": "",
+  "gaze": "at_prop",
+  "ofree": true,
+  "expr": "focused",
+  "preset": "counter_cup",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "유비_mecha_mmorpg_cg_f_casual6.webp",
+ "prompt": "Use the attached image as the reference: the same woman — Liu Bei of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a Three Kingdoms film-set street — painted Han-style gates, banners on poles, prop carts and set lights between takes\nOutfit: your own design — create a revealing, fashionable outfit for this place and moment, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. New design: before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it, then write that outfit into this line; it stays, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on the railing.\nPROP: with her own right hand she carries a small red paper lantern by its cord; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: attentive, steady eyes, mouth closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (a pair of matched twin swords in one double scabbard) appears only as a pair of drop earrings modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/유비/mecha-casual6.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "유비",
+  "out": "casual",
+  "world": "mecha",
+  "style": "mmorpg_cg",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "유비": {
+    "era": "heritage",
+    "place": "heritage_filmset",
+    "ofam": "dongtan",
+    "treeV": 2,
+    "prop": "",
+    "preset": "counter_cup",
+    "use": "lantern_carry",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "legs": "",
+    "gaze": "at_prop",
+    "item": "club_cutout",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "c6c1eccc352c30e927a0bf90058c953683f4bf1e496a463c8aac38e7ede09f19",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "3ed2921b410777c5ba2ed4089b93e58b58be98e97c722239b6cc7fb624295a4c",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "77ba74e6feccd8e38a14f21debf84feda976d413126aea057645f61bd3c5e455",
+  "free_prompt": "Use the attached image as the reference: the same woman — Liu Bei of the Three Kingdoms, reimagined — seen off duty in her everyday life. Keep her face, eye colour, hair colour, skin tone and body exactly; change only her clothes, pose and place. Do not reuse earlier conversation images.\n\nOutput: one vertical 2:3 image, 1024×1536.\n\nFace: exactly the attached image's face — the same short midface and face length-to-width ratio; the camera angle, pose, bangs or a headpiece never make her face look longer or her jaw heavier.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish. Keep this rendering exactly as in the attached image — the same finish, line, shading, skin and colour treatment.\n\nPlace: a Three Kingdoms film-set street — painted Han-style gates, banners on poles, prop carts and set lights between takes\nOutfit: a coral-red silk origami waistcoat and matching fan-pleat culotte ensemble: the fitted sleeveless cropped waistcoat has a diagonally folded shawl lapel, a deep neckline and a single sculptural knot fastening below the bust, baring the shoulders and midriff; the short high-waisted culottes flare through sharply folded triangular pleats, with opaque fabric and secure intimate coverage, showing her shoulders, collarbones and legs as far as the outfit allows, following her curvy figure — a slim waist and rounded hips; intimate areas covered.\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on the railing.\nPROP: with her own right hand she carries a small red paper lantern by its cord; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: attentive, steady eyes, mouth closed.\n\nFraming: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame.\n\nLeave behind everything she wears in the attached image — no crown, tiara, helmet, feathers, headpiece, hairpins from it, armour or regalia; her hair is styled for the everyday outfit, with at most the one small accessory below.\n\nHer legend — benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people — may show in the outfit's details, motifs or small accessories.\n\nAccessory: off duty she carries no weapon or armour — her signature weapon (a pair of matched twin swords in one double scabbard) appears only as a pair of drop earrings modelled on its shape and colours, a few centimetres long, clearly jewellery.\n\nLight: the place's own light, with a strong soft rim light tracing her hair and shoulders, glossy highlights on skin and jewellery and drifting light particles — a luxurious promotional glow.\n\nOne figure in focus, natural hands with five fingers, no text, logo or watermark.",
+  "free_outfit_source": "outfit-catalog.md reviewed; only free Outfit line filled"
+ },
+ "execution": "sam-liubei-20261109-0e685692",
+ "imported": "2026-11-09",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3ed2921b410777c5ba2ed4089b93e58b58be98e97c722239b6cc7fb624295a4c",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "1024x1536; same adult woman as the selected reference; no full-size weapon, crown or armour.",
+   "No obvious extra limbs; visible hands and held props reviewed; no logo or watermark.",
+   "Film-set scaffolding, paper lantern and coral-red free-outfit waistcoat match; profile waist-up framing and free hand on the rail."
+  ]
+ },
+ "acceptance": "User authorized image and dex commits plus non-force main push; selected samguk/fantasy/mecha 1,1,1 on 2026-11-09. Returned images preserved without exposure-related regeneration.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}

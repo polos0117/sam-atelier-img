@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "유비",
+ "faction": "shu",
+ "role": "lord",
+ "world": "fantasy",
+ "style": "mmorpg_cg",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "age": "mid_20s",
+   "impression": "soft",
+   "skin_tone": "warm_beige",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "bare",
+   "expr": "gentle",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "heart",
+   "eyes": "almond_wide"
+  },
+  "silhouette": {
+   "body": "curvy",
+   "hair_color": "chestnut",
+   "hair": "braids",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "유비_fantasy_mmorpg_cg_f.webp",
+ "prompt": "A full-body vertical 2:3 (1024×1536) character card image of Liu Bei from the Romance of the Three Kingdoms, reimagined as an adult woman — the benevolent founder of Shu Han, who swore sisterhood in the Peach Garden. mid-twenties — a clear adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nStyle: Korean MMORPG 3D key art — a semi-realistic 3D beauty with a small refined face and delicate realistic-anime features, porcelain skin with a soft glow, extremely ornate engraved armour and jewellery with glossy highlights, a strong rim light and drifting light particles, a luxurious promotional finish.\n\nHer: a soft, gentle warmth; warm beige skin; heart-shaped face; large eyes — wide almond eyes, outer eye corners drooping downward; soft rounded brows; straight narrow nose; full wide lips; amber eyes; a bare, makeup-free face. curvy build; long braids with curtain bangs; warm chestnut-brown hair.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes keep the shape described above at a natural open size — never squeezed into narrow slits.\n\nHer legend: benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people.\n\nOutfit: a medieval monarch's regalia — a crown or circlet, an ornate breastplate under a fur-trimmed royal mantle, heraldic embroidery in her faction's colours, a sword of state — a great crown and a fur-trimmed royal mantle over an ornate breastplate — a ceremonial, regal silhouette; colours jade green, imperial gold, earthen brown, white jade. EXPOSURE (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; no corset; keep the costume material and palette.\n\nShe holds a pair of matched twin swords in one double scabbard, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette.\n\nPose: standing confidently, her body turned slightly while her face looks toward the viewer, one hand resting on her signature item. Expression: a warm, gentle look with a faint smile.\n\nSetting: a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nLight: a strong soft rim light tracing her hair, shoulders and armour, glossy highlights on metal, skin and jewellery, drifting light particles and a luxurious promotional glow.\n\nOne figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+ "date": "2026-11-09",
+ "record": "records/유비/fantasy.mmorpg_cg-ui.json",
+ "storage": {
+  "card": "유비",
+  "out": "world",
+  "world": "fantasy",
+  "style": "mmorpg_cg",
+  "notes": {
+   "유비|fantasy": {}
+  },
+  "looks": {
+   "유비|fantasy": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "유비|fantasy": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "e6d6201f9f144aec2317b54c52d32f772ebfc2964f2cb429cb4503af6fe79b18",
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "45e390bf232c9fbcf1b8a5e035f831cbab2be511a0ef45010435ffdd033c259d",
+  "retries": [],
+  "selected_candidate": 1,
+  "design": "registered",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  }
+ },
+ "execution": "sam-liubei-20261109-0e685692",
+ "imported": "2026-11-09",
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "One adult female figure; full body and both boots visible.",
+   "Both arms and both hands present; no obvious extra limbs.",
+   "Twin sword hilts and paired scabbard silhouette visible.",
+   "No logo or watermark.",
+   "Western stone castle, heraldic banners and Western armour; no Chinese architecture or hanzi."
+  ],
+  "image_sha256": "e6d6201f9f144aec2317b54c52d32f772ebfc2964f2cb429cb4503af6fe79b18"
+ },
+ "acceptance": "User authorized image and dex commits plus non-force main push; selected samguk/fantasy/mecha 1,1,1 on 2026-11-09. Returned images preserved without exposure-related regeneration.",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
