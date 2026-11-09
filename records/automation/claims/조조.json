@@ -165,11 +165,35 @@
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-09",
    "missing": [],
-   "stage": "new_world_candidates",
+   "stage": "awaiting_world_selection",
    "style": "mmorpg_cg",
    "candidate_count": 12,
    "workspace": "/workspace/scratch/28361ec24100/caocao-new",
-   "note": "사용자가 기존 시트를 무시하고 새로 생성 요청. 등록된 그림은 보존. 세계별 등록 설계 2장+GPT 설계 2장, 선택 후 일상컷."
+   "note": "세계별 등록 설계 2장 + GPT 자유 설계 2장, 총 12장 새 생성 완료. 모두 1024×1536. 노출 사유 재생성 없음. 사용자 선택 후 일상컷 및 도감 등록. 기존 작업 보존.",
+   "candidates_by_world": {
+    "samguk": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "fantasy": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "mecha": [
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "selection_sheet_library_file_id": "libfile_036938f411808191997f4985c63dc7e9",
+   "candidate_archive_library_file_id": "libfile_fcd481570e4881918e1113b8698f0d45",
+   "qa_note": "삼국시대·판타지 1~3 배경 기병/말 포함; 메카 1~2 천 장식 혼재; 일부 메카 지정 외 피부 개방. 상세 기록은 후보 ZIP manifest.json.",
+   "generation_tool": "image_gen"
   }
  ]
 }
