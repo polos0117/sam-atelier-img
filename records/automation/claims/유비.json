@@ -119,7 +119,7 @@
   {
    "key": "유비",
    "execution": "sam-liubei-20261109-2c4424",
-   "status": "working",
+   "status": "released",
    "claimed_at": "2026-11-09T03:45:59.461Z",
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-09",
@@ -156,7 +156,42 @@
     "3": "gpt_free_1",
     "4": "gpt_free_2"
    },
-   "note": "All 12 candidates newly generated; existing sheets not reused. Fantasy 2 exposure moderate after two blocked bold attempts. No returned image regenerated for exposure."
+   "note": "All 12 candidates newly generated; existing sheets not reused. Fantasy 2 exposure moderate after two blocked bold attempts. No returned image regenerated for exposure.",
+   "approval": "이전 유비 작업 잠금만 해제하고 기존 이미지는 보존한 뒤 새 세계컷 12장으로 진행 — 사용자: 응",
+   "released_by": "sam-liubei-20261109-0e685692",
+   "released_at": "2026-11-09T05:33:47.067Z"
+  },
+  {
+   "key": "유비",
+   "execution": "sam-liubei-20261109-0e685692",
+   "status": "working",
+   "claimed_at": "2026-11-09T05:33:47.067Z",
+   "date_kst": "2026-11-09",
+   "date_utc": "2026-11-09",
+   "missing": [
+    "유비_samguk_mmorpg_cg_f.webp",
+    "유비_samguk_mmorpg_cg_f_casual1.webp",
+    "유비_samguk_mmorpg_cg_f_casual2.webp",
+    "유비_samguk_mmorpg_cg_f_casual3.webp",
+    "유비_samguk_mmorpg_cg_f_casual4.webp",
+    "유비_samguk_mmorpg_cg_f_casual5.webp",
+    "유비_samguk_mmorpg_cg_f_casual6.webp",
+    "유비_fantasy_mmorpg_cg_f.webp",
+    "유비_fantasy_mmorpg_cg_f_casual1.webp",
+    "유비_fantasy_mmorpg_cg_f_casual2.webp",
+    "유비_fantasy_mmorpg_cg_f_casual3.webp",
+    "유비_fantasy_mmorpg_cg_f_casual4.webp",
+    "유비_fantasy_mmorpg_cg_f_casual5.webp",
+    "유비_fantasy_mmorpg_cg_f_casual6.webp",
+    "유비_mecha_mmorpg_cg_f.webp",
+    "유비_mecha_mmorpg_cg_f_casual1.webp",
+    "유비_mecha_mmorpg_cg_f_casual2.webp",
+    "유비_mecha_mmorpg_cg_f_casual3.webp",
+    "유비_mecha_mmorpg_cg_f_casual4.webp",
+    "유비_mecha_mmorpg_cg_f_casual5.webp",
+    "유비_mecha_mmorpg_cg_f_casual6.webp"
+   ],
+   "phase": "generating_new_world_candidates"
   }
  ]
 }
