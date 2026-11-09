@@ -146,7 +146,17 @@
     "유비_mecha_mmorpg_cg_f_casual5.webp",
     "유비_mecha_mmorpg_cg_f_casual6.webp"
    ],
-   "phase": "generating_new_world_candidates"
+   "phase": "awaiting_world_selection",
+   "candidates": 12,
+   "selection_sheet_library_file_id": "libfile_999a02a063fc8191a7545c53de43c144",
+   "candidates_archive_library_file_id": "libfile_40a35ffd62288191a074a66b5520d444",
+   "selection_numbering": {
+    "1": "registered_1",
+    "2": "registered_2",
+    "3": "gpt_free_1",
+    "4": "gpt_free_2"
+   },
+   "note": "All 12 candidates newly generated; existing sheets not reused. Fantasy 2 exposure moderate after two blocked bold attempts. No returned image regenerated for exposure."
   }
  ]
 }
