@@ -36,7 +36,7 @@
   {
    "key": "손권",
    "execution": "sam-sunquan-20261109-59e3434f46aa",
-   "status": "working",
+   "status": "released",
    "claimed_at": "2026-11-08T23:48:53.589Z",
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-08",
@@ -300,7 +300,44 @@
      }
     ]
    },
-   "reason": "세계별 후보 3장씩 생성 완료. 사용자 선택 후 선택한 세계 그림과 일상컷을 등록. 생성 원문 수정 및 임의 재생성 없음."
+   "reason": "세계별 후보 3장씩 생성 완료. 사용자 선택 후 선택한 세계 그림과 일상컷을 등록. 생성 원문 수정 및 임의 재생성 없음.",
+   "approval": "기존에 작업한 시트는 무시하고 새롭게 만드는거야. 기존 작업 삭제 제외.",
+   "released_by": "sam-sunquan-new-20261109T1620Z",
+   "released_at": "2026-11-09T07:24:25.189Z"
+  },
+  {
+   "key": "손권",
+   "execution": "sam-sunquan-new-20261109T1620Z",
+   "status": "working",
+   "claimed_at": "2026-11-09T07:24:25.189Z",
+   "date_kst": "2026-11-10",
+   "date_utc": "2026-11-09",
+   "missing": [
+    "손권_samguk_mmorpg_cg_f.webp",
+    "손권_samguk_mmorpg_cg_f_casual1.webp",
+    "손권_samguk_mmorpg_cg_f_casual2.webp",
+    "손권_samguk_mmorpg_cg_f_casual3.webp",
+    "손권_samguk_mmorpg_cg_f_casual4.webp",
+    "손권_samguk_mmorpg_cg_f_casual5.webp",
+    "손권_samguk_mmorpg_cg_f_casual6.webp",
+    "손권_fantasy_mmorpg_cg_f.webp",
+    "손권_fantasy_mmorpg_cg_f_casual1.webp",
+    "손권_fantasy_mmorpg_cg_f_casual2.webp",
+    "손권_fantasy_mmorpg_cg_f_casual3.webp",
+    "손권_fantasy_mmorpg_cg_f_casual4.webp",
+    "손권_fantasy_mmorpg_cg_f_casual5.webp",
+    "손권_fantasy_mmorpg_cg_f_casual6.webp",
+    "손권_mecha_mmorpg_cg_f.webp",
+    "손권_mecha_mmorpg_cg_f_casual1.webp",
+    "손권_mecha_mmorpg_cg_f_casual2.webp",
+    "손권_mecha_mmorpg_cg_f_casual3.webp",
+    "손권_mecha_mmorpg_cg_f_casual4.webp",
+    "손권_mecha_mmorpg_cg_f_casual5.webp",
+    "손권_mecha_mmorpg_cg_f_casual6.webp"
+   ],
+   "style": "mmorpg_cg",
+   "phase": "generating_new_world_candidates",
+   "reason": "사용자가 기존 시트를 무시하고 새 시트 생성을 요청. 기존 이미지와 기록을 보존하며 현재 규칙에 따라 세계별 4장(우리 설계2/GPT 설계2) 생성."
   }
  ]
 }
