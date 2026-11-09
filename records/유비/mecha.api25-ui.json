@@ -1,0 +1,90 @@
+{
+ "atelier": "samguk",
+ "card": "유비",
+ "faction": "shu",
+ "role": "lord",
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "age": "mid_20s",
+   "impression": "soft",
+   "skin_tone": "warm_beige",
+   "eye_size": "large",
+   "eye_tilt": "down",
+   "mark": "bare",
+   "expr": "gentle",
+   "brows": "soft_round",
+   "nose": "straight_narrow",
+   "lips": "full_wide",
+   "face_shape": "round",
+   "eyes": "round_large"
+  },
+  "silhouette": {
+   "body": "curvy",
+   "hair_color": "chestnut",
+   "hair": "long_wavy",
+   "bangs": "side_swept"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "유비_mecha_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Liu Bei from the Romance of the Three Kingdoms, reimagined as an adult woman — the benevolent founder of Shu Han, who swore sisterhood in the Peach Garden. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: benevolence and humility that win hearts, humble straw-sandal beginnings under imperial Han blood, long jade earrings as her mark of fortune, the twin swords of the Peach Garden oath, tears shed for her people.\n\nWorld (fixed): year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor; 2) several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them; 3) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 4) a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape; 5) complete full-body armor with plates joined seamlessly from neck to feet — bare skin only on the face and where EXPOSURE allows, dense visible seams and joints; 6) mecha armor shaped like a medieval knight's plate — big rounded pauldrons, a breastplate, layered plates below the waist, a head ornament instead of a helmet so her face shows; 7) several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a pair of matched twin swords in one double scabbard, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette.\n\nHair colour (fixed — ours): warm chestnut-brown hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a ruler — her costume must read her sovereign rank at first glance: layered, richly ornate and regal, with flagship-card detail, fine engraving and jewellery, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 673,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 673
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1016
+  },
+  "seconds": 19.306,
+  "png_sha256": "4446e7a67f111a67472ce941fc3008f49688f4a4596b57e66103acecd38520ea",
+  "prompt_sha256": "763f2036525de546147fab4aa3e22bdb45ec94d32f9a609ab3f88d182dd85976",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "gpt_free",
+  "free_prompt": "A full-body character card image of Liu Bei reimagined as a far-future mecha commander, an adult woman in her late twenties — the benevolent founder of the Shu frontier colony. She is a woman, no facial hair. She is a female mecha personification: her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines — never cloth or a gown; any cape, coat or wing is rigid armoured plates. Her face and hair stay human.\n\nStyle: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nHer: resolute and warm — clear grey-green eyes, straight brows, a faint brave smile, coral lips. Face proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; the headpiece sits above her hairline and never lengthens her face; her eyes stay at a natural open size. Hair colour exactly warm chestnut-brown. Hairstyle: long hair in a low loose ponytail, side bangs; long jade drop earrings.\n\nCostume: a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar. Her own idea from her long jade earrings: the coat's hem and cuffs end in rows of hanging segmented jade-green plates shaped like long jade drop pendants, each tipped with a gold glow, swinging as she walks. Open over close-fitting earthen-brown and gold body armour with a deep neckline, bare shoulders under the plated collar, bare thighs between hip plates and tall armoured boots; intimate areas covered. Sovereign rank: gold epaulette plates with engraved dragon lines, a white-jade insignia, fine panel engraving. Colours: jade green, imperial gold, earthen brown and white jade.\n\nWeapon: a pair of matched high-tech twin swords with the same slender silhouette, sheathed together in one double scabbard at her hip; her hand rests on the hilts.\n\nSetting: the base platform of an orbital elevator climbing into space, the ringed gas giant and stars above, green-lit starship docks below.\n\nVertical 2:3 (1024×1536) full-body framing with modest headroom and clear space below the feet — the whole figure from the top of her headpiece to both feet inside the frame, about four-fifths of the image height; her hands and both swords stay inside the frame. Camera at chest height, natural portrait perspective, no wide-angle distortion, no low angle. One figure only, natural hands with five fingers; far-future setting only, no East-Asian architecture, no text, no logo or watermark.",
+  "free_by": "claude",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "imported": "2026-11-09"
+}
