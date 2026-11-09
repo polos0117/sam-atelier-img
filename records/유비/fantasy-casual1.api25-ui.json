@@ -82,6 +82,48 @@
   },
   "webp": {
    "quality": 90
+  },
+  "replanned_from": {
+   "plan": "대리석 신전 · 란제리풍(가터풍) · 무릎 꿇고 두 손 모으기",
+   "retries": [
+    {
+     "n": 1,
+     "status": "safety",
+     "exposure": "bold",
+     "at": "2026-11-09T09:53:56.677Z"
+    },
+    {
+     "n": 2,
+     "status": "safety",
+     "exposure": "bold",
+     "at": "2026-11-09T09:54:00.594Z"
+    },
+    {
+     "n": 3,
+     "status": "safety",
+     "exposure": "moderate",
+     "at": "2026-11-09T09:56:04.357Z"
+    },
+    {
+     "n": 4,
+     "status": "safety",
+     "exposure": "moderate",
+     "at": "2026-11-09T09:56:07.765Z"
+    },
+    {
+     "n": 5,
+     "status": "safety",
+     "exposure": "low",
+     "at": "2026-11-09T09:56:31.977Z"
+    },
+    {
+     "n": 6,
+     "status": "safety",
+     "exposure": "low",
+     "at": "2026-11-09T09:56:35.448Z"
+    }
+   ],
+   "why": "과감 · 보통 · 적게 모두 안전 필터에 막혀 그 칸만 다시 짰다(IMAGE_RULES 1절) — 새 계획은 원래 노출(과감)에서 통과"
   }
  },
  "imported": "2026-11-09"
