@@ -308,7 +308,7 @@
   {
    "key": "손권",
    "execution": "sam-sunquan-new-20261109T1620Z",
-   "status": "working",
+   "status": "released",
    "claimed_at": "2026-11-09T07:24:25.189Z",
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-09",
@@ -868,7 +868,10 @@
     "selection_sheet_library_file_id": "libfile_94c635256a148191b1588f56533b5755",
     "selection_sheet_path": "/workspace/scratch/5ac8961211be/sunquan-new/sunquan-world-selection-sheet-new.jpg",
     "note": "12 brand-new world candidates; no image regenerated; no references attached. Await user choice before casual planning or registered image upload. Previous sheet and candidates preserved."
-   }
+   },
+   "approval": "사용자 2026-11-09 「2번으로 정리하고 2.5로 뽑아줘」 — 기본 화풍 세계 그림 후보(선택 대기)는 접고, 손권은 api25(2.5 API)로 새로 뽑는다",
+   "released_by": "sam-sunquan-new-20261109T1620Z",
+   "released_at": "2026-11-09T10:26:57.210Z"
   }
  ]
 }
