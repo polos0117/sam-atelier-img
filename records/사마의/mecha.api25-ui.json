@@ -1,0 +1,90 @@
+{
+ "atelier": "samguk",
+ "card": "사마의",
+ "faction": "wei",
+ "role": "strategist",
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "age": "late_20s",
+   "impression": "cool",
+   "skin_tone": "porcelain",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "dark_lip",
+   "expr": "cold_smile",
+   "brows": "arched_thin",
+   "nose": "aquiline",
+   "lips": "thin_long",
+   "face_shape": "oval",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "jet_black",
+   "hair": "long_wavy",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "사마의_mecha_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sima Yi from the Romance of the Three Kingdoms, reimagined as an adult woman — the patient wolf of Wei, the strategist whose house would rise to found Jin. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: cunning patience and endurance, the wolf-glance — able to look straight behind her over her shoulder, feigning illness to outwait rivals, cold calculation behind courtesy, dark ambition.\n\nWorld (fixed): year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely; 2) large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor; 3) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 4) light body armor with several small shield and drone units floating symmetrically around her; 5) a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape; 6) sparse outer plates over an exposed mechanical skeleton of metal struts, pistons and cables — light and precise; 7) ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a black feather fan, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette.\n\nHair colour (fixed — ours): glossy jet-black hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 842,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 842
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1185
+  },
+  "seconds": 16.747,
+  "png_sha256": "9ef53b33356c2544982d9f5c51f177d255fb63ec3b4baa58ffdc5f1bd90579e0",
+  "prompt_sha256": "1637a543deb747a71282d6106f83e9c2f75983f9101d700662ef7ac54c73aa23",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "gpt_free",
+  "free_prompt": "A full-body character card image of Sima Yi from the Romance of the Three Kingdoms, reimagined as an adult woman in her early thirties — the patient strategist of the year 2190 Wei Federation, whose house will one day rule the fleet. A poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair. She is a female mecha personification: her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines — never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates; any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nStyle: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nHer: watchful and predatory — amber-gold eyes that glint like a wolf's, straight dark brows, a sharp black flick of liner, a slow sly smile on deep red lips. Face proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face; her eyes stay at a natural open size, never squeezed into narrow slits. Hair colour exactly glossy jet-black. Hairstyle: a glossy chin-length bob with a blunt fringe and two long front locks falling past her collarbones. Skin tone exactly porcelain-pale.\n\nCostume: light body armour with several small shield and drone units floating symmetrically around her. Her own idea from the patient wolf: the floating units are six small wolf-head drones of navy and silver plating, ears swept back and eyes glowing ice-blue, circling her in a slow ring like a pack waiting for her signal, and her shoulder plates are cut in the same swept-back wolf-ear shape. Master-strategist prestige at first glance: elegant, layered and finely ornamented with flagship-card detail: a sculpted navy chest plate with silver filigree panel lines, ivory under-plates, black-lacquer gauntlets and greaves, a slender silver collar. Moderate exposure: a chest plate open at the collarbone, bare upper arms between the shoulder and forearm plates, the rest armoured; intimate areas covered. Colours: deep navy blue, black lacquer, cold steel silver and ivory white.\n\nWeapon: a black feather fan rebuilt as a far-future high-tech version with the same silhouette — black carbon blade-feathers on a silver handle — held lowered and closed in her left hand.\n\nPose and setting: standing on the exterior hull of the orbital fortress under hard white floodlights, glancing back over her shoulder at the viewer while her body faces three-quarters away, starfield, capital ships and the cold blue planet behind her.\n\nVertical 2:3 (1024×1536) full-body framing with modest headroom and clear space below the feet — the whole figure from the top of her head or headpiece to both feet inside the frame, about four-fifths of the image height, the same camera distance in every genre; her hands and the feather fan stay inside the frame. Camera at chest height, natural portrait perspective, no wide-angle distortion, no low angle, no close crop. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no text, no logo or watermark.",
+  "free_by": "claude",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "imported": "2026-11-09"
+}

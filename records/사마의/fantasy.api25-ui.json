@@ -1,0 +1,95 @@
+{
+ "atelier": "samguk",
+ "card": "사마의",
+ "faction": "wei",
+ "role": "strategist",
+ "world": "fantasy",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "age": "late_20s",
+   "impression": "cool",
+   "skin_tone": "porcelain",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "dark_lip",
+   "expr": "cold_smile",
+   "brows": "arched_thin",
+   "nose": "aquiline",
+   "lips": "thin_long",
+   "face_shape": "diamond",
+   "eyes": "monolid_long"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "jet_black",
+   "hair": "side_swept",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "사마의_fantasy_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sima Yi from the Romance of the Three Kingdoms, reimagined as an adult woman — the patient wolf of Wei, the strategist whose house would rise to found Jin. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: cunning patience and endurance, the wolf-glance — able to look straight behind her over her shoulder, feigning illness to outwait rivals, cold calculation behind courtesy, dark ambition.\n\nWorld (fixed): a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 2) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 3) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 4) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 5) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a black feather fan, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette.\n\nHair colour (fixed — ours): glossy jet-black hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 807,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 807
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1150
+  },
+  "seconds": 17.364,
+  "png_sha256": "df5d8a6313cd0146cc6521a86dcff639e1757e1b11c94aa9c2740f6be6e299b5",
+  "prompt_sha256": "b319c79bc2f880bbf13031be77b544cceeb98959edd5a6b3f0213496c7df2f5a",
+  "retries": [
+   {
+    "n": 1,
+    "status": "safety",
+    "exposure": "bold"
+   },
+   {
+    "n": 2,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "gpt_free",
+  "free_prompt": "A full-body character card image of Sima Yi from the Romance of the Three Kingdoms, reimagined as an adult woman in her early thirties — the patient grand-strategist of a stern northern empire of medieval high fantasy, whose house will one day take the throne. A poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nHer: imperious and calculating — icy pale-blue eyes that faintly glow, thin sharply arched brows, smoky black lids, dark wine lips in a cool, closed smile. Face proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face; her eyes stay at a natural open size, never squeezed into narrow slits. Hair colour exactly glossy jet-black. Hairstyle: a long, sleek straight curtain of hair falling to her hips, with a sharp straight fringe cut just above her brows. Skin tone exactly porcelain-pale.\n\nCostume: a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette. Her own idea from the wolf-glance: the tall stiffened collar is built as a wolf's open jaws seen from the front — two curved halves rising behind her neck lined with rows of small cold-silver fang points — and the shoulder mantle is layered in overlapping navy panels cut like a wolf's winter ruff. Master-strategist prestige at first glance: elegant, layered and finely ornamented with flagship-card detail: deep navy velvet with ivory silk lining, black-lacquer leather corsetry, silver sigil-filigree running down the front panels, a silver chain of office across the shoulders. Bold exposure: the robe opens in a deep plunging neckline down the front, the wide sleeves are split open to bare her arms, and the robe parts from the hip to bare one leg; intimate areas covered. Colours: deep navy blue, black lacquer, cold steel silver and ivory white.\n\nWeapon: a black feather fan reimagined as a Western high-fantasy version with the same silhouette — long black raven feathers spread on a silver-filigree handle set with a small blue sigil-stone — held open at her side in her right hand.\n\nPose and setting: standing at the head of a long stone council table inside a black-stone citadel, her free hand resting on a map covered in tokens, cold blue sigil-light floating in the air, tall windows onto a snowstorm behind her.\n\nVertical 2:3 (1024×1536) full-body framing with modest headroom and clear space below the feet — the whole figure from the top of her head or headpiece to both feet inside the frame, about four-fifths of the image height, the same camera distance in every genre; her hands and the feather fan stay inside the frame. Camera at chest height, natural portrait perspective, no wide-angle distortion, no low angle, no close crop. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no text, no logo or watermark.",
+  "free_by": "claude",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "imported": "2026-11-09"
+}

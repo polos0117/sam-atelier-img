@@ -1,0 +1,90 @@
+{
+ "atelier": "samguk",
+ "card": "사마의",
+ "faction": "wei",
+ "role": "strategist",
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "violet",
+   "age": "late_20s",
+   "impression": "cool",
+   "skin_tone": "porcelain",
+   "eye_size": "small",
+   "eye_tilt": "up",
+   "mark": "dark_lip",
+   "expr": "cold_smile",
+   "brows": "arched_thin",
+   "nose": "aquiline",
+   "lips": "thin_long",
+   "face_shape": "long",
+   "eyes": "narrow_upturned"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "jet_black",
+   "hair": "long_straight",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "사마의_samguk_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Sima Yi from the Romance of the Three Kingdoms, reimagined as an adult woman — the patient wolf of Wei, the strategist whose house would rise to found Jin. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: cunning patience and endurance, the wolf-glance — able to look straight behind her over her shoulder, feigning illness to outwait rivals, cold calculation behind courtesy, dark ambition.\n\nWorld (fixed): Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a black feather fan.\n\nHair colour (fixed — ours): glossy jet-black hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 775,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 775
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1118
+  },
+  "seconds": 18.063,
+  "png_sha256": "3b20957c85698815d0af639ccbc9f3da1e518531c53edb65509291852330c99c",
+  "prompt_sha256": "b7135839a71bf8d80feaf71d6f6d22ac49efb4fc230d6f604f9df5caf82a549d",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "gpt_free",
+  "free_prompt": "A full-body character card image of Sima Yi from the Romance of the Three Kingdoms, reimagined as an adult woman in her early thirties — the patient wolf of Wei, the strategist whose house would rise to found Jin, in Cao Wei around 230 AD. A poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nHer: cold and knowing — pale silver-grey eyes with a faint violet ring, long dark lashes, softly winged black liner, deep plum lips in a slight, unreadable smile. Face proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face; her eyes stay at a natural open size, never squeezed into narrow slits. Hair colour exactly glossy jet-black. Hairstyle: a sleek high chignon pierced by two long silver hairpins, with very long straight lengths falling from beneath it to her knees and a centre part. Skin tone exactly porcelain-pale.\n\nCostume: a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette, no armour. Her own idea from the wolf-glance: the edges of both wide sleeves and the robe's hem are cut into rows of long tapering points like a wolf's fangs, each point bound in cold steel-silver filigree, and the high collar rises behind her neck in two pointed silver-edged flaps like a wolf's pricked ears. Master-strategist prestige at first glance: elegant, layered and finely ornamented with flagship-card detail: deep navy silk with ivory inner layers, a broad black-lacquer sash with a silver wolf-head clasp, fine silver embroidery of cloud scrolls, a short ivory over-robe at the shoulders. Bold exposure: the robe's crossed collar opens into a deep neckline, slipping back off both shoulders, and a high slit up the front of the robe bares one leg to the upper thigh; intimate areas covered. Colours: deep navy blue, black lacquer, cold steel silver and ivory white.\n\nWeapon: a black feather fan of long glossy black feathers on a silver-capped lacquer handle, held up beside her chin in her right hand.\n\nPose and setting: walking away down a dim lacquered palace hall in Luoyang, then turning her head to look straight back over her shoulder at the viewer while her body still faces away, tall bronze lamps and black-and-navy banners behind her.\n\nVertical 2:3 (1024×1536) full-body framing with modest headroom and clear space below the feet — the whole figure from the top of her head or headpiece to both feet inside the frame, about four-fifths of the image height, the same camera distance in every genre; her hands and the feather fan stay inside the frame. Camera at chest height, natural portrait perspective, no wide-angle distortion, no low angle, no close crop. One figure only, natural hands with five fingers; no text, no logo or watermark.",
+  "free_by": "claude",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "imported": "2026-11-09"
+}
