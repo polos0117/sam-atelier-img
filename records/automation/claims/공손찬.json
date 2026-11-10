@@ -1,0 +1,36 @@
+{
+ "key": "공손찬",
+ "runs": [
+  {
+   "key": "공손찬",
+   "execution": "sam-gongsunzan-api25-20261110-codex",
+   "status": "working",
+   "claimed_at": "2026-11-10T12:06:29.618Z",
+   "date_kst": "2026-11-10",
+   "date_utc": "2026-11-10",
+   "missing": [
+    "공손찬_samguk_kr_mmorpg_26_f.webp",
+    "공손찬_samguk_kr_mmorpg_26_f_casual1.webp",
+    "공손찬_samguk_kr_mmorpg_26_f_casual2.webp",
+    "공손찬_samguk_kr_mmorpg_26_f_casual3.webp",
+    "공손찬_samguk_kr_mmorpg_26_f_casual4.webp",
+    "공손찬_samguk_kr_mmorpg_26_f_casual5.webp",
+    "공손찬_samguk_kr_mmorpg_26_f_casual6.webp",
+    "공손찬_fantasy_kr_mmorpg_26_f.webp",
+    "공손찬_fantasy_kr_mmorpg_26_f_casual1.webp",
+    "공손찬_fantasy_kr_mmorpg_26_f_casual2.webp",
+    "공손찬_fantasy_kr_mmorpg_26_f_casual3.webp",
+    "공손찬_fantasy_kr_mmorpg_26_f_casual4.webp",
+    "공손찬_fantasy_kr_mmorpg_26_f_casual5.webp",
+    "공손찬_fantasy_kr_mmorpg_26_f_casual6.webp",
+    "공손찬_mecha_kr_mmorpg_26_f.webp",
+    "공손찬_mecha_kr_mmorpg_26_f_casual1.webp",
+    "공손찬_mecha_kr_mmorpg_26_f_casual2.webp",
+    "공손찬_mecha_kr_mmorpg_26_f_casual3.webp",
+    "공손찬_mecha_kr_mmorpg_26_f_casual4.webp",
+    "공손찬_mecha_kr_mmorpg_26_f_casual5.webp",
+    "공손찬_mecha_kr_mmorpg_26_f_casual6.webp"
+   ]
+  }
+ ]
+}
