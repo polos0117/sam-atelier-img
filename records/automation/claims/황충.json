@@ -36,7 +36,7 @@
   {
    "key": "황충",
    "execution": "sam-huangzhong-api25-20261110-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-10T08:14:14.029Z",
    "date_kst": "2026-11-10",
    "date_utc": "2026-11-10",
@@ -62,7 +62,35 @@
     "황충_mecha_kr_mmorpg_26_f_casual4.webp",
     "황충_mecha_kr_mmorpg_26_f_casual5.webp",
     "황충_mecha_kr_mmorpg_26_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-10T10:38:55.142894+00:00",
+   "done_by": "sam-huangzhong-api25-20261110-codex",
+   "style": "api25",
+   "completed_files": [
+    "황충_samguk_api25_f.webp",
+    "황충_samguk_api25_f_casual1.webp",
+    "황충_samguk_api25_f_casual2.webp",
+    "황충_samguk_api25_f_casual3.webp",
+    "황충_samguk_api25_f_casual4.webp",
+    "황충_samguk_api25_f_casual5.webp",
+    "황충_samguk_api25_f_casual6.webp",
+    "황충_fantasy_api25_f.webp",
+    "황충_fantasy_api25_f_casual1.webp",
+    "황충_fantasy_api25_f_casual2.webp",
+    "황충_fantasy_api25_f_casual3.webp",
+    "황충_fantasy_api25_f_casual4.webp",
+    "황충_fantasy_api25_f_casual5.webp",
+    "황충_fantasy_api25_f_casual6.webp",
+    "황충_mecha_api25_f.webp",
+    "황충_mecha_api25_f_casual1.webp",
+    "황충_mecha_api25_f_casual2.webp",
+    "황충_mecha_api25_f_casual3.webp",
+    "황충_mecha_api25_f_casual4.webp",
+    "황충_mecha_api25_f_casual5.webp",
+    "황충_mecha_api25_f_casual6.webp"
+   ],
+   "completion_approval": "사용자 「황충 작업해줘」·「올려줘」 이후 「2,3,2」 선택 — 선택 후 일상컷까지 만든 뒤 게시한다고 안내한 작업 범위",
+   "reason": "API25 선택2·3·2와 일상컷18장 업로드·도감21칸 등록·자동 썸네일21장·원격45파일 해시 검증 완료. 기본 화풍을 보는 image-claim done 대신 실제 api25 등록21칸을 대조해 본인 실행만 완료 처리. 이전 황충 완료 이력과 화풍 보존."
   }
  ]
 }
