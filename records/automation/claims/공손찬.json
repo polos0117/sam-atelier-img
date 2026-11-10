@@ -4,7 +4,7 @@
   {
    "key": "공손찬",
    "execution": "sam-gongsunzan-api25-20261110-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-10T12:06:29.618Z",
    "date_kst": "2026-11-10",
    "date_utc": "2026-11-10",
@@ -30,7 +30,39 @@
     "공손찬_mecha_kr_mmorpg_26_f_casual4.webp",
     "공손찬_mecha_kr_mmorpg_26_f_casual5.webp",
     "공손찬_mecha_kr_mmorpg_26_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-10T12:25:06.659530+00:00",
+   "done_by": "sam-gongsunzan-api25-20261110-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "공손찬_samguk_api25_f.webp",
+     "공손찬_samguk_api25_f_casual1.webp",
+     "공손찬_samguk_api25_f_casual2.webp",
+     "공손찬_samguk_api25_f_casual3.webp",
+     "공손찬_samguk_api25_f_casual4.webp",
+     "공손찬_samguk_api25_f_casual5.webp",
+     "공손찬_samguk_api25_f_casual6.webp",
+     "공손찬_fantasy_api25_f.webp",
+     "공손찬_fantasy_api25_f_casual1.webp",
+     "공손찬_fantasy_api25_f_casual2.webp",
+     "공손찬_fantasy_api25_f_casual3.webp",
+     "공손찬_fantasy_api25_f_casual4.webp",
+     "공손찬_fantasy_api25_f_casual5.webp",
+     "공손찬_fantasy_api25_f_casual6.webp",
+     "공손찬_mecha_api25_f.webp",
+     "공손찬_mecha_api25_f_casual1.webp",
+     "공손찬_mecha_api25_f_casual2.webp",
+     "공손찬_mecha_api25_f_casual3.webp",
+     "공손찬_mecha_api25_f_casual4.webp",
+     "공손찬_mecha_api25_f_casual5.webp",
+     "공손찬_mecha_api25_f_casual6.webp"
+    ],
+    "image_commit": "082b1dab29078c3febd2aabc1858c7ff3f444352",
+    "registration_commit": "ecc7ba11aa6beb45a7e3883f0b51ccc38ad4d108",
+    "approval": "사용자 「올려줘」",
+    "note": "요청한 api25 세계3+일상18와 썸네일 등록 확인. 원래 기본화풍 missing 목록은 역사 기록으로 보존."
+   }
   }
  ]
 }
