@@ -32,6 +32,37 @@
    "done_by": "sam-huangzhong-redo-20261104-c3a581",
    "images_completed": 18,
    "notes": "최신 main에 기존 황충 그림이 없어 18칸 새 생성. 세계별 계획·파일 규격·도감 등록 검사 통과. 시각적 차이는 이미지별 qa에 기록."
+  },
+  {
+   "key": "황충",
+   "execution": "sam-huangzhong-api25-20261110-codex",
+   "status": "working",
+   "claimed_at": "2026-11-10T08:14:14.029Z",
+   "date_kst": "2026-11-10",
+   "date_utc": "2026-11-10",
+   "missing": [
+    "황충_samguk_kr_mmorpg_26_f.webp",
+    "황충_samguk_kr_mmorpg_26_f_casual1.webp",
+    "황충_samguk_kr_mmorpg_26_f_casual2.webp",
+    "황충_samguk_kr_mmorpg_26_f_casual3.webp",
+    "황충_samguk_kr_mmorpg_26_f_casual4.webp",
+    "황충_samguk_kr_mmorpg_26_f_casual5.webp",
+    "황충_samguk_kr_mmorpg_26_f_casual6.webp",
+    "황충_fantasy_kr_mmorpg_26_f.webp",
+    "황충_fantasy_kr_mmorpg_26_f_casual1.webp",
+    "황충_fantasy_kr_mmorpg_26_f_casual2.webp",
+    "황충_fantasy_kr_mmorpg_26_f_casual3.webp",
+    "황충_fantasy_kr_mmorpg_26_f_casual4.webp",
+    "황충_fantasy_kr_mmorpg_26_f_casual5.webp",
+    "황충_fantasy_kr_mmorpg_26_f_casual6.webp",
+    "황충_mecha_kr_mmorpg_26_f.webp",
+    "황충_mecha_kr_mmorpg_26_f_casual1.webp",
+    "황충_mecha_kr_mmorpg_26_f_casual2.webp",
+    "황충_mecha_kr_mmorpg_26_f_casual3.webp",
+    "황충_mecha_kr_mmorpg_26_f_casual4.webp",
+    "황충_mecha_kr_mmorpg_26_f_casual5.webp",
+    "황충_mecha_kr_mmorpg_26_f_casual6.webp"
+   ]
   }
  ]
 }
