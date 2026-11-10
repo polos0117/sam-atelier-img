@@ -4,7 +4,7 @@
   {
    "key": "노숙",
    "execution": "sam-lusu-api25-20261109-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-09T23:21:45.037Z",
    "date_kst": "2026-11-10",
    "date_utc": "2026-11-09",
@@ -30,7 +30,35 @@
     "노숙_mecha_mmorpg_cg_f_casual4.webp",
     "노숙_mecha_mmorpg_cg_f_casual5.webp",
     "노숙_mecha_mmorpg_cg_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-10T04:14:05.554460+00:00",
+   "done_by": "sam-lusu-api25-20261109-codex",
+   "style": "api25",
+   "completed_files": [
+    "노숙_samguk_api25_f.webp",
+    "노숙_samguk_api25_f_casual1.webp",
+    "노숙_samguk_api25_f_casual2.webp",
+    "노숙_samguk_api25_f_casual3.webp",
+    "노숙_samguk_api25_f_casual4.webp",
+    "노숙_samguk_api25_f_casual5.webp",
+    "노숙_samguk_api25_f_casual6.webp",
+    "노숙_fantasy_api25_f.webp",
+    "노숙_fantasy_api25_f_casual1.webp",
+    "노숙_fantasy_api25_f_casual2.webp",
+    "노숙_fantasy_api25_f_casual3.webp",
+    "노숙_fantasy_api25_f_casual4.webp",
+    "노숙_fantasy_api25_f_casual5.webp",
+    "노숙_fantasy_api25_f_casual6.webp",
+    "노숙_mecha_api25_f.webp",
+    "노숙_mecha_api25_f_casual1.webp",
+    "노숙_mecha_api25_f_casual2.webp",
+    "노숙_mecha_api25_f_casual3.webp",
+    "노숙_mecha_api25_f_casual4.webp",
+    "노숙_mecha_api25_f_casual5.webp",
+    "노숙_mecha_api25_f_casual6.webp"
+   ],
+   "completion_approval": "사용자 「올려줘.」 — 그림·기록·도감·작업 기록 및 현재 노숙 잠금 complete 반영을 명시적으로 승인",
+   "reason": "API25 선택 3·4·3와 일상컷 18장 업로드·도감 등록·썸네일 검증 완료. 기본 화풍을 보는 image-claim done 대신 api25 등록 21칸을 대조해 본인 실행만 완료 처리."
   }
  ]
 }
