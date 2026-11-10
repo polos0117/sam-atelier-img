@@ -1,0 +1,131 @@
+{
+ "atelier": "samguk",
+ "card": "노숙",
+ "faction": "wu",
+ "role": "strategist",
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "obsidian",
+   "impression": "soft",
+   "expr": "gentle",
+   "skin_tone": "porcelain",
+   "age": "late_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "freckles",
+   "brows": "feathered",
+   "nose": "aquiline",
+   "lips": "thin_bow",
+   "face_shape": "inverted_triangle",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "blue_black",
+   "hair": "half_up",
+   "bangs": "none"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "노숙_samguk_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Lu Su from the Romance of the Three Kingdoms, reimagined as an adult woman — the strategist who forced the alliance of Shu and Wu together. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: generous, sincere and far-sighted, warm scholarly robes, a calm diplomat's smile.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) no armor — a long floor-length robe with wide sleeves and a broad sash, a long elegant falling silhouette; 3) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 4) a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette; 5) very long flowing water sleeves trailing past the hands through the air over a fitted dancer's dress — the sleeves make the shape. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a map of the three kingdoms.\n\nHair colour (fixed — ours): blue-black hair with a cold indigo sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 912,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 912
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1255
+  },
+  "seconds": 16.834,
+  "png_sha256": "1b571607da148a1b8c169e368d7b9ec88965b008d18513e4cc9b490ce8319c61",
+  "prompt_sha256": "96c67b4b3d5b5fd5af4ff3a366e53ec292cff7751ce9a456c8c305f7101288fe",
+  "retries": [
+   {
+    "n": 1,
+    "status": "server_error",
+    "exposure": "bold"
+   },
+   {
+    "n": 2,
+    "status": "safety",
+    "exposure": "bold"
+   },
+   {
+    "n": 3,
+    "status": "safety",
+    "exposure": "moderate"
+   },
+   {
+    "n": 4,
+    "status": "ok",
+    "exposure": "moderate"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "gpt_free",
+  "free_prompt": "Create this image. A full-body vertical 2:3 (1024×1536) character card image of Lu Su from the Romance of the Three Kingdoms, reimagined as an adult woman — the strategist who forced the alliance of Shu and Wu together. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: generous, sincere and far-sighted, warm scholarly robes, a calm diplomat's smile.\n\nWorld (fixed): Eastern Wu along the Yangtze, around 200–280 AD: the river capital Jianye, great war junks with crimson sails, river fortresses, southern rain and lotus marshes, the fire ships of the Red Cliffs. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a map of the three kingdoms.\n\nHair colour (fixed — ours): blue-black hair with a cold indigo sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): moderate — open at the collarbone and showing her arms or lower legs; intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nCostume choice 4: a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette. Crimson red silk with river-teal inset panels, fine imperial-gold edging and black-lacquer clasps. Her signature construction expresses the Shu-Wu alliance through two long shawl panels that cross independently around the arms and join through one shared loop at the waist, creating two distinct flowing paths linked by a single tailored bridge. This is the garment's cut and assembly, not printed emblems. Rich, layered scholarly prestige, an open collarbone neckline and a lower-leg side opening, intimate areas covered.\nHer blue-black hair with a cold indigo sheen is arranged in a softly coiled high bun with long loose temple strands and a delicate gold comb. Porcelain-pale skin, a small softly rounded oval face, naturally open amber-brown eyes, feathery brows, light peach makeup and warm rose lips. Adult early thirties, a calm diplomat's smile and relaxed open eyes. Standing with a natural three-quarter turn, both hands hold a single partially opened map of the three kingdoms horizontally at waist level, landscape lines only and no readable writing. A riverside Wu pavilion over the Yangtze with crimson-sailed war junks, lotus beds and soft morning mist, one woman only, no animals.\n\nOne figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark.",
+  "free_by": "gpt-session",
+  "exposure_adjustment_reason": "Server error followed by safety rejection. Automatic review rejected an identical-prompt retry. A separate more-covered moderate variant removed the deep neckline and high slit; the original text remains preserved.",
+  "effective_exposure": "moderate",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-lusu-api25-20261109-codex",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "1b571607da148a1b8c169e368d7b9ec88965b008d18513e4cc9b490ce8319c61",
+  "passed": false,
+  "exposure": "stronger",
+  "observations": [
+   "성인 여성 한 명의 1024×1536 전신 카드. 남빛 검정 머리·밝은 피부·천하삼분 지도 형상 확인.",
+   "양팔·양다리 및 손·소품 연결을 비교표에서 검토함.",
+   "오의 강변·누각·범선과 비단 의상 확인. 한 글자 吳 깃발 외 지도에는 지형 무늬를 표현함.",
+   "안전 거절 뒤 노출 문장만 moderate로 낮춘 별도 지시문으로 생성. 실제 결과에는 허벅지까지 트임이 남아 moderate 문장보다 강한 노출로 기록."
+  ]
+ },
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "selection": {
+  "by": "user",
+  "message": "3,4,3",
+  "number": 3
+ },
+ "imported": "2026-11-10"
+}

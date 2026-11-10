@@ -1,0 +1,113 @@
+{
+ "atelier": "samguk",
+ "card": "노숙",
+ "faction": "wu",
+ "role": "strategist",
+ "world": "fantasy",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "obsidian",
+   "impression": "soft",
+   "expr": "gentle",
+   "skin_tone": "porcelain",
+   "age": "late_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "freckles",
+   "brows": "feathered",
+   "nose": "aquiline",
+   "lips": "thin_bow",
+   "face_shape": "oval",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "petite_curvy",
+   "hair_color": "blue_black",
+   "hair": "messy_bun",
+   "bangs": "curtain"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "노숙_fantasy_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Lu Su from the Romance of the Three Kingdoms, reimagined as an adult woman — the strategist who forced the alliance of Shu and Wu together. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: generous, sincere and far-sighted, warm scholarly robes, a calm diplomat's smile.\n\nWorld (fixed): a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette; 2) a light breastplate and bracers with robe panels split from the waist — half armor, half robe; 3) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 4) a long coat below the knees with epaulettes, a belt, gloves and tall boots — a crisp, commanding officer's silhouette; 5) a floor-length priestly vestment with gold-trimmed stoles and a tall head ornament — a long, devout silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a map of the three kingdoms, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): blue-black hair with a cold indigo sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+ "date": "2026-11-09",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1076,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1076
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1419
+  },
+  "seconds": 19.637,
+  "png_sha256": "251398f322b01a20d337f80e99de58c847130de273fcce23e2b5133dc506c7e6",
+  "prompt_sha256": "a68caaa41e566e9a7497e253df794d91f6307cea3afdf7e0c170963dd059acb6",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-09",
+  "design": "gpt_free",
+  "free_prompt": "Create this image. A full-body vertical 2:3 (1024×1536) character card image of Lu Su from the Romance of the Three Kingdoms, reimagined as an adult woman — the strategist who forced the alliance of Shu and Wu together. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: generous, sincere and far-sighted, warm scholarly robes, a calm diplomat's smile.\n\nWorld (fixed): a river-and-sea kingdom of medieval high fantasy: a vast river delta, crimson-sailed galleons and war galleys, harbor fortresses of red stone, fire magic dancing over dark water. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a map of the three kingdoms, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): blue-black hair with a cold indigo sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): porcelain-pale skin. Keep exactly this skin tone.\n\nCostume colours (ours): crimson red, gold, river teal, black lacquer.\n\nRank (fixed): she is a master strategist — her costume must read scholarly prestige at first glance: elegant, layered and finely ornamented, with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nCostume choice 1: a long floor-length robe with a high collar, wide sleeves and a shoulder mantle — a tall, mysterious mage's silhouette. River-teal robe lining, crimson outer silk, rich gold trim and black-lacquer narrow waist fittings. Her signature construction is a mantle formed by two crescent-shaped layered shoulder panels which interlock above the sternum and release into distinct flowing wide sleeves; the connecting seam resembles the structural arch of a bridge, representing the alliance without printed maps or writing. Scholarly prestige with fine jeweled clasps and intricate tailoring, a bold neckline beneath the raised collar and a high side slit; intimate areas covered.\nBlue-black hair with a cold indigo sheen in a short, softly waved chin-length bob with an off-center part and small silver circlet above the hairline. Porcelain-pale skin, a small gently rounded face, naturally open pale violet eyes, softly straight brows, light rose-gold makeup and muted berry lips. Early-thirties adult, serene and warmly attentive with a faint smile. She stands upright with one foot slightly forward and holds a single folded metallic map in both hands at waist height. It is the Western-fantasy version of her three-kingdoms map: thin polished steel and silvered-mithril panels with engraved runes, a jewel-set heraldic hinge and leather-bound lower edge, glowing softly river-teal along its outline, no Chinese fittings or hanzi. A medieval Western red-stone cloister above crimson-sailed war galleys, sea light and reflected fire magic on the delta below. One woman, no animals.\n\nOne figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+  "free_by": "gpt-session",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-lusu-api25-20261109-codex",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "251398f322b01a20d337f80e99de58c847130de273fcce23e2b5133dc506c7e6",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "성인 여성 한 명의 1024×1536 전신 카드. 남빛 검정 머리·밝은 피부·천하삼분 지도 형상 확인.",
+   "양팔·양다리 및 손·소품 연결을 비교표에서 검토함.",
+   "서양 항구 성곽·범선·장식 갑옷과 로브, 금속 지도 또는 도면 표현 확인."
+  ]
+ },
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "selection": {
+  "by": "user",
+  "message": "3,4,3",
+  "number": 4
+ },
+ "imported": "2026-11-10"
+}
