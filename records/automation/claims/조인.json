@@ -1,0 +1,36 @@
+{
+ "key": "조인",
+ "runs": [
+  {
+   "key": "조인",
+   "execution": "sam-caoren-api25-20261110-codex",
+   "status": "working",
+   "claimed_at": "2026-11-10T04:17:30.660Z",
+   "date_kst": "2026-11-10",
+   "date_utc": "2026-11-10",
+   "missing": [
+    "조인_samguk_kr_mmorpg_26_f.webp",
+    "조인_samguk_kr_mmorpg_26_f_casual1.webp",
+    "조인_samguk_kr_mmorpg_26_f_casual2.webp",
+    "조인_samguk_kr_mmorpg_26_f_casual3.webp",
+    "조인_samguk_kr_mmorpg_26_f_casual4.webp",
+    "조인_samguk_kr_mmorpg_26_f_casual5.webp",
+    "조인_samguk_kr_mmorpg_26_f_casual6.webp",
+    "조인_fantasy_kr_mmorpg_26_f.webp",
+    "조인_fantasy_kr_mmorpg_26_f_casual1.webp",
+    "조인_fantasy_kr_mmorpg_26_f_casual2.webp",
+    "조인_fantasy_kr_mmorpg_26_f_casual3.webp",
+    "조인_fantasy_kr_mmorpg_26_f_casual4.webp",
+    "조인_fantasy_kr_mmorpg_26_f_casual5.webp",
+    "조인_fantasy_kr_mmorpg_26_f_casual6.webp",
+    "조인_mecha_kr_mmorpg_26_f.webp",
+    "조인_mecha_kr_mmorpg_26_f_casual1.webp",
+    "조인_mecha_kr_mmorpg_26_f_casual2.webp",
+    "조인_mecha_kr_mmorpg_26_f_casual3.webp",
+    "조인_mecha_kr_mmorpg_26_f_casual4.webp",
+    "조인_mecha_kr_mmorpg_26_f_casual5.webp",
+    "조인_mecha_kr_mmorpg_26_f_casual6.webp"
+   ]
+  }
+ ]
+}
