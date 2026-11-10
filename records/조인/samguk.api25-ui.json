@@ -1,0 +1,112 @@
+{
+ "atelier": "samguk",
+ "card": "조인",
+ "faction": "wei",
+ "role": "general",
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "steel_blue",
+   "impression": "stoic",
+   "expr": "determined",
+   "skin_tone": "golden_tan",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "dark_lip",
+   "brows": "straight_thin",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "round",
+   "eyes": "hooded"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "grass_green",
+   "hair": "hime_cut",
+   "bangs": "asymmetric"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "조인_samguk_api25_f.webp",
+ "prompt": "CONCEPT: a female personification of Cao Ren (조인), a general of Cao Wei in the Romance of the Three Kingdoms — the iron wall of Wei who held Fancheng against Guan Yu. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Cao Ren to carry in her design and the scene: immovable defense, heavy layered armor, a calm commander behind a shield wall.\nFACTION — Cao Wei (魏). Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nSILHOUETTE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a hime cut — long straight hair with blunt cheek-length sidelocks with asymmetric bangs; grass-green hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a stoic, unreadable reserve; golden tan skin; round face; smaller, narrower eyes than usual anime proportion — hooded eyes, outer eye corners drooping downward; thin straight brows; petite straight nose; soft medium lips; steel-blue eyes; dark berry lipstick.\nWORLD — THREE KINGDOMS ERA: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nOUTFIT SILHOUETTE: a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered. Only the overall shape is fixed; design the details freely. This silhouette overrides the overall shape of the role costume above.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; keep the costume material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a great iron tower shield — in the form this WORLD gives it. She holds or carries it, drawn at full scale. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a firm, resolute look with calm, steady eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 曹.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-10",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1245,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1245
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1588
+  },
+  "seconds": 21.59,
+  "png_sha256": "6001cd2f6ca751b86f859552c719c4faa2efe511c6d815cdf5c32bf98a1aaead",
+  "prompt_sha256": "008127e4d43b544f4ec45e91bf7d46586860c661197167525f340fee70eb76f6",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-10",
+  "design": "ours",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-caoren-api25-20261110-codex",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "6001cd2f6ca751b86f859552c719c4faa2efe511c6d815cdf5c32bf98a1aaead",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "풀빛 계열 긴 머리, 금빛을 띤 피부, 큰 쇠 방패, 남색·검정·은색 배색.",
+   "후한풍 성벽과 魏 깃발, 전신과 양 부츠 확인.",
+   "설정 shadow_garb의 가볍고 밀착된 경장보다 겹겹 갑옷·비단 장식이 강하게 생성됨.",
+   "방패 왼쪽 외곽이 화면 끝에 닿아 일부 잘림. 무기/물건 잘림으로 재생성하지 않는 규칙 적용."
+  ],
+  "cause": "TRAITS의 heavy layered armor 및 역할 중갑 의상과 OUTFIT SILHOUETTE의 shadow_garb가 충돌한 것으로 보임.",
+  "technical": {
+   "decoded": true,
+   "size": [
+    1024,
+    1536
+   ],
+   "png_sha256_verified": true,
+   "prompt_sha256_verified": true
+  }
+ },
+ "imported": "2026-11-10",
+ "acceptance": "사용자 2026-11-10 「올려줘.」 — 선택 1·4·3, 일상컷과 검수 차이를 본 뒤 두 저장소 main 게시·도감 등록·작업 기록·현재 조인 잠금 complete까지 승인"
+}

@@ -1,0 +1,113 @@
+{
+ "atelier": "samguk",
+ "card": "조인",
+ "faction": "wei",
+ "role": "general",
+ "world": "fantasy",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "steel_blue",
+   "impression": "stoic",
+   "expr": "determined",
+   "skin_tone": "golden_tan",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "dark_lip",
+   "brows": "straight_thin",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "inverted_triangle",
+   "eyes": "peach_blossom"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "grass_green",
+   "hair": "long_layered",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "조인_fantasy_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Cao Ren from the Romance of the Three Kingdoms, reimagined as an adult woman — the iron wall of Wei who held Fancheng against Guan Yu. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: immovable defense, heavy layered armor, a calm commander behind a shield wall.\n\nWorld (fixed): a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) full plate armor from neck to feet with big rounded pauldrons and a short heraldic tabard — a solid knight's silhouette; 2) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) plate armor under a long heraldic tabard with a white cape to the ankles — a straight, holy silhouette; 5) large metal feathered wing ornaments spreading from the shoulders or back and a wing-shaped head ornament — the wings make the shape; 6) angular, spiked dark plate armor and a long cape with torn edges — a sharp, menacing silhouette; 7) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 8) a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette; 9) dragon-scale armor covering the body with horn-shaped shoulder and head ornaments — a beastly, imposing silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a great iron tower shield, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): grass-green hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): golden tan skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+ "date": "2026-11-10",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1042,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1042
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1385
+  },
+  "seconds": 18.245,
+  "png_sha256": "c632c5553e4c423f827b900bd381e5aa5905132f3459e7216d0471893fe6d7d0",
+  "prompt_sha256": "0d2113df6f31dea45ae43d2d3bf42aeaf40ff143a33ab741304ccbae14f68b91",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-10",
+  "design": "gpt_free",
+  "free_prompt": "Create this image. A full-body vertical 2:3 (1024×1536) character card image of Cao Ren from the Romance of the Three Kingdoms, reimagined as an adult woman — the iron wall of Wei who held Fancheng against Guan Yu. Age: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: immovable defense, heavy layered armor, a calm commander behind a shield wall.\n\nWorld (fixed): a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a great iron tower shield, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): grass-green hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): golden tan skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nCostume choice 9: dragon-scale armor covering the body with horn-shaped shoulder and head ornaments — a beastly, imposing silhouette. Deep navy and black lacquer scale plates have cold steel silver edges and ivory-white inlaid joints. The signature construction is a double layer of unusually broad interlocking dragon scales across the torso and hips, staggered like a masonry bond so every gap is defended by the layer beneath: an iron-wall commander made visible through real armor assembly. Small horn-shaped silver shoulder ornaments and a compact horned head ornament frame the human face. A deep neckline and deliberate openings at the upper arms and upper thighs provide bold exposure within this armored silhouette, intimate areas covered. Richly wrought Western fittings and layered scale work convey her celebrated military rank.\nShe wears her grass-green hair in a high coiled braided bun with two softly curled cheek locks. Golden tan skin, a small rounded diamond-shaped face, naturally open hazel-gold eyes, graceful strong eyebrows, soft smoky plum makeup and terracotta lips. An adult woman in her late twenties, confident and watchful. A steady contrapposto on a snow-dusted black-stone bridge before a northern citadel; her left hand holds the great iron tower shield at a slight outward angle beside her, its entire outline clearly visible, while her right hand stays open at her side. Blue banners and cold blue sigil light along the parapet, a distant snowy plain and pine trees. One woman, no other figure or creature.\n\nOne figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+  "free_by": "gpt-session",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-caoren-api25-20261110-codex",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "c632c5553e4c423f827b900bd381e5aa5905132f3459e7216d0471893fe6d7d0",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "풀빛 올림머리, 뿔 모양 머리·어깨 장식, 겹친 용비늘 판금.",
+   "남색·은색 비늘 갑옷과 큰 서양 문장 방패, 전신과 부츠 확인.",
+   "서양 성채·설경·차가운 파란 마법 불빛, 갑옷 구조에 성벽의 겹침 반영."
+  ],
+  "cause": null,
+  "technical": {
+   "decoded": true,
+   "size": [
+    1024,
+    1536
+   ],
+   "png_sha256_verified": true,
+   "prompt_sha256_verified": true
+  }
+ },
+ "imported": "2026-11-10",
+ "acceptance": "사용자 2026-11-10 「올려줘.」 — 선택 1·4·3, 일상컷과 검수 차이를 본 뒤 두 저장소 main 게시·도감 등록·작업 기록·현재 조인 잠금 complete까지 승인"
+}

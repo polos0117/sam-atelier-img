@@ -1,0 +1,195 @@
+{
+ "atelier": "samguk",
+ "card": "조인",
+ "faction": "wei",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "ref": "조인_samguk_api25_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_event",
+  "ofam": "dongtan",
+  "item": "festival_chain",
+  "posture": "walk",
+  "support": "none",
+  "frame": "environmental",
+  "body": "back",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "down",
+  "use": "camera_carry",
+  "kind": "hold",
+  "legs": "walk_stride",
+  "gaze": "horizon",
+  "expr": "",
+  "preset": "walk_away",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "low"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "조인_samguk_api25_f_casual6.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Cao Ren of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — immovable defense, heavy layered armor, a calm commander behind a shield wall — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a great iron tower shield) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a themed costume event venue with props and a photo wall\nOutfit: a music-festival outfit — a crochet crop top with a delicate body chain, frayed denim micro shorts and ankle boots\nPOSTURE: walking.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; back to the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she carries a camera by its grip at her side; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks toward the far distance.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: low — mostly covered clothing, limited neck/hand exposure unless outfit is explicit\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-10",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 2178,
+   "input_tokens_details": {
+    "image_tokens": 864,
+    "text_tokens": 1314
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 2521
+  },
+  "seconds": 20.479,
+  "png_sha256": "2a5813af4c2adfbaf7fc0870c03d7dbcfa029c18cdc7f80b4560a84de4174702",
+  "prompt_sha256": "4247c9505df7b7995cd2b5b4a6249ca17c06e1bb437bab94bf502a0d8f24e925",
+  "retries": [
+   {
+    "n": 1,
+    "status": "safety",
+    "exposure": "low"
+   },
+   {
+    "n": 2,
+    "status": "ok",
+    "exposure": "low"
+   }
+  ],
+  "date": "2026-11-10",
+  "ref_sha256": "6001cd2f6ca751b86f859552c719c4faa2efe511c6d815cdf5c32bf98a1aaead",
+  "ref_sent": {
+   "size": [
+    768,
+    1152
+   ],
+   "sha256": "8381f326f5fbdcadb9ef2c18f27b4c388fa3f8d323c89d9ac174ae4e1388a33e"
+  },
+  "prior_attempts": [
+   {
+    "exposure": "bold",
+    "status": "safety",
+    "n": 1,
+    "plan": "original"
+   },
+   {
+    "exposure": "bold",
+    "status": "safety",
+    "n": 2,
+    "plan": "original"
+   },
+   {
+    "exposure": "moderate",
+    "status": "safety",
+    "n": 1,
+    "plan": "original"
+   },
+   {
+    "exposure": "moderate",
+    "status": "safety",
+    "n": 2,
+    "plan": "original"
+   },
+   {
+    "exposure": "low",
+    "status": "safety",
+    "n": 1,
+    "plan": "original"
+   },
+   {
+    "exposure": "low",
+    "status": "safety",
+    "n": 2,
+    "plan": "original"
+   }
+  ],
+  "replanning": {
+   "slot": 6,
+   "reason": "원래 레이스 란제리 세트 + 댄스무대가 bold, moderate, low에서 각각 두 번 안전 거절. 규칙대로 계획기로 한 칸만 다시 계획.",
+   "original_cut": {
+    "n": 6,
+    "era": "now",
+    "place": "stage_dance",
+    "ofam": "lingerie",
+    "treeV": 2,
+    "prop": "",
+    "preset": "stand_use",
+    "use": "camera_check",
+    "posture": "stand",
+    "support": "none",
+    "frame": "environmental",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "prop",
+    "legs": "stand_relaxed",
+    "gaze": "",
+    "item": "lace_set",
+    "expr": "curious",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": []
+   },
+   "replacement_seed": 285221824,
+   "required_before": "roleplay · nation · lingerie · situ:wet",
+   "required_after": "roleplay · nation · situ:wet"
+  },
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-caoren-api25-20261110-codex",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "2a5813af4c2adfbaf7fc0870c03d7dbcfa029c18cdc7f80b4560a84de4174702",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "테마 행사장에서 데님 숏츠·크로셰 크롭·바디체인·앵클부츠로 카메라를 들고 뒤로 걸어감.",
+   "새 계획의 뒤쪽 전신·공간 포함 구도. 참고 얼굴 옆모습·긴 머리 유지.",
+   "low 설정이나 명시된 옷은 크롭·마이크로 쇼츠여서 등·허리·다리는 넓게 드러남. 배경의 흐린 행인들은 ONE MAIN FIGURE가 허용한 범위."
+  ],
+  "cause": null,
+  "technical": {
+   "decoded": true,
+   "size": [
+    1024,
+    1536
+   ],
+   "png_sha256_verified": true,
+   "prompt_sha256_verified": true,
+   "original_ref_sha256_verified": true,
+   "sent_ref_sha256_verified": true,
+   "sent_ref_size": [
+    768,
+    1152
+   ]
+  }
+ },
+ "imported": "2026-11-10",
+ "acceptance": "사용자 2026-11-10 「올려줘.」 — 선택 1·4·3, 일상컷과 검수 차이를 본 뒤 두 저장소 main 게시·도감 등록·작업 기록·현재 조인 잠금 complete까지 승인"
+}
