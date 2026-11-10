@@ -1,0 +1,117 @@
+{
+ "atelier": "samguk",
+ "card": "황충",
+ "faction": "shu",
+ "role": "general",
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "impression": "mature",
+   "expr": "smug",
+   "skin_tone": "golden_tan",
+   "age": "late_20s",
+   "eye_size": "medium",
+   "eye_tilt": "level",
+   "mark": "mole_eye",
+   "brows": "straight_thin",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "inverted_triangle",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "ash_gray",
+   "hair": "long_layered",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "황충_mecha_api25_f.webp",
+ "prompt": "CONCEPT: a female personification of Huang Zhong (황충), a general of Shu Han in the Romance of the Three Kingdoms — the veteran archer of Shu who outshone the young at Dingjun Mountain. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Huang Zhong to carry in her design and the scene: a seasoned veteran whose aim never fails, silver-streaked hair worn proudly, a heavy saber at her hip, the victory at Dingjun Mountain.\nFACTION — Shu Han. Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; long layered hair with hair swept back off the forehead; ash-gray hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a mature, poised woman; golden tan skin; softly tapered face narrowing to a small, soft chin; moderately sized, realistically proportioned eyes — long phoenix eyes with lifted outer corners, level outer eye corners; thin straight brows; petite straight nose; soft medium lips; amber eyes; a small beauty mark under one eye.\nWORLD — MECHA: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. MECHA DESIGN: she is a female mecha personification, built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. Mecha plating covers her frame except where EXPOSURE opens it — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nMECHA SILHOUETTE: several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth. Only the overall shape is fixed; design the details freely.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her mecha frame is cut open by design in only these places — a deep open chest window with natural cleavage framed by the chest plates, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a great recurved war bow with a quiver of red-fletched arrows — rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings. She holds or carries it, drawn at full scale. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint knowing smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-10",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1352,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1352
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1695
+  },
+  "seconds": 22.272,
+  "png_sha256": "9239dc6ca078b2a517be4870ea7a36827a5e53f5a4ae39bb92d7f85cc2489155",
+  "prompt_sha256": "473f9fd310cd4d92238beea8054c0712aa1329dd67e9a42244828eb69f96e33e",
+  "retries": [
+   {
+    "n": 1,
+    "status": "safety",
+    "exposure": "bold"
+   },
+   {
+    "n": 2,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-10",
+  "design": "ours",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-huangzhong-api25-20261110-codex",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "9239dc6ca078b2a517be4870ea7a36827a5e53f5a4ae39bb92d7f85cc2489155",
+  "passed": false,
+  "exposure": "weaker",
+  "observations": [
+   "잿빛 긴 하프업 머리·금빛 피부, 기계식 망토판과 녹색 에너지 활.",
+   "유리 돔 정원도시·궤도 시설과 고리 행성, 전신·양 부츠·붉은 깃 화살통.",
+   "지정한 복부 개방 대신 복부가 장갑으로 덮이고 허벅지가 크게 드러남.",
+   "활 상단이 프레임 바깥으로 잘림. 물건 잘림으로 재생성하지 않음."
+  ],
+  "cause": "EXPOSURE의 복부 개방·다른 부위 장갑 유지 불충족, 활 상단 잘림.",
+  "technical": {
+   "decoded": true,
+   "size": [
+    1024,
+    1536
+   ],
+   "png_sha256_verified": true,
+   "prompt_sha256_verified": true
+  }
+ },
+ "imported": "2026-11-10",
+ "acceptance": "사용자 2026-11-10 「올려줘」 — 후보 미선택이라 선택 후 일상컷18장까지 만든 뒤 올리겠다고 안내했고, 이후 사용자 「2,3,2」로 선택. 완성 시트와 검수 차이를 채팅에 표시한 뒤 같은 요청 범위에서 게시."
+}

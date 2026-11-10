@@ -1,0 +1,111 @@
+{
+ "atelier": "samguk",
+ "card": "황충",
+ "faction": "shu",
+ "role": "general",
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "impression": "mature",
+   "expr": "smug",
+   "skin_tone": "golden_tan",
+   "age": "late_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "mole_eye",
+   "brows": "straight_thin",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "heart",
+   "eyes": "cat"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "ash_gray",
+   "hair": "side_ponytail",
+   "bangs": "baby"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "황충_samguk_api25_f.webp",
+ "prompt": "CONCEPT: a female personification of Huang Zhong (황충), a general of Shu Han in the Romance of the Three Kingdoms — the veteran archer of Shu who outshone the young at Dingjun Mountain. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Huang Zhong to carry in her design and the scene: a seasoned veteran whose aim never fails, silver-streaked hair worn proudly, a heavy saber at her hip, the victory at Dingjun Mountain.\nFACTION — Shu Han (蜀). Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags.\nSILHOUETTE: strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist build; a side ponytail over one shoulder with short baby bangs; ash-gray hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a mature, poised woman; golden tan skin; heart-shaped face; large eyes — feline cat eyes, level outer eye corners; thin straight brows; petite straight nose; soft medium lips; amber eyes; a small beauty mark under one eye.\nWORLD — THREE KINGDOMS ERA: Shu Han in the Sichuan basin, around 208–263 AD: the city of Chengdu, cliffside plank roads over gorges, mist-wrapped mountains and bamboo forests, peach orchards, green-and-gold banners. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nOUTFIT SILHOUETTE: a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette. Only the overall shape is fixed; design the details freely. This silhouette overrides the overall shape of the role costume above.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; keep the costume material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a great recurved war bow with a quiver of red-fletched arrows — in the form this WORLD gives it. She holds or carries it, drawn at full scale. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint knowing smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 蜀 or 黃.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-10",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1247,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1247
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1590
+  },
+  "seconds": 20.71,
+  "png_sha256": "ac4de3870c057e96707e1923a7b3abad0be69fc6c436c61e032da256689805f3",
+  "prompt_sha256": "e42f7698ae3c7055c5c714594c9f566cc8c4bc5e46d9f68eb8b7b99f6fe57dd4",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-10",
+  "design": "ours",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-huangzhong-api25-20261110-codex",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "ac4de3870c057e96707e1923a7b3abad0be69fc6c436c61e032da256689805f3",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "잿빛 옆 포니테일, 금빛 피부, 녹색 무복과 갑편·넓은 허리띠.",
+   "큰 활과 붉은 깃 화살통, 양 부츠와 전신 확인.",
+   "정군산풍 능선·절벽 누각·폭포와 蜀 한 글자 깃발."
+  ],
+  "cause": null,
+  "technical": {
+   "decoded": true,
+   "size": [
+    1024,
+    1536
+   ],
+   "png_sha256_verified": true,
+   "prompt_sha256_verified": true
+  }
+ },
+ "imported": "2026-11-10",
+ "acceptance": "사용자 2026-11-10 「올려줘」 — 후보 미선택이라 선택 후 일상컷18장까지 만든 뒤 올리겠다고 안내했고, 이후 사용자 「2,3,2」로 선택. 완성 시트와 검수 차이를 채팅에 표시한 뒤 같은 요청 범위에서 게시."
+}

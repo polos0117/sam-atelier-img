@@ -1,0 +1,118 @@
+{
+ "atelier": "samguk",
+ "card": "황충",
+ "faction": "shu",
+ "role": "general",
+ "world": "fantasy",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "impression": "mature",
+   "expr": "smug",
+   "skin_tone": "golden_tan",
+   "age": "late_20s",
+   "eye_size": "large",
+   "eye_tilt": "level",
+   "mark": "mole_eye",
+   "brows": "straight_thin",
+   "nose": "petite_straight",
+   "lips": "soft_medium",
+   "face_shape": "v_line",
+   "eyes": "hooded"
+  },
+  "silhouette": {
+   "body": "strong_curvy",
+   "hair_color": "ash_gray",
+   "hair": "half_up",
+   "bangs": "side_locks"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "황충_fantasy_api25_f.webp",
+ "prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Huang Zhong from the Romance of the Three Kingdoms, reimagined as an adult woman — the veteran archer of Shu who outshone the young at Dingjun Mountain. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: a seasoned veteran whose aim never fails, silver-streaked hair worn proudly, a heavy saber at her hip, the victory at Dingjun Mountain.\n\nWorld (fixed): a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) full plate armor from neck to feet with big rounded pauldrons and a short heraldic tabard — a solid knight's silhouette; 2) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) plate armor under a long heraldic tabard with a white cape to the ankles — a straight, holy silhouette; 5) large metal feathered wing ornaments spreading from the shoulders or back and a wing-shaped head ornament — the wings make the shape; 6) angular, spiked dark plate armor and a long cape with torn edges — a sharp, menacing silhouette; 7) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 8) a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette; 9) dragon-scale armor covering the body with horn-shaped shoulder and head ornaments — a beastly, imposing silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a great recurved war bow with a quiver of red-fletched arrows, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): ash-gray hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): golden tan skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+ "date": "2026-11-10",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1106,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1106
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1449
+  },
+  "seconds": 20.797,
+  "png_sha256": "a84e7ad7b7e6505981aeba7a4eaaf15019d1a66cc3545d611bc9dd8a42f7d09e",
+  "prompt_sha256": "de9c61bd51c114c64f98d6c0ee2db7a623c5da30d206b80e0b19920b51c6f0cb",
+  "retries": [
+   {
+    "n": 1,
+    "status": "safety",
+    "exposure": "bold"
+   },
+   {
+    "n": 2,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-10",
+  "design": "gpt_free",
+  "free_prompt": "Create this image. A full-body vertical 2:3 (1024×1536) character card image of Huang Zhong from the Romance of the Three Kingdoms, reimagined as an adult woman — the veteran archer of Shu who outshone the young at Dingjun Mountain. Age: early thirties — a poised, graceful face with soft contours; at most faint lines, no deep folds or under-eye bags. She is a woman — no beard, moustache or facial hair.\n\nStyle (fixed): Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nInspiration only: a seasoned veteran whose aim never fails, silver-streaked hair worn proudly, a heavy saber at her hip, the victory at Dingjun Mountain.\n\nWorld (fixed): a righteous highland kingdom of Western medieval high fantasy: grey-stone castles and fortified abbeys on green mountain ridges, alpine meadows, waterfalls and oak forests, heraldic banners of green and gold bearing a dragon device, oaths sworn under an ancient oak, gentle green nature-magic. Her costume, weapon and setting belong to this world.\n\nWeapon (fixed — ours): a great recurved war bow with a quiver of red-fletched arrows, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): ash-gray hair. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): golden tan skin. Keep exactly this skin tone.\n\nCostume colours (ours): jade green, imperial gold, earthen brown, white jade.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nCostume choice 7: thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette. Jade-green enameled leaf plates have imperial-gold edges, with earthen-brown leather joints and white-jade flowing silk panels. Her signature construction is an interlocked chevron arrangement of narrow leaf plates across the torso and hips, built like the precise layered fletching that keeps an arrow true; the same angle guides the cuffs and the actual seams of the silk panels. Fine gold filigree and gemstone fastenings keep the outfit richly worked and worthy of a famed war general. A deep neckline, bare upper arms and high splits between the flowing panels give bold exposure; intimate areas covered.\nAsh-gray hair in very long loose spiral waves with a half-up twisted knot and soft face-framing locks. Golden tan skin, small softly rounded diamond-shaped face, naturally open sapphire-blue eyes, relaxed curved brows, soft moss-green eyeliner and rose-brown lips. A composed woman in her early thirties with a subtle delighted smile. She stands on a grey-stone abbey bridge, her left hand holding the great recurved war bow upright beside her boot and her right hand resting loosely on her waist. A quiver of red-fletched arrows hangs behind her opposite hip. Her entire bow and full figure are clear. Western alpine meadow and waterfalls, an oak forest and distant grey-stone castle with green-and-gold heraldic banners, gentle green nature-magic drifting in bright spring daylight. No animals or other people.\n\nOne figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark.",
+  "free_by": "gpt-session",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-huangzhong-api25-20261110-codex",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "a84e7ad7b7e6505981aeba7a4eaaf15019d1a66cc3545d611bc9dd8a42f7d09e",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "잿빛 긴 웨이브 하프업과 부드러운 작은 얼굴, 금빛 피부.",
+   "화살깃처럼 겹친 녹색 잎 갑편과 백색 천 패널, 은금색 금속 활·보석·붉은 깃 화살통.",
+   "전신과 양 부츠, 서양 산악 성채·폭포·참나무·녹색 용 문장."
+  ],
+  "cause": null,
+  "technical": {
+   "decoded": true,
+   "size": [
+    1024,
+    1536
+   ],
+   "png_sha256_verified": true,
+   "prompt_sha256_verified": true
+  }
+ },
+ "imported": "2026-11-10",
+ "acceptance": "사용자 2026-11-10 「올려줘」 — 후보 미선택이라 선택 후 일상컷18장까지 만든 뒤 올리겠다고 안내했고, 이후 사용자 「2,3,2」로 선택. 완성 시트와 검수 차이를 채팅에 표시한 뒤 같은 요청 범위에서 게시."
+}
