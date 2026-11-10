@@ -34,7 +34,7 @@
   {
    "key": "태사자",
    "execution": "sam-taishici-api25-20261110-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-10T12:05:27.848Z",
    "date_kst": "2026-11-10",
    "date_utc": "2026-11-10",
@@ -60,7 +60,35 @@
     "태사자_mecha_kr_mmorpg_26_f_casual4.webp",
     "태사자_mecha_kr_mmorpg_26_f_casual5.webp",
     "태사자_mecha_kr_mmorpg_26_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-10T12:32:48.753155+00:00",
+   "done_by": "sam-taishici-api25-20261110-codex",
+   "style": "api25",
+   "completed_files": [
+    "태사자_samguk_api25_f.webp",
+    "태사자_samguk_api25_f_casual1.webp",
+    "태사자_samguk_api25_f_casual2.webp",
+    "태사자_samguk_api25_f_casual3.webp",
+    "태사자_samguk_api25_f_casual4.webp",
+    "태사자_samguk_api25_f_casual5.webp",
+    "태사자_samguk_api25_f_casual6.webp",
+    "태사자_fantasy_api25_f.webp",
+    "태사자_fantasy_api25_f_casual1.webp",
+    "태사자_fantasy_api25_f_casual2.webp",
+    "태사자_fantasy_api25_f_casual3.webp",
+    "태사자_fantasy_api25_f_casual4.webp",
+    "태사자_fantasy_api25_f_casual5.webp",
+    "태사자_fantasy_api25_f_casual6.webp",
+    "태사자_mecha_api25_f.webp",
+    "태사자_mecha_api25_f_casual1.webp",
+    "태사자_mecha_api25_f_casual2.webp",
+    "태사자_mecha_api25_f_casual3.webp",
+    "태사자_mecha_api25_f_casual4.webp",
+    "태사자_mecha_api25_f_casual5.webp",
+    "태사자_mecha_api25_f_casual6.webp"
+   ],
+   "completion_approval": "사용자 「올려줘」 — 두 저장소 main에 그림·기록·도감·작업 기록 및 현재 태사자 잠금 complete 반영까지 명시적으로 승인",
+   "reason": "API25 선택1·1·3와 일상컷18장 업로드·도감21칸 등록·자동 썸네일21장·원격45파일 검증 완료. 기본 화풍을 보는 image-claim done 대신 실제 api25 등록21칸을 대조해 본인 실행만 완료 처리. 이전 완료 이력과 기존 화풍 보존."
   }
  ]
 }
