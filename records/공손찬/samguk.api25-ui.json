@@ -1,0 +1,107 @@
+{
+ "atelier": "samguk",
+ "card": "공손찬",
+ "faction": "qun",
+ "role": "lord",
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "jade",
+   "impression": "cool",
+   "expr": "proud",
+   "skin_tone": "warm_beige",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "inverted_triangle",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "tall_curvy",
+   "hair_color": "grass_green",
+   "hair": "pixie",
+   "bangs": "straight"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "공손찬_samguk_api25_f.webp",
+ "prompt": "CONCEPT: a female personification of Gongsun Zan (공손찬), a ruler of the rival warlords in the Romance of the Three Kingdoms — the 'White General' who ruled the northern frontier with her all-white elite guard. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Gongsun Zan to carry in her design and the scene: proud frontier command, gleaming all-white armor, white banners of her elite guard.\nFACTION — the rival warlords (雄). Palette: pure white, silver, pale sky blue and steel.\nAGE: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nSILHOUETTE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a pixie cut with blunt straight bangs; grass-green hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a cool, aloof beauty; warm beige skin; softly tapered face narrowing to a small, soft chin; moderately sized, realistically proportioned eyes — soft droopy eyes, outer eye corners drooping downward; thick straight brows; upturned nose; full heart-shaped lips; jade-green eyes; a small beauty mark under one eye.\nWORLD — THREE KINGDOMS ERA: the chaos of the late Eastern Han, around 184–200 AD: burning Luoyang, the Hulao Pass, Yellow Turban fields, warlord camps of rival banners, frontier steppe and the southern jungles of the Nanman. COSTUME (Three Kingdoms era): Han-dynasty ruler's regalia — layered silk robes in her faction's colours with broad embroidered sleeves, a jade-and-gold guan headpiece or a mian crown with beaded strings, jade pendants at the sash, a ceremonial jian sword at the belt. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nOUTFIT SILHOUETTE: a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath. Only the overall shape is fixed; design the details freely. This silhouette overrides the overall shape of the role costume above.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; keep the costume material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a double-ended spear — in the form this WORLD gives it. She holds or carries it, drawn at full scale. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a proud, poised look with a faint closed-lip smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 雄 or 公孫.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-10",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1259,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1259
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1602
+  },
+  "seconds": 20.789,
+  "png_sha256": "9c32ced564b44cf9f6771aa4fd818f1a0d95a607115f0c3fd0a3248848543030",
+  "prompt_sha256": "0064fb0ab1936d9f6922fefe3e06e90d7006aa1782dc9ccf15cc6af91c4193c4",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-10",
+  "design": "ours",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "9c32ced564b44cf9f6771aa4fd818f1a0d95a607115f0c3fd0a3248848543030",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "전신과 양발·손, 풀빛 머리, 흰색/은색 장비 확인. 얼굴·굴곡 체형과 팔다리 수 유지. 지정 bold 노출이 의상 안에서 표현되고 은밀 부위는 가려짐.",
+   "실제 말·동물은 보이지 않으며 주인물 한 명.",
+   "창 윗끝이 프레임 밖으로 잘림. 깃발 公孫 두 글자는 한 글자 허용 규칙과 어긋남."
+  ],
+  "cause": "이미지 모델의 프레이밍·배경 글자·헤어 또는 물건 가림 차이. 무기 잘림·가림은 재생성하지 않는 사용자 규칙 적용."
+ },
+ "execution": "sam-gongsunzan-api25-20261110-codex",
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "imported": "2026-11-10"
+}
