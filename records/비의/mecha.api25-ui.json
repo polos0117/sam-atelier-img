@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "비의",
+ "faction": "shu",
+ "role": "official",
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "magenta",
+   "impression": "soft",
+   "expr": "calm",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "red_lip",
+   "brows": "straight_thin",
+   "nose": "high_bridge",
+   "lips": "plush_pout",
+   "face_shape": "inverted_triangle",
+   "eyes": "cat"
+  },
+  "silhouette": {
+   "body": "willowy_curvy",
+   "hair_color": "ocean_blue",
+   "hair": "side_braid",
+   "bangs": "swept_back"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "비의_mecha_api25_f.webp",
+ "prompt": "CONCEPT: a female personification of Fei Yi (비의), a court official of Shu Han in the Romance of the Three Kingdoms — the calm statesman who stitched together Wei Yan's and Yang Yi's quarrels. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Fei Yi to carry in her design and the scene: effortless competence, famous for playing go while handling affairs of state.\nFACTION — Shu Han. Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nSILHOUETTE: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist build; a single thick braid over one shoulder with hair swept back off the forehead; ocean-blue hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a soft, gentle warmth; fair skin; softly tapered face narrowing to a small, soft chin; moderately sized, realistically proportioned eyes — feline cat eyes, outer eye corners tilting sharply upward; thin straight brows; slim, delicate nose with a refined bridge; soft, full lips; magenta eyes; bold red lipstick.\nWORLD — MECHA: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. MECHA DESIGN: she is a female mecha personification, built as a support and logistics mecha frame — lighter plating, data panels and shield units, utility sub-arms; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. Mecha plating covers her frame except where EXPOSURE opens it — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nMECHA SILHOUETTE: ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape. Only the overall shape is fixed; design the details freely.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her mecha frame is cut open by design in only these places — a deep open chest window with natural cleavage framed by the chest plates, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a lacquered jar of go stones — rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings. She holds or carries it, drawn at full scale. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a relaxed, unforced face, lips gently closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-11",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1330,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1330
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1673
+  },
+  "seconds": 19.411,
+  "png_sha256": "e6bb6d50ac867949f661f9ae5503a678d37381aff2fb2952800c33c3822f8ac2",
+  "prompt_sha256": "2b0cb8384dc0aae38e70e80b30f7e07d68b0763ade02f85064ea09ac32f432e9",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-11",
+  "design": "ours",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-feiyi-api25-20261111-codex",
+ "qa": {
+  "reviewer": "codex",
+  "image_sha256": "e6bb6d50ac867949f661f9ae5503a678d37381aff2fb2952800c33c3822f8ac2",
+  "passed": false,
+  "exposure": "weaker",
+  "observations": [
+   "바다빛 긴 옆 땋은 머리·밝은 피부, 옥색·백옥색 장갑과 금색 관절.",
+   "허리·발목 부유 링, 한 손의 뚜껑 있는 고기술 바둑알 항아리. 전신·양 부츠와 우주 정원 도시·고리 행성.",
+   "지정 복부 개방 대신 복부가 장갑으로 덮이고 어깨·허벅지가 드러남."
+  ],
+  "cause": "EXPOSURE의 복부 개방과 그 외 부위 장갑 유지가 지켜지지 않음. 복부는 장갑으로 덮이고 어깨·허벅지가 드러남.",
+  "technical": {
+   "decoded": true,
+   "size": [
+    1024,
+    1536
+   ],
+   "png_sha256_verified": true,
+   "prompt_sha256_verified": true
+  }
+ },
+ "imported": "2026-11-11",
+ "acceptance": {
+  "approved_by": "user",
+  "message": "올려줘",
+  "date": "2026-11-11",
+  "scope": "비의 2·2·2 세계 그림과 일상컷18장, 검수 차이 포함 게시·도감 등록·작업 기록·현재 잠금 complete 처리"
+ }
+}
