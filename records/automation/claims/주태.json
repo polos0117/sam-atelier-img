@@ -1,0 +1,39 @@
+{
+ "key": "주태",
+ "runs": [
+  {
+   "key": "주태",
+   "execution": "sam-zhoutai-api25-20261111-codex",
+   "status": "working",
+   "claimed_at": "2026-11-11T15:06:56.614Z",
+   "date_kst": "2026-11-12",
+   "date_utc": "2026-11-11",
+   "missing": [
+    "주태_samguk_kr_drawn_rim_dewy_f.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
