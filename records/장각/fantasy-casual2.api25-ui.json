@@ -1,0 +1,105 @@
+{
+ "atelier": "samguk",
+ "card": "장각",
+ "faction": "qun",
+ "slot": "casual2",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "api25",
+ "styleVersion": "v1",
+ "ref": "장각_fantasy_api25_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_kitchen",
+  "ofam": "homewear",
+  "item": "backless_lounge",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "rail",
+  "use": "towel_neck",
+  "legs": "",
+  "gaze": "at_prop",
+  "color": "pattern",
+  "expr": "focused",
+  "preset": "counter_cup",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "장각_fantasy_api25_f_casual2.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhang Jiao of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — mystical charisma, yellow headscarf, Taoist talismans and a nine-section staff — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (turban yellow, earth brown, faded ochre and charcoal). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nWORLD: this scene happens inside her own world — the world of the attached image — as if she simply lives there: the shattered realms of medieval high fantasy, an age of rival warlords after a fallen empire: a ruined imperial capital, mercenary camps, border keeps, outlaw marches and wild southern jungles, dark violet battle-magic. Its architecture, props, light and weather show the world; no creatures, no second character, no readable text other than abstract heraldic or insignia shapes — never letters or Chinese characters. Her clothes stay the everyday outfit SCENE describes, not regalia or armor.\n\nSCENE (chosen):\nPlace: a castle kitchen with a great hearth, copper pots and a long wooden table\nOutfit: a lounge dress with a deeply open back — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on the railing.\nPROP: with her own right hand she holds one end of a towel hung around her neck; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: attentive, steady eyes, mouth closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — inside the crop, the chosen outfit is worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders and collarbones, skin clearly showing; the crop stays exactly where CROP sets it and never moves down to show more; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-11",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 2416,
+   "input_tokens_details": {
+    "image_tokens": 864,
+    "text_tokens": 1552
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 2759
+  },
+  "seconds": 21.527,
+  "png_sha256": "61ab0529cd60e589f23e6fe4a53aa33422480b485d642fae9aa6845e5b413832",
+  "prompt_sha256": "1a9831b7e1e6da09bc471a57a2845f17801fc75c7008c33fa39527eb84a4d79d",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-11",
+  "ref_sha256": "0bc90609fa5fc253d1fa5edb26435271a16e8eb7bffea0ff1fc22d3ca4833cc3",
+  "ref_sent": {
+   "size": [
+    768,
+    1152
+   ],
+   "sha256": "11fc5ef31f648ee7c21bd48b5d4de303900ca6af290ccc9071c833d3278af155"
+  },
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-zhangjiao-api25-20261111-codex",
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "61ab0529cd60e589f23e6fe4a53aa33422480b485d642fae9aa6845e5b413832",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "세계 부엌·푸른 깅엄 백리스 라운지·수건·카운터 지지·옆얼굴 확인.",
+   "참고 얼굴·레몬빛 머리·밝은 피부·굴곡 체형 유지. 팔다리와 손 수 정상이며 은밀 부위는 가려짐."
+  ]
+ },
+ "imported": "2026-11-11"
+}
