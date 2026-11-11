@@ -1,0 +1,108 @@
+{
+ "atelier": "samguk",
+ "card": "장비",
+ "faction": "shu",
+ "role": "general",
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "amber",
+   "age": "early_20s",
+   "impression": "fierce",
+   "skin_tone": "warm_beige",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "smoky",
+   "expr": "proud",
+   "brows": "angled_sharp",
+   "nose": "straight_narrow",
+   "lips": "heart_full",
+   "face_shape": "heart",
+   "eyes": "deep_set"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "jet_black",
+   "hair": "short_crop",
+   "bangs": "choppy"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "장비_mecha_api25_f.webp",
+ "prompt": "CONCEPT: a female personification of Zhang Fei (장비), a general of Shu Han in the Romance of the Three Kingdoms — the thunder-voiced tiger general of Shu who held Changban Bridge alone. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Zhang Fei to carry in her design and the scene: a thunderous roar that turned an army back at Changban Bridge, wild temper and fierce joy, a love of wine, a striking wild beauty whose tiger-whiskered fierceness is reimagined as wild bristling hair and tiger-stripe trim.\nFACTION — Shu Han. Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: toned athletic-curvy, full-busted with rounded hips build; short cropped hair with choppy uneven bangs; glossy jet-black hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; warm beige skin; heart-shaped face; medium-sized eyes — deep-set eyes, outer eye corners tilting sharply upward; sharp angled brows; straight narrow nose; full heart-shaped lips; amber eyes; smoky dark eye makeup.\nWORLD — MECHA: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. MECHA DESIGN: she is a female mecha personification, built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. Mecha plating covers her frame except where EXPOSURE opens it — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nMECHA SILHOUETTE: a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape. Only the overall shape is fixed; design the details freely.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her mecha frame is cut open by design in only these places — a bare waist and midriff between the bust plate and the hip armor, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: the Serpent Spear, a long zhangba spear with a wavy serpent-shaped blade — rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings. She holds or carries it, drawn at full scale. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a proud, poised look with a faint closed-lip smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-11",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1354,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1354
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1697
+  },
+  "seconds": 22.75,
+  "png_sha256": "f579907be5a93dd23c6c2fd205b890e6c328394add3c2321a295cdea367a1434",
+  "prompt_sha256": "acd90ebb20c3d18f04d0aaaa03ae2844ebf5d853bdd719a931681700f6a8aa48",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-11",
+  "design": "ours",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-zhangfei-api25-20261111-codex",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "f579907be5a93dd23c6c2fd205b890e6c328394add3c2321a295cdea367a1434",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "검은 머리·따뜻한 피부·옥색/금색/흙갈색/백옥색 팔레트 유지. 여성 전신과 양발·손, 자연스러운 얼굴·굴곡 체형 및 팔다리 수 확인.",
+   "지정 bold 노출과 일치하며 은밀 부위는 가려짐. 실제 동물과 다른 주인물 없음. 동물 모양은 장비의 장식.",
+   "장팔사모 윗끝이 프레임 밖으로 잘리고 아래쪽에도 별도 칼날이 추가되어 양날 형태로 변형됨.",
+   "세계별 룬과 마법 빛 또는 메카 장갑판과 발광 에너지 날 확인. 읽히는 문구 없음."
+  ],
+  "cause": "장병기 전체 길이를 모델이 프레임에 맞추지 못함. 메카2는 칼날 중복. 무기 잘림·형태는 재생성하지 않는 사용자 규칙에 따라 보존."
+ },
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ },
+ "imported": "2026-11-11"
+}
