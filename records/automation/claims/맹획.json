@@ -64,6 +64,37 @@
    "done_at": "2026-11-04T12:18:53.414989+00:00",
    "done_by": "sam-menghuo-redo-626ae",
    "replaced_count": 18
+  },
+  {
+   "key": "맹획",
+   "execution": "sam-menghuo-api25-20261111-codex",
+   "status": "working",
+   "claimed_at": "2026-11-11T01:28:02.444Z",
+   "date_kst": "2026-11-11",
+   "date_utc": "2026-11-11",
+   "missing": [
+    "맹획_samguk_kr_mmorpg_26_f.webp",
+    "맹획_samguk_kr_mmorpg_26_f_casual1.webp",
+    "맹획_samguk_kr_mmorpg_26_f_casual2.webp",
+    "맹획_samguk_kr_mmorpg_26_f_casual3.webp",
+    "맹획_samguk_kr_mmorpg_26_f_casual4.webp",
+    "맹획_samguk_kr_mmorpg_26_f_casual5.webp",
+    "맹획_samguk_kr_mmorpg_26_f_casual6.webp",
+    "맹획_fantasy_kr_mmorpg_26_f.webp",
+    "맹획_fantasy_kr_mmorpg_26_f_casual1.webp",
+    "맹획_fantasy_kr_mmorpg_26_f_casual2.webp",
+    "맹획_fantasy_kr_mmorpg_26_f_casual3.webp",
+    "맹획_fantasy_kr_mmorpg_26_f_casual4.webp",
+    "맹획_fantasy_kr_mmorpg_26_f_casual5.webp",
+    "맹획_fantasy_kr_mmorpg_26_f_casual6.webp",
+    "맹획_mecha_kr_mmorpg_26_f.webp",
+    "맹획_mecha_kr_mmorpg_26_f_casual1.webp",
+    "맹획_mecha_kr_mmorpg_26_f_casual2.webp",
+    "맹획_mecha_kr_mmorpg_26_f_casual3.webp",
+    "맹획_mecha_kr_mmorpg_26_f_casual4.webp",
+    "맹획_mecha_kr_mmorpg_26_f_casual5.webp",
+    "맹획_mecha_kr_mmorpg_26_f_casual6.webp"
+   ]
   }
  ]
 }
