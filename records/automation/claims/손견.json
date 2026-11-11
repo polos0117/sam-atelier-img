@@ -63,6 +63,40 @@
    "done_at": "2026-11-03T01:38:37.393Z",
    "done_by": "sam-sunjian-3a2d-resume1",
    "registration_commit": "c1882789354e320c9a579ca8a2cb942cbcbea093"
+  },
+  {
+   "key": "손견",
+   "execution": "sam-sunjian-20261112-09c3",
+   "status": "working",
+   "claimed_at": "2026-11-11T15:08:06.038Z",
+   "date_kst": "2026-11-12",
+   "date_utc": "2026-11-11",
+   "missing": [
+    "손견_samguk_kr_drawn_rim_dewy_f.webp",
+    "손견_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "손견_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "손견_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "손견_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "손견_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "손견_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "손견_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "손견_fantasy_kr_drawn_rim_dewy_f.webp",
+    "손견_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "손견_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "손견_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "손견_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "손견_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "손견_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "손견_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "손견_mecha_kr_drawn_rim_dewy_f.webp",
+    "손견_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "손견_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "손견_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "손견_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "손견_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "손견_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "손견_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
