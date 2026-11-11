@@ -4,7 +4,7 @@
   {
    "key": "하후연",
    "execution": "sam-xiahouyuan-api25-20261111-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T12:35:06.501Z",
    "date_kst": "2026-11-11",
    "date_utc": "2026-11-11",
@@ -30,7 +30,39 @@
     "하후연_mecha_kr_drawn_rim_dewy_f_casual4.webp",
     "하후연_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "하후연_mecha_kr_drawn_rim_dewy_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-11T13:01:15.688520+00:00",
+   "done_by": "sam-xiahouyuan-api25-20261111-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "하후연_samguk_api25_f.webp",
+     "하후연_samguk_api25_f_casual1.webp",
+     "하후연_samguk_api25_f_casual2.webp",
+     "하후연_samguk_api25_f_casual3.webp",
+     "하후연_samguk_api25_f_casual4.webp",
+     "하후연_samguk_api25_f_casual5.webp",
+     "하후연_samguk_api25_f_casual6.webp",
+     "하후연_fantasy_api25_f.webp",
+     "하후연_fantasy_api25_f_casual1.webp",
+     "하후연_fantasy_api25_f_casual2.webp",
+     "하후연_fantasy_api25_f_casual3.webp",
+     "하후연_fantasy_api25_f_casual4.webp",
+     "하후연_fantasy_api25_f_casual5.webp",
+     "하후연_fantasy_api25_f_casual6.webp",
+     "하후연_mecha_api25_f.webp",
+     "하후연_mecha_api25_f_casual1.webp",
+     "하후연_mecha_api25_f_casual2.webp",
+     "하후연_mecha_api25_f_casual3.webp",
+     "하후연_mecha_api25_f_casual4.webp",
+     "하후연_mecha_api25_f_casual5.webp",
+     "하후연_mecha_api25_f_casual6.webp"
+    ],
+    "image_commit": "c6ca8ff9427267bd01c7a36dc769a940b0b42a49",
+    "registration_commit": "d0d4ed6984e840f90fc58cba45a0fd5be0bbccd5",
+    "approval": "사용자 「올려줘」",
+    "note": "요청한 api25 세계3+일상18와 썸네일 등록 확인. 원래 기본화풍 missing 목록은 역사 기록으로 보존."
+   }
   }
  ]
 }
