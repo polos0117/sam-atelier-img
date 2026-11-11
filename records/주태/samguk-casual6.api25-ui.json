@@ -1,0 +1,122 @@
+{
+ "atelier": "samguk",
+ "card": "주태",
+ "faction": "wu",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "ref": "주태_samguk_api25_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_tower",
+  "ofam": "evening",
+  "item": "sequin_mini",
+  "posture": "squat",
+  "support": "none",
+  "frame": "full_body",
+  "body": "front",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "lantern_carry",
+  "legs": "squat_heels",
+  "gaze": "at_prop",
+  "ofree": true,
+  "ofreeFamily": "lingerie",
+  "ofreeSitu": "free",
+  "ofreeRecent": "a night river covered with floating paper lanterns — standing; the Zhuge Liang shrine on the Wuzhang Plains plateau — holds a white feather fan upright at chest height; a cable car cabin over a misty valley — holds a tall iced coffee in a clear cup with a straw at chest height; a sunlit white marble temple — kneeling on the ground; a Guan Yu temple — standing; a desert oasis at golden hour — standing; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; a space-station lounge bar — lights the candle inside a small red paper lantern; a Peking opera dressing room — standing; an ancestral shrine hall with a bronze incense burner — holds a magnifying glass by its handle at chest height; a sunny ranch — touches one ear cup of a pair of over-ear headphones hung around her neck; a Roman marble bath hall — perched on a ledge or edge; a modern glass-walled office at dusk — standing",
+  "expr": "serious",
+  "preset": "squat_prop",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "주태_samguk_api25_f_casual6.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhou Tai of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — countless scars each with a story, unwavering loyalty, heavy armor — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a broad saber) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a night river covered with floating paper lanterns — standing; the Zhuge Liang shrine on the Wuzhang Plains plateau — holds a white feather fan upright at chest height; a cable car cabin over a misty valley — holds a tall iced coffee in a clear cup with a straw at chest height; a sunlit white marble temple — kneeling on the ground; a Guan Yu temple — standing; a desert oasis at golden hour — standing; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; a space-station lounge bar — lights the candle inside a small red paper lantern; a Peking opera dressing room — standing; an ancestral shrine hall with a bronze incense burner — holds a magnifying glass by its handle at chest height; a sunny ranch — touches one ear cup of a pair of over-ear headphones hung around her neck; a Roman marble bath hall — perched on a ledge or edge; a modern glass-walled office at dusk — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder.\nOutfit: …\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-11",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 2712,
+   "input_tokens_details": {
+    "image_tokens": 864,
+    "text_tokens": 1848
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 3055
+  },
+  "seconds": 19.844,
+  "png_sha256": "87d60c9df3735900f4c945fabd9d7a3bff4b51d29e0424808bf29b0740317f8c",
+  "prompt_sha256": "64e0ef7b20bb7c73f518d5bcb2d96c34e4a061b5aa475d247be30dfcfae93fcb",
+  "retries": [
+   {
+    "n": 1,
+    "status": "safety",
+    "exposure": "bold",
+    "at": "2026-11-11T15:28:32.933Z"
+   },
+   {
+    "n": 2,
+    "status": "ok",
+    "exposure": "bold",
+    "at": "2026-11-11T15:28:52.792Z"
+   }
+  ],
+  "date": "2026-11-11",
+  "ref_sha256": "e77b1825d449068a9e1ef14d459a1ca50a757b0a378af369c5954a03a8f40176",
+  "ref_sent": {
+   "size": [
+    768,
+    1152
+   ],
+   "sha256": "1f958212fe74fdf1cadb79a73eed9a89c1f60584f7185cc175f12f7021e4674a"
+  },
+  "design": "ofree_family",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a night river covered with floating paper lanterns — standing; the Zhuge Liang shrine on the Wuzhang Plains plateau — holds a white feather fan upright at chest height; a cable car cabin over a misty valley — holds a tall iced coffee in a clear cup with a straw at chest height; a sunlit white marble temple — kneeling on the ground; a Guan Yu temple — standing; a desert oasis at golden hour — standing; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; a space-station lounge bar — lights the candle inside a small red paper lantern; a Peking opera dressing room — standing; an ancestral shrine hall with a bronze incense burner — holds a magnifying glass by its handle at chest height; a sunny ranch — touches one ear cup of a pair of over-ear headphones hung around her neck; a Roman marble bath hall — perched on a ledge or edge; a modern glass-walled office at dusk — standing.\nPlace: a quiet upstairs linen room in her own modest riverside home, morning light, a tall open wooden cupboard and a stack of clean folded blankets\nActivity: she puts a neatly folded spare blanket onto the highest cupboard shelf so it will be ready for an unexpected guest; lifting both arms stretches the short sleep top upward and briefly reveals a little more waist and the side of her ribs, a natural reach rather than wind, wet cloth, undone clothing or a fallen strap\nPose: standing with her weight on her left foot and her right heel lifted, both hands supporting the folded blanket overhead; shoulders raised naturally, torso in side profile and face looking up toward the shelf; a calm unshowy expression, faint old healed arm scars visible, no fresh wounds\nFraming: a full-body vertical 2:3 side view at chest-height camera, both feet, hands and the shelf edge visible, natural adult proportions and no low angle\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder.\nOutfit: an opaque dusty-lilac cotton lingerie-inspired sleep set: a softly structured longline scoop-neck bralette with wide shoulder bands, curved stitched cup seams and an open back crossed by two broad lilac bands, matching high-waisted short French-knicker bottoms with tiny ivory scalloped hems; the bralette hem lifts slightly as she reaches while cups and bottoms stay secure and opaque; bare shoulders, waist and upper legs, no nudity",
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhou Tai of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — countless scars each with a story, unwavering loyalty, heavy armor — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a broad saber) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a night river covered with floating paper lanterns — standing; the Zhuge Liang shrine on the Wuzhang Plains plateau — holds a white feather fan upright at chest height; a cable car cabin over a misty valley — holds a tall iced coffee in a clear cup with a straw at chest height; a sunlit white marble temple — kneeling on the ground; a Guan Yu temple — standing; a desert oasis at golden hour — standing; a club powder room with a lit mirror and neon on the tiles — touches one ear cup of a pair of over-ear headphones hung around her neck; a space-station lounge bar — lights the candle inside a small red paper lantern; a Peking opera dressing room — standing; an ancestral shrine hall with a bronze incense burner — holds a magnifying glass by its handle at chest height; a sunny ranch — touches one ear cup of a pair of over-ear headphones hung around her neck; a Roman marble bath hall — perched on a ledge or edge; a modern glass-walled office at dusk — standing.\nPlace: a quiet upstairs linen room in her own modest riverside home, morning light, a tall open wooden cupboard and a stack of clean folded blankets\nActivity: she puts a neatly folded spare blanket onto the highest cupboard shelf so it will be ready for an unexpected guest; lifting both arms stretches the short sleep top upward and briefly reveals a little more waist and the side of her ribs, a natural reach rather than wind, wet cloth, undone clothing or a fallen strap\nPose: standing with her weight on her left foot and her right heel lifted, both hands supporting the folded blanket overhead; shoulders raised naturally, torso in side profile and face looking up toward the shelf; a calm unshowy expression, faint old healed arm scars visible, no fresh wounds\nFraming: a full-body vertical 2:3 side view at chest-height camera, both feet, hands and the shelf edge visible, natural adult proportions and no low angle\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder.\nOutfit: an opaque dusty-lilac cotton lingerie-inspired sleep set: a softly structured longline scoop-neck bralette with wide shoulder bands, curved stitched cup seams and an open back crossed by two broad lilac bands, matching high-waisted short French-knicker bottoms with tiny ivory scalloped hems; the bralette hem lifts slightly as she reaches while cups and bottoms stay secure and opaque; bare shoulders, waist and upper legs, no nudity\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+  "free_by": "gpt-session",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-zhoutai-api25-20261111-codex",
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "approved_for_upload",
+  "date": "2026-11-11",
+  "message": "업로드해줘",
+  "qa_exceptions_acknowledged": true
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "87d60c9df3735900f4c945fabd9d7a3bff4b51d29e0424808bf29b0740317f8c",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "선택 세계 그림과 얼굴·머리·아문 흉터·굴곡 체형이 이어짐. 보이는 손·발과 팔다리 수 확인.",
+   "자유 설계: 린넨 방 높은 선반에 담요를 넣으며 발꿈치를 들고 팔을 뻗는 행동·라일락색 란제리와 허리 노출 확인."
+  ]
+ },
+ "imported": "2026-11-11"
+}

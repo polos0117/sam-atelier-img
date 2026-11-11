@@ -1,0 +1,149 @@
+{
+ "atelier": "samguk",
+ "card": "주태",
+ "faction": "wu",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "ref": "주태_mecha_api25_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "travel_dunes",
+  "ofam": "drape",
+  "item": "peplos_mini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "thumbs_up",
+  "left": "hip",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "color": "pattern",
+  "expr": "wink",
+  "preset": "thumbs_waist",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "low"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "주태_mecha_api25_f_casual6.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Zhou Tai of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — countless scars each with a story, unwavering loyalty, heavy armor — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a broad saber) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a wind-rippled desert dune trail\nOutfit: a short draped peplos mini dress belted with a fine gold chain, laurel-leaf hair pins and laced gladiator sandals — in a clear pattern such as a floral print, bold stripes, gingham or plaid, in two or three cheerful colours; the outfit colour reads clearly at first glance\nPOSTURE: standing.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand gives a thumbs-up at chest height.\nLEFT HAND: her own left hand rests on her hip.\nGAZE: she looks into the camera.\nEXPRESSION: a playful wink with a small smile. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: low — mostly covered clothing, limited neck/hand exposure unless outfit is explicit\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-11",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 2324,
+   "input_tokens_details": {
+    "image_tokens": 864,
+    "text_tokens": 1460
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 2667
+  },
+  "seconds": 22.413,
+  "png_sha256": "9f40603c24b3814937a3a420bf47918233900658f00178d3a9252134d32c01a8",
+  "prompt_sha256": "c3a00798a94301884b7b2d2ffb5981ebc121b3843b962d7451c67d9f6dcd3c9e",
+  "retries": [
+   {
+    "n": 1,
+    "status": "safety",
+    "exposure": "bold",
+    "at": "2026-11-11T15:28:52.479Z"
+   },
+   {
+    "n": 2,
+    "status": "safety",
+    "exposure": "bold",
+    "at": "2026-11-11T15:29:08.228Z"
+   },
+   {
+    "n": 3,
+    "status": "safety",
+    "exposure": "moderate",
+    "at": "2026-11-11T15:32:13.169Z"
+   },
+   {
+    "n": 4,
+    "status": "safety",
+    "exposure": "moderate",
+    "at": "2026-11-11T15:32:16.931Z"
+   },
+   {
+    "n": 5,
+    "status": "safety",
+    "exposure": "low",
+    "at": "2026-11-11T15:33:13.059Z"
+   },
+   {
+    "n": 6,
+    "status": "safety",
+    "exposure": "low",
+    "at": "2026-11-11T15:33:16.693Z"
+   },
+   {
+    "n": 7,
+    "status": "ok",
+    "exposure": "low",
+    "at": "2026-11-11T15:34:34.402Z",
+    "change": "안전 필터 순서 완료 후 계획 변경"
+   }
+  ],
+  "date": "2026-11-11",
+  "ref_sha256": "8f722bd854af1a30929af477e2378ddc4c7e5468f2c8f0360309c6db46343dd1",
+  "ref_sent": {
+   "size": [
+    768,
+    1152
+   ],
+   "sha256": "e1187b25b1d65bbe8aa21ff4d6887aef0d087647834609973127ccf3e0578e32"
+  },
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-zhoutai-api25-20261111-codex",
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "approved_for_upload",
+  "date": "2026-11-11",
+  "message": "업로드해줘",
+  "qa_exceptions_acknowledged": true
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "9f40603c24b3814937a3a420bf47918233900658f00178d3a9252134d32c01a8",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "선택 세계 그림과 얼굴·머리·아문 흉터·굴곡 체형이 이어짐. 보이는 손·발과 팔다리 수 확인.",
+   "안전 필터 후 새 계획: 사막 길에서 엄지 척·허리에 손 자세 확인.",
+   "배경에 낙타가 있어 실제 동물 금지 규칙과 다름.",
+   "안전 필터 뒤 독립 재계획한 다른 세계의 컷과 peplos_mini 의상이 겹쳐 묶음 검사 미통과. 재생성 허용 사유 밖이므로 보존."
+  ],
+  "cause": "안전 필터 대체 계획 사이 의상 중복."
+ },
+ "imported": "2026-11-11"
+}
