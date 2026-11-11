@@ -259,7 +259,7 @@
     "유비_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "유비_mecha_kr_drawn_rim_dewy_f_casual6.webp"
    ],
-   "phase": "awaiting_world_selection",
+   "phase": "ready_for_registration",
    "candidates": 12,
    "style": "kr_drawn_rim_dewy",
    "selection_sheet_library_file_id": "libfile_d2e16aae0e848191ae1e6a9491dc54b4",
@@ -270,11 +270,24 @@
     "3": "gpt_free_1",
     "4": "gpt_free_2"
    },
-   "note": "All twelve candidates generated with built-in image_gen, text-only. All originals verified 1024x1536. No exposure-related regeneration. Original PNGs, exact prompts and QA preserved in candidate archive. Waiting for world selection before casual prompts or registration.",
+   "note": "Latest 7-cut casual rules applied. Four output moderation blocks for fantasy casual3, then one permitted planner scene replacement at low exposure succeeded. Every returned image preserved; QA deviations recorded.",
    "workspace": "/workspace/scratch/66eceaee67bf",
    "code_worktree": "/workspace/scratch/66eceaee67bf/sam-atelier",
-   "image_worktree": "/workspace/scratch/66eceaee67bf/sam-atelier-img"
+   "image_worktree": "/workspace/scratch/66eceaee67bf/sam-atelier-img",
+   "selected_candidates": {
+    "samguk": 1,
+    "fantasy": 2,
+    "mecha": 4
+   },
+   "selection_approval": "1,2,4 으로 하는데 일상컷 규칙이 바뀌었으니 확인 후 진행해줘.",
+   "casual_rules_commit": "4c030b4",
+   "casual_count": 21,
+   "free_design_count": 6,
+   "validation": {
+    "dimensions": "24 images 1024x1536",
+    "plan_worlds": "all three passed, 7 per world",
+    "exposure_regenerations": 0
+   }
   }
  ]
 }
-
