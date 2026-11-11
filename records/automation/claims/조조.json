@@ -160,7 +160,7 @@
   {
    "key": "조조",
    "execution": "sam-caocao-new-20261109-28361ec2",
-   "status": "working",
+   "status": "released",
    "claimed_at": "2026-11-09T03:45:27.536834+00:00",
    "date_kst": "2026-11-09",
    "date_utc": "2026-11-09",
@@ -193,7 +193,43 @@
    "selection_sheet_library_file_id": "libfile_036938f411808191997f4985c63dc7e9",
    "candidate_archive_library_file_id": "libfile_fcd481570e4881918e1113b8698f0d45",
    "qa_note": "삼국시대·판타지 1~3 배경 기병/말 포함; 메카 1~2 천 장식 혼재; 일부 메카 지정 외 피부 개방. 상세 기록은 후보 ZIP manifest.json.",
-   "generation_tool": "image_gen"
+   "generation_tool": "image_gen",
+   "approval": "기존잠금 풀고 현재 기본 화풍으로 새로 생성해줘.",
+   "released_by": "sam-caocao-20261111-112daaf3",
+   "released_at": "2026-11-11T13:06:58.818Z"
+  },
+  {
+   "key": "조조",
+   "execution": "sam-caocao-20261111-112daaf3",
+   "status": "working",
+   "claimed_at": "2026-11-11T13:06:58.818Z",
+   "date_kst": "2026-11-11",
+   "date_utc": "2026-11-11",
+   "style": "kr_drawn_rim_dewy",
+   "stage": "generating_world_candidates",
+   "missing": [
+    "조조_samguk_kr_drawn_rim_dewy_f.webp",
+    "조조_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "조조_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "조조_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "조조_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "조조_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "조조_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "조조_fantasy_kr_drawn_rim_dewy_f.webp",
+    "조조_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "조조_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "조조_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "조조_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "조조_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "조조_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "조조_mecha_kr_drawn_rim_dewy_f.webp",
+    "조조_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "조조_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "조조_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "조조_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "조조_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "조조_mecha_kr_drawn_rim_dewy_f_casual6.webp"
+   ]
   }
  ]
 }
