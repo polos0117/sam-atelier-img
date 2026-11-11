@@ -30,6 +30,40 @@
    ],
    "done_at": "2026-11-08T06:42:50.650Z",
    "done_by": "sam-zhaoyun-20261108-4f6889786089"
+  },
+  {
+   "key": "조운",
+   "execution": "sam-zhaoyun-20261112-decd",
+   "status": "working",
+   "claimed_at": "2026-11-11T23:28:15.485Z",
+   "date_kst": "2026-11-12",
+   "date_utc": "2026-11-12",
+   "missing": [
+    "조운_samguk_kr_drawn_rim_dewy_f.webp",
+    "조운_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "조운_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "조운_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "조운_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "조운_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "조운_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "조운_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "조운_fantasy_kr_drawn_rim_dewy_f.webp",
+    "조운_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "조운_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "조운_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "조운_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "조운_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "조운_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "조운_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "조운_mecha_kr_drawn_rim_dewy_f.webp",
+    "조운_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "조운_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "조운_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "조운_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "조운_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "조운_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "조운_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
