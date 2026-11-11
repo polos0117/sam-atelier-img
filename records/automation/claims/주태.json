@@ -4,7 +4,7 @@
   {
    "key": "주태",
    "execution": "sam-zhoutai-api25-20261111-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T15:06:56.614Z",
    "date_kst": "2026-11-12",
    "date_utc": "2026-11-11",
@@ -33,7 +33,43 @@
     "주태_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "주태_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "주태_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-11T15:44:56.567059+00:00",
+   "done_by": "sam-zhoutai-api25-20261111-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "주태_fantasy_api25_f.webp",
+     "주태_fantasy_api25_f_casual1.webp",
+     "주태_fantasy_api25_f_casual2.webp",
+     "주태_fantasy_api25_f_casual3.webp",
+     "주태_fantasy_api25_f_casual4.webp",
+     "주태_fantasy_api25_f_casual5.webp",
+     "주태_fantasy_api25_f_casual6.webp",
+     "주태_fantasy_api25_f_casual7.webp",
+     "주태_mecha_api25_f.webp",
+     "주태_mecha_api25_f_casual1.webp",
+     "주태_mecha_api25_f_casual2.webp",
+     "주태_mecha_api25_f_casual3.webp",
+     "주태_mecha_api25_f_casual4.webp",
+     "주태_mecha_api25_f_casual5.webp",
+     "주태_mecha_api25_f_casual6.webp",
+     "주태_mecha_api25_f_casual7.webp",
+     "주태_samguk_api25_f.webp",
+     "주태_samguk_api25_f_casual1.webp",
+     "주태_samguk_api25_f_casual2.webp",
+     "주태_samguk_api25_f_casual3.webp",
+     "주태_samguk_api25_f_casual4.webp",
+     "주태_samguk_api25_f_casual5.webp",
+     "주태_samguk_api25_f_casual6.webp",
+     "주태_samguk_api25_f_casual7.webp"
+    ],
+    "image_commit": "ef1de3c30b96bed2fd77747264506e6d135ba212",
+    "registration_commit": "ddadd1042fc2be47fe1a5a037ca770bba5c470eb",
+    "thumb_commit": "66a99bb1dc8444564522126650b8f6969eda66f9",
+    "approval": "사용자 「업로드해줘」",
+    "note": "요청한 api25 및 썸네일 등록 확인. 기본화풍 missing 목록은 이력으로 보존. 승인된 QA 예외 보존."
+   }
   }
  ]
 }
