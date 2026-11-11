@@ -1,0 +1,132 @@
+{
+ "atelier": "samguk",
+ "card": "초선",
+ "faction": "qun",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "초선_fantasy_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "night_taxi",
+  "ofam": "costume",
+  "item": "flamenco",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "full_body",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "phones_neck",
+  "legs": "cross_legs",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeRecent": "a desert oasis at golden hour — holds a water bottle at chest height; a harbour quay of a port town with tall sailing ships — lifts a small hand lantern to chest height; a Three Kingdoms festival street — lying on her side; a Roman marble bath hall — standing; a festival street of lanterns — holds her keepsake in both hands in front of her; a small shop — trims the stems of a few loose flower stems on the worktable; a narrow city alley with hanging signboards and wet pavement — sitting on the ground; a space-station docking bay with a sleek shuttle on its pad and long light strips — standing; a calligraphy classroom with low wooden desks — standing; inside a knightly order's campaign pavilion — sets a cup down on the surface in front of her; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a penthouse window wall over the city at night — standing",
+  "expr": "focused",
+  "preset": "side_chair_cross",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "초선_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Diaochan of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a beauty before whom the moon hid behind the clouds, a dancer of the palace, the linked-rings stratagem, silk ribbons and moonlight, quiet courage behind grace — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (soft pastel pink, blush rose, ivory white and pale rose gold, with small lilac accents). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a desert oasis at golden hour — holds a water bottle at chest height; a harbour quay of a port town with tall sailing ships — lifts a small hand lantern to chest height; a Three Kingdoms festival street — lying on her side; a Roman marble bath hall — standing; a festival street of lanterns — holds her keepsake in both hands in front of her; a small shop — trims the stems of a few loose flower stems on the worktable; a narrow city alley with hanging signboards and wet pavement — sitting on the ground; a space-station docking bay with a sleek shuttle on its pad and long light strips — standing; a calligraphy classroom with low wooden desks — standing; inside a knightly order's campaign pavilion — sets a cup down on the surface in front of her; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a penthouse window wall over the city at night — standing.\nPlace: a modern community rehearsal hall after a dance class, with a portable cassette recorder, a stacked chair rack and a line of folded practice mats\nActivity: she rewinds a rehearsal cassette by turning its spool with a pencil, smiling at this small patient task after a difficult practice; her fan rests closed on a nearby folded mat\nPose: sitting sideways on a low practice box with both feet on the floor, head and chest turned three-quarter toward the camera; both hands hold the cassette and pencil naturally in front of her\nFraming: a waist-up vertical composition at seated eye level, face and both hands clear and no forced frontal card pose\nOutfit: a cherry-red asymmetric dance-practice top made from two opaque folded panels joined at one shoulder and across the underbust, with a deep neckline, open back and bare midriff, paired with black silk boxing-style pleated skorts with a broad ribbed waistband; fully opaque intimate coverage, no faction colours or armor (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-11",
+ "record": "records/초선/fantasy-casual6.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "초선",
+  "out": "casual",
+  "world": "fantasy",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 6,
+  "scenes": {
+   "초선": {
+    "era": "now",
+    "place": "night_taxi",
+    "ofam": "costume",
+    "treeV": 2,
+    "prop": "",
+    "preset": "side_chair_cross",
+    "use": "phones_neck",
+    "posture": "sit_chair",
+    "support": "back_seat",
+    "frame": "full_body",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "cross_legs",
+    "gaze": "camera",
+    "item": "flamenco",
+    "expr": "focused",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "a desert oasis at golden hour — holds a water bottle at chest height; a harbour quay of a port town with tall sailing ships — lifts a small hand lantern to chest height; a Three Kingdoms festival street — lying on her side; a Roman marble bath hall — standing; a festival street of lanterns — holds her keepsake in both hands in front of her; a small shop — trims the stems of a few loose flower stems on the worktable; a narrow city alley with hanging signboards and wet pavement — sitting on the ground; a space-station docking bay with a sleek shuttle on its pad and long light strips — standing; a calligraphy classroom with low wooden desks — standing; inside a knightly order's campaign pavilion — sets a cup down on the surface in front of her; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a penthouse window wall over the city at night — standing"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "2d5a34dabdbca169689f705d6eaeb9764f0fb04f9afb76b707a2bd486e28330c",
+  "ref_webp_sha256": "d81151abd750bd96829f16ab7c6e7c91af31b315cacf81a12b00b07a3001a0f2",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "430aff4df130b255202a1071e8e70fa70786df4a2801e64ace918d470aa31735",
+  "prompt_sha256": "78e12b524908f9a855355cb5e03bc8b308d823f5e7c03cd70396cde94a746fe1",
+  "prompt_form": "en-prompt",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "retries": [],
+  "free_design": {
+   "Place": "a modern community rehearsal hall after a dance class, with a portable cassette recorder, a stacked chair rack and a line of folded practice mats",
+   "Activity": "she rewinds a rehearsal cassette by turning its spool with a pencil, smiling at this small patient task after a difficult practice; her fan rests closed on a nearby folded mat",
+   "Pose": "sitting sideways on a low practice box with both feet on the floor, head and chest turned three-quarter toward the camera; both hands hold the cassette and pencil naturally in front of her",
+   "Framing": "a waist-up vertical composition at seated eye level, face and both hands clear and no forced frontal card pose",
+   "Outfit": "a cherry-red asymmetric dance-practice top made from two opaque folded panels joined at one shoulder and across the underbust, with a deep neckline, open back and bare midriff, paired with black silk boxing-style pleated skorts with a broad ribbed waistband; fully opaque intimate coverage, no faction colours or armor"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Diaochan of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a beauty before whom the moon hid behind the clouds, a dancer of the palace, the linked-rings stratagem, silk ribbons and moonlight, quiet courage behind grace — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (soft pastel pink, blush rose, ivory white and pale rose gold, with small lilac accents). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a desert oasis at golden hour — holds a water bottle at chest height; a harbour quay of a port town with tall sailing ships — lifts a small hand lantern to chest height; a Three Kingdoms festival street — lying on her side; a Roman marble bath hall — standing; a festival street of lanterns — holds her keepsake in both hands in front of her; a small shop — trims the stems of a few loose flower stems on the worktable; a narrow city alley with hanging signboards and wet pavement — sitting on the ground; a space-station docking bay with a sleek shuttle on its pad and long light strips — standing; a calligraphy classroom with low wooden desks — standing; inside a knightly order's campaign pavilion — sets a cup down on the surface in front of her; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a penthouse window wall over the city at night — standing.\nPlace: a modern community rehearsal hall after a dance class, with a portable cassette recorder, a stacked chair rack and a line of folded practice mats\nActivity: she rewinds a rehearsal cassette by turning its spool with a pencil, smiling at this small patient task after a difficult practice; her fan rests closed on a nearby folded mat\nPose: sitting sideways on a low practice box with both feet on the floor, head and chest turned three-quarter toward the camera; both hands hold the cassette and pencil naturally in front of her\nFraming: a waist-up vertical composition at seated eye level, face and both hands clear and no forced frontal card pose\nOutfit: a cherry-red asymmetric dance-practice top made from two opaque folded panels joined at one shoulder and across the underbust, with a deep neckline, open back and bare midriff, paired with black silk boxing-style pleated skorts with a broad ribbed waistband; fully opaque intimate coverage, no faction colours or armor (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "430aff4df130b255202a1071e8e70fa70786df4a2801e64ace918d470aa31735",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "Cassette and pencil held in two hands in a rehearsal studio; red asymmetric top.",
+   "Identity compared against the selected world image; no detached or duplicated limbs observed.",
+   "Natural hand-to-wrist-to-arm connections; no weapon, logo or watermark observed."
+  ],
+  "cause": "Crop extends farther down legs than requested waist-up framing."
+ },
+ "execution": "sam-diaochan-9275-20261112",
+ "imported": "2026-11-12",
+ "acceptance": "user authorized registration and normal main push after selection; generated images retained without exposure-censorship regeneration",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
