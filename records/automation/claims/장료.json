@@ -1,1 +1,546 @@
-{"key": "장료", "runs": [{"key": "장료", "execution": "sam-zhangliao-20261108-6a4edf81391a", "status": "complete", "claimed_at": "2026-11-08T05:53:29.073Z", "date_kst": "2026-11-08", "date_utc": "2026-11-08", "missing": ["장료_samguk_kr_promo_hikey_f.webp", "장료_samguk_kr_promo_hikey_f_casual1.webp", "장료_samguk_kr_promo_hikey_f_casual2.webp", "장료_samguk_kr_promo_hikey_f_casual3.webp", "장료_samguk_kr_promo_hikey_f_casual4.webp", "장료_samguk_kr_promo_hikey_f_casual5.webp", "장료_fantasy_kr_promo_hikey_f.webp", "장료_fantasy_kr_promo_hikey_f_casual1.webp", "장료_fantasy_kr_promo_hikey_f_casual2.webp", "장료_fantasy_kr_promo_hikey_f_casual3.webp", "장료_fantasy_kr_promo_hikey_f_casual4.webp", "장료_fantasy_kr_promo_hikey_f_casual5.webp", "장료_mecha_kr_promo_hikey_f.webp", "장료_mecha_kr_promo_hikey_f_casual1.webp", "장료_mecha_kr_promo_hikey_f_casual2.webp", "장료_mecha_kr_promo_hikey_f_casual3.webp", "장료_mecha_kr_promo_hikey_f_casual4.webp", "장료_mecha_kr_promo_hikey_f_casual5.webp"], "selection": {"status": "selected", "style": "kr_promo_hikey", "style_version": 1, "source_commit": "08536c7", "instructions": "세계마다 1 또는 2 선택 후 고른 장으로 일상컷 5장씩 계획·생성. 선택 전 세계 그림 업로드·도감 등록 안 함. 생성된 이미지 노출을 이유로 재생성하지 않음.", "candidates": [{"world": "samguk", "candidate": 1, "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-685a34c8-b603-493f-b1ee-fc854d6858e8.png", "png_sha256": "1bac5426e6fdcf18a1e38eb5713eebab22ff0e3af55d0c2d3c13f6876ece2bd6", "size": [1024, 1536], "prompt_sha256": "64c4936ffb876b4667a9b716c254ec3aef23b00576b343d6f9182ddf00ab5aa7", "generation": {"tool": "image_gen", "endpoint": "images/generations", "prompt_form": "en-prompt", "references": [], "retries": []}, "qa": {"reviewer": "gpt", "observations": ["1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인", "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"], "issues": []}}, {"world": "samguk", "candidate": 2, "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-35d9b3da-9c5b-445e-9466-57bcbca11cf1.png", "png_sha256": "dac15b3bbfd24e178f0edd77ea49fa1931ef6e8a9f2786e83351c4539eeed101", "size": [1024, 1536], "prompt_sha256": "64c4936ffb876b4667a9b716c254ec3aef23b00576b343d6f9182ddf00ab5aa7", "generation": {"tool": "image_gen", "endpoint": "images/generations", "prompt_form": "en-prompt", "references": [], "retries": []}, "qa": {"reviewer": "gpt", "observations": ["1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인", "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"], "issues": ["극 상단이 프레임 경계에 닿거나 일부 잘림"]}}, {"world": "fantasy", "candidate": 1, "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-c2a2e07e-8818-40dd-b5ba-06582e69e063.png", "png_sha256": "3905878ff48a4a15dabb1400cd884a6ee689981d6eb90ed33ec038e9ef1b7dc1", "size": [1024, 1536], "prompt_sha256": "fcae59f79f929d24b5a14c6cf60c96999fcd3a7ae049b3edb7e7abbc4ea259c7", "generation": {"tool": "image_gen", "endpoint": "images/generations", "prompt_form": "en-prompt", "references": [], "retries": []}, "qa": {"reviewer": "gpt", "observations": ["1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인", "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"], "issues": ["극 상단이 프레임 경계에 닿거나 일부 잘림", "최소 금속판의 야성적 실루엣보다 장식·천의 비중이 큼"]}}, {"world": "fantasy", "candidate": 2, "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-5389c7d6-065c-46d4-afbd-880e8edb40c8.png", "png_sha256": "7cbcc1c72439892e4c1e636ae321cdbae4fc4d01117b5988682f693d6bc3819a", "size": [1024, 1536], "prompt_sha256": "fcae59f79f929d24b5a14c6cf60c96999fcd3a7ae049b3edb7e7abbc4ea259c7", "generation": {"tool": "image_gen", "endpoint": "images/generations", "prompt_form": "en-prompt", "references": [], "retries": []}, "qa": {"reviewer": "gpt", "observations": ["1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인", "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"], "issues": ["극 상단이 프레임 경계에 닿거나 일부 잘림", "최소 금속판의 야성적 실루엣보다 장식·천의 비중이 큼"]}}, {"world": "mecha", "candidate": 1, "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-1ed4f5ef-32eb-4c0f-a3d7-ebe5de967e86.png", "png_sha256": "565daf93f1a601f6475612791798a24df5ac5d5eba4fc1d90f517023a0c205ed", "size": [1024, 1536], "prompt_sha256": "b12208ef101a6d36136529f99c897abb1e8ab588570b7a2ca3067bd3bb9a944d", "generation": {"tool": "image_gen", "endpoint": "images/generations", "prompt_form": "en-prompt", "references": [], "retries": [{"n": 1, "status": "moderation_blocked", "request_id": "9a73f1d8-8456-496d-bd5f-e59d7f3a032c", "image_returned": false}, {"n": 2, "status": "success", "prompt_changed": false}]}, "qa": {"reviewer": "gpt", "observations": ["1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인", "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"], "issues": ["극 상단이 프레임 경계에 닿거나 일부 잘림"]}}, {"world": "mecha", "candidate": 2, "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-84ea3c7c-a081-4aa2-be74-e0adfd20a99c.png", "png_sha256": "17a949e48be0928dd0dbb7327ae21fbcb8a64fa90e5f75419844dcc340685087", "size": [1024, 1536], "prompt_sha256": "b12208ef101a6d36136529f99c897abb1e8ab588570b7a2ca3067bd3bb9a944d", "generation": {"tool": "image_gen", "endpoint": "images/generations", "prompt_form": "en-prompt", "references": [], "retries": []}, "qa": {"reviewer": "gpt", "observations": ["1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인", "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"], "issues": ["극 상단이 프레임 경계에 닿거나 일부 잘림"]}}], "prompts": {"samguk": "CONCEPT: a female personification of Zhang Liao (장료), a general of Cao Wei in the Romance of the Three Kingdoms — the terror of Hefei who shook a hundred thousand with eight hundred. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure in the body type SILHOUETTE names — soft, rounded volume at the bust, and hips and thighs kept in realistic human proportion: long, shapely legs, never oversized thighs, exaggerated hips or a bottom-heavy figure; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Luxurious, high-detail finish.\nTRAITS of Zhang Liao to carry in her design and the scene: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\nFACTION — Cao Wei (魏). Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; voluminous hair with choppy uneven bangs; blue-black hair with a cold indigo sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; fair skin; softly square face; moderately sized, realistically proportioned eyes — wide almond eyes, outer eye corners tilting sharply upward; low heavy brows; broad soft nose; small bow lips; steel-blue eyes; a bare, makeup-free face. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — THREE KINGDOMS ERA: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nOUTFIT SILHOUETTE: a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette. Only the overall shape is fixed; design the details freely. This silhouette overrides the overall shape of the role costume above.\nMOOD: bold martial-fantasy key art — wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a crescent-bladed halberd — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a firm, resolute look with calm, steady eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 張.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.\n\nSKIN COLOUR AND RENDERING:\nHer own skin tone — fair skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, arms, hands and exposed legs, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate satin-like highlights, subtle texture, lifelike translucency and softly dimensional shading. Do not whiten or darken her skin tone, do not clip highlights or remove all shadows; no chalky, ashen, waxy or uniformly glossy skin, and the costume or setting never tints her skin.\n\nLIGHTING AND COLOUR:\nA bright, elegant high-key cinematic grade with luminous skin and clean colour separation. Soft bright frontal fill light gently lifts the face and exposed skin, keeping the midtones bright, translucent and evenly readable, with gentle, open, colour-clean shadows around the eyes, nose, lips, neck and limbs. The scene's own light comes from behind and to one side as a restrained rim, tracing hair strands, shoulder edges and fabric. Reflections from the costume, stone, metal or sky never cast a strong blue, purple, grey or orange tint on her skin. No heavy colour grade, dark crushed contrast, muddy shadows or cool desaturation.\n\nCAMERA AND COMPOSITION:\nVertical 2:3 full-body framing with modest headroom and clear space below the boots; the figure occupies most of the image height, and her head, hair ornaments, both hands, her signature item and both boots stay inside the frame. Natural portrait perspective — no wide-angle distortion and no exaggerated low camera angle; facial and body proportions stay balanced. She is sharply resolved from face to boots, the distance falls into gentle optical blur with clear atmospheric depth, and her face keeps enough detail to read her eyes, features and expression. No text, logo or watermark.", "fantasy": "CONCEPT: a female personification of Zhang Liao (장료), a general of Cao Wei in the Romance of the Three Kingdoms — the terror of Hefei who shook a hundred thousand with eight hundred. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure in the body type SILHOUETTE names — soft, rounded volume at the bust, and hips and thighs kept in realistic human proportion: long, shapely legs, never oversized thighs, exaggerated hips or a bottom-heavy figure; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Luxurious, high-detail finish.\nTRAITS of Zhang Liao to carry in her design and the scene: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\nFACTION — Cao Wei. Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a bob with side-swept bangs; blue-black hair with a cold indigo sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; fair skin; diamond-shaped face; moderately sized, realistically proportioned eyes — large round eyes, outer eye corners tilting sharply upward; low heavy brows; broad soft nose; small bow lips; steel-blue eyes; a bare, makeup-free face. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — MEDIEVAL FANTASY: a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. COSTUME (medieval fantasy): a knight-champion's armor — articulated plate with a heraldic tabard in her faction's colours, a plumed helm or circlet, a battle cape, her weapon at hand. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, subtle magical glow along the patterns. Her Three Kingdoms origin shows only through her signature item, her colours and her bearing — her outfit is Western: no wrap-collar robes, no wide hanfu sleeves, no flowing Chinese-style robe over armor, no East-Asian armor, no machinery, no modern material. The setting is Western European medieval — stone castles, Romanesque or Gothic architecture, European mountains, forests and towns; no Chinese architecture, no pagodas or curved tiled roofs, no hanzi on banners. LIGHT: natural daylight or the world's own magical glow, unless TIME & WEATHER says otherwise. Celestial ornament: feather-and-gold wing-shaped ornaments at the shoulders or back, a translucent gauze overskirt, a jewelled circlet.\nOUTFIT SILHOUETTE: a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette. Only the overall shape is fixed; design the details freely. This silhouette overrides the overall shape of the role costume above.\nMOOD: serene celestial key art — pastel sky light, a soft halo of light behind her, floating golden light particles and drifting feathers.\nEXPOSURE (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a crescent-bladed halberd — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a firm, resolute look with calm, steady eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.\n\nSKIN COLOUR AND RENDERING:\nHer own skin tone — fair skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, arms, hands and exposed legs, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate satin-like highlights, subtle texture, lifelike translucency and softly dimensional shading. Do not whiten or darken her skin tone, do not clip highlights or remove all shadows; no chalky, ashen, waxy or uniformly glossy skin, and the costume or setting never tints her skin.\n\nLIGHTING AND COLOUR:\nA bright, elegant high-key cinematic grade with luminous skin and clean colour separation. Soft bright frontal fill light gently lifts the face and exposed skin, keeping the midtones bright, translucent and evenly readable, with gentle, open, colour-clean shadows around the eyes, nose, lips, neck and limbs. The scene's own light comes from behind and to one side as a restrained rim, tracing hair strands, shoulder edges and fabric. Reflections from the costume, stone, metal or sky never cast a strong blue, purple, grey or orange tint on her skin. No heavy colour grade, dark crushed contrast, muddy shadows or cool desaturation.\n\nCAMERA AND COMPOSITION:\nVertical 2:3 full-body framing with modest headroom and clear space below the boots; the figure occupies most of the image height, and her head, hair ornaments, both hands, her signature item and both boots stay inside the frame. Natural portrait perspective — no wide-angle distortion and no exaggerated low camera angle; facial and body proportions stay balanced. She is sharply resolved from face to boots, the distance falls into gentle optical blur with clear atmospheric depth, and her face keeps enough detail to read her eyes, features and expression. No text, logo or watermark.", "mecha": "CONCEPT: a female personification of Zhang Liao (장료), a general of Cao Wei in the Romance of the Three Kingdoms — the terror of Hefei who shook a hundred thousand with eight hundred. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure in the body type SILHOUETTE names — soft, rounded volume at the bust, and hips and thighs kept in realistic human proportion: long, shapely legs, never oversized thighs, exaggerated hips or a bottom-heavy figure; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Luxurious, high-detail finish.\nTRAITS of Zhang Liao to carry in her design and the scene: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\nFACTION — Cao Wei. Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; short cropped hair with center-parted bangs framing the face; blue-black hair with a cold indigo sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; fair skin; softly square face; moderately sized, realistically proportioned eyes — deep-set eyes, outer eye corners tilting sharply upward; low heavy brows; broad soft nose; small bow lips; steel-blue eyes; a bare, makeup-free face. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — MECHA: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls. MECHA DESIGN: she is a female mecha personification, built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines.\nMECHA SILHOUETTE: a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape. Only the overall shape is fixed; design the details freely.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a crescent-bladed halberd — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a firm, resolute look with calm, steady eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.\n\nSKIN COLOUR AND RENDERING:\nHer own skin tone — fair skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, arms, hands and exposed legs, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate satin-like highlights, subtle texture, lifelike translucency and softly dimensional shading. Do not whiten or darken her skin tone, do not clip highlights or remove all shadows; no chalky, ashen, waxy or uniformly glossy skin, and the costume or setting never tints her skin.\n\nLIGHTING AND COLOUR:\nA bright, elegant high-key cinematic grade with luminous skin and clean colour separation. Soft bright frontal fill light gently lifts the face and exposed skin, keeping the midtones bright, translucent and evenly readable, with gentle, open, colour-clean shadows around the eyes, nose, lips, neck and limbs. The scene's own light comes from behind and to one side as a restrained rim, tracing hair strands, shoulder edges and fabric. Reflections from the costume, stone, metal or sky never cast a strong blue, purple, grey or orange tint on her skin. No heavy colour grade, dark crushed contrast, muddy shadows or cool desaturation.\n\nCAMERA AND COMPOSITION:\nVertical 2:3 full-body framing with modest headroom and clear space below the boots; the figure occupies most of the image height, and her head, hair ornaments, both hands, her signature item and both boots stay inside the frame. Natural portrait perspective — no wide-angle distortion and no exaggerated low camera angle; facial and body proportions stay balanced. She is sharply resolved from face to boots, the distance falls into gentle optical blur with clear atmospheric depth, and her face keeps enough detail to read her eyes, features and expression. No text, logo or watermark."}, "chosen": {"samguk": 1, "fantasy": 1, "mecha": 2}, "user_message": "삼국1, 판타지1,메카2"}, "phase": "images and catalogue registered", "done_at": "2026-11-08T06:28:04.854Z", "done_by": "sam-zhangliao-20261108-6a4edf81391a", "image_commit": "482a1ffdf42a61067ad7440f234c1cbbe0172b4c", "catalogue_commit": "1dacd01aff1fd6859651da6ccfa3840d14267372"}, {"key": "장료", "execution": "sam-zhangliao-20261112", "status": "working", "claimed_at": "2026-11-11T22:36:34.891059+00:00", "date_kst": "2026-11-12", "date_utc": "2026-11-12", "phase": "world selection candidates"}]}
+{
+ "key": "장료",
+ "runs": [
+  {
+   "key": "장료",
+   "execution": "sam-zhangliao-20261108-6a4edf81391a",
+   "status": "complete",
+   "claimed_at": "2026-11-08T05:53:29.073Z",
+   "date_kst": "2026-11-08",
+   "date_utc": "2026-11-08",
+   "missing": [
+    "장료_samguk_kr_promo_hikey_f.webp",
+    "장료_samguk_kr_promo_hikey_f_casual1.webp",
+    "장료_samguk_kr_promo_hikey_f_casual2.webp",
+    "장료_samguk_kr_promo_hikey_f_casual3.webp",
+    "장료_samguk_kr_promo_hikey_f_casual4.webp",
+    "장료_samguk_kr_promo_hikey_f_casual5.webp",
+    "장료_fantasy_kr_promo_hikey_f.webp",
+    "장료_fantasy_kr_promo_hikey_f_casual1.webp",
+    "장료_fantasy_kr_promo_hikey_f_casual2.webp",
+    "장료_fantasy_kr_promo_hikey_f_casual3.webp",
+    "장료_fantasy_kr_promo_hikey_f_casual4.webp",
+    "장료_fantasy_kr_promo_hikey_f_casual5.webp",
+    "장료_mecha_kr_promo_hikey_f.webp",
+    "장료_mecha_kr_promo_hikey_f_casual1.webp",
+    "장료_mecha_kr_promo_hikey_f_casual2.webp",
+    "장료_mecha_kr_promo_hikey_f_casual3.webp",
+    "장료_mecha_kr_promo_hikey_f_casual4.webp",
+    "장료_mecha_kr_promo_hikey_f_casual5.webp"
+   ],
+   "selection": {
+    "status": "selected",
+    "style": "kr_promo_hikey",
+    "style_version": 1,
+    "source_commit": "08536c7",
+    "instructions": "세계마다 1 또는 2 선택 후 고른 장으로 일상컷 5장씩 계획·생성. 선택 전 세계 그림 업로드·도감 등록 안 함. 생성된 이미지 노출을 이유로 재생성하지 않음.",
+    "candidates": [
+     {
+      "world": "samguk",
+      "candidate": 1,
+      "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-685a34c8-b603-493f-b1ee-fc854d6858e8.png",
+      "png_sha256": "1bac5426e6fdcf18a1e38eb5713eebab22ff0e3af55d0c2d3c13f6876ece2bd6",
+      "size": [
+       1024,
+       1536
+      ],
+      "prompt_sha256": "64c4936ffb876b4667a9b716c254ec3aef23b00576b343d6f9182ddf00ab5aa7",
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "prompt_form": "en-prompt",
+       "references": [],
+       "retries": []
+      },
+      "qa": {
+       "reviewer": "gpt",
+       "observations": [
+        "1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인",
+        "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"
+       ],
+       "issues": []
+      }
+     },
+     {
+      "world": "samguk",
+      "candidate": 2,
+      "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-35d9b3da-9c5b-445e-9466-57bcbca11cf1.png",
+      "png_sha256": "dac15b3bbfd24e178f0edd77ea49fa1931ef6e8a9f2786e83351c4539eeed101",
+      "size": [
+       1024,
+       1536
+      ],
+      "prompt_sha256": "64c4936ffb876b4667a9b716c254ec3aef23b00576b343d6f9182ddf00ab5aa7",
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "prompt_form": "en-prompt",
+       "references": [],
+       "retries": []
+      },
+      "qa": {
+       "reviewer": "gpt",
+       "observations": [
+        "1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인",
+        "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"
+       ],
+       "issues": [
+        "극 상단이 프레임 경계에 닿거나 일부 잘림"
+       ]
+      }
+     },
+     {
+      "world": "fantasy",
+      "candidate": 1,
+      "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-c2a2e07e-8818-40dd-b5ba-06582e69e063.png",
+      "png_sha256": "3905878ff48a4a15dabb1400cd884a6ee689981d6eb90ed33ec038e9ef1b7dc1",
+      "size": [
+       1024,
+       1536
+      ],
+      "prompt_sha256": "fcae59f79f929d24b5a14c6cf60c96999fcd3a7ae049b3edb7e7abbc4ea259c7",
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "prompt_form": "en-prompt",
+       "references": [],
+       "retries": []
+      },
+      "qa": {
+       "reviewer": "gpt",
+       "observations": [
+        "1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인",
+        "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"
+       ],
+       "issues": [
+        "극 상단이 프레임 경계에 닿거나 일부 잘림",
+        "최소 금속판의 야성적 실루엣보다 장식·천의 비중이 큼"
+       ]
+      }
+     },
+     {
+      "world": "fantasy",
+      "candidate": 2,
+      "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-5389c7d6-065c-46d4-afbd-880e8edb40c8.png",
+      "png_sha256": "7cbcc1c72439892e4c1e636ae321cdbae4fc4d01117b5988682f693d6bc3819a",
+      "size": [
+       1024,
+       1536
+      ],
+      "prompt_sha256": "fcae59f79f929d24b5a14c6cf60c96999fcd3a7ae049b3edb7e7abbc4ea259c7",
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "prompt_form": "en-prompt",
+       "references": [],
+       "retries": []
+      },
+      "qa": {
+       "reviewer": "gpt",
+       "observations": [
+        "1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인",
+        "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"
+       ],
+       "issues": [
+        "극 상단이 프레임 경계에 닿거나 일부 잘림",
+        "최소 금속판의 야성적 실루엣보다 장식·천의 비중이 큼"
+       ]
+      }
+     },
+     {
+      "world": "mecha",
+      "candidate": 1,
+      "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-1ed4f5ef-32eb-4c0f-a3d7-ebe5de967e86.png",
+      "png_sha256": "565daf93f1a601f6475612791798a24df5ac5d5eba4fc1d90f517023a0c205ed",
+      "size": [
+       1024,
+       1536
+      ],
+      "prompt_sha256": "b12208ef101a6d36136529f99c897abb1e8ab588570b7a2ca3067bd3bb9a944d",
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "prompt_form": "en-prompt",
+       "references": [],
+       "retries": [
+        {
+         "n": 1,
+         "status": "moderation_blocked",
+         "request_id": "9a73f1d8-8456-496d-bd5f-e59d7f3a032c",
+         "image_returned": false
+        },
+        {
+         "n": 2,
+         "status": "success",
+         "prompt_changed": false
+        }
+       ]
+      },
+      "qa": {
+       "reviewer": "gpt",
+       "observations": [
+        "1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인",
+        "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"
+       ],
+       "issues": [
+        "극 상단이 프레임 경계에 닿거나 일부 잘림"
+       ]
+      }
+     },
+     {
+      "world": "mecha",
+      "candidate": 2,
+      "png_path": "/workspace/scratch/6a4edf81391a/generated_images/exec-84ea3c7c-a081-4aa2-be74-e0adfd20a99c.png",
+      "png_sha256": "17a949e48be0928dd0dbb7327ae21fbcb8a64fa90e5f75419844dcc340685087",
+      "size": [
+       1024,
+       1536
+      ],
+      "prompt_sha256": "b12208ef101a6d36136529f99c897abb1e8ab588570b7a2ca3067bd3bb9a944d",
+      "generation": {
+       "tool": "image_gen",
+       "endpoint": "images/generations",
+       "prompt_form": "en-prompt",
+       "references": [],
+       "retries": []
+      },
+      "qa": {
+       "reviewer": "gpt",
+       "observations": [
+        "1024×1536 세로 전신, 여성 한 명, 두 팔·두 다리와 양손 확인",
+        "남흑색 머리·강철빛 눈·초승달 무기, 세계별 의상과 배경 확인"
+       ],
+       "issues": [
+        "극 상단이 프레임 경계에 닿거나 일부 잘림"
+       ]
+      }
+     }
+    ],
+    "prompts": {
+     "samguk": "CONCEPT: a female personification of Zhang Liao (장료), a general of Cao Wei in the Romance of the Three Kingdoms — the terror of Hefei who shook a hundred thousand with eight hundred. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure in the body type SILHOUETTE names — soft, rounded volume at the bust, and hips and thighs kept in realistic human proportion: long, shapely legs, never oversized thighs, exaggerated hips or a bottom-heavy figure; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Luxurious, high-detail finish.\nTRAITS of Zhang Liao to carry in her design and the scene: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\nFACTION — Cao Wei (魏). Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; voluminous hair with choppy uneven bangs; blue-black hair with a cold indigo sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; fair skin; softly square face; moderately sized, realistically proportioned eyes — wide almond eyes, outer eye corners tilting sharply upward; low heavy brows; broad soft nose; small bow lips; steel-blue eyes; a bare, makeup-free face. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — THREE KINGDOMS ERA: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. COSTUME (Three Kingdoms era): Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nOUTFIT SILHOUETTE: a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette. Only the overall shape is fixed; design the details freely. This silhouette overrides the overall shape of the role costume above.\nMOOD: bold martial-fantasy key art — wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a crescent-bladed halberd — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a firm, resolute look with calm, steady eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 張.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.\n\nSKIN COLOUR AND RENDERING:\nHer own skin tone — fair skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, arms, hands and exposed legs, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate satin-like highlights, subtle texture, lifelike translucency and softly dimensional shading. Do not whiten or darken her skin tone, do not clip highlights or remove all shadows; no chalky, ashen, waxy or uniformly glossy skin, and the costume or setting never tints her skin.\n\nLIGHTING AND COLOUR:\nA bright, elegant high-key cinematic grade with luminous skin and clean colour separation. Soft bright frontal fill light gently lifts the face and exposed skin, keeping the midtones bright, translucent and evenly readable, with gentle, open, colour-clean shadows around the eyes, nose, lips, neck and limbs. The scene's own light comes from behind and to one side as a restrained rim, tracing hair strands, shoulder edges and fabric. Reflections from the costume, stone, metal or sky never cast a strong blue, purple, grey or orange tint on her skin. No heavy colour grade, dark crushed contrast, muddy shadows or cool desaturation.\n\nCAMERA AND COMPOSITION:\nVertical 2:3 full-body framing with modest headroom and clear space below the boots; the figure occupies most of the image height, and her head, hair ornaments, both hands, her signature item and both boots stay inside the frame. Natural portrait perspective — no wide-angle distortion and no exaggerated low camera angle; facial and body proportions stay balanced. She is sharply resolved from face to boots, the distance falls into gentle optical blur with clear atmospheric depth, and her face keeps enough detail to read her eyes, features and expression. No text, logo or watermark.",
+     "fantasy": "CONCEPT: a female personification of Zhang Liao (장료), a general of Cao Wei in the Romance of the Three Kingdoms — the terror of Hefei who shook a hundred thousand with eight hundred. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure in the body type SILHOUETTE names — soft, rounded volume at the bust, and hips and thighs kept in realistic human proportion: long, shapely legs, never oversized thighs, exaggerated hips or a bottom-heavy figure; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Luxurious, high-detail finish.\nTRAITS of Zhang Liao to carry in her design and the scene: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\nFACTION — Cao Wei. Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; a bob with side-swept bangs; blue-black hair with a cold indigo sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; fair skin; diamond-shaped face; moderately sized, realistically proportioned eyes — large round eyes, outer eye corners tilting sharply upward; low heavy brows; broad soft nose; small bow lips; steel-blue eyes; a bare, makeup-free face. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — MEDIEVAL FANTASY: a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. COSTUME (medieval fantasy): a knight-champion's armor — articulated plate with a heraldic tabard in her faction's colours, a plumed helm or circlet, a battle cape, her weapon at hand. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, subtle magical glow along the patterns. Her Three Kingdoms origin shows only through her signature item, her colours and her bearing — her outfit is Western: no wrap-collar robes, no wide hanfu sleeves, no flowing Chinese-style robe over armor, no East-Asian armor, no machinery, no modern material. The setting is Western European medieval — stone castles, Romanesque or Gothic architecture, European mountains, forests and towns; no Chinese architecture, no pagodas or curved tiled roofs, no hanzi on banners. LIGHT: natural daylight or the world's own magical glow, unless TIME & WEATHER says otherwise. Celestial ornament: feather-and-gold wing-shaped ornaments at the shoulders or back, a translucent gauze overskirt, a jewelled circlet.\nOUTFIT SILHOUETTE: a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette. Only the overall shape is fixed; design the details freely. This silhouette overrides the overall shape of the role costume above.\nMOOD: serene celestial key art — pastel sky light, a soft halo of light behind her, floating golden light particles and drifting feathers.\nEXPOSURE (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Chest and pelvis covered; no corset; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a crescent-bladed halberd — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a firm, resolute look with calm, steady eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.\n\nSKIN COLOUR AND RENDERING:\nHer own skin tone — fair skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, arms, hands and exposed legs, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate satin-like highlights, subtle texture, lifelike translucency and softly dimensional shading. Do not whiten or darken her skin tone, do not clip highlights or remove all shadows; no chalky, ashen, waxy or uniformly glossy skin, and the costume or setting never tints her skin.\n\nLIGHTING AND COLOUR:\nA bright, elegant high-key cinematic grade with luminous skin and clean colour separation. Soft bright frontal fill light gently lifts the face and exposed skin, keeping the midtones bright, translucent and evenly readable, with gentle, open, colour-clean shadows around the eyes, nose, lips, neck and limbs. The scene's own light comes from behind and to one side as a restrained rim, tracing hair strands, shoulder edges and fabric. Reflections from the costume, stone, metal or sky never cast a strong blue, purple, grey or orange tint on her skin. No heavy colour grade, dark crushed contrast, muddy shadows or cool desaturation.\n\nCAMERA AND COMPOSITION:\nVertical 2:3 full-body framing with modest headroom and clear space below the boots; the figure occupies most of the image height, and her head, hair ornaments, both hands, her signature item and both boots stay inside the frame. Natural portrait perspective — no wide-angle distortion and no exaggerated low camera angle; facial and body proportions stay balanced. She is sharply resolved from face to boots, the distance falls into gentle optical blur with clear atmospheric depth, and her face keeps enough detail to read her eyes, features and expression. No text, logo or watermark.",
+     "mecha": "CONCEPT: a female personification of Zhang Liao (장료), a general of Cao Wei in the Romance of the Three Kingdoms — the terror of Hefei who shook a hundred thousand with eight hundred. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure in the body type SILHOUETTE names — soft, rounded volume at the bust, and hips and thighs kept in realistic human proportion: long, shapely legs, never oversized thighs, exaggerated hips or a bottom-heavy figure; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Luxurious, high-detail finish.\nTRAITS of Zhang Liao to carry in her design and the scene: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\nFACTION — Cao Wei. Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; short cropped hair with center-parted bangs framing the face; blue-black hair with a cold indigo sheen.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a fierce, wild ferocity; fair skin; softly square face; moderately sized, realistically proportioned eyes — deep-set eyes, outer eye corners tilting sharply upward; low heavy brows; broad soft nose; small bow lips; steel-blue eyes; a bare, makeup-free face. Whatever the face shape, keep soft, feminine, attractive contours with a small, soft chin — never elongated, horse-like, mannish or heavy-jawed. Face proportions: a short, compact midface — the eyes sit at about the vertical middle of the head and the eyes-to-mouth distance is short; the face is only slightly longer than it is wide (about 1.3 : 1 from hairline to chin), with a small, softly rounded chin. Long bangs, side locks or a tall headpiece frame the face but never make it look longer.\nWORLD — MECHA: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls. MECHA DESIGN: she is a female mecha personification, built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. She is clad in mecha plating from neck to feet — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines.\nMECHA SILHOUETTE: a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape. Only the overall shape is fixed; design the details freely.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the costume WORLD describes, material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a crescent-bladed halberd — she holds or carries it, drawn at full scale, in the form this WORLD gives it. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a firm, resolute look with calm, steady eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.\n\nSKIN COLOUR AND RENDERING:\nHer own skin tone — fair skin — rendered luminous and lifelike: bright, softly glowing diffuse midtones on the face, neck, shoulders, arms, hands and exposed legs, not only in the specular highlights; one consistent underlying complexion across the whole body, varying only with light and shadow. Shadows stay clean and warm within her own skin tone — never grey-violet, muddy brown, blue-grey or heavily desaturated. Delicate satin-like highlights, subtle texture, lifelike translucency and softly dimensional shading. Do not whiten or darken her skin tone, do not clip highlights or remove all shadows; no chalky, ashen, waxy or uniformly glossy skin, and the costume or setting never tints her skin.\n\nLIGHTING AND COLOUR:\nA bright, elegant high-key cinematic grade with luminous skin and clean colour separation. Soft bright frontal fill light gently lifts the face and exposed skin, keeping the midtones bright, translucent and evenly readable, with gentle, open, colour-clean shadows around the eyes, nose, lips, neck and limbs. The scene's own light comes from behind and to one side as a restrained rim, tracing hair strands, shoulder edges and fabric. Reflections from the costume, stone, metal or sky never cast a strong blue, purple, grey or orange tint on her skin. No heavy colour grade, dark crushed contrast, muddy shadows or cool desaturation.\n\nCAMERA AND COMPOSITION:\nVertical 2:3 full-body framing with modest headroom and clear space below the boots; the figure occupies most of the image height, and her head, hair ornaments, both hands, her signature item and both boots stay inside the frame. Natural portrait perspective — no wide-angle distortion and no exaggerated low camera angle; facial and body proportions stay balanced. She is sharply resolved from face to boots, the distance falls into gentle optical blur with clear atmospheric depth, and her face keeps enough detail to read her eyes, features and expression. No text, logo or watermark."
+    },
+    "chosen": {
+     "samguk": 1,
+     "fantasy": 1,
+     "mecha": 2
+    },
+    "user_message": "삼국1, 판타지1,메카2"
+   },
+   "phase": "images and catalogue registered",
+   "done_at": "2026-11-08T06:28:04.854Z",
+   "done_by": "sam-zhangliao-20261108-6a4edf81391a",
+   "image_commit": "482a1ffdf42a61067ad7440f234c1cbbe0172b4c",
+   "catalogue_commit": "1dacd01aff1fd6859651da6ccfa3840d14267372"
+  },
+  {
+   "key": "장료",
+   "execution": "sam-zhangliao-20261112",
+   "status": "working",
+   "claimed_at": "2026-11-11T22:36:34.891059+00:00",
+   "date_kst": "2026-11-12",
+   "date_utc": "2026-11-12",
+   "phase": "awaiting world selection",
+   "selection": {
+    "status": "awaiting_user",
+    "style": "kr_drawn_rim_dewy",
+    "sheet": "/workspace/scratch/3c0fa348902b/zhangliao/zhangliao-world-selection-sheet.jpg",
+    "sheet_library_id": "libfile_bf91e24176b881919ac64c8394dceafa",
+    "candidates": [
+     {
+      "world": "samguk",
+      "number": 1,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-12b828c7-fa0c-4296-8c03-7eb8169537ee.png",
+      "design": "base",
+      "prompt_sha256": "7b72904b29026a9f20cc4bcde3dd815981efb3fb6e82438e3a8a3efeee895971",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [],
+       "passed": true
+      },
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "fe5eefbdc60676b292dcfadfdc0f75151fed9d806628912708f380d32e89d0ad"
+     },
+     {
+      "world": "samguk",
+      "number": 2,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-f9f6b322-277c-4a31-be68-30bc16e38bcb.png",
+      "design": "base",
+      "prompt_sha256": "7b72904b29026a9f20cc4bcde3dd815981efb3fb6e82438e3a8a3efeee895971",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [],
+       "passed": true
+      },
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "cb000ad63228f16fafc4e2a565a5356b726f86613a03f2588304425a51659ae7"
+     },
+     {
+      "world": "samguk",
+      "number": 3,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-8840107a-f4d6-4c11-8a3f-985cd16005d1.png",
+      "design": "gpt_free",
+      "prompt_sha256": "ac90f97fb111245f8747e3f475c8c3a297129dffd4829db0893e64b8a3ec7aa6",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [
+        "배경에 병사 또는 말이 생성되어 단독 인물 제약에서 벗어남"
+       ],
+       "passed": false
+      },
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "e2c36702b6f6dffd36f73ee180f4eaffe8d4a0f3fd3df8445889ac381ec909a2"
+     },
+     {
+      "world": "samguk",
+      "number": 4,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-96ce31ee-1504-4333-bc7c-0149711a1415.png",
+      "design": "gpt_free",
+      "prompt_sha256": "ac90f97fb111245f8747e3f475c8c3a297129dffd4829db0893e64b8a3ec7aa6",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [
+        "배경에 병사 또는 말이 생성되어 단독 인물 제약에서 벗어남",
+        "무기 상단이 프레임 경계에서 잘림"
+       ],
+       "passed": false
+      },
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "9a2fbe8d8308afa104ef943a0424e58ff5ba5173238b75105c775a3bb96857e9"
+     },
+     {
+      "world": "fantasy",
+      "number": 1,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-920578d9-1745-4035-a4ba-4875a8a9ee34.png",
+      "design": "base",
+      "prompt_sha256": "05b2e00d8700add588de02d007cad408d4f0a75744997353953729d0e333d54e",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [
+        "단순한 야성적 전사 실루엣보다 장식과 천의 비중이 큼"
+       ],
+       "passed": false
+      },
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "d08aa92fecd8754651e3cf7d2dee418f805bb0f7948e1f0a51a75b282dc12a1f"
+     },
+     {
+      "world": "fantasy",
+      "number": 2,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-642509bf-8a84-42b0-ae4d-84c4556d11a4.png",
+      "design": "base",
+      "prompt_sha256": "05b2e00d8700add588de02d007cad408d4f0a75744997353953729d0e333d54e",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [
+        "단순한 야성적 전사 실루엣보다 장식과 천의 비중이 큼"
+       ],
+       "passed": false
+      },
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "c91a6e23f24976b734f12e676b3f704597635a6aa3f478106438e5d7de6c3f33"
+     },
+     {
+      "world": "fantasy",
+      "number": 3,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-b1aabff4-83cc-4a8f-b575-6598c31703b1.png",
+      "design": "gpt_free",
+      "prompt_sha256": "4cd7050ee9ed131c0911a333ef11b195f5c1d9c4c4025112ac1138d03a6cc65c",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [
+        "배경에 병사 또는 말이 생성되어 단독 인물 제약에서 벗어남"
+       ],
+       "passed": false
+      },
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "7193f0f9b392ca45feee06044c6d2f2c3de055796badc21f9a2f22bbceab5b9c"
+     },
+     {
+      "world": "fantasy",
+      "number": 4,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-983f955a-c784-47d6-be01-d9758a998183.png",
+      "design": "gpt_free",
+      "prompt_sha256": "4cd7050ee9ed131c0911a333ef11b195f5c1d9c4c4025112ac1138d03a6cc65c",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [
+        "배경에 병사 또는 말이 생성되어 단독 인물 제약에서 벗어남"
+       ],
+       "passed": false
+      },
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "1cbf79afe2a36e5ac359717d70994729dab0291a06e77e2df5bfcd91713678f7"
+     },
+     {
+      "world": "mecha",
+      "number": 1,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-d71d40bc-9dfa-490e-ab9a-5bbc16a382c1.png",
+      "design": "base",
+      "prompt_sha256": "2903090ec99b90dee34d04fc8a2579b7257bc1b3dfec3dbe9ff78574c3678bea",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [],
+       "passed": true
+      },
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "799c0a2ad55f003782d17f7c116f86c842fb266df8eca2315f758a76ac90e5a6"
+     },
+     {
+      "world": "mecha",
+      "number": 2,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-6517b2b7-ce63-442e-bd91-3b193ad51349.png",
+      "design": "base",
+      "prompt_sha256": "2903090ec99b90dee34d04fc8a2579b7257bc1b3dfec3dbe9ff78574c3678bea",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [],
+       "passed": true
+      },
+      "retries": [
+       {
+        "attempt": 1,
+        "outcome": "no usable image returned; error detail was not retained"
+       },
+       {
+        "attempt": 2,
+        "outcome": "success",
+        "prompt_changed": false
+       }
+      ],
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "66ddf5e1adf6905fb8c33d1ceb6e111092b6b407298f8d9c01a0b230ccf14189"
+     },
+     {
+      "world": "mecha",
+      "number": 3,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-e7a0379d-fb91-41ea-87cc-277e0cdc942a.png",
+      "design": "gpt_free",
+      "prompt_sha256": "6606353d8651db7c79278eac2259b529766545f1f6a68fb5a2f78ea1384c3678",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [],
+       "passed": true
+      },
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "3d4ef86d299a1bc2b840175ecfff02931dfffa336111c9fcaedd7bc3ba52c311"
+     },
+     {
+      "world": "mecha",
+      "number": 4,
+      "path": "/workspace/scratch/3c0fa348902b/generated_images/exec-2f515ae2-6041-4cfb-8af0-21fe7c340d12.png",
+      "design": "gpt_free",
+      "prompt_sha256": "6606353d8651db7c79278eac2259b529766545f1f6a68fb5a2f78ea1384c3678",
+      "qa": {
+       "reviewer": "gpt",
+       "exposure": "match",
+       "observations": [
+        "주인공 전신과 양손, 세계별 의상·배경 확인"
+       ],
+       "issues": [],
+       "passed": true
+      },
+      "size": [
+       1024,
+       1536
+      ],
+      "png_sha256": "6d99607d700eaa7012a80fa6f3e1f3c5dd3c8a8f6c3612dd53991f0b047947f7"
+     }
+    ],
+    "prompts": {
+     "samguk": {
+      "base": "A full-body character image, vertical 2:3 (1024×1536): Zhang Liao of the Romance of the Three Kingdoms, reimagined as an adult woman — the terror of Hefei who shook a hundred thousand with eight hundred.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a fierce, wild ferocity; fair skin; softly squared face with a rounded jaw; medium-sized eyes — wide almond eyes, outer eye corners slightly lifted; low heavy brows; broad soft nose; small bow lips; steel-blue eyes; a bare, makeup-free face.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; voluminous hair with choppy uneven bangs; blue-black hair with a cold indigo sheen.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — THREE KINGDOMS\nCostume: Three Kingdoms war general's armor — lamellar scale armor laced over a silk battle robe, beast-head shoulder guards, a plumed helmet or a war headband, a long war cape, her weapon at hand. Late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron.\nSilhouette: a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white.\nSignature item: a crescent-bladed halberd. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare upper arms above detached wide sleeves (and bare shoulders where no shoulder guard sits), a high slit in the skirt panels showing the thigh; any armor pieces stay on and symmetrical. Intimate areas covered; keep the costume material and palette.\n\n4. SCENE\nWorld: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 張. No logo, watermark, speech bubble or frame border. Three Kingdoms-era Chinese dress, architecture and materials only.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+      "gpt_free": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Zhang Liao from the Romance of the Three Kingdoms, reimagined as an adult woman — the terror of Hefei who shook a hundred thousand with eight hundred. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\n\nWorld (fixed): Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) light armor pieces over a fitted silk martial dress, long silk sashes and a light skirt flowing from the waist and shoulders — a light, dancing silhouette; 2) layered laced lamellar armor, big heavy beast-head pauldrons and armored skirts to the knees — a broad, weighty general's silhouette; 3) fitted light lamellar armor with short armored skirts slit for riding, bracers and greaves — a lean, practical cavalry silhouette; 4) a fitted martial-arts outfit with a wide belt and arm guards, a long silk sash streaming behind — a wandering swordswoman's silhouette; 5) a great war cape spreading from the shoulders to the ankles as the main shape, lamellar armor beneath; 6) a heavy fur mantle over the shoulders with leather straps and beast ornaments — a rugged frontier silhouette; 7) a lamellar breastplate above, many layers of silk skirt flaring wide below the waist — firm above, flowing below; 8) a dark close-fitting light outfit with minimal ornament and wrapped arms and legs — a sleek silhouette, face uncovered; 9) a chest guard, a quiver, a fitted short robe and leg wraps — a light, upright archer's silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a crescent-bladed halberd.\n\nHair colour (fixed — ours): blue-black hair with a cold indigo sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a banner or seal may carry a single faction character, no other text; no logo or watermark."
+     },
+     "fantasy": {
+      "base": "A full-body character image, vertical 2:3 (1024×1536): Zhang Liao of the Romance of the Three Kingdoms, reimagined as an adult woman — the terror of Hefei who shook a hundred thousand with eight hundred.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a fierce, wild ferocity; fair skin; softly squared face with a rounded jaw; medium-sized eyes — wide almond eyes, outer eye corners slightly lifted; low heavy brows; broad soft nose; small bow lips; steel-blue eyes; a bare, makeup-free face.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; voluminous hair with choppy uneven bangs; blue-black hair with a cold indigo sheen.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MEDIEVAL FANTASY\nCostume: a knight-champion's armor — articulated plate with a heraldic tabard in her faction's colours, a plumed helm or circlet, a battle cape, her weapon at hand. Western medieval high-fantasy dress — plate, mail and heraldic tabards, gowns and mantles, circlets and crowns; steel, leather, wool, velvet and gold, with a subtle magical glow along the patterns. Her Three Kingdoms origin shows through her signature item, her colours and her bearing.\nSilhouette: a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white.\nSignature item: a crescent-bladed halberd, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette — polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her regalia opens to show skin — bare shoulders and arms between pauldron and bracer, a deep open neckline under the gorget with natural cleavage, a high slit in the tabard or gown showing the thigh; armor pieces stay on and symmetrical. Intimate areas covered; no corset; keep the costume material and palette.\n\n4. SCENE\nWorld: a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — banners and shields carry only heraldic devices (a beast or a crest), never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A Western medieval setting and dress only — stone castles, Romanesque or Gothic architecture — with no Chinese architecture, robes or hanzi.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+      "gpt_free": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Zhang Liao from the Romance of the Three Kingdoms, reimagined as an adult woman — the terror of Hefei who shook a hundred thousand with eight hundred. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\n\nWorld (fixed): a stern northern empire of medieval high fantasy: black-stone citadels with blue banners, iron-shod heavy cavalry, snowy plains and pine forests, a court ruled by strict law, cold blue sigil-magic. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) full plate armor from neck to feet with big rounded pauldrons and a short heraldic tabard — a solid knight's silhouette; 2) leather armor with a short cloak, a lowered hood, bracers and boots — a light, agile ranger's silhouette; 3) a fitted breastplate and pauldrons above a gown skirt flaring to the floor — an elegant lady-knight silhouette; 4) plate armor under a long heraldic tabard with a white cape to the ankles — a straight, holy silhouette; 5) large metal feathered wing ornaments spreading from the shoulders or back and a wing-shaped head ornament — the wings make the shape; 6) angular, spiked dark plate armor and a long cape with torn edges — a sharp, menacing silhouette; 7) thin leaf-patterned armor plates and flowing light fabric panels with a slender circlet — a slender, graceful silhouette; 8) a fur cloak, leather straps, minimal metal plates and bone and tooth ornaments — a rugged, wild warrior silhouette; 9) dragon-scale armor covering the body with horn-shaped shoulder and head ornaments — a beastly, imposing silhouette. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a crescent-bladed halberd, reimagined as a Western high-fantasy version of the same kind of object with the same silhouette: polished steel and silvered mithril throughout, the shaft or hilt also forged metal with engraved runes (never plain wood), a faint magical glow running along the edge and the runes, a gem-set guard or socket, a leather-wrapped grip and heraldic or elven ornament, with any animal motif re-sculpted in Western heraldic style and no Chinese fittings, silk tassels or hanzi.\n\nHair colour (fixed — ours): blue-black hair with a cold indigo sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; Western medieval setting and dress only — no Chinese architecture, robes, junks or hanzi; no logo or watermark."
+     },
+     "mecha": {
+      "base": "A full-body character image, vertical 2:3 (1024×1536): Zhang Liao of the Romance of the Three Kingdoms, reimagined as an adult woman — the terror of Hefei who shook a hundred thousand with eight hundred.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: about twenty — a fresh young-adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a fierce, wild ferocity; fair skin; softly squared face with a rounded jaw; medium-sized eyes — wide almond eyes, outer eye corners slightly lifted; low heavy brows; broad soft nose; small bow lips; steel-blue eyes; a bare, makeup-free face.\nBody and hair: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist build; voluminous hair with choppy uneven bangs; blue-black hair with a cold indigo sheen.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: deep navy blue, black lacquer, cold steel silver, ivory white. Faction frame: navy-blue and black lacquer heavy plating with cold steel-silver edges, angular command fins, a disciplined symmetrical frame, cold blue glow lines.\nSignature item: a crescent-bladed halberd, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a deep open chest window with natural cleavage framed by the chest plates, and a bare waist and midriff between the bust plate and the hip armor; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+      "gpt_free": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) character card image of Zhang Liao from the Romance of the Three Kingdoms, reimagined as an adult woman — the terror of Hefei who shook a hundred thousand with eight hundred. Age: about twenty — a fresh young-adult face; no facial lines. She is a woman — no beard, moustache or facial hair.\n\nYou design her yourself: invent her face, eye colour, hairstyle, makeup, expression, pose and setting as a fresh, original take — do not follow any earlier design of this character. Her hair colour, skin tone, costume and weapon are NOT free: take them from our designs below.\n\nStyle (fixed): Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nInspiration only: fearless shock charges, a name that silenced crying children in Wu, dark armor with a crescent crest.\n\nWorld (fixed): year 2190, the Wei Federation in orbit: a navy-black orbital fortress and capital-ship fleet above a cold blue planet, starfields and a distant sun, hard white floodlights on armored hulls. Her costume, weapon and setting belong to this world.\n\nCostume (choose one of ours, then add your own idea): pick ONE of these costume shapes from our set and keep its overall silhouette — 1) a sleek armored bodysuit — thin, long plates on the shoulders, arms and legs that follow her curves closely; 2) heavy assault bulk — big, thick shoulder and leg armor, a broad upper silhouette and large thrusters on the back and legs, while the torso stays fitted and the waist narrow; 3) several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them; 4) minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette; 5) separate armor pieces rather than one shell — plates on the shoulders, forearms, chest, waist, thighs and shins, with a dark fitted inner suit showing between them; 6) complete full-body armor with plates joined seamlessly from neck to feet — bare skin only on the face and where EXPOSURE allows, dense visible seams and joints; 7) a slender torso with oversized mechanical forearms and lower legs — huge gauntlets and boots — the contrast is the main shape; 8) mecha armor shaped like a medieval knight's plate — big rounded pauldrons, a breastplate, layered plates below the waist, a head ornament instead of a helmet so her face shows; 9) several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth; 10) one long segmented mechanical tail reaching from the back of her waist, tipped with a weapon or ornament. Then add one signature idea of your own drawn from her legend, built into the construction of the outfit itself rather than as a print or a loose accessory — e.g. plates or cloth layered like feathers, scales or petals, a hem or sleeve cut into a motif from her story. Build it in this world's materials and our colours below.\n\nWeapon (fixed — ours): a crescent-bladed halberd, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings.\n\nHair colour (fixed — ours): blue-black hair with a cold indigo sheen. Keep exactly this hair colour; only the hairstyle is yours.\n\nSkin tone (fixed — ours): fair skin. Keep exactly this skin tone.\n\nCostume colours (ours): deep navy blue, black lacquer, cold steel silver, ivory white.\n\nMecha (fixed): she is a female mecha personification — her whole body is covered in solid hard-surface mecha armour plates with visible thickness, joints, panel lines and glow lines, never cloth or a gown; no cloth robe, gown, skirt or long fabric over the plates — any cape, skirt or wing is rigid armoured plates. Her face and hair stay human.\n\nRank (fixed): she is a famed war general — her costume must read battlefield might at first glance: imposing, richly worked armour and cloth with flagship-card detail, never plain or sparse.\n\nExposure (fixed): bold — her outfit shows skin by design (a deep neckline, bare shoulders or arms, a high slit or short hem); intimate areas covered.\n\nFace proportions: a short midface and a soft, gently rounded jawline with a small soft chin — never a long face or a long, pointed or heavy jaw; any crown or headpiece sits above her hairline and never lengthens her face. Her eyes stay at a natural open size — never squeezed into narrow slits.\n\nComposition: vertical 2:3 full-body framing with modest headroom and clear space below the boots — the whole figure from the top of her crown or headpiece to both boots stays inside the frame, occupying about four-fifths of the image height, with the same camera distance in every genre; her hands and her signature item stay inside the frame. Camera at chest height with natural portrait perspective — no wide-angle distortion, no low angle, no close crop.\n\nIf you have already drawn a free design of her in this session, make this one clearly different — another face and hairstyle (the same hair colour and skin tone), another costume shape from the list with another signature idea, another pose and setting.\n\nWrite your own detailed image prompt from this brief, then draw it. One figure only, natural hands with five fingers; a far-future setting only — no traditional East-Asian architecture, pagodas or tiled roofs; no hanzi; no logo or watermark."
+     }
+    },
+    "instructions": "삼국시대, 판타지, 메카 순서로 1~4 선택. 선택 전 일상컷 생성 및 도감 등록 안 함. 생성된 이미지는 노출 검열을 이유로 재생성하지 않음."
+   }
+  }
+ ]
+}
