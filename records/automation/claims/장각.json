@@ -34,7 +34,7 @@
   {
    "key": "장각",
    "execution": "sam-zhangjiao-api25-20261111-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T05:15:50.692Z",
    "date_kst": "2026-11-11",
    "date_utc": "2026-11-11",
@@ -60,7 +60,39 @@
     "장각_mecha_kr_drawn_rim_dewy_f_casual4.webp",
     "장각_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "장각_mecha_kr_drawn_rim_dewy_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-11T10:12:59.870605+00:00",
+   "done_by": "sam-zhangjiao-api25-20261111-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "장각_samguk_api25_f.webp",
+     "장각_samguk_api25_f_casual1.webp",
+     "장각_samguk_api25_f_casual2.webp",
+     "장각_samguk_api25_f_casual3.webp",
+     "장각_samguk_api25_f_casual4.webp",
+     "장각_samguk_api25_f_casual5.webp",
+     "장각_samguk_api25_f_casual6.webp",
+     "장각_fantasy_api25_f.webp",
+     "장각_fantasy_api25_f_casual1.webp",
+     "장각_fantasy_api25_f_casual2.webp",
+     "장각_fantasy_api25_f_casual3.webp",
+     "장각_fantasy_api25_f_casual4.webp",
+     "장각_fantasy_api25_f_casual5.webp",
+     "장각_fantasy_api25_f_casual6.webp",
+     "장각_mecha_api25_f.webp",
+     "장각_mecha_api25_f_casual1.webp",
+     "장각_mecha_api25_f_casual2.webp",
+     "장각_mecha_api25_f_casual3.webp",
+     "장각_mecha_api25_f_casual4.webp",
+     "장각_mecha_api25_f_casual5.webp",
+     "장각_mecha_api25_f_casual6.webp"
+    ],
+    "image_commit": "101ac3cb1ab7c96bcaad7f7636290f6ebb9b3c6f",
+    "registration_commit": "0929661917a04305767b0b9ff17c38064ea50b47",
+    "approval": "사용자 「올려줘」",
+    "note": "요청한 api25 세계3+일상18와 썸네일 등록 확인. 원래 기본화풍 missing 목록은 역사 기록으로 보존."
+   }
   }
  ]
 }
