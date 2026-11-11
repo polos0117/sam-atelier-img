@@ -4,7 +4,7 @@
   {
    "key": "장소",
    "execution": "sam-zhangzhao-api25-20261111-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T01:03:47.364Z",
    "date_kst": "2026-11-11",
    "date_utc": "2026-11-11",
@@ -30,7 +30,13 @@
     "장소_mecha_kr_mmorpg_26_f_casual4.webp",
     "장소_mecha_kr_mmorpg_26_f_casual5.webp",
     "장소_mecha_kr_mmorpg_26_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-11T01:26:42.304247+00:00",
+   "done_by": "gpt",
+   "style": "api25",
+   "completed_files": 21,
+   "completion_approval": "사용자 「올려줘」: 두 저장소 main 게시·도감 등록·작업 기록·현재 장소 잠금 complete 처리 승인",
+   "reason": "api25 세계3+일상18 게시, 자동 썸네일21개 및 도감21항목 확인 완료. done 도구의 기본화풍 검사와 분리해 현재 실행만 완료 처리."
   }
  ]
 }
