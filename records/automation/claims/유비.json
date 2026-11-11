@@ -258,7 +258,23 @@
     "유비_mecha_kr_drawn_rim_dewy_f_casual4.webp",
     "유비_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "유비_mecha_kr_drawn_rim_dewy_f_casual6.webp"
-   ]
+   ],
+   "phase": "awaiting_world_selection",
+   "candidates": 12,
+   "style": "kr_drawn_rim_dewy",
+   "selection_sheet_library_file_id": "libfile_d2e16aae0e848191ae1e6a9491dc54b4",
+   "candidates_archive_library_file_id": "libfile_46d5287da560819182e0435e6e68a34a",
+   "selection_numbering": {
+    "1": "registered_1",
+    "2": "registered_2",
+    "3": "gpt_free_1",
+    "4": "gpt_free_2"
+   },
+   "note": "All twelve candidates generated with built-in image_gen, text-only. All originals verified 1024x1536. No exposure-related regeneration. Original PNGs, exact prompts and QA preserved in candidate archive. Waiting for world selection before casual prompts or registration.",
+   "workspace": "/workspace/scratch/66eceaee67bf",
+   "code_worktree": "/workspace/scratch/66eceaee67bf/sam-atelier",
+   "image_worktree": "/workspace/scratch/66eceaee67bf/sam-atelier-img"
   }
  ]
 }
+
