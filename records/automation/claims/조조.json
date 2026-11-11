@@ -201,35 +201,13 @@
   {
    "key": "조조",
    "execution": "sam-caocao-20261111-112daaf3",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T13:06:58.818Z",
    "date_kst": "2026-11-11",
    "date_utc": "2026-11-11",
    "style": "kr_drawn_rim_dewy",
-   "stage": "publishing_images",
-   "missing": [
-    "조조_samguk_kr_drawn_rim_dewy_f.webp",
-    "조조_samguk_kr_drawn_rim_dewy_f_casual1.webp",
-    "조조_samguk_kr_drawn_rim_dewy_f_casual2.webp",
-    "조조_samguk_kr_drawn_rim_dewy_f_casual3.webp",
-    "조조_samguk_kr_drawn_rim_dewy_f_casual4.webp",
-    "조조_samguk_kr_drawn_rim_dewy_f_casual5.webp",
-    "조조_samguk_kr_drawn_rim_dewy_f_casual6.webp",
-    "조조_fantasy_kr_drawn_rim_dewy_f.webp",
-    "조조_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
-    "조조_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
-    "조조_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
-    "조조_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
-    "조조_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
-    "조조_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
-    "조조_mecha_kr_drawn_rim_dewy_f.webp",
-    "조조_mecha_kr_drawn_rim_dewy_f_casual1.webp",
-    "조조_mecha_kr_drawn_rim_dewy_f_casual2.webp",
-    "조조_mecha_kr_drawn_rim_dewy_f_casual3.webp",
-    "조조_mecha_kr_drawn_rim_dewy_f_casual4.webp",
-    "조조_mecha_kr_drawn_rim_dewy_f_casual5.webp",
-    "조조_mecha_kr_drawn_rim_dewy_f_casual6.webp"
-   ],
+   "stage": "complete",
+   "missing": [],
    "candidate_count": 12,
    "candidates_by_world": {
     "samguk": [
@@ -255,7 +233,7 @@
    "candidate_archive_library_file_id": "libfile_41b8385465e081918c00dae9d8469b07",
    "workspace": "/workspace/scratch/112daaf33c28",
    "generation_tool": "image_gen",
-   "note": "선택 1,2,2 기반 세계컷 3장·일상컷 18장 생성 완료. 모두 1024×1536. 새 묶음 검사 및 세계 간 중복 검사 통과. 메카 일상1은 bold 2회·moderate 1회 거절 후 low 설정으로 최초 생성. 완성된 이미지의 노출 사유 재생성 없음. 이미지·도감 등록 진행.",
+   "note": "선택 세계컷 1·2·2와 일상컷18장, 총21장 이미지·기록 및 도감 main 반영 완료. 1024×1536·필수갈래·세 세계 중복 검사 통과. 기존 이미지 보존. 완성된 이미지의 노출 사유 재생성 없음.",
    "qa_note": "일부 의상 해석·원본 배색 전이·메카 지정 외 피부 개방 등은 각 기록 qa에 보존. 새 묶음만 대상으로 세 세계 검사 통과. 기존 화풍·이미지·기록 보존.",
    "candidates": [
     {
@@ -351,7 +329,11 @@
    "selection_user": "1,2,2",
    "generated_worlds": 3,
    "generated_casuals": 18,
-   "complete_sheet_library_file_id": "libfile_603344644a84819187cc5ebdafed42f6"
+   "complete_sheet_library_file_id": "libfile_603344644a84819187cc5ebdafed42f6",
+   "done_at": "2026-11-11T13:57:08.561Z",
+   "done_by": "sam-caocao-20261111-112daaf3",
+   "image_commit": "db566234a3da4c6ceff46d6d6c5639a4b6309a98",
+   "code_commit": "fadbad1216a66bc93dce47a390379e6b2d581342"
   }
  ]
 }
