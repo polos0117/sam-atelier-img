@@ -34,7 +34,7 @@
   {
    "key": "장비",
    "execution": "sam-zhangfei-api25-20261111-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T13:11:19.836Z",
    "date_kst": "2026-11-11",
    "date_utc": "2026-11-11",
@@ -60,7 +60,39 @@
     "장비_mecha_kr_drawn_rim_dewy_f_casual4.webp",
     "장비_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "장비_mecha_kr_drawn_rim_dewy_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-11T14:08:38.286327+00:00",
+   "done_by": "sam-zhangfei-api25-20261111-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "장비_samguk_api25_f.webp",
+     "장비_samguk_api25_f_casual1.webp",
+     "장비_samguk_api25_f_casual2.webp",
+     "장비_samguk_api25_f_casual3.webp",
+     "장비_samguk_api25_f_casual4.webp",
+     "장비_samguk_api25_f_casual5.webp",
+     "장비_samguk_api25_f_casual6.webp",
+     "장비_fantasy_api25_f.webp",
+     "장비_fantasy_api25_f_casual1.webp",
+     "장비_fantasy_api25_f_casual2.webp",
+     "장비_fantasy_api25_f_casual3.webp",
+     "장비_fantasy_api25_f_casual4.webp",
+     "장비_fantasy_api25_f_casual5.webp",
+     "장비_fantasy_api25_f_casual6.webp",
+     "장비_mecha_api25_f.webp",
+     "장비_mecha_api25_f_casual1.webp",
+     "장비_mecha_api25_f_casual2.webp",
+     "장비_mecha_api25_f_casual3.webp",
+     "장비_mecha_api25_f_casual4.webp",
+     "장비_mecha_api25_f_casual5.webp",
+     "장비_mecha_api25_f_casual6.webp"
+    ],
+    "image_commit": "36a2c8d5df64511a0776be5f2285bd6651869290",
+    "registration_commit": "dbef8734c72c1c5b52d7737f808f266188e9f2b0",
+    "approval": "사용자 「업로드해줘」",
+    "note": "요청한 api25 세계3+일상18와 썸네일 등록 확인. 원래 기본화풍 missing 목록은 역사 기록으로 보존."
+   }
   }
  ]
 }
