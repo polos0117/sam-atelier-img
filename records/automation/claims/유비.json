@@ -228,6 +228,37 @@
     "pages_deployment": "success"
    },
    "qa_note": "Deviations preserved in per-image QA. Mecha casual3 umbrella shaft remains angular after the single allowed identical-prompt redo. No returned image regenerated because of exposure."
+  },
+  {
+   "key": "유비",
+   "execution": "sam-liubei-20261111-66eceaee",
+   "status": "working",
+   "claimed_at": "2026-11-11T13:50:36.124Z",
+   "date_kst": "2026-11-11",
+   "date_utc": "2026-11-11",
+   "missing": [
+    "유비_samguk_kr_drawn_rim_dewy_f.webp",
+    "유비_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "유비_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "유비_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "유비_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "유비_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "유비_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "유비_fantasy_kr_drawn_rim_dewy_f.webp",
+    "유비_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "유비_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "유비_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "유비_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "유비_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "유비_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "유비_mecha_kr_drawn_rim_dewy_f.webp",
+    "유비_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "유비_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "유비_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "유비_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "유비_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "유비_mecha_kr_drawn_rim_dewy_f_casual6.webp"
+   ]
   }
  ]
 }
