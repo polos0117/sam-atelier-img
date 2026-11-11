@@ -100,7 +100,13 @@
     "초선_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "초선_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "초선_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "phase": "awaiting_world_selection",
+   "selection_sheet_library_file_id": "libfile_2186c240594481918c051b788cd23b91",
+   "candidates_library_file_id": "libfile_ee754defe66c8191a8992c0e611c5d78",
+   "candidate_count": 12,
+   "style": "kr_drawn_rim_dewy",
+   "note": "World candidates created, not registered. Await user selection samguk/fantasy/mecha 1–4. No regeneration for exposure censorship."
   }
  ]
 }
