@@ -71,7 +71,7 @@
   {
    "key": "초선",
    "execution": "sam-diaochan-9275-20261112",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T21:10:36.512Z",
    "date_kst": "2026-11-12",
    "date_utc": "2026-11-11",
@@ -101,12 +101,23 @@
     "초선_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "초선_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
-   "phase": "awaiting_world_selection",
+   "phase": "registered",
    "selection_sheet_library_file_id": "libfile_2186c240594481918c051b788cd23b91",
    "candidates_library_file_id": "libfile_ee754defe66c8191a8992c0e611c5d78",
    "candidate_count": 12,
    "style": "kr_drawn_rim_dewy",
-   "note": "World candidates created, not registered. Await user selection samguk/fantasy/mecha 1–4. No regeneration for exposure censorship."
+   "note": "Selected world images 2/1/2 plus 21 off-duty images registered. All 51 remote image and record Git blobs match preserved local originals. No generated image regenerated for exposure censorship.",
+   "selection": {
+    "samguk": 2,
+    "fantasy": 1,
+    "mecha": 2
+   },
+   "done_at": "2026-11-11T22:04:42.882Z",
+   "done_by": "sam-diaochan-9275-20261112",
+   "image_commit": "01b39522f3b57a87e8dbe50c4d1596e2bde3c332",
+   "code_commit": "d0bd5afdc9f3a29106ffc07c605c61fe9bdddd8c",
+   "total_images": 24,
+   "complete_sheet_library_file_id": "libfile_f71100a3767c81919f9a6473e1166236"
   }
  ]
 }
