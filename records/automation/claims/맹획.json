@@ -102,7 +102,7 @@
   {
    "key": "맹획",
    "execution": "sam-menghuo-api25-20261111-restart-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T03:14:24.649Z",
    "date_kst": "2026-11-11",
    "date_utc": "2026-11-11",
@@ -128,7 +128,39 @@
     "맹획_mecha_kr_drawn_rim_dewy_f_casual4.webp",
     "맹획_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "맹획_mecha_kr_drawn_rim_dewy_f_casual6.webp"
-   ]
+   ],
+   "done_at": "2026-11-11T04:33:27.265395+00:00",
+   "done_by": "sam-menghuo-api25-20261111-restart-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "맹획_samguk_api25_f.webp",
+     "맹획_samguk_api25_f_casual1.webp",
+     "맹획_samguk_api25_f_casual2.webp",
+     "맹획_samguk_api25_f_casual3.webp",
+     "맹획_samguk_api25_f_casual4.webp",
+     "맹획_samguk_api25_f_casual5.webp",
+     "맹획_samguk_api25_f_casual6.webp",
+     "맹획_fantasy_api25_f.webp",
+     "맹획_fantasy_api25_f_casual1.webp",
+     "맹획_fantasy_api25_f_casual2.webp",
+     "맹획_fantasy_api25_f_casual3.webp",
+     "맹획_fantasy_api25_f_casual4.webp",
+     "맹획_fantasy_api25_f_casual5.webp",
+     "맹획_fantasy_api25_f_casual6.webp",
+     "맹획_mecha_api25_f.webp",
+     "맹획_mecha_api25_f_casual1.webp",
+     "맹획_mecha_api25_f_casual2.webp",
+     "맹획_mecha_api25_f_casual3.webp",
+     "맹획_mecha_api25_f_casual4.webp",
+     "맹획_mecha_api25_f_casual5.webp",
+     "맹획_mecha_api25_f_casual6.webp"
+    ],
+    "image_commit": "7d370d31f28816ee11c18a0688559e1ce32f773a",
+    "registration_commit": "e605072208b101fc2e56fc8999e60a11287add55",
+    "approval": "사용자 「올려줘」",
+    "note": "중단 잠금을 사용자 승인으로 해제 후 새 실행에서 api25 세계3+일상18와 썸네일 등록 확인. 원래 기본화풍 missing 목록과 이전 실행은 역사 기록으로 보존."
+   }
   }
  ]
 }
