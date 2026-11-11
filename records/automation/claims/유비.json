@@ -232,7 +232,7 @@
   {
    "key": "유비",
    "execution": "sam-liubei-20261111-66eceaee",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T13:50:36.124Z",
    "date_kst": "2026-11-11",
    "date_utc": "2026-11-11",
@@ -259,7 +259,7 @@
     "유비_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "유비_mecha_kr_drawn_rim_dewy_f_casual6.webp"
    ],
-   "phase": "ready_for_registration",
+   "phase": "complete",
    "candidates": 12,
    "style": "kr_drawn_rim_dewy",
    "selection_sheet_library_file_id": "libfile_d2e16aae0e848191ae1e6a9491dc54b4",
@@ -286,7 +286,23 @@
    "validation": {
     "dimensions": "24 images 1024x1536",
     "plan_worlds": "all three passed, 7 per world",
-    "exposure_regenerations": 0
+    "exposure_regenerations": 0,
+    "remote_image_blobs": "24 exact git blob matches",
+    "registration_missing": 0,
+    "casual_check": "Current-style-only checker passed; mixed-style legacy checker conflates old styles, so scoped with documented SAM_IMG.",
+    "thumbnails": 24,
+    "thumbnail_workflow": "completed"
+   },
+   "done_at": "2026-11-11T15:41:13.921Z",
+   "done_by": "sam-liubei-20261111-66eceaee",
+   "image_commit": "ce22705ad21803c3fc8bc1f65122e73100c74412",
+   "code_commit": "e60e33958e0d727c8e95845443365e94942a7241",
+   "completion_sheet_library_file_id": "libfile_d20b977fee288191b7740cbcc56e427f",
+   "completion_archive_library_file_id": "libfile_ea518c4613bc819184bdae17df975c87",
+   "registered": {
+    "world": 3,
+    "casual": 21,
+    "total": 24
    }
   }
  ]
