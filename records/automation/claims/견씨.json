@@ -30,6 +30,40 @@
    ],
    "done_at": "2026-11-04T04:19:11.347Z",
    "done_by": "sam-zhenji-20261104-f064"
+  },
+  {
+   "key": "견씨",
+   "execution": "sam-zhenji-api25-20261111-codex",
+   "status": "working",
+   "claimed_at": "2026-11-11T21:35:56.658Z",
+   "date_kst": "2026-11-12",
+   "date_utc": "2026-11-11",
+   "missing": [
+    "견씨_samguk_kr_drawn_rim_dewy_f.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
