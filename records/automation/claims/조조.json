@@ -206,7 +206,7 @@
    "date_kst": "2026-11-11",
    "date_utc": "2026-11-11",
    "style": "kr_drawn_rim_dewy",
-   "stage": "generating_casuals",
+   "stage": "publishing_images",
    "missing": [
     "조조_samguk_kr_drawn_rim_dewy_f.webp",
     "조조_samguk_kr_drawn_rim_dewy_f_casual1.webp",
@@ -255,8 +255,8 @@
    "candidate_archive_library_file_id": "libfile_41b8385465e081918c00dae9d8469b07",
    "workspace": "/workspace/scratch/112daaf33c28",
    "generation_tool": "image_gen",
-   "note": "사용자가 삼국1·판타지2·메카2 선택. 선택 세계컷에 기반해 계획기 일상컷 세계별6장, 총18장 진행.",
-   "qa_note": "12장 모두 성인 여성 한 명, 전신, 세계 구분 확인. 메카 등록 설계 1·2는 지정 개방부 외 허벅지·가슴 노출도 있음. 메카 자유 설계 3은 다리 전체 장갑 지시와 달리 허벅지 노출. 일부 후보의 망토형 판넬에 천처럼 보이는 질감·문양 혼재. 삼국1 머리장식이 상단 여백에 매우 가까움. 재생성 없이 결과 보존.",
+   "note": "선택 1,2,2 기반 세계컷 3장·일상컷 18장 생성 완료. 모두 1024×1536. 새 묶음 검사 및 세계 간 중복 검사 통과. 메카 일상1은 bold 2회·moderate 1회 거절 후 low 설정으로 최초 생성. 완성된 이미지의 노출 사유 재생성 없음. 이미지·도감 등록 진행.",
+   "qa_note": "일부 의상 해석·원본 배색 전이·메카 지정 외 피부 개방 등은 각 기록 qa에 보존. 새 묶음만 대상으로 세 세계 검사 통과. 기존 화풍·이미지·기록 보존.",
    "candidates": [
     {
      "world": "samguk",
@@ -348,7 +348,10 @@
     "fantasy": 2,
     "mecha": 2
    },
-   "selection_user": "1,2,2"
+   "selection_user": "1,2,2",
+   "generated_worlds": 3,
+   "generated_casuals": 18,
+   "complete_sheet_library_file_id": "libfile_603344644a84819187cc5ebdafed42f6"
   }
  ]
 }
