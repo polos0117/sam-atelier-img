@@ -237,11 +237,11 @@
   {
    "key": "장료",
    "execution": "sam-zhangliao-20261112",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T22:36:34.891059+00:00",
    "date_kst": "2026-11-12",
    "date_utc": "2026-11-12",
-   "phase": "24 images generated and QA reviewed; catalogue registration pending",
+   "phase": "24 images and catalogue registered",
    "selection": {
     "status": "selected",
     "style": "kr_drawn_rim_dewy",
@@ -545,9 +545,25 @@
      "fantasy": 1,
      "mecha": 2
     },
-    "user_message": "2,1,2"
+    "user_message": "2,1,2",
+    "complete_sheet_library_id": "libfile_bdb857e4f8a48191be36772ecfccdb50"
    },
-   "generated_count": 24
+   "generated_count": 24,
+   "done_at": "2026-11-11T23:38:20.469447+00:00",
+   "done_by": "sam-zhangliao-20261112",
+   "image_commit": "bd748f36bc473fa234e967f622266e504e0fee42",
+   "catalogue_commit": "5b8a3be94e54d5f167b1f3822312a35da555ff00",
+   "missing": [],
+   "verification": {
+    "webp_count": 24,
+    "remote_blob_hashes_match": true,
+    "casual_plans_passed": [
+     "samguk",
+     "fantasy",
+     "mecha"
+    ],
+    "catalogue_complete": true
+   }
   }
  ]
 }
