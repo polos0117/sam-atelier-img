@@ -64,7 +64,7 @@
   {
    "key": "감녕",
    "execution": "sam-ganning-20261112-8b23",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-12T13:56:49.224Z",
    "missing": [
     "감녕_samguk_kr_drawn_rim_dewy_f.webp",
@@ -91,7 +91,16 @@
     "감녕_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "감녕_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "감녕_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-12T14:48:28.923Z",
+   "done_by": "sam-ganning-20261112-8b23",
+   "selection": {
+    "samguk": 2,
+    "fantasy": 1,
+    "mecha": 1
+   },
+   "image_commit": "730e84217371a8bab8c69af29669be2dd346b200",
+   "code_commit": "bc958496f5517b0d36803ad2923158bd43f32eee"
   }
  ]
 }
