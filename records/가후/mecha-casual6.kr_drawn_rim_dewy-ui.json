@@ -1,0 +1,128 @@
+{
+  "atelier": "samguk",
+  "card": "가후",
+  "faction": "wei",
+  "slot": "casual6",
+  "treeV": 2,
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "styleVersion": "v1",
+  "ref": "가후_mecha_kr_drawn_rim_dewy_f.webp",
+  "scene": {
+    "treeV": 2,
+    "era": "now",
+    "place": "evening_museum",
+    "ofam": "drape",
+    "item": "arabian_nights",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hair_tuck",
+    "left": "out",
+    "use": "",
+    "legs": "",
+    "gaze": "down",
+    "ofree": true,
+    "ofreeFamily": "roleplay",
+    "ofreeSitu": "free",
+    "ofreeRecent": "a calligraphy classroom with low wooden desks — standing; inside a knightly order's campaign pavilion — sets a cup down on the surface in front of her; an empty modern wave-training pool at a coastal sports laboratory — she guides a floating hoop across a gentle wave with both hands while standing in the shallow lane; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a modern community rehearsal hall after a dance class — she rewinds a rehearsal cassette by turning its spool with a pencil; a penthouse window wall over the city at night — standing; a Guan Yu temple — holds a magnifying glass by its handle at chest height; the Wuhou Shrine in Chengdu — writes in a notebook with a pen on the table; a starship galley and mess hall — holds one end of a towel hung around her neck; an archery range of targets on a green field — holds her keepsake at chest height; a desert oasis at golden hour — holds a water bottle at chest height; a mirrored labyrinth of endless reflections and soft coloured light — seated on a chair",
+    "expr": "gentle",
+    "preset": "hair_close",
+    "prop": "",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "unlocked": [],
+    "aspect": "2:3"
+  },
+  "file": "가후_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+  "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Jia Xu of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — cold, flawless calculation, never on the losing side, a serene poisonous smile — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a calligraphy classroom with low wooden desks — standing; inside a knightly order's campaign pavilion — sets a cup down on the surface in front of her; an empty modern wave-training pool at a coastal sports laboratory — she guides a floating hoop across a gentle wave with both hands while standing in the shallow lane; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a modern community rehearsal hall after a dance class — she rewinds a rehearsal cassette by turning its spool with a pencil; a penthouse window wall over the city at night — standing; a Guan Yu temple — holds a magnifying glass by its handle at chest height; the Wuhou Shrine in Chengdu — writes in a notebook with a pen on the table; a starship galley and mess hall — holds one end of a towel hung around her neck; an archery range of targets on a green field — holds her keepsake at chest height; a desert oasis at golden hour — holds a water bottle at chest height; a mirrored labyrinth of endless reflections and soft coloured light — seated on a chair.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder.\nOutfit: …\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+  "date": "2026-11-12",
+  "record": "records/가후/mecha-casual6.kr_drawn_rim_dewy-ui.json",
+  "storage": {
+    "card": "가후",
+    "out": "casual",
+    "world": "mecha",
+    "style": "kr_drawn_rim_dewy",
+    "notes": {},
+    "looks": {},
+    "shots": {},
+    "walked": {},
+    "casualN": 6,
+    "scenes": {
+      "가후": {
+        "era": "now",
+        "place": "evening_museum",
+        "ofam": "drape",
+        "treeV": 2,
+        "prop": "",
+        "preset": "hair_close",
+        "use": "",
+        "posture": "stand",
+        "support": "none",
+        "frame": "face_close",
+        "body": "side",
+        "head": "with_body",
+        "camera": "eye",
+        "right": "hair_tuck",
+        "left": "out",
+        "legs": "",
+        "gaze": "down",
+        "item": "arabian_nights",
+        "expr": "gentle",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "unlocked": [],
+        "ofree": true,
+        "ofreeFamily": "roleplay",
+        "ofreeSitu": "free",
+        "ofreeRecent": "a calligraphy classroom with low wooden desks — standing; inside a knightly order's campaign pavilion — sets a cup down on the surface in front of her; an empty modern wave-training pool at a coastal sports laboratory — she guides a floating hoop across a gentle wave with both hands while standing in the shallow lane; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a modern community rehearsal hall after a dance class — she rewinds a rehearsal cassette by turning its spool with a pencil; a penthouse window wall over the city at night — standing; a Guan Yu temple — holds a magnifying glass by its handle at chest height; the Wuhou Shrine in Chengdu — writes in a notebook with a pen on the table; a starship galley and mess hall — holds one end of a towel hung around her neck; an archery range of targets on a green field — holds her keepsake at chest height; a desert oasis at golden hour — holds a water bottle at chest height; a mirrored labyrinth of endless reflections and soft coloured light — seated on a chair",
+        "old": false
+      }
+    }
+  },
+  "generation": {
+    "tool": "image_gen",
+    "endpoint": "images/edits",
+    "size": [
+      1024,
+      1536
+    ],
+    "png_sha256": "94669ea5efa7b9102a878d601e5a6cfc9a978e5b13138cc51246b928f0c144cc",
+    "webp": {
+      "quality": 90,
+      "method": 6
+    },
+    "prompt_form": "en-prompt",
+    "prompt_sha256": "853f5538d93ddb52f3071d24c8c8708c43e66b1051539a30db5e0f57412ab2d3",
+    "retries": [],
+    "ref_sha256": "558ff6cb180a0e97a4e7304586a8c0054232d50456a91b6b290a94cc4b57ef7d",
+    "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Jia Xu of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — cold, flawless calculation, never on the losing side, a serene poisonous smile — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a calligraphy classroom with low wooden desks — standing; inside a knightly order's campaign pavilion — sets a cup down on the surface in front of her; an empty modern wave-training pool at a coastal sports laboratory — she guides a floating hoop across a gentle wave with both hands while standing in the shallow lane; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a modern community rehearsal hall after a dance class — she rewinds a rehearsal cassette by turning its spool with a pencil; a penthouse window wall over the city at night — standing; a Guan Yu temple — holds a magnifying glass by its handle at chest height; the Wuhou Shrine in Chengdu — writes in a notebook with a pen on the table; a starship galley and mess hall — holds one end of a towel hung around her neck; an archery range of targets on a green field — holds her keepsake at chest height; a desert oasis at golden hour — holds a water bottle at chest height; a mirrored labyrinth of endless reflections and soft coloured light — seated on a chair.\nPlace: a small planetarium prop-storage room with one hand-cranked star projector and a soft circular patch of light on the wall\nActivity: wearing a playful stage-technician costume, she catches a rolling lens cap with the tip of her boot while her short side-tied overskirt has caught on the projector crank and lifted away from the opaque shorts underneath\nPose: standing with one knee slightly lifted, one hand stopping the crank and the other holding the lens cap box, face looking down with a subtle amused smile\nFraming: full-body vertical view from a chest-height camera with both boots, both hands and her face visible\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder.\nOutfit: a fictional planetarium-illusionist role-play costume: plum cropped tailed jacket with short puff shoulders, opaque silver-grey structured plunge top, teal high-waisted fitted shorts and a removable gold side-tied mini overskirt, flat ankle boots and a tiny crescent pin; no mecha armour, real uniform or insignia, intimate areas fully covered\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+    "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a calligraphy classroom with low wooden desks — standing; inside a knightly order's campaign pavilion — sets a cup down on the surface in front of her; an empty modern wave-training pool at a coastal sports laboratory — she guides a floating hoop across a gentle wave with both hands while standing in the shallow lane; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a modern community rehearsal hall after a dance class — she rewinds a rehearsal cassette by turning its spool with a pencil; a penthouse window wall over the city at night — standing; a Guan Yu temple — holds a magnifying glass by its handle at chest height; the Wuhou Shrine in Chengdu — writes in a notebook with a pen on the table; a starship galley and mess hall — holds one end of a towel hung around her neck; an archery range of targets on a green field — holds her keepsake at chest height; a desert oasis at golden hour — holds a water bottle at chest height; a mirrored labyrinth of endless reflections and soft coloured light — seated on a chair.\nPlace: a small planetarium prop-storage room with one hand-cranked star projector and a soft circular patch of light on the wall\nActivity: wearing a playful stage-technician costume, she catches a rolling lens cap with the tip of her boot while her short side-tied overskirt has caught on the projector crank and lifted away from the opaque shorts underneath\nPose: standing with one knee slightly lifted, one hand stopping the crank and the other holding the lens cap box, face looking down with a subtle amused smile\nFraming: full-body vertical view from a chest-height camera with both boots, both hands and her face visible\nOutfit family (required): role-play costume — any role-play costume outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder.\nOutfit: a fictional planetarium-illusionist role-play costume: plum cropped tailed jacket with short puff shoulders, opaque silver-grey structured plunge top, teal high-waisted fitted shorts and a removable gold side-tied mini overskirt, flat ankle boots and a tiny crescent pin; no mecha armour, real uniform or insignia, intimate areas fully covered\n"
+  },
+  "execution": "sam-jiaxu-909904160ac9",
+  "imported": "2026-11-12",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "94669ea5efa7b9102a878d601e5a6cfc9a978e5b13138cc51246b928f0c144cc",
+    "passed": true,
+    "exposure": "match",
+    "observations": [
+      "1024×1536; one main adult woman; no logo, watermark or frame border observed.",
+      "Planetarium prop room, raised boot catching lens cap, projector crank lifting the overskirt; plum and teal roleplay costume, two connected hands."
+    ]
+  },
+  "acceptance": "user_approval_2026-11-12 — selected 1,3,1; commit and non-force main update authorized",
+  "review": {
+    "reviewed": false,
+    "by": "user",
+    "result": "pending"
+  }
+}
