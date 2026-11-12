@@ -34,7 +34,7 @@
   {
    "key": "축융",
    "execution": "sam-zhurong-15007",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-12T14:18:12.998Z",
    "date_kst": "2026-11-12",
    "date_utc": "2026-11-12",
@@ -63,7 +63,9 @@
     "축융_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "축융_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "축융_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-12T14:46:44.407Z",
+   "done_by": "sam-zhurong-15007"
   }
  ]
 }
