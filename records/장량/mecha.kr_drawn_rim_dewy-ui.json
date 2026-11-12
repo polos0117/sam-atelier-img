@@ -1,0 +1,122 @@
+{
+ "atelier": "samguk",
+ "card": "장량",
+ "faction": "qun",
+ "role": "general",
+ "world": "mecha",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "lilac",
+   "impression": "fierce",
+   "expr": "determined",
+   "skin_tone": "fair",
+   "age": "mid_20s",
+   "eye_size": "small",
+   "eye_tilt": "down",
+   "mark": "mole_eye",
+   "brows": "straight_thick",
+   "nose": "upturned",
+   "lips": "heart_full",
+   "face_shape": "round",
+   "eyes": "droopy_soft"
+  },
+  "silhouette": {
+   "body": "curvy_athletic",
+   "hair_color": "silver_white",
+   "hair": "ponytail",
+   "bangs": "parted"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "장량_mecha_kr_drawn_rim_dewy_f.webp",
+ "prompt": "A full-body character image, vertical 2:3 (1024×1536): Zhang Liang of the Romance of the Three Kingdoms, reimagined as an adult woman — Zhang Jiao's sibling, the 'General of Man', bearer of the Yellow Turban banner.\n\n1. STYLE\nKorean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\nHer face is small and soft: a short midface, a softly rounded jaw and a small chin, about 1.3 times as long as it is wide, with her eyes open at their natural size. Bangs, side locks and headpieces frame the face without lengthening it.\nSkin finish: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\n2. CHARACTER\nAge: mid-twenties — a clear adult face.\nFace — her own, recognisably this character, a woman's face with no beard or facial hair: a fierce, wild ferocity; fair skin; diamond-shaped face; smaller, narrower eyes than usual anime proportion — long monolid eyes, outer eye corners drooping downward; thick straight brows; upturned nose; full heart-shaped lips; pale lilac eyes; a small beauty mark under one eye.\nBody and hair: toned athletic-curvy, full-busted with rounded hips build; long side-swept hair with choppy uneven bangs; silver-white hair.\nExpression: a firm, resolute look with calm, steady eyes, subtle and relaxed.\nLegend, carried in her design and bearing: fervent zeal, yellow headscarf, a great yellow banner.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. COSTUME AND EQUIPMENT — MECHA\nCostume: a female mecha personification built as an assault-type mecha frame — heavy armor plates, thruster packs, reinforced limbs, her weapon rebuilt as a large mecha armament. Solid hard-surface plates with visible joints cover her frame except at the openings named under Exposure; any cape or skirt is made of rigid armored plates; her face and hair stay human.\nSilhouette: minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette. This silhouette sets the overall shape of the costume above — keep its materials, ornaments and rank in this shape; the details are free.\nColours: turban yellow, earth brown, faded ochre and charcoal. Faction frame: turban-yellow and earth-brown plating with faded-ochre patches on a charcoal frame, salvaged rebel silhouette, sun-sigil motifs, yellow glow lines.\nSignature item: a yellow banner on a spear, rebuilt as a far-future high-tech version of the same kind of object with the same silhouette — hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour. She holds it at full scale: one whole object, drawn once, held in front of or beside her body; a long weapon keeps one straight, unbroken shaft with a single head or blade.\nExposure (bold): her mecha frame is cut open by design in only these places — a bare waist and midriff between the bust plate and the hip armor, and bare upper thighs between the hip armor and thigh-high leg plates; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Intimate areas covered; keep the plate material and palette.\n\n4. SCENE\nWorld: year 2190, the Free Zones — a lawless asteroid belt between the three powers: warlord fortresses carved into asteroids, wrecked starships drifting in the dark, a violet nebula, warning lights blinking.\nPose: standing confidently, her body turned slightly while her face looks toward the viewer.\nLight: a soft key light with a strong rim light tracing her hair, shoulders and armour; bright, crisp specular highlights on metal and jewellery, and a clean, warm-neutral sheen on her skin.\nComposition: her whole figure from the top of her head or headpiece to both feet inside the frame with clear margins, about four-fifths of the image height; camera at chest height with natural portrait perspective.\n\n5. CONSTRAINTS\nOne figure only — no second character, horse or other creature. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters. No logo, watermark, speech bubble or frame border. A far-future setting only — space stations, starships and high-tech structures — with no traditional East-Asian architecture.\nAvoid: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-12",
+ "record": "records/장량/mecha.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "장량",
+  "out": "world",
+  "world": "mecha",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {
+   "장량|mecha": {}
+  },
+  "looks": {
+   "장량|mecha": {
+    "params": {},
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold"
+   }
+  },
+  "shots": {
+   "장량|mecha": {
+    "scene": "",
+    "time": "",
+    "pose": "",
+    "expr": "",
+    "frame": ""
+   }
+  },
+  "walked": {},
+  "casualN": 1,
+  "scenes": {}
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "8564e635901e2f70af2d6124c2c7166ed93bd63bdbc1c83f34d8d67cc8154dab",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "bc12cbbf5fc86bb2bab13b16b448769206e8e17d0918f4f1fc2605550457ad85",
+  "retries": [],
+  "design": "registered"
+ },
+ "selection": {
+  "number": 2,
+  "source": "world-selection-sheet",
+  "user_message": "2,2,2",
+  "approved_by": "user"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8564e635901e2f70af2d6124c2c7166ed93bd63bdbc1c83f34d8d67cc8154dab",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "One adult woman; both arms and legs connected; both hands visible.",
+   "World-specific armour and setting retained.",
+   "Spear tip or banner touches the top frame edge; retained under the weapon-cropping rule."
+  ],
+  "cause": "Model framing extended the weapon beyond the intended top margin."
+ },
+ "execution": "sam-zhangliang-20261112",
+ "imported": "2026-11-12",
+ "acceptance": "user_approval_2026-11-12 — selected 2,2,2; authorised image and catalogue commits and normal main update without further confirmation",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "selected"
+ }
+}
