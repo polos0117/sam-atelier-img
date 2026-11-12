@@ -1,0 +1,39 @@
+{
+ "key": "종회",
+ "runs": [
+  {
+   "key": "종회",
+   "execution": "sam-zhonghui-6cd668",
+   "status": "working",
+   "claimed_at": "2026-11-12T21:40:57.209Z",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-12",
+   "missing": [
+    "종회_samguk_kr_drawn_rim_dewy_f.webp",
+    "종회_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "종회_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "종회_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "종회_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "종회_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "종회_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "종회_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "종회_fantasy_kr_drawn_rim_dewy_f.webp",
+    "종회_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "종회_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "종회_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "종회_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "종회_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "종회_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "종회_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "종회_mecha_kr_drawn_rim_dewy_f.webp",
+    "종회_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "종회_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "종회_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "종회_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "종회_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "종회_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "종회_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
