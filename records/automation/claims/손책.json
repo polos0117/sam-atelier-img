@@ -34,7 +34,7 @@
   {
    "key": "손책",
    "execution": "sam-sunce-20261112-04ba",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-12T02:42:03.949Z",
    "date_kst": "2026-11-12",
    "date_utc": "2026-11-12",
@@ -63,7 +63,9 @@
     "손책_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "손책_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "손책_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-12T04:06:45.451Z",
+   "done_by": "sam-sunce-20261112-04ba"
   }
  ]
 }
