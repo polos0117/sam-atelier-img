@@ -1,0 +1,39 @@
+{
+ "key": "장량",
+ "runs": [
+  {
+   "key": "장량",
+   "execution": "sam-zhangliang-20261112",
+   "status": "working",
+   "claimed_at": "2026-11-12T11:49:09.456Z",
+   "date_kst": "2026-11-12",
+   "date_utc": "2026-11-12",
+   "missing": [
+    "장량_samguk_kr_drawn_rim_dewy_f.webp",
+    "장량_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "장량_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "장량_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "장량_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "장량_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "장량_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "장량_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "장량_fantasy_kr_drawn_rim_dewy_f.webp",
+    "장량_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "장량_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "장량_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "장량_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "장량_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "장량_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "장량_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "장량_mecha_kr_drawn_rim_dewy_f.webp",
+    "장량_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "장량_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "장량_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "장량_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "장량_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "장량_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "장량_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
