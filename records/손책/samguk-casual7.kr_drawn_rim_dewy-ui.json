@@ -1,0 +1,136 @@
+{
+ "atelier": "samguk",
+ "card": "손책",
+ "faction": "wu",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "손책_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "street_laundromat",
+  "ofam": "roleplay",
+  "item": "ceremonial_instructor",
+  "posture": "sit_chair",
+  "support": "none",
+  "frame": "environmental",
+  "body": "front",
+  "head": "turn_side",
+  "camera": "eye",
+  "right": "prop",
+  "left": "lap",
+  "use": "iced_hold",
+  "legs": "knees_together",
+  "gaze": "screen_left",
+  "ofree": true,
+  "ofreeFamily": "lingerie",
+  "ofreeSitu": "free",
+  "ofreeRecent": "the top of a restored ancient city wall — kneeling on the ground; a castle kitchen with a great hearth — lifts a small hand lantern to chest height; a cable car cabin over a misty valley — standing; the grand staircase of an old castle — standing; an archery range of targets on a green field — standing; a lakeside of flat rocks and still water — swimming breaststroke; a starship galley and mess hall — trims the stems of a few loose flower stems on the worktable; a night observatory under an open dome — looks into a small brass telescope; a glass greenhouse full of plants with a wooden potting bench — lying on her side; an arched stone bridge over a canal with weeping willows on both banks — standing; a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a red oil-paper umbrella open over her shoulder; a circus tent ring under a striped canopy — standing",
+  "expr": "wink",
+  "preset": "bench_sit",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "손책_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Sun Ce of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — dazzling charisma and reckless courage, a bright red-and-gold battle armor, a beloved smile — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of tonfa-like batons with red tassels) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: the top of a restored ancient city wall — kneeling on the ground; a castle kitchen with a great hearth — lifts a small hand lantern to chest height; a cable car cabin over a misty valley — standing; the grand staircase of an old castle — standing; an archery range of targets on a green field — standing; a lakeside of flat rocks and still water — swimming breaststroke; a starship galley and mess hall — trims the stems of a few loose flower stems on the worktable; a night observatory under an open dome — looks into a small brass telescope; a glass greenhouse full of plants with a wooden potting bench — lying on her side; an arched stone bridge over a canal with weeping willows on both banks — standing; a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a red oil-paper umbrella open over her shoulder; a circus tent ring under a striped canopy — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder.\nOutfit: …\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-12",
+ "record": "records/손책/samguk-casual7.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "손책",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 7,
+  "scenes": {
+   "손책": {
+    "era": "now",
+    "place": "street_laundromat",
+    "ofam": "roleplay",
+    "treeV": 2,
+    "prop": "",
+    "preset": "bench_sit",
+    "use": "iced_hold",
+    "posture": "sit_chair",
+    "support": "none",
+    "frame": "environmental",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "eye",
+    "right": "prop",
+    "left": "lap",
+    "legs": "knees_together",
+    "gaze": "screen_left",
+    "item": "ceremonial_instructor",
+    "expr": "wink",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeFamily": "lingerie",
+    "ofreeSitu": "free",
+    "ofreeRecent": "the top of a restored ancient city wall — kneeling on the ground; a castle kitchen with a great hearth — lifts a small hand lantern to chest height; a cable car cabin over a misty valley — standing; the grand staircase of an old castle — standing; an archery range of targets on a green field — standing; a lakeside of flat rocks and still water — swimming breaststroke; a starship galley and mess hall — trims the stems of a few loose flower stems on the worktable; a night observatory under an open dome — looks into a small brass telescope; a glass greenhouse full of plants with a wooden potting bench — lying on her side; an arched stone bridge over a canal with weeping willows on both banks — standing; a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a red oil-paper umbrella open over her shoulder; a circus tent ring under a striped canopy — standing"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "1c9edea756994af17add4df4039fe9b250b060c4ebd7c7ec116ccfb6c891d686",
+  "webp": {
+   "quality": 90,
+   "method": 6
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "c28bdfe4b08ea5a77181fa6002544064a7e5db9bdd7b602be844a8d8e864af43",
+  "retries": [],
+  "ref_sha256": "2854c59b02897ea88ec87958e04bfa23b678336540f436d4090976777f352153",
+  "free_design": {
+   "Place": "a quiet sunlit bedroom with a low fabric kite spread across the rug",
+   "Activity": "She leans forward to untangle a spool of kite string caught at the hem of her short lounge wrap, smiling at the tiny unexpected obstacle.",
+   "Pose": "Sitting cross-legged on a low cushion, she holds the spool in her left hand and lifts the caught wrap hem with her right just enough to free the string; the opaque lingerie beneath stays securely covering intimate areas.",
+   "Framing": "a front three-quarter full-body seated view, face and both hands clearly visible",
+   "Outfit": "a pale lavender lingerie-inspired satin bandeau with structured opaque cups, matching scalloped high-rise briefs and a short overlapping quilted lounge wrap skirt; the caught outer hem lifts slightly while intimate coverage stays complete"
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Sun Ce of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — dazzling charisma and reckless courage, a bright red-and-gold battle armor, a beloved smile — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (crimson red, gold, river teal, black lacquer). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a pair of tonfa-like batons with red tassels) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: the top of a restored ancient city wall — kneeling on the ground; a castle kitchen with a great hearth — lifts a small hand lantern to chest height; a cable car cabin over a misty valley — standing; the grand staircase of an old castle — standing; an archery range of targets on a green field — standing; a lakeside of flat rocks and still water — swimming breaststroke; a starship galley and mess hall — trims the stems of a few loose flower stems on the worktable; a night observatory under an open dome — looks into a small brass telescope; a glass greenhouse full of plants with a wooden potting bench — lying on her side; an arched stone bridge over a canal with weeping willows on both banks — standing; a small mountain-path shrine at the Slope of the Fallen Phoenix — holds a red oil-paper umbrella open over her shoulder; a circus tent ring under a striped canopy — standing.\nPlace: a quiet sunlit bedroom with a low fabric kite spread across the rug\nActivity: She leans forward to untangle a spool of kite string caught at the hem of her short lounge wrap, smiling at the tiny unexpected obstacle.\nPose: Sitting cross-legged on a low cushion, she holds the spool in her left hand and lifts the caught wrap hem with her right just enough to free the string; the opaque lingerie beneath stays securely covering intimate areas.\nFraming: a front three-quarter full-body seated view, face and both hands clearly visible\nOutfit family (required): lingerie-inspired — any lingerie-inspired outfit; you may pick one from our outfit catalog (outfit-catalog.md in this pack) or design your own, but prefer one that is not in it.\nSituation (required): a situational exposure moment of your own design that fits the scene — prefer one that is not among ours: clothes soaked by rain or a splash, clothes caught by a strong gust of wind, a top worn half undone, a strap slipped off the shoulder.\nOutfit: a pale lavender lingerie-inspired satin bandeau with structured opaque cups, matching scalloped high-rise briefs and a short overlapping quilted lounge wrap skirt; the caught outer hem lifts slightly while intimate coverage stays complete\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "execution": "sam-sunce-20261112-04ba",
+ "imported": "2026-11-12",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "1c9edea756994af17add4df4039fe9b250b060c4ebd7c7ec116ccfb6c891d686",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "1024×1536; one main adult woman; orange hair and gold eyes consistent with selected reference.",
+   "No extra limbs observed; visible hand grips are plausible, hidden fingers cannot be counted exactly.",
+   "Kite spool and lifted wrap hem are present; two hands and folded legs visible; smile is broader than the brief.",
+   "Bedroom uses East Asian decorative motifs."
+  ],
+  "cause": "Generated result differs in scene, wardrobe, framing or expression as noted; preserved without regeneration."
+ },
+ "acceptance": "User authorized QA followed by registration and non-force main update; selection 1,2,1 on 2026-11-12.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
