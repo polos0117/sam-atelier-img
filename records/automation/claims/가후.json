@@ -4,7 +4,7 @@
   {
    "key": "가후",
    "execution": "sam-jiaxu-909904160ac9",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-12T04:10:48.781Z",
    "date_kst": "2026-11-12",
    "date_utc": "2026-11-12",
@@ -33,7 +33,9 @@
     "가후_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "가후_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "가후_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-12T07:02:24.345Z",
+   "done_by": "sam-jiaxu-909904160ac9"
   }
  ]
 }
