@@ -1,0 +1,113 @@
+{
+ "atelier": "samguk",
+ "card": "황월영",
+ "faction": "shu",
+ "slot": "casual7",
+ "treeV": 2,
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "ref": "황월영_mecha_api25_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_event",
+  "ofam": "adventure",
+  "item": "desert_nomad",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "full_body",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "pocket",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "foot_on_wall",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeRecent": "a Korean jjimjilbang hall with heated floors and sleeping mats — brushes her hair with a hairbrush; a Han-era inn — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a quiet modern textile studio with a small table loom in warm morning light — she retrieves a dropped wooden shuttle from the low shelf beneath the loom; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a small sunlit kite-repair workshop with bamboo frames and colourful paper on a workbench — she balances a newly repaired crescent-shaped paper kite on one fingertip to test its centre of gravity; the cushioned foredeck of a moored yacht — standing; a misty enchanted garden of moss — standing; a Three Kingdoms film-set street — standing; a themed costume event venue with props and a photo wall — standing; a hydroponic garden dome aboard a starship — standing; a mirrored labyrinth of endless reflections and soft coloured light — holds her keepsake in both hands in front of her; a hanfu photo studio with costume racks — kneeling on the ground; a quiet library reading room with tall bookshelves — holds a tall iced coffee in a clear cup with a straw at chest height",
+  "expr": "wistful",
+  "preset": "wall_foot",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "황월영_mecha_api25_f_casual7.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Huang Yueying of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — wooden gears and lever contraptions, ink-stained fingers, yellow hair and tanned skin of the legend, endless curiosity — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a Korean jjimjilbang hall with heated floors and sleeping mats — brushes her hair with a hairbrush; a Han-era inn — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a quiet modern textile studio with a small table loom in warm morning light — she retrieves a dropped wooden shuttle from the low shelf beneath the loom; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a small sunlit kite-repair workshop with bamboo frames and colourful paper on a workbench — she balances a newly repaired crescent-shaped paper kite on one fingertip to test its centre of gravity; the cushioned foredeck of a moored yacht — standing; a misty enchanted garden of moss — standing; a Three Kingdoms film-set street — standing; a themed costume event venue with props and a photo wall — standing; a hydroponic garden dome aboard a starship — standing; a mirrored labyrinth of endless reflections and soft coloured light — holds her keepsake in both hands in front of her; a hanfu photo studio with costume racks — kneeling on the ground; a quiet library reading room with tall bookshelves — holds a tall iced coffee in a clear cup with a straw at chest height.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-12",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 2560,
+   "input_tokens_details": {
+    "image_tokens": 864,
+    "text_tokens": 1696
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 2903
+  },
+  "seconds": 19.036,
+  "png_sha256": "4ca6e99703c5339d6f90be6201d2538955fbb3e10c912bb3048eee3b621fdf00",
+  "prompt_sha256": "18ec20ebd9951041a753cbcf0f8350465bdcd4ddf38e8423252f1beaa937a703",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-12",
+  "ref_sha256": "6272f2eb418375a4a250d5b991480cd5bc0f551e278cefd579a4f0083c5e469b",
+  "ref_sent": {
+   "size": [
+    768,
+    1152
+   ],
+   "sha256": "f98eb442cb422bc8604603aae0e2d36cff93acbdf7b866128f8c0b3909cbe6ee"
+  },
+  "design": "ofree",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a Korean jjimjilbang hall with heated floors and sleeping mats — brushes her hair with a hairbrush; a Han-era inn — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a quiet modern textile studio with a small table loom in warm morning light — she retrieves a dropped wooden shuttle from the low shelf beneath the loom; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a small sunlit kite-repair workshop with bamboo frames and colourful paper on a workbench — she balances a newly repaired crescent-shaped paper kite on one fingertip to test its centre of gravity; the cushioned foredeck of a moored yacht — standing; a misty enchanted garden of moss — standing; a Three Kingdoms film-set street — standing; a themed costume event venue with props and a photo wall — standing; a hydroponic garden dome aboard a starship — standing; a mirrored labyrinth of endless reflections and soft coloured light — holds her keepsake in both hands in front of her; a hanfu photo studio with costume racks — kneeling on the ground; a quiet library reading room with tall bookshelves — holds a tall iced coffee in a clear cup with a straw at chest height.\nPlace: her compact orbital apartment sitting room, an unlettered abstract colour-block picture in a plain frame on the wall, a small handmade bubble level and a low side table, no other people or reflected figures\nActivity: even on a day off she notices a picture hanging a few degrees crooked: she holds her tiny homemade bubble level against the top edge while turning one small wall-mount adjustment screw, intent on getting the ordinary household frame perfectly horizontal\nPose: standing upright with both feet on the floor, left hand steadying the small level and picture edge at shoulder height and right hand turning a short screwdriver at the side mounting screw, head slightly tilted to study the bubble\nFraming: a three-quarter portrait from head to just below the knees, viewed from behind one shoulder so her three-quarter face, both working hands and the complete modest-sized frame and level are visible\nOutfit: an opaque soft-lemon brushed-linen crop top with a low broad crescent neckline, wide cream crossover shoulder yokes and an open back closed by a flat lemon band, matching cool-grey silk-cotton pleated walking shorts with a softly notched waistband and plain cream canvas slippers; bare shoulders, back, waist and legs with natural cleavage, intimate areas fully covered; a minimal crossover-yoke linen set not in the outfit catalog",
+  "free_prompt": "INPUT: the attached image is the approved character — her Mecha card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Huang Yueying of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — wooden gears and lever contraptions, ink-stained fingers, yellow hair and tanned skin of the legend, endless curiosity — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a Korean jjimjilbang hall with heated floors and sleeping mats — brushes her hair with a hairbrush; a Han-era inn — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a quiet modern textile studio with a small table loom in warm morning light — she retrieves a dropped wooden shuttle from the low shelf beneath the loom; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a small sunlit kite-repair workshop with bamboo frames and colourful paper on a workbench — she balances a newly repaired crescent-shaped paper kite on one fingertip to test its centre of gravity; the cushioned foredeck of a moored yacht — standing; a misty enchanted garden of moss — standing; a Three Kingdoms film-set street — standing; a themed costume event venue with props and a photo wall — standing; a hydroponic garden dome aboard a starship — standing; a mirrored labyrinth of endless reflections and soft coloured light — holds her keepsake in both hands in front of her; a hanfu photo studio with costume racks — kneeling on the ground; a quiet library reading room with tall bookshelves — holds a tall iced coffee in a clear cup with a straw at chest height.\nPlace: her compact orbital apartment sitting room, an unlettered abstract colour-block picture in a plain frame on the wall, a small handmade bubble level and a low side table, no other people or reflected figures\nActivity: even on a day off she notices a picture hanging a few degrees crooked: she holds her tiny homemade bubble level against the top edge while turning one small wall-mount adjustment screw, intent on getting the ordinary household frame perfectly horizontal\nPose: standing upright with both feet on the floor, left hand steadying the small level and picture edge at shoulder height and right hand turning a short screwdriver at the side mounting screw, head slightly tilted to study the bubble\nFraming: a three-quarter portrait from head to just below the knees, viewed from behind one shoulder so her three-quarter face, both working hands and the complete modest-sized frame and level are visible\nOutfit: an opaque soft-lemon brushed-linen crop top with a low broad crescent neckline, wide cream crossover shoulder yokes and an open back closed by a flat lemon band, matching cool-grey silk-cotton pleated walking shorts with a softly notched waistband and plain cream canvas slippers; bare shoulders, back, waist and legs with natural cleavage, intimate areas fully covered; a minimal crossover-yoke linen set not in the outfit catalog\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+  "free_by": "gpt-session",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-huangyueying-api25-20261112-codex",
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "approved_for_upload",
+  "date": "2026-11-12",
+  "message": "올려줘",
+  "qa_exceptions_acknowledged": true
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "4ca6e99703c5339d6f90be6201d2538955fbb3e10c912bb3048eee3b621fdf00",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "선택 세계 그림과 얼굴·금발·따뜻한 올리브 피부·굴곡 체형이 이어짐. 보이는 두 팔·두 다리의 수와 손·발 구성을 확인.",
+   "자유 설계: 궤도 집 거실에서 왼손 작은 수평계와 오른손 드라이버로 추상 그림틀을 반듯하게 맞추는 행동·레몬색 오픈백 상의와 회색 쇼츠 확인."
+  ]
+ },
+ "imported": "2026-11-12"
+}

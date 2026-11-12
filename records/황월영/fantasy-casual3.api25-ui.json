@@ -1,0 +1,116 @@
+{
+ "atelier": "samguk",
+ "card": "황월영",
+ "faction": "shu",
+ "slot": "casual3",
+ "treeV": 2,
+ "world": "fantasy",
+ "style": "api25",
+ "styleVersion": "v1",
+ "ref": "황월영_fantasy_api25_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "nation",
+  "place": "nation_market",
+  "ofam": "dongtan",
+  "item": "club_cutout",
+  "posture": "stand",
+  "support": "none",
+  "frame": "chest_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "sig_both",
+  "kind": "both",
+  "legs": "",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeRecent": "a Korean jjimjilbang hall with heated floors and sleeping mats — brushes her hair with a hairbrush; a Han-era inn — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a quiet modern textile studio with a small table loom in warm morning light — she retrieves a dropped wooden shuttle from the low shelf beneath the loom; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a small sunlit kite-repair workshop with bamboo frames and colourful paper on a workbench — she balances a newly repaired crescent-shaped paper kite on one fingertip to test its centre of gravity; the cushioned foredeck of a moored yacht — standing; a misty enchanted garden of moss — standing; a Three Kingdoms film-set street — standing; a night-train sleeper compartment with a narrow berth — standing; a harbour quay of a port town with tall sailing ships — holds a white feather fan upright at chest height; a Three Kingdoms film-set street — holds her keepsake in both hands in front of her; a floating sky garden of hanging vines and flowering terraces above the clouds — sitting on the ground; the entryway of her home with a shoe bench — standing",
+  "expr": "soft_smile",
+  "preset": "wrap_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "황월영_fantasy_api25_f_casual3.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Huang Yueying of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — wooden gears and lever contraptions, ink-stained fingers, yellow hair and tanned skin of the legend, endless curiosity — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a Korean jjimjilbang hall with heated floors and sleeping mats — brushes her hair with a hairbrush; a Han-era inn — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a quiet modern textile studio with a small table loom in warm morning light — she retrieves a dropped wooden shuttle from the low shelf beneath the loom; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a small sunlit kite-repair workshop with bamboo frames and colourful paper on a workbench — she balances a newly repaired crescent-shaped paper kite on one fingertip to test its centre of gravity; the cushioned foredeck of a moored yacht — standing; a misty enchanted garden of moss — standing; a Three Kingdoms film-set street — standing; a night-train sleeper compartment with a narrow berth — standing; a harbour quay of a port town with tall sailing ships — holds a white feather fan upright at chest height; a Three Kingdoms film-set street — holds her keepsake in both hands in front of her; a floating sky garden of hanging vines and flowering terraces above the clouds — sitting on the ground; the entryway of her home with a shoe bench — standing.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-12",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 2562,
+   "input_tokens_details": {
+    "image_tokens": 864,
+    "text_tokens": 1698
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 2905
+  },
+  "seconds": 21.954,
+  "png_sha256": "2adef6046a518618c4bfaf74bdc7f04fb03f7600acb20f72a4e4bd427ba76024",
+  "prompt_sha256": "771dc102a1755ac66cb7ded8f80721739166603f57f65d9a3a514cb459bc85cb",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-12",
+  "ref_sha256": "c05c67790c14e80ca27bcb643b03d51c8ccca7ed3939231a8157442c98a7ca8f",
+  "ref_sent": {
+   "size": [
+    768,
+    1152
+   ],
+   "sha256": "c9baf83a9cf4fefcb640ed546e5a872eb9b20466a7d8841e6519de71824e6856"
+  },
+  "design": "ofree",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a Korean jjimjilbang hall with heated floors and sleeping mats — brushes her hair with a hairbrush; a Han-era inn — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a quiet modern textile studio with a small table loom in warm morning light — she retrieves a dropped wooden shuttle from the low shelf beneath the loom; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a small sunlit kite-repair workshop with bamboo frames and colourful paper on a workbench — she balances a newly repaired crescent-shaped paper kite on one fingertip to test its centre of gravity; the cushioned foredeck of a moored yacht — standing; a misty enchanted garden of moss — standing; a Three Kingdoms film-set street — standing; a night-train sleeper compartment with a narrow berth — standing; a harbour quay of a port town with tall sailing ships — holds a white feather fan upright at chest height; a Three Kingdoms film-set street — holds her keepsake in both hands in front of her; a floating sky garden of hanging vines and flowering terraces above the clouds — sitting on the ground; the entryway of her home with a shoe bench — standing.\nPlace: a small empty Western stone-cottage kitchen in a highland town, a flour-dusted counter, a bowl of dough and a simple homemade wooden lever page-turner holding an open unlettered cookbook with only faint ingredient pictures\nActivity: she tests a hands-free cookbook page-turner while kneading bread: her right elbow gently depresses a short padded lever, lifting a single book page, while her flour-dusted hands stay over the dough; the clever device solves the tiny nuisance of dirtying a recipe book\nPose: standing with a slight forward lean, both hands resting naturally over a small mound of dough, right elbow on the lever pad and head turned toward the rising blank page, an absorbed amused expression\nFraming: a waist-up side three-quarter portrait showing her whole face, both hands, the pressing elbow and entire page-turner with one lifted page, natural eye-level perspective\nOutfit: an opaque ginger cotton-moleskin cropped blouse with a low asymmetrical folded neckline, one broad cream shoulder band and two short rounded sleeves below the shoulder line, the back open between two wide ginger ties; matching cream tailored short breeches with flat folded side tabs and ginger flat slippers; bare shoulders, back, waist and legs with natural cleavage, all intimate areas securely covered; this folded-neck moleskin combination is outside the outfit catalog",
+  "free_prompt": "INPUT: the attached image is the approved character — her Medieval fantasy card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Huang Yueying of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — wooden gears and lever contraptions, ink-stained fingers, yellow hair and tanned skin of the legend, endless curiosity — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (jade green, imperial gold, earthen brown, white jade). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a Korean jjimjilbang hall with heated floors and sleeping mats — brushes her hair with a hairbrush; a Han-era inn — holds a gourd-shaped wine flask on a red cord by its cord at chest height; a quiet modern textile studio with a small table loom in warm morning light — she retrieves a dropped wooden shuttle from the low shelf beneath the loom; a small mountain-path shrine at the Slope of the Fallen Phoenix — standing; a small sunlit kite-repair workshop with bamboo frames and colourful paper on a workbench — she balances a newly repaired crescent-shaped paper kite on one fingertip to test its centre of gravity; the cushioned foredeck of a moored yacht — standing; a misty enchanted garden of moss — standing; a Three Kingdoms film-set street — standing; a night-train sleeper compartment with a narrow berth — standing; a harbour quay of a port town with tall sailing ships — holds a white feather fan upright at chest height; a Three Kingdoms film-set street — holds her keepsake in both hands in front of her; a floating sky garden of hanging vines and flowering terraces above the clouds — sitting on the ground; the entryway of her home with a shoe bench — standing.\nPlace: a small empty Western stone-cottage kitchen in a highland town, a flour-dusted counter, a bowl of dough and a simple homemade wooden lever page-turner holding an open unlettered cookbook with only faint ingredient pictures\nActivity: she tests a hands-free cookbook page-turner while kneading bread: her right elbow gently depresses a short padded lever, lifting a single book page, while her flour-dusted hands stay over the dough; the clever device solves the tiny nuisance of dirtying a recipe book\nPose: standing with a slight forward lean, both hands resting naturally over a small mound of dough, right elbow on the lever pad and head turned toward the rising blank page, an absorbed amused expression\nFraming: a waist-up side three-quarter portrait showing her whole face, both hands, the pressing elbow and entire page-turner with one lifted page, natural eye-level perspective\nOutfit: an opaque ginger cotton-moleskin cropped blouse with a low asymmetrical folded neckline, one broad cream shoulder band and two short rounded sleeves below the shoulder line, the back open between two wide ginger ties; matching cream tailored short breeches with flat folded side tabs and ginger flat slippers; bare shoulders, back, waist and legs with natural cleavage, all intimate areas securely covered; this folded-neck moleskin combination is outside the outfit catalog\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+  "free_by": "gpt-session",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-huangyueying-api25-20261112-codex",
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "approved_for_upload",
+  "date": "2026-11-12",
+  "message": "올려줘",
+  "qa_exceptions_acknowledged": true
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "2adef6046a518618c4bfaf74bdc7f04fb03f7600acb20f72a4e4bd427ba76024",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "선택 세계 그림과 얼굴·금발·따뜻한 올리브 피부·굴곡 체형이 이어짐. 보이는 두 팔·두 다리의 수와 손·발 구성을 확인.",
+   "자유 설계: 서양 주방·반죽과 삽화 조리책·소형 기계식 책장 넘김 장치·진저색 상의와 크림색 짧은 하의 확인.",
+   "양손 반죽/오른팔꿈치 레버 누르기 대신 한 손으로 반죽하고 반대 손과 팔로 레버를 누름. 들린 책장은 장치 쪽에 고정된 모습에 가까움."
+  ],
+  "cause": "이미지 모델의 배경 인물/동물/문자 또는 손·소품/동작 해석 차이. 규칙에서 정한 재생성 사유 밖이라 검수에 기록하고 원본 보존."
+ },
+ "imported": "2026-11-12"
+}

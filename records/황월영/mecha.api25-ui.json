@@ -1,0 +1,110 @@
+{
+ "atelier": "samguk",
+ "card": "황월영",
+ "faction": "shu",
+ "role": "strategist",
+ "world": "mecha",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "gold",
+   "impression": "boyish",
+   "expr": "curious",
+   "skin_tone": "olive",
+   "age": "early_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "winged_liner",
+   "brows": "straight_thin",
+   "nose": "high_bridge",
+   "lips": "thin_bow",
+   "face_shape": "heart",
+   "eyes": "hooded"
+  },
+  "silhouette": {
+   "body": "pear_curvy",
+   "hair_color": "golden_blonde",
+   "hair": "long_layered",
+   "bangs": "side_locks"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "황월영_mecha_api25_f.webp",
+ "prompt": "CONCEPT: a female personification of Huang Yueying (황월영), a strategist of Shu Han in the Romance of the Three Kingdoms — the brilliant inventor, rumored plain-looking yet equal in genius to Zhuge Liang. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Huang Yueying to carry in her design and the scene: wooden gears and lever contraptions, ink-stained fingers, yellow hair and tanned skin of the legend, endless curiosity.\nFACTION — Shu Han. Palette: jade green, imperial gold, earthen brown, white jade.\nAGE: mid-twenties — a clear adult face; no facial lines.\nSILHOUETTE: pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust build; long layered hair with no bangs, long face-framing side locks; golden blonde hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a boyish, mischievous tomboy energy; olive skin; heart-shaped face; medium-sized eyes — hooded eyes, outer eye corners tilting sharply upward; thin straight brows; slim, delicate nose with a refined bridge; thin lips with a defined cupid's bow; gold eyes; sharp winged eyeliner.\nWORLD — MECHA: year 2190, the Shu frontier colony on a jade-green moon: terraced garden cities under vast glass domes, a ringed gas giant filling the sky, an orbital elevator climbing into space, starship docks glowing green. MECHA DESIGN: she is a female mecha personification, built as a tactical electronic-warfare mecha frame — slender plating, a sensor-array head unit, holographic map projectors and floating drone bits; plates, joints, binders and glow lines carry her faction palette and the traits above; the plates must read as solid armor with visible joints, not as cloth or a gown; her signature item is rebuilt as part of the frame or as a mecha armament. Mecha plating covers her frame except where EXPOSURE opens it — no cloth robe, gown, skirt or long fabric over the plates; any cape is rigid armored binder plates. Her face and hair stay human. The setting is far-future science fiction — space stations, starships, planets, nebulae and high-tech structures; no traditional East-Asian architecture, no pagodas, tiled roofs or stone lanterns. FACTION FRAME: jade-green and white plating with imperial-gold trims, organic layered armor like overlapping leaves, a resilient all-terrain frame, warm green glow lines.\nMECHA SILHOUETTE: large wing-shaped binder plates spread symmetrically behind her back as the main shape, with light body armor. Only the overall shape is fixed; design the details freely.\nMOOD: sleek sci-fi key art — clean reflective plates, glowing light lines, hovering light particles and a soft bloom.\nEXPOSURE (bold): her mecha frame is cut open by design in only these places — bare shoulders and upper arms between pauldron and gauntlet, and a bare waist and midriff between the bust plate and the hip armor; everywhere else she stays fully plated. The plates stay on, fitted and symmetrical, with skin clearly showing in each opening. Nothing slipped off. Intimate areas covered; keep the plate material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a wooden gear-and-lever contraption — rebuilt as a far-future high-tech version of the same kind of object with the same silhouette: hard-surface alloy plates with panel lines, mechanical joints, vents and emitter nodes, an energy edge, plasma blade or glowing core in her glow-line colour and small status lights, with any animal motif re-sculpted as sleek machined armour and no wood, silk tassels or forged-bronze fittings. She holds or carries it, drawn at full scale. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: one brow slightly raised, attentive eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers — emblems are abstract insignia shapes only, never letters or Chinese characters.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-12",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1338,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1338
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1681
+  },
+  "seconds": 23.055,
+  "png_sha256": "6272f2eb418375a4a250d5b991480cd5bc0f551e278cefd579a4f0083c5e469b",
+  "prompt_sha256": "4bbfb998d600c12945205684b9d5ffb5df1bdf61ac35b3d842f0c8f9377775c6",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-12",
+  "design": "ours",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-huangyueying-api25-20261112-codex",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "6272f2eb418375a4a250d5b991480cd5bc0f551e278cefd579a4f0083c5e469b",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "성인 여성·작고 부드러운 얼굴·굴곡 체형·금발과 따뜻한 올리브 계열 피부·비취녹색/금색/토갈색/백옥색 팔레트 확인. 보이는 두 팔·두 다리와 손·발 수 및 연결이 자연스러움.",
+   "경질 장갑·날개형 바인더·오른손 대형 기계 톱니 병기·왼손 녹색 홀로그램·궤도 정원 도시 확인.",
+   "대형 병기의 긴 자루 끝이 아래 프레임으로 이어져 잘림. 고유 장치는 장병기로 해석됨."
+  ],
+  "cause": "이미지 모델의 헤어/고유 물건 크기·형태/프레이밍 해석 차이. 물건 잘림·구부러짐·가림은 다시 생성하지 않는 규칙에 따라 원본 보존."
+ },
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "approved_for_upload",
+  "date": "2026-11-12",
+  "message": "올려줘",
+  "qa_exceptions_acknowledged": true
+ },
+ "imported": "2026-11-12"
+}
