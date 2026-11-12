@@ -1,0 +1,133 @@
+{
+ "atelier": "samguk",
+ "card": "악진",
+ "faction": "wei",
+ "slot": "casual5",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "kr_drawn_rim_dewy",
+ "styleVersion": "v1",
+ "ref": "악진_samguk_kr_drawn_rim_dewy_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_teahouse",
+  "ofam": "evening",
+  "item": "column_gown",
+  "posture": "sit_floor",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "chin_knee",
+  "left": "floor_brace",
+  "use": "",
+  "legs": "knee_up",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeRecent": "a dim jazz bar with a grand piano — brings a cocktail glass to her lips; the upper balcony of a wooden pavilion with upturned eaves — looks into a small brass telescope; a hotel suite with a city view and an open suitcase — holds a book closed against her chest; a Three Kingdoms festival street — standing; an editorial photo studio with a seamless backdrop and dramatic lights — standing",
+  "expr": "relieved",
+  "preset": "floor_knee",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "악진_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Yue Jin of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a compact frame and boundless courage, scars from countless first charges — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a short heavy halberd) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a dim jazz bar with a grand piano — brings a cocktail glass to her lips; the upper balcony of a wooden pavilion with upturned eaves — looks into a small brass telescope; a hotel suite with a city view and an open suitcase — holds a book closed against her chest; a Three Kingdoms festival street — standing; an editorial photo studio with a seamless backdrop and dramatic lights — standing.\nPlace: a bright community toy-repair workshop with a small bench and a wooden wind-up acrobat toy.\nActivity: turning the tiny winding key, then holding her open left palm below the toy to catch its first uncertain step; her courage becomes patient encouragement.\nPose: standing with weight resting naturally on one leg, right fingers turning the key and left palm open beneath the toy on the bench, eyes focused warmly on it.\nFraming: waist-up three-quarter frontal composition, bench edge and both hands in view, natural eye-height perspective.\nOutfit: a vivid coral folded-scarf crop top fastened by a broad back band, with a high-waisted pistachio skort formed from overlapping origami-like cotton panels and a narrow utility belt; deep neckline, bare arms and midriff, all intimate areas securely covered. (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin.",
+ "date": "2026-11-12",
+ "record": "records/악진/samguk-casual5.kr_drawn_rim_dewy-ui.json",
+ "storage": {
+  "card": "악진",
+  "out": "casual",
+  "world": "samguk",
+  "style": "kr_drawn_rim_dewy",
+  "notes": {},
+  "looks": {},
+  "shots": {},
+  "walked": {},
+  "casualN": 5,
+  "scenes": {
+   "악진": {
+    "era": "heritage",
+    "place": "heritage_teahouse",
+    "ofam": "evening",
+    "treeV": 2,
+    "prop": "",
+    "preset": "floor_knee",
+    "use": "",
+    "posture": "sit_floor",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "tilt",
+    "camera": "high",
+    "right": "chin_knee",
+    "left": "floor_brace",
+    "legs": "knee_up",
+    "gaze": "camera",
+    "item": "column_gown",
+    "expr": "relieved",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold"
+    },
+    "aspect": "2:3",
+    "unlocked": [],
+    "ofree": true,
+    "ofreeRecent": "a dim jazz bar with a grand piano — brings a cocktail glass to her lips; the upper balcony of a wooden pavilion with upturned eaves — looks into a small brass telescope; a hotel suite with a city view and an open suitcase — holds a book closed against her chest; a Three Kingdoms festival street — standing; an editorial photo studio with a seamless backdrop and dramatic lights — standing"
+   }
+  }
+ },
+ "generation": {
+  "tool": "image_gen",
+  "endpoint": "images/edits",
+  "ref_sha256": "5778539922fe222cafa487faf4cb7d9fbe81ed938e5c39a8a79ca4b290c1dad5",
+  "ref_path_used": "exec-6f92762f-959b-4652-a512-96dc28b7c390.png",
+  "ref_registered_webp_sha256": "0c1b481dc860701442155d256c5003dc1534f8f1bf2bee382781c4153a82e68e",
+  "size": [
+   1024,
+   1536
+  ],
+  "png_sha256": "da5443a1dfb9b7540e5a500e86643c3a68f7237a7ef01a36192ba69cfbafa3e3",
+  "webp": {
+   "quality": 90,
+   "method": 6,
+   "sha256": "6d93cee2e57fd53e241a8fa41ec57b20eb024dbbbaa38835d34ff1f0fdd50d0d"
+  },
+  "prompt_form": "en-prompt",
+  "prompt_sha256": "6da4549950d7dbfff266f0feaaf8f31246a35ee269e4728e8788db61baab355e",
+  "retries": [],
+  "free_design": {
+   "Place": "a bright community toy-repair workshop with a small bench and a wooden wind-up acrobat toy.",
+   "Activity": "turning the tiny winding key, then holding her open left palm below the toy to catch its first uncertain step; her courage becomes patient encouragement.",
+   "Pose": "standing with weight resting naturally on one leg, right fingers turning the key and left palm open beneath the toy on the bench, eyes focused warmly on it.",
+   "Framing": "waist-up three-quarter frontal composition, bench edge and both hands in view, natural eye-height perspective.",
+   "Outfit": "a vivid coral folded-scarf crop top fastened by a broad back band, with a high-waisted pistachio skort formed from overlapping origami-like cotton panels and a narrow utility belt; deep neckline, bare arms and midriff, all intimate areas securely covered."
+  },
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Yue Jin of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — a compact frame and boundless courage, scars from countless first charges — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSIGNATURE ACCESSORY: off duty she carries no weapon — no sword, saber, spear, glaive, halberd, bow, axe, shield or any blade in her hands, on her back or anywhere in the scene. Her signature weapon (a short heavy halberd) appears only as one small worn accessory modelled on its shape and colours — a hair ornament, pendant, earring, brooch or belt charm a few centimetres long, clearly jewellery and not a usable weapon.\n\nSTYLE: Korean MMORPG character artwork. A recognisably drawn face with gently simplified anatomical structure. 2D painting with visible brushwork: layered strokes of colour, soft broken edges, thin coloured linework and a few crisp accents on the face and costume.\n\nSKIN FINISH: dewy, glass-like highlights on the skin of her shoulders, arms, collarbones and legs — a soft, luminous wet-look sheen that follows the body's forms; her face keeps a soft, natural finish.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: a dim jazz bar with a grand piano — brings a cocktail glass to her lips; the upper balcony of a wooden pavilion with upturned eaves — looks into a small brass telescope; a hotel suite with a city view and an open suitcase — holds a book closed against her chest; a Three Kingdoms festival street — standing; an editorial photo studio with a seamless backdrop and dramatic lights — standing.\nPlace: a bright community toy-repair workshop with a small bench and a wooden wind-up acrobat toy.\nActivity: turning the tiny winding key, then holding her open left palm below the toy to catch its first uncertain step; her courage becomes patient encouragement.\nPose: standing with weight resting naturally on one leg, right fingers turning the key and left palm open beneath the toy on the bench, eyes focused warmly on it.\nFraming: waist-up three-quarter frontal composition, bench edge and both hands in view, natural eye-height perspective.\nOutfit: a vivid coral folded-scarf crop top fastened by a broad back band, with a high-waisted pistachio skort formed from overlapping origami-like cotton panels and a narrow utility belt; deep neckline, bare arms and midriff, all intimate areas securely covered. (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nAVOID: a blue or bruise-like tint on the skin around the eyes, glossy or shiny highlights on the face, sweaty, oily or plastic-looking skin."
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "da5443a1dfb9b7540e5a500e86643c3a68f7237a7ef01a36192ba69cfbafa3e3",
+  "passed": false,
+  "exposure": "match",
+  "observations": [
+   "Toy winding key and open supporting palm are connected through natural arms; coral and pistachio outfit.",
+   "Framing extends below requested waist-up crop; workshop architecture leans historical.",
+   "No usable weapon; signature appears as small jewellery. Generated image preserved without regeneration."
+  ]
+ },
+ "execution": "sam-yuejin-20261112T2113",
+ "imported": "2026-11-12",
+ "acceptance": "User authorized generation and main updates without further confirmation; no exposure-based regeneration.",
+ "review": {
+  "reviewed": false,
+  "by": "user",
+  "result": "pending"
+ }
+}
