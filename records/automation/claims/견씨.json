@@ -34,7 +34,7 @@
   {
    "key": "견씨",
    "execution": "sam-zhenji-api25-20261111-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T21:35:56.658Z",
    "date_kst": "2026-11-12",
    "date_utc": "2026-11-11",
@@ -63,7 +63,43 @@
     "견씨_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "견씨_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "견씨_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-12T00:48:53.231537+00:00",
+   "done_by": "sam-zhenji-api25-20261111-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "견씨_fantasy_api25_f.webp",
+     "견씨_fantasy_api25_f_casual1.webp",
+     "견씨_fantasy_api25_f_casual2.webp",
+     "견씨_fantasy_api25_f_casual3.webp",
+     "견씨_fantasy_api25_f_casual4.webp",
+     "견씨_fantasy_api25_f_casual5.webp",
+     "견씨_fantasy_api25_f_casual6.webp",
+     "견씨_fantasy_api25_f_casual7.webp",
+     "견씨_mecha_api25_f.webp",
+     "견씨_mecha_api25_f_casual1.webp",
+     "견씨_mecha_api25_f_casual2.webp",
+     "견씨_mecha_api25_f_casual3.webp",
+     "견씨_mecha_api25_f_casual4.webp",
+     "견씨_mecha_api25_f_casual5.webp",
+     "견씨_mecha_api25_f_casual6.webp",
+     "견씨_mecha_api25_f_casual7.webp",
+     "견씨_samguk_api25_f.webp",
+     "견씨_samguk_api25_f_casual1.webp",
+     "견씨_samguk_api25_f_casual2.webp",
+     "견씨_samguk_api25_f_casual3.webp",
+     "견씨_samguk_api25_f_casual4.webp",
+     "견씨_samguk_api25_f_casual5.webp",
+     "견씨_samguk_api25_f_casual6.webp",
+     "견씨_samguk_api25_f_casual7.webp"
+    ],
+    "image_commit": "90000bdd880fdc4e7c45418abb210993075cb1f8",
+    "registration_commit": "b7882cecc4d9f0e5b8353bbbad7af23f0e079e3d",
+    "thumb_commit": "30d2ac725fabf0306aeb956b267b1047c906eb60",
+    "approval": "사용자 2026-11-12 「올려줘」",
+    "note": "요청한 api25 세계 및 일상컷과 썸네일 도감 등록 확인. 기본화풍 missing과 이전 완료 이력은 보존. 승인한 QA 예외 보존."
+   }
   }
  ]
 }
