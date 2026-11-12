@@ -4,7 +4,7 @@
   {
    "key": "장완",
    "execution": "sam-jiangwan-b510",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-12T16:23:02.557Z",
    "date_kst": "2026-11-13",
    "date_utc": "2026-11-12",
@@ -33,6 +33,14 @@
     "장완_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "장완_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "장완_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ],
+   "reason": "fantasy-casual1: image_gen moderation_blocked at output (sexual); no image returned. Other 23 images published.",
+   "blocked_at": "2026-11-12T17:13:24.964Z",
+   "user_selection": "2,2,1",
+   "published_images": 23,
+   "image_commit": "21e44f9403267439affe70261647648543c4b57f",
+   "remaining": [
+    "장완_fantasy_kr_drawn_rim_dewy_f_casual1.webp"
    ]
   }
  ]
