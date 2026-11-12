@@ -60,6 +60,38 @@
    ],
    "done_at": "2026-11-08T10:08:20.027Z",
    "done_by": "sam-ganning-20261108-7c04dd1cd1f5"
+  },
+  {
+   "key": "감녕",
+   "execution": "sam-ganning-20261112-8b23",
+   "status": "working",
+   "claimed_at": "2026-11-12T13:56:49.224Z",
+   "missing": [
+    "감녕_samguk_kr_drawn_rim_dewy_f.webp",
+    "감녕_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "감녕_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "감녕_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "감녕_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "감녕_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "감녕_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "감녕_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "감녕_fantasy_kr_drawn_rim_dewy_f.webp",
+    "감녕_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "감녕_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "감녕_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "감녕_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "감녕_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "감녕_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "감녕_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "감녕_mecha_kr_drawn_rim_dewy_f.webp",
+    "감녕_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "감녕_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "감녕_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "감녕_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "감녕_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "감녕_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "감녕_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
