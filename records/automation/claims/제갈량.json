@@ -93,6 +93,40 @@
    "approval": "정리하고 진행해줘",
    "released_by": "sam-zhuge-new-20261108-5d324652d936",
    "released_at": "2026-11-09T13:20:39.491Z"
+  },
+  {
+   "key": "제갈량",
+   "execution": "sam-zhugeliang-e2d438-20261112",
+   "status": "working",
+   "claimed_at": "2026-11-12T06:26:46.437Z",
+   "date_kst": "2026-11-12",
+   "date_utc": "2026-11-12",
+   "missing": [
+    "제갈량_samguk_kr_drawn_rim_dewy_f.webp",
+    "제갈량_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "제갈량_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "제갈량_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "제갈량_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "제갈량_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "제갈량_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "제갈량_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "제갈량_fantasy_kr_drawn_rim_dewy_f.webp",
+    "제갈량_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "제갈량_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "제갈량_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "제갈량_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "제갈량_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "제갈량_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "제갈량_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "제갈량_mecha_kr_drawn_rim_dewy_f.webp",
+    "제갈량_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "제갈량_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "제갈량_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "제갈량_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "제갈량_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "제갈량_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "제갈량_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
