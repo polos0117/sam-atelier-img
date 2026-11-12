@@ -4,7 +4,7 @@
   {
    "key": "황월영",
    "execution": "sam-huangyueying-api25-20261112-codex",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-12T02:43:47.473Z",
    "date_kst": "2026-11-12",
    "date_utc": "2026-11-12",
@@ -33,7 +33,43 @@
     "황월영_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "황월영_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "황월영_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-12T04:16:17.880040+00:00",
+   "done_by": "sam-huangyueying-api25-20261112-codex",
+   "style": "api25",
+   "completion": {
+    "registered_files": [
+     "황월영_fantasy_api25_f.webp",
+     "황월영_fantasy_api25_f_casual1.webp",
+     "황월영_fantasy_api25_f_casual2.webp",
+     "황월영_fantasy_api25_f_casual3.webp",
+     "황월영_fantasy_api25_f_casual4.webp",
+     "황월영_fantasy_api25_f_casual5.webp",
+     "황월영_fantasy_api25_f_casual6.webp",
+     "황월영_fantasy_api25_f_casual7.webp",
+     "황월영_mecha_api25_f.webp",
+     "황월영_mecha_api25_f_casual1.webp",
+     "황월영_mecha_api25_f_casual2.webp",
+     "황월영_mecha_api25_f_casual3.webp",
+     "황월영_mecha_api25_f_casual4.webp",
+     "황월영_mecha_api25_f_casual5.webp",
+     "황월영_mecha_api25_f_casual6.webp",
+     "황월영_mecha_api25_f_casual7.webp",
+     "황월영_samguk_api25_f.webp",
+     "황월영_samguk_api25_f_casual1.webp",
+     "황월영_samguk_api25_f_casual2.webp",
+     "황월영_samguk_api25_f_casual3.webp",
+     "황월영_samguk_api25_f_casual4.webp",
+     "황월영_samguk_api25_f_casual5.webp",
+     "황월영_samguk_api25_f_casual6.webp",
+     "황월영_samguk_api25_f_casual7.webp"
+    ],
+    "image_commit": "52fc917a92963234a9b143f71276eaedcfb4611e",
+    "registration_commit": "de4d9a57e6aa7b33f0b5d6595a074cc097f47e71",
+    "thumb_commit": "6a82c813da836d8ce5d8bc8ebee2c78cf133c95f",
+    "approval": "사용자 2026-11-12 「올려줘」",
+    "note": "요청한 api25 세계 및 일상컷과 썸네일 도감 등록 확인. 기본화풍 missing 목록은 이력으로 보존. 승인한 QA 예외 보존."
+   }
   }
  ]
 }
