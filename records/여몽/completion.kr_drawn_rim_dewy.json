@@ -1,0 +1,65 @@
+{
+ "card": "여몽",
+ "style": "kr_drawn_rim_dewy",
+ "execution": "sam-lvmeng-20261112T1019",
+ "selection": [
+  2,
+  2,
+  1
+ ],
+ "world_images": 3,
+ "casual_images": 21,
+ "size": [
+  1024,
+  1536
+ ],
+ "all_returned_images_retained": true,
+ "returned_images_regenerated": 0,
+ "rejected_requests": {
+  "samguk-casual1": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "status": "moderation_blocked",
+    "request_id": "ba56e83d-5524-444a-94c8-67d99cafd375"
+   },
+   {
+    "n": 2,
+    "exposure": "bold",
+    "status": "moderation_blocked",
+    "request_id": "77815ea2-eba7-4c6c-838c-c8fc65d1e49a"
+   }
+  ],
+  "samguk-casual5": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "status": "moderation_blocked",
+    "request_id": "562eab55-3c9b-4393-b1c1-ae7a4da83f90"
+   }
+  ],
+  "mecha-casual1": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "status": "moderation_blocked",
+    "request_id": "837d0c23-1e14-4091-8af1-c653144b9829"
+   },
+   {
+    "n": 2,
+    "exposure": "bold",
+    "status": "moderation_blocked",
+    "request_id": "271efa40-5b4e-4ecc-a710-bd5373b3dad1"
+   }
+  ],
+  "mecha-casual2": [
+   {
+    "n": 1,
+    "exposure": "bold",
+    "status": "moderation_blocked",
+    "request_id": "fdb8ecb7-97b2-441e-a1f9-2d17d7b0a1c3"
+   }
+  ]
+ },
+ "qa": "Per-image observations retained, including wardrobe, pose and occlusion differences; no QA deviation silently marked passed."
+}
