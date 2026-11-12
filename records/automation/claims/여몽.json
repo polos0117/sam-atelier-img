@@ -30,6 +30,40 @@
    ],
    "done_at": "2026-11-03T21:46:54.833Z",
    "done_by": "sam-lvmeng-f52c2b"
+  },
+  {
+   "key": "여몽",
+   "execution": "sam-lvmeng-20261112T1019",
+   "status": "working",
+   "claimed_at": "2026-11-12T10:18:52.401Z",
+   "date_kst": "2026-11-12",
+   "date_utc": "2026-11-12",
+   "missing": [
+    "여몽_samguk_kr_drawn_rim_dewy_f.webp",
+    "여몽_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "여몽_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "여몽_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "여몽_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "여몽_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "여몽_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "여몽_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "여몽_fantasy_kr_drawn_rim_dewy_f.webp",
+    "여몽_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "여몽_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "여몽_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "여몽_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "여몽_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "여몽_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "여몽_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "여몽_mecha_kr_drawn_rim_dewy_f.webp",
+    "여몽_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "여몽_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "여몽_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "여몽_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "여몽_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "여몽_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "여몽_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
