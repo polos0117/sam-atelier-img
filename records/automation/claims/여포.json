@@ -38,10 +38,16 @@
    "claimed_at": "2026-11-12T03:38:28.427Z",
    "date_kst": "2026-11-12",
    "date_utc": "2026-11-12",
-   "phase": "awaiting-world-selection",
+   "phase": "generating-casuals",
    "selection_sheet": "libfile_1eefb0a3bb088191bb4bace0d0738492",
    "candidates": 12,
-   "style": "kr_drawn_rim_dewy"
+   "style": "kr_drawn_rim_dewy",
+   "selection": {
+    "samguk": 2,
+    "fantasy": 1,
+    "mecha": 2
+   },
+   "expected_images": 24
   }
  ]
 }
