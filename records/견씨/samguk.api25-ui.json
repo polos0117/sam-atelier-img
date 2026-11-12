@@ -1,0 +1,113 @@
+{
+ "atelier": "samguk",
+ "card": "견씨",
+ "faction": "wei",
+ "role": "official",
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "notes": {},
+ "look": {
+  "params": {},
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold"
+ },
+ "design": {
+  "face": {
+   "eye_color": "sapphire",
+   "impression": "glamorous",
+   "expr": "soft_smile",
+   "skin_tone": "porcelain",
+   "age": "mid_20s",
+   "eye_size": "medium",
+   "eye_tilt": "up",
+   "mark": "dark_lip",
+   "brows": "high_arched",
+   "nose": "aquiline",
+   "lips": "thin_bow",
+   "face_shape": "inverted_triangle",
+   "eyes": "phoenix"
+  },
+  "silhouette": {
+   "body": "hourglass",
+   "hair_color": "jade_green",
+   "hair": "long_layered",
+   "bangs": "one_eye"
+  }
+ },
+ "shot": {
+  "scene": "",
+  "time": "",
+  "pose": "",
+  "expr": "",
+  "frame": ""
+ },
+ "file": "견씨_samguk_api25_f.webp",
+ "prompt": "CONCEPT: a female personification of Lady Zhen (견씨), a court official of Cao Wei in the Romance of the Three Kingdoms — the beauty compared to the goddess of the Luo River. Reimagined as a woman; her costume, ornaments, colours and bearing carry her famous deeds and temperament. This is a character design, not a historical portrait.\nSTYLE: Premium Korean MMORPG promotional character render — an in-engine 3D character model with hand-painted textures, not flat cel shading and not a 2D anime illustration: semi-realistic volumetric forms, porcelain skin with a soft subsurface glow and glossy specular highlights, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure — soft, rounded volume at bust, hips and thighs in the body type SILHOUETTE names; never thin, flat or boyishly straight. Polished metal, silk and gems catch sharp highlights. Extremely intricate ornamented costume — filigree metalwork, jewel inlays, layered translucent fabrics and fine embroidery. Character-select-screen lighting: strong rim light, soft key light on the face, drifting light particles, atmospheric depth with a softly blurred background. Luxurious, high-detail finish.\nTRAITS of Lady Zhen to carry in her design and the scene: otherworldly grace, flowing gauze, water-ripple motifs.\nFACTION — Cao Wei (魏). Palette: deep navy blue, black lacquer, cold steel silver, ivory white.\nAGE: late twenties — a graceful grown-up face with soft, smooth contours; no wrinkles, folds or under-eye bags.\nSILHOUETTE: hourglass-figured — full bust and hips, distinctly narrow-waisted build; long layered hair with long bangs falling over one eye; pale jade-green hair.\nFACE — she must read as her own person at a glance, NOT the style's default pretty face and not a sister of the other characters: first impression — a glamorous, sultry allure; porcelain-pale skin; softly tapered face narrowing to a small, soft chin; medium-sized eyes — long phoenix eyes with lifted outer corners, outer eye corners tilting sharply upward; gracefully arched brows; aquiline nose; thin lips with a defined cupid's bow; sapphire-blue eyes; dark berry lipstick.\nWORLD — THREE KINGDOMS ERA: Cao Wei in northern China, around 200–235 AD: the walled capitals of Xuchang, Ye and Luoyang, rammed-earth ramparts and tiled watchtowers, black-and-navy banners over vast northern plains, armoured cavalry, bronze ritual vessels and lacquered halls. COSTUME (Three Kingdoms era): a Han court official's dress — layered robes with a broad belt and a hanging seal cord, a black jinxian guan cap, an ink brush and bound bamboo slips. Authentic late-Han Chinese dress — cross-collared silk robes with wide sleeves and a broad sash, lamellar or scale armor laced with cords where armor is worn, bronze, jade and lacquer ornament, Han court hair ornaments; silk, lacquered leather, bronze and iron. No Western plate armor, no Japanese kimono or samurai armor, no Qing-dynasty dress, no modern material. LIGHT: natural daylight, torches or lanterns, unless TIME & WEATHER says otherwise. Martial-fantasy glamour: silk sashes and ribbons flowing in the wind, a sheer layered skirt, jade and gold jewellery at the hair and waist.\nOUTFIT SILHOUETTE: a long silk shawl wrapping the shoulders and arms and floating in the air, light layered robes — an airy, celestial silhouette. Only the overall shape is fixed; design the details freely. This silhouette overrides the overall shape of the role costume above.\nMOOD: bold martial-fantasy key art — high contrast, wind-swept silk and hair, drifting petals and embers, dynamic contrapposto.\nEXPOSURE (bold): her robes open to show skin — the cross collar opened into a deep neckline with natural cleavage, bare shoulders and arms where the outer robe is cut away by design, a high slit in the skirt panels showing the thigh; armor pieces stay on and symmetrical. Nothing slipped off. Intimate areas covered; keep the costume material and palette.\nOUTPUT: one character image that works as card art. Vertical 2:3 frame, full body with head and feet inside the frame with clear margins, face turned toward the camera (front or three-quarter). Standing, card-ready pose; the environment may be rich while her design stays fully readable.\nSIGNATURE ITEM: a jade comb — in the form this WORLD gives it. She holds or carries it, drawn at full scale. It is one whole object drawn once: a long weapon (spear, glaive, halberd, staff, bow) keeps a single straight, unbroken shaft from butt to head with exactly one head or blade, held in front of or beside her body — never passing behind her head or shoulders, never broken, bent, split in two by her body or arm, or duplicated; if the frame cuts it, it leaves the frame as one straight line.\nEXPRESSION: a faint soft smile, relaxed eyes. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive.\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint. Hands and feet may be partly hidden by the pose or the frame.\nONE FIGURE ONLY. No second character, no horse or other creature, no logo, no watermark, no speech bubble, no frame border. No readable text or numbers, except that a banner, seal or emblem may carry the single character 魏 or 甄.\nANATOMY: natural adult proportions, both hands drawn correctly as hands. No extra limbs.",
+ "date": "2026-11-11",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 1234,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1234
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 1577
+  },
+  "seconds": 17.466,
+  "png_sha256": "95fd21c99c453303a9dd5cd6f20d17545ea78cd840400adc5827513de920c622",
+  "prompt_sha256": "215133e81571c99261ddfe217ed1c4db224fbcb4ce246dbbc5bb286278feb8d4",
+  "retries": [
+   {
+    "n": 1,
+    "status": "safety",
+    "exposure": "bold"
+   },
+   {
+    "n": 2,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-11",
+  "design": "ours",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-zhenji-api25-20261111-codex",
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "95fd21c99c453303a9dd5cd6f20d17545ea78cd840400adc5827513de920c622",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "성인 여성·작고 부드러운 얼굴·굴곡 체형·옥빛 머리와 창백한 피부·남색/검정/실버/아이보리 팔레트 확인. 보이는 팔다리 수와 손·발 구성이 자연스러움.",
+   "긴 옥빛 머리·위나라 예복·떠오르는 긴 숄과 허리 옥빗 확인. 양발과 양손 프레임 안."
+  ]
+ },
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "approved_for_upload",
+  "date": "2026-11-12",
+  "message": "올려줘",
+  "qa_exceptions_acknowledged": true
+ },
+ "imported": "2026-11-11"
+}

@@ -1,0 +1,114 @@
+{
+ "atelier": "samguk",
+ "card": "견씨",
+ "faction": "wei",
+ "slot": "casual6",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "ref": "견씨_samguk_api25_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "heritage",
+  "place": "heritage_baidi",
+  "ofam": "subculture",
+  "item": "visual_kei",
+  "posture": "sit_chair",
+  "support": "back_seat",
+  "frame": "face_close",
+  "body": "front_3q",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "out",
+  "use": "cup_sip",
+  "kind": "raise",
+  "legs": "",
+  "gaze": "camera",
+  "ofree": true,
+  "ofreeRecent": "an empty modern wave-training pool at a coastal sports laboratory — she guides a floating hoop across a gentle wave with both hands while standing in the shallow lane; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a modern community rehearsal hall after a dance class — she rewinds a rehearsal cassette by turning its spool with a pencil; a penthouse window wall over the city at night — standing; a Guan Yu temple — holds a magnifying glass by its handle at chest height; a hydroponic bathing pool aboard a starship — chest-deep in the water; a present-day miniature puppet-theatre repair studio — she carefully untangles two puppet-control rings from an overhead hook; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; a Yangtze ferry landing with moored junks under red sails and coiled ropes on the wooden pier — holds a white feather fan upright at chest height; a Three Kingdoms festival street — standing at a waist-high railing or sill; an airport lounge — holds her keepsake in both hands in front of her; a vast fantasy library of towering shelves — holds a small hand lantern low at her side",
+  "expr": "wink",
+  "preset": "sip_close",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "견씨_samguk_api25_f_casual6.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Lady Zhen of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — otherworldly grace, flowing gauze, water-ripple motifs — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: an empty modern wave-training pool at a coastal sports laboratory — she guides a floating hoop across a gentle wave with both hands while standing in the shallow lane; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a modern community rehearsal hall after a dance class — she rewinds a rehearsal cassette by turning its spool with a pencil; a penthouse window wall over the city at night — standing; a Guan Yu temple — holds a magnifying glass by its handle at chest height; a hydroponic bathing pool aboard a starship — chest-deep in the water; a present-day miniature puppet-theatre repair studio — she carefully untangles two puppet-control rings from an overhead hook; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; a Yangtze ferry landing with moored junks under red sails and coiled ropes on the wooden pier — holds a white feather fan upright at chest height; a Three Kingdoms festival street — standing at a waist-high railing or sill; an airport lounge — holds her keepsake in both hands in front of her; a vast fantasy library of towering shelves — holds a small hand lantern low at her side.\nPlace: …\nActivity: …\nPose: …\nFraming: …\nOutfit: … (a revealing, fashionable outfit that is not in our outfit catalog — outfit-catalog.md in this pack)\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-11",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 2544,
+   "input_tokens_details": {
+    "image_tokens": 864,
+    "text_tokens": 1680
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 2887
+  },
+  "seconds": 18.172,
+  "png_sha256": "6feee208d92c8fa343bd66b72b347fb5f95f55f4cbc33856d8ee6ffd33d9aed6",
+  "prompt_sha256": "679963ec868a2a8f72ef265146d18e6dac7f5fb431158007d4e638d70e609018",
+  "retries": [
+   {
+    "n": 1,
+    "status": "ok",
+    "exposure": "bold"
+   }
+  ],
+  "date": "2026-11-11",
+  "ref_sha256": "95fd21c99c453303a9dd5cd6f20d17545ea78cd840400adc5827513de920c622",
+  "ref_sent": {
+   "size": [
+    768,
+    1152
+   ],
+   "sha256": "70877d550164b66feac3c3a7dea6e96bd69e98450b48fa8d61c4fecdf10182d4"
+  },
+  "design": "ofree",
+  "free_design": "FREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: an empty modern wave-training pool at a coastal sports laboratory — she guides a floating hoop across a gentle wave with both hands while standing in the shallow lane; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a modern community rehearsal hall after a dance class — she rewinds a rehearsal cassette by turning its spool with a pencil; a penthouse window wall over the city at night — standing; a Guan Yu temple — holds a magnifying glass by its handle at chest height; a hydroponic bathing pool aboard a starship — chest-deep in the water; a present-day miniature puppet-theatre repair studio — she carefully untangles two puppet-control rings from an overhead hook; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; a Yangtze ferry landing with moored junks under red sails and coiled ropes on the wooden pier — holds a white feather fan upright at chest height; a Three Kingdoms festival street — standing at a waist-high railing or sill; an airport lounge — holds her keepsake in both hands in front of her; a vast fantasy library of towering shelves — holds a small hand lantern low at her side.\nPlace: a small quiet pottery classroom after hours, a low manual banding wheel on a workbench, one plain unfired bowl and a damp sponge, no other people\nActivity: her fascination with smooth river ripples carries into a modest new hobby: she slowly turns a plain clay bowl on a hand-driven banding wheel while smoothing its uneven rim with a small sponge; no finished writing or painted symbols\nPose: seated upright on a low chair, feet planted, left hand gently turning the wheel base and right hand holding the sponge against the bowl rim, eyes lowered in concentration\nFraming: a waist-up three-quarter view at bench height, face and both working hands clearly separated, the plain bowl and circular banding wheel completely inside the frame\nOutfit: an opaque pale-turquoise cotton-sateen envelope crop blouse with a low square neckline, broad folded shoulder tabs, an open back fastened by two flat self-fabric loops and short folded sleeves resting below the shoulders; paired with warm ivory tailored curved-panel balloon shorts and simple turquoise flats; bare shoulders, back and waist with natural cleavage, intimate areas securely covered; a clean practical cut without decorative motifs and not an outfit-catalog item",
+  "free_prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Lady Zhen of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — otherworldly grace, flowing gauze, water-ripple motifs — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nFREE DESIGN: design the place, activity, pose, framing and outfit yourself. Start from who she is — her legend, traits and personality — and show an everyday moment that is unexpected yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. Avoid scenes like the recent ones listed below. Keep her face, the art style and the body and anatomy rules exactly as stated. Before drawing, write your design into the lines below, then draw it.\nRecent scenes to avoid: an empty modern wave-training pool at a coastal sports laboratory — she guides a floating hoop across a gentle wave with both hands while standing in the shallow lane; a Roman marble bath hall — plays a guzheng zither laid across her lap or a low table; a lantern-lit old-town street at night — holds her keepsake in both hands in front of her; a modern community rehearsal hall after a dance class — she rewinds a rehearsal cassette by turning its spool with a pencil; a penthouse window wall over the city at night — standing; a Guan Yu temple — holds a magnifying glass by its handle at chest height; a hydroponic bathing pool aboard a starship — chest-deep in the water; a present-day miniature puppet-theatre repair studio — she carefully untangles two puppet-control rings from an overhead hook; a convention photo zone under ring lights — checks the photo on the back screen of a camera at chest height; a Yangtze ferry landing with moored junks under red sails and coiled ropes on the wooden pier — holds a white feather fan upright at chest height; a Three Kingdoms festival street — standing at a waist-high railing or sill; an airport lounge — holds her keepsake in both hands in front of her; a vast fantasy library of towering shelves — holds a small hand lantern low at her side.\nPlace: a small quiet pottery classroom after hours, a low manual banding wheel on a workbench, one plain unfired bowl and a damp sponge, no other people\nActivity: her fascination with smooth river ripples carries into a modest new hobby: she slowly turns a plain clay bowl on a hand-driven banding wheel while smoothing its uneven rim with a small sponge; no finished writing or painted symbols\nPose: seated upright on a low chair, feet planted, left hand gently turning the wheel base and right hand holding the sponge against the bowl rim, eyes lowered in concentration\nFraming: a waist-up three-quarter view at bench height, face and both working hands clearly separated, the plain bowl and circular banding wheel completely inside the frame\nOutfit: an opaque pale-turquoise cotton-sateen envelope crop blouse with a low square neckline, broad folded shoulder tabs, an open back fastened by two flat self-fabric loops and short folded sleeves resting below the shoulders; paired with warm ivory tailored curved-panel balloon shorts and simple turquoise flats; bare shoulders, back and waist with natural cleavage, intimate areas securely covered; a clean practical cut without decorative motifs and not an outfit-catalog item\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; intimate areas covered\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+  "free_by": "gpt-session",
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-zhenji-api25-20261111-codex",
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "approved_for_upload",
+  "date": "2026-11-12",
+  "message": "올려줘",
+  "qa_exceptions_acknowledged": true
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "6feee208d92c8fa343bd66b72b347fb5f95f55f4cbc33856d8ee6ffd33d9aed6",
+  "passed": true,
+  "exposure": "match",
+  "observations": [
+   "선택한 세계 그림의 얼굴·옥빛 머리·창백한 피부·굴곡 체형이 이어짐. 보이는 팔다리 수와 손·발의 구성을 확인.",
+   "자유 설계: 도자기 공방에서 오른손 스펀지로 그릇 가장자리를 다듬고 왼손으로 수동 회전판을 돌리는 행동·청록색 어깨 접힘 블라우스와 아이보리 쇼츠 확인."
+  ]
+ },
+ "imported": "2026-11-11"
+}

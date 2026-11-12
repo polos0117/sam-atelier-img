@@ -1,0 +1,130 @@
+{
+ "atelier": "samguk",
+ "card": "견씨",
+ "faction": "wei",
+ "slot": "casual1",
+ "treeV": 2,
+ "world": "samguk",
+ "style": "api25",
+ "styleVersion": "v1",
+ "ref": "견씨_samguk_api25_f.webp",
+ "scene": {
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_convention",
+  "ofam": "swimwear",
+  "item": "oring_bikini",
+  "posture": "stand",
+  "support": "none",
+  "frame": "environmental",
+  "body": "side",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "camera_check",
+  "legs": "stand_relaxed",
+  "gaze": "",
+  "color": "neutral",
+  "expr": "pensive",
+  "preset": "stand_use",
+  "prop": "",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "low"
+  },
+  "unlocked": [],
+  "aspect": "2:3"
+ },
+ "file": "견씨_samguk_api25_f_casual1.webp",
+ "prompt": "INPUT: the attached image is the approved character — her Three kingdoms card; keep her. Do not reuse earlier conversation images.\n\nCHARACTER: the same woman as the attached image — the female personification of Lady Zhen of the Three Kingdoms, seen in her everyday life. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change, and her hair may be worn differently only as SCENE's Hair line says. Her Three Kingdoms identity shows ONLY as a small accessory, an object around her, or the object PROP says she holds — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume.\n\nDESIGN (accessory hints only): her legend — otherworldly grace, flowing gauze, water-ripple motifs — may inform at most one small accessory, a hair ornament or an object beside her, in its palette (deep navy blue, black lacquer, cold steel silver, ivory white). The clothes keep the chosen outfit's own colours; her skin, hair and eyes stay as in the attached image.\n\nSTYLE: Premium Korean MMORPG promotional character render: a semi-realistic, painterly 3D finish with porcelain skin and a soft subsurface glow, a small refined face with delicate realistic-anime features, long legs and a narrow waist on a full, curvaceous figure with soft volume at bust, hips and thighs. Glossy specular highlights on skin, fabric and jewellery. Refined fabric and accessory rendering with fine jewellery detail. Ethereal rim lighting, drifting light particles and atmospheric depth with a softly blurred background. Luxurious, high-detail, character-select-screen quality.\n\nAGE: the same adult woman as in the attached image — keep her own face shape, cheekbones, eye proportions and skin tone exactly; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases). Keep her face soft, feminine and attractive in every framing — never elongated, gaunt, mannish or heavy-jawed, even in close-ups, profiles or low angles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her legend shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never as armor, regalia or a costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: the present-day real world — today's clothing, hair, devices and interiors; an ordinary woman of today, nothing of her legend in her clothes.\n\nSCENE (chosen):\nPlace: a convention photo zone under ring lights\nOutfit: a bikini joined at the centre and hips by polished metal rings — in clean neutrals such as white, ivory, oatmeal or soft grey; the outfit colour reads clearly at first glance\nPOSTURE: standing.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she checks the photo on the back screen of a camera at chest height — her own right hand holds the grip, her own left hand cradles the body from below.\nLEGS: weight even on both legs.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: a quiet, thoughtful look, lips lightly closed. Keep it subtle and natural, a light touch rather than acting: no sneer, glare, smirk-pulled cheek or chin lifted to look down at the viewer; her face stays relaxed and attractive. Her eyes are naturally open and clear, not heavy-lidded or half-closed; brows relaxed and even, neither raised on one side nor furrowed; lips softly closed or only just parted.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: low — mostly covered clothing, limited neck/hand exposure unless outfit is explicit\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, armor, regalia, ornaments, mecha plates or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her Three Kingdoms identity belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her faction's palette, armor, robes or regalia.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera exactly as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same. No default card pose, no default front-facing portrait.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her. No logo, no watermark, no speech bubble, no frame border. No readable text or numbers.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.",
+ "date": "2026-11-11",
+ "generation": {
+  "tool": "tools/api-draw.cjs",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": [
+   1024,
+   1536
+  ],
+  "quality": "medium",
+  "usage": {
+   "input_tokens": 2206,
+   "input_tokens_details": {
+    "image_tokens": 864,
+    "text_tokens": 1342
+   },
+   "output_tokens": 343,
+   "output_tokens_details": {
+    "image_tokens": 343,
+    "text_tokens": 0
+   },
+   "total_tokens": 2549
+  },
+  "seconds": 16.764,
+  "png_sha256": "aa54b198a932ea56a166ce4b58a894ddf1098d94defd94a54c89b74aba110312",
+  "prompt_sha256": "5a7befb0ffa5051b73e249878d9154886d358dfb7b49ba26722f2a4601c8a455",
+  "retries": [
+   {
+    "n": 1,
+    "status": "safety",
+    "exposure": "bold"
+   },
+   {
+    "n": 2,
+    "status": "safety",
+    "exposure": "bold"
+   },
+   {
+    "n": 3,
+    "status": "safety",
+    "exposure": "moderate"
+   },
+   {
+    "n": 4,
+    "status": "safety",
+    "exposure": "moderate"
+   },
+   {
+    "n": 5,
+    "status": "ok",
+    "exposure": "low"
+   }
+  ],
+  "date": "2026-11-11",
+  "ref_sha256": "95fd21c99c453303a9dd5cd6f20d17545ea78cd840400adc5827513de920c622",
+  "ref_sent": {
+   "size": [
+    768,
+    1152
+   ],
+   "sha256": "70877d550164b66feac3c3a7dea6e96bd69e98450b48fa8d61c4fecdf10182d4"
+  },
+  "webp": {
+   "quality": 90
+  }
+ },
+ "execution": "sam-zhenji-api25-20261111-codex",
+ "acceptance": "user_approval_2026-11-02 — GPT session AI QA then upload",
+ "review": {
+  "reviewed": true,
+  "by": "user",
+  "result": "approved_for_upload",
+  "date": "2026-11-12",
+  "message": "올려줘",
+  "qa_exceptions_acknowledged": true
+ },
+ "qa": {
+  "reviewer": "gpt-session",
+  "image_sha256": "aa54b198a932ea56a166ce4b58a894ddf1098d94defd94a54c89b74aba110312",
+  "passed": false,
+  "exposure": "stronger",
+  "observations": [
+   "선택한 세계 그림의 얼굴·옥빛 머리·창백한 피부·굴곡 체형이 이어짐. 보이는 팔다리 수와 손·발의 구성을 확인.",
+   "코스프레 행사장에서 양손 카메라로 촬영 사진을 확인하는 옆모습·전신과 양발 확인.",
+   "노출 설정은 low이나 결과 비키니의 실제 노출은 bold에 가까움. 배경에 다른 사람들이 있고 인물 사진이 든 대형 패널도 추가됨."
+  ],
+  "cause": "이미지 모델의 의상·프레이밍·배경·자세 또는 손 소품 해석 차이. 규칙의 재생성 허용 사유 밖이라 검수에 기록하고 원본 보존."
+ },
+ "imported": "2026-11-11"
+}
