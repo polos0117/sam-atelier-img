@@ -30,6 +30,15 @@
    ],
    "done_at": "2026-11-02T10:47:05.624Z",
    "done_by": "sam-lvbu-diaochan-60b9"
+  },
+  {
+   "key": "여포",
+   "execution": "sam-lvbu-235258e22a0d",
+   "status": "working",
+   "claimed_at": "2026-11-12T03:38:28.427Z",
+   "date_kst": "2026-11-12",
+   "date_utc": "2026-11-12",
+   "phase": "world-selection"
   }
  ]
 }
