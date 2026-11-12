@@ -34,11 +34,11 @@
   {
    "key": "여포",
    "execution": "sam-lvbu-235258e22a0d",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-12T03:38:28.427Z",
    "date_kst": "2026-11-12",
    "date_utc": "2026-11-12",
-   "phase": "generating-casuals",
+   "phase": "complete",
    "selection_sheet": "libfile_1eefb0a3bb088191bb4bace0d0738492",
    "candidates": 12,
    "style": "kr_drawn_rim_dewy",
@@ -47,7 +47,14 @@
     "fantasy": 1,
     "mecha": 2
    },
-   "expected_images": 24
+   "expected_images": 24,
+   "done_at": "2026-11-12T04:36:31.056Z",
+   "done_by": "sam-lvbu-235258e22a0d",
+   "image_commit": "1c9b3cf2e2d2f05f28fe8f0f323b09393dc4a9e4",
+   "code_commit": "3d7f041fcd24870921c25c8c50f6ddbc850afc05",
+   "image_count": 24,
+   "final_sheet": "libfile_50633967ec2081918ca94a06b3e2ded0",
+   "validation": "remote 51 blobs match; 24 thumbnails; 24 dex entries; three world plans and current-style casual requirements pass"
   }
  ]
 }
