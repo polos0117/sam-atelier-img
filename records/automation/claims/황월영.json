@@ -1,0 +1,39 @@
+{
+ "key": "황월영",
+ "runs": [
+  {
+   "key": "황월영",
+   "execution": "sam-huangyueying-api25-20261112-codex",
+   "status": "working",
+   "claimed_at": "2026-11-12T02:43:47.473Z",
+   "date_kst": "2026-11-12",
+   "date_utc": "2026-11-12",
+   "missing": [
+    "황월영_samguk_kr_drawn_rim_dewy_f.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
