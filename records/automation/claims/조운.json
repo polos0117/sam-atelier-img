@@ -34,7 +34,7 @@
   {
    "key": "조운",
    "execution": "sam-zhaoyun-20261112-decd",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-11T23:28:15.485Z",
    "date_kst": "2026-11-12",
    "date_utc": "2026-11-12",
@@ -63,7 +63,15 @@
     "조운_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "조운_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "조운_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-12T03:08:43.442Z",
+   "done_by": "sam-zhaoyun-20261112-decd",
+   "selection": {
+    "samguk": 2,
+    "fantasy": 4,
+    "mecha": 4
+   },
+   "reason": "Selected worlds 2/4/4 and 21 casual images published. Remote 51 image/record Git hashes verified; 24 atlas entries present, previous entries preserved. Three planner checks and current-style casual family and cross-world scene checks passed. 1024x1536 WebP verified. No returned image regenerated. Rejected requests and permitted exposure settings retained."
   }
  ]
 }
