@@ -70,7 +70,7 @@
   {
    "key": "서서",
    "execution": "sam-xushu-own-ec668-20261113",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-13T12:34:32.101823+00:00",
    "date_kst": "2026-11-13",
    "date_utc": "2026-11-13",
@@ -79,7 +79,15 @@
     "서서_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
     "서서_mecha_kr_drawn_rim_dewy_f_casual90.webp"
    ],
-   "scope": "required own cut 90; legacy claim tool excludes own slots"
+   "scope": "required own cut 90; legacy claim tool excludes own slots",
+   "done_at": "2026-11-13T12:41:31.542Z",
+   "done_by": "sam-xushu-own-ec668-20261113",
+   "image_commit": "840d13116674191b84f1d0ac7d8c482e060354eb",
+   "completed_slots": [
+    "서서_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "서서_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "서서_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ]
   }
  ]
 }
