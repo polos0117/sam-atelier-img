@@ -47,14 +47,18 @@
   {
    "key": "대교",
    "execution": "sam-own-04c52f",
-   "status": "working",
+   "status": "complete",
    "scope": "casual90-only",
    "claimed_at": "2026-11-13T14:55:00Z",
    "missing": [
     "대교_samguk_kr_drawn_rim_dewy_f_casual90.webp",
     "대교_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
     "대교_mecha_kr_drawn_rim_dewy_f_casual90.webp"
-   ]
+   ],
+   "done_at": "2026-11-13T06:20:14.474631+00:00",
+   "done_by": "sam-own-04c52f",
+   "published_images": 3,
+   "note": "casual90-only: 3 worlds registered in atlas; 1024x1536 WebP, 6 remote file hashes, references and prompt hashes verified; no successful image regenerated. Prior runs preserved."
   }
  ]
 }

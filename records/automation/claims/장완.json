@@ -47,10 +47,13 @@
  "supplemental_runs": [
   {
    "execution": "sam-own-04c52f",
-   "status": "working",
+   "status": "complete",
    "scope": "casual90-only",
    "claimed_at": "2026-11-13T15:20:00Z",
-   "note": "Only newly requested casual90 slots; prior blocked run and fantasy-casual1 are preserved."
+   "note": "casual90-only: 3 worlds registered in atlas; 1024x1536 WebP, 6 remote file hashes, references and prompt hashes verified; no successful image regenerated. Prior runs preserved.",
+   "done_at": "2026-11-13T06:20:14.463972+00:00",
+   "done_by": "sam-own-04c52f",
+   "published_images": 3
   }
  ]
 }
