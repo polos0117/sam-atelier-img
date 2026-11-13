@@ -43,5 +43,14 @@
     "장완_fantasy_kr_drawn_rim_dewy_f_casual1.webp"
    ]
   }
+ ],
+ "supplemental_runs": [
+  {
+   "execution": "sam-own-04c52f",
+   "status": "working",
+   "scope": "casual90-only",
+   "claimed_at": "2026-11-13T15:20:00Z",
+   "note": "Only newly requested casual90 slots; prior blocked run and fantasy-casual1 are preserved."
+  }
  ]
 }
