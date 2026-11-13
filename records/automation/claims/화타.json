@@ -4,7 +4,7 @@
   {
    "key": "화타",
    "execution": "sam-huatuo-7088",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-13T15:01:42.429Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-13",
@@ -33,7 +33,17 @@
     "화타_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "화타_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "화타_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-13T23:34:35.623Z",
+   "done_by": "sam-huatuo-7088",
+   "registered_images": 27,
+   "selection": {
+    "samguk": 2,
+    "fantasy": 3,
+    "mecha": 3
+   },
+   "image_commit": "adfb74167eb7c5ebaea38fd9b5085c7a9d6ef024",
+   "code_commit": "28fe0c7268ccc4253f63d56f90d49c52b7eff18b"
   }
  ]
 }
