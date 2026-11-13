@@ -4,7 +4,7 @@
   {
    "key": "여령기",
    "execution": "sam-lvlingqi-b299ac-20261113",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-13T06:53:40.686Z",
    "date_kst": "2026-11-13",
    "date_utc": "2026-11-13",
@@ -33,7 +33,9 @@
     "여령기_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "여령기_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "여령기_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-13T07:30:19.420Z",
+   "done_by": "sam-lvlingqi-b299ac-20261113"
   }
  ]
 }
