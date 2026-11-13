@@ -1,0 +1,39 @@
+{
+ "key": "여령기",
+ "runs": [
+  {
+   "key": "여령기",
+   "execution": "sam-lvlingqi-b299ac-20261113",
+   "status": "working",
+   "claimed_at": "2026-11-13T06:53:40.686Z",
+   "date_kst": "2026-11-14",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "여령기_samguk_kr_drawn_rim_dewy_f.webp",
+    "여령기_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "여령기_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "여령기_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "여령기_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "여령기_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "여령기_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "여령기_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "여령기_fantasy_kr_drawn_rim_dewy_f.webp",
+    "여령기_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "여령기_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "여령기_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "여령기_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "여령기_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "여령기_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "여령기_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "여령기_mecha_kr_drawn_rim_dewy_f.webp",
+    "여령기_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "여령기_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "여령기_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "여령기_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "여령기_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "여령기_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "여령기_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
