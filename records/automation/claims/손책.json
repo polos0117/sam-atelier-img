@@ -66,6 +66,18 @@
    ],
    "done_at": "2026-11-12T04:06:45.451Z",
    "done_by": "sam-sunce-20261112-04ba"
+  },
+  {
+   "key": "손책",
+   "execution": "sam-own-04c52f",
+   "status": "working",
+   "scope": "casual90-only",
+   "claimed_at": "2026-11-13T14:55:00Z",
+   "missing": [
+    "손책_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "손책_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "손책_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ]
   }
  ]
 }
