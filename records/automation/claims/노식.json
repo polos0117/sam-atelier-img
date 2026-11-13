@@ -1,0 +1,39 @@
+{
+ "key": "노식",
+ "runs": [
+  {
+   "key": "노식",
+   "execution": "sam-luzhi-40911d",
+   "status": "working",
+   "claimed_at": "2026-11-13T13:19:45.083Z",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "노식_samguk_kr_drawn_rim_dewy_f.webp",
+    "노식_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "노식_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "노식_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "노식_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "노식_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "노식_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "노식_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "노식_fantasy_kr_drawn_rim_dewy_f.webp",
+    "노식_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "노식_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "노식_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "노식_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "노식_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "노식_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "노식_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "노식_mecha_kr_drawn_rim_dewy_f.webp",
+    "노식_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "노식_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "노식_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "노식_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "노식_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "노식_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "노식_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
