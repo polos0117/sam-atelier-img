@@ -36,6 +36,20 @@
    ],
    "done_at": "2026-11-12T07:02:24.345Z",
    "done_by": "sam-jiaxu-909904160ac9"
+  },
+  {
+   "key": "가후",
+   "execution": "sam-required-six-dd2751-20261113",
+   "status": "working",
+   "scope": "own-casual90",
+   "claimed_at": "2026-11-13T05:49:48.383065+00:00",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "가후_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "가후_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "가후_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ]
   }
  ]
 }

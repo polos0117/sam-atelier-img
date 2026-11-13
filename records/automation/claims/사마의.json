@@ -36,6 +36,20 @@
    ],
    "done_at": "2026-11-12T16:27:52.914Z",
    "done_by": "sam-simayi-7580-20261113"
+  },
+  {
+   "key": "사마의",
+   "execution": "sam-required-six-dd2751-20261113",
+   "status": "working",
+   "scope": "own-casual90",
+   "claimed_at": "2026-11-13T05:49:48.393830+00:00",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "사마의_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "사마의_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "사마의_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ]
   }
  ]
 }

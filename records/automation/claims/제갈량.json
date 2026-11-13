@@ -129,6 +129,20 @@
    ],
    "done_at": "2026-11-12T07:56:09.266Z",
    "done_by": "sam-zhugeliang-e2d438-20261112"
+  },
+  {
+   "key": "제갈량",
+   "execution": "sam-required-six-dd2751-20261113",
+   "status": "working",
+   "scope": "own-casual90",
+   "claimed_at": "2026-11-13T05:49:48.422426+00:00",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "제갈량_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "제갈량_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "제갈량_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ]
   }
  ]
 }
