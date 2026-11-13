@@ -4,7 +4,7 @@
   {
    "key": "정봉",
    "execution": "sam-dingfeng-9a0c6cd1",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-13T12:52:35.893Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-13",
@@ -33,7 +33,18 @@
     "정봉_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "정봉_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "정봉_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-13T13:50:24.273Z",
+   "done_by": "sam-dingfeng-9a0c6cd1",
+   "selection": {
+    "samguk": 4,
+    "fantasy": 4,
+    "mecha": 4
+   },
+   "image_commit": "ad4d096800b88e7be5a022d536bead7535b3ba29",
+   "dex_commit": "ebd54a0342fe1d3bdd34a603fab97b84ee18f34e",
+   "completed_images": 27,
+   "result_sheet_library_file_id": "libfile_a6da31e8c3c481919a12dffbbf0f766b"
   }
  ]
 }
