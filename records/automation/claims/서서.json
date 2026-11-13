@@ -66,6 +66,20 @@
    ],
    "done_at": "2026-11-12T22:07:21.363Z",
    "done_by": "sam-xushu-3ae256-20261113"
+  },
+  {
+   "key": "서서",
+   "execution": "sam-xushu-own-ec668-20261113",
+   "status": "working",
+   "claimed_at": "2026-11-13T12:34:32.101823+00:00",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "서서_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "서서_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "서서_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "scope": "required own cut 90; legacy claim tool excludes own slots"
   }
  ]
 }
