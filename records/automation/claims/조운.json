@@ -72,6 +72,20 @@
     "mecha": 4
    },
    "reason": "Selected worlds 2/4/4 and 21 casual images published. Remote 51 image/record Git hashes verified; 24 atlas entries present, previous entries preserved. Three planner checks and current-style casual family and cross-world scene checks passed. 1024x1536 WebP verified. No returned image regenerated. Rejected requests and permitted exposure settings retained."
+  },
+  {
+   "key": "조운",
+   "execution": "sam-own-five-713ea4",
+   "status": "working",
+   "claimed_at": "2026-11-13T05:06:20.500343+00:00",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "조운_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "조운_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "조운_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "scope": "new required own cuts 90; legacy claim tool counts only 7"
   }
  ]
 }

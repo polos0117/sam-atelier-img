@@ -564,6 +564,20 @@
     ],
     "catalogue_complete": true
    }
+  },
+  {
+   "key": "장료",
+   "execution": "sam-own-five-713ea4",
+   "status": "working",
+   "claimed_at": "2026-11-13T05:06:20.500343+00:00",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "장료_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "장료_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "장료_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "scope": "new required own cuts 90; legacy claim tool counts only 7"
   }
  ]
 }

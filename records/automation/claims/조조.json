@@ -334,6 +334,20 @@
    "done_by": "sam-caocao-20261111-112daaf3",
    "image_commit": "db566234a3da4c6ceff46d6d6c5639a4b6309a98",
    "code_commit": "fadbad1216a66bc93dce47a390379e6b2d581342"
+  },
+  {
+   "key": "조조",
+   "execution": "sam-own-five-713ea4",
+   "status": "working",
+   "claimed_at": "2026-11-13T05:06:20.500343+00:00",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "조조_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "조조_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "조조_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "scope": "new required own cuts 90; legacy claim tool counts only 7"
   }
  ]
 }
