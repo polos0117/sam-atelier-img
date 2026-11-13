@@ -1,0 +1,39 @@
+{
+ "key": "고옹",
+ "runs": [
+  {
+   "key": "고옹",
+   "execution": "sam-guyong-4a55324",
+   "status": "working",
+   "claimed_at": "2026-11-13T14:46:41.208Z",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "고옹_samguk_kr_drawn_rim_dewy_f.webp",
+    "고옹_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "고옹_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "고옹_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "고옹_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "고옹_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "고옹_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "고옹_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "고옹_fantasy_kr_drawn_rim_dewy_f.webp",
+    "고옹_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "고옹_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "고옹_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "고옹_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "고옹_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "고옹_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "고옹_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "고옹_mecha_kr_drawn_rim_dewy_f.webp",
+    "고옹_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "고옹_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "고옹_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "고옹_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "고옹_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "고옹_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "고옹_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
