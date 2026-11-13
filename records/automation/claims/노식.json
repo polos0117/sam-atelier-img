@@ -4,7 +4,7 @@
   {
    "key": "노식",
    "execution": "sam-luzhi-40911d",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-13T13:19:45.083Z",
    "date_kst": "2026-11-13",
    "date_utc": "2026-11-13",
@@ -33,7 +33,9 @@
     "노식_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "노식_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "노식_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-13T13:49:02.812666+00:00",
+   "done_by": "sam-luzhi-40911d"
   }
  ]
 }
