@@ -568,7 +568,7 @@
   {
    "key": "장료",
    "execution": "sam-own-five-713ea4",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-13T05:06:20.500343+00:00",
    "date_kst": "2026-11-13",
    "date_utc": "2026-11-13",
@@ -577,7 +577,10 @@
     "장료_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
     "장료_mecha_kr_drawn_rim_dewy_f_casual90.webp"
    ],
-   "scope": "new required own cuts 90; legacy claim tool counts only 7"
+   "scope": "new required own cuts 90; legacy claim tool counts only 7",
+   "done_at": "2026-11-13T05:30:07.023481+00:00",
+   "done_by": "sam-own-five-713ea4",
+   "verification": "All 3 casual90 images registered in data/img.json; size and prompt hashes verified."
   }
  ]
 }
