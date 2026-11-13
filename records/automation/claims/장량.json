@@ -36,6 +36,20 @@
    ],
    "done_at": "2026-11-12T12:11:27.824Z",
    "done_by": "sam-zhangliang-20261112"
+  },
+  {
+   "key": "장량",
+   "execution": "sam-own-five-c06664",
+   "status": "working",
+   "claimed_at": "2026-11-13T05:54:54.117029+00:00",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "장량_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "장량_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "장량_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "scope": "new required own cuts 90; legacy claim tool counts only 7"
   }
  ]
 }

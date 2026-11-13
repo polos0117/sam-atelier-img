@@ -55,6 +55,20 @@
    "image_count": 24,
    "final_sheet": "libfile_50633967ec2081918ca94a06b3e2ded0",
    "validation": "remote 51 blobs match; 24 thumbnails; 24 dex entries; three world plans and current-style casual requirements pass"
+  },
+  {
+   "key": "여포",
+   "execution": "sam-own-five-c06664",
+   "status": "working",
+   "claimed_at": "2026-11-13T05:54:54.117029+00:00",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "여포_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "여포_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "여포_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "scope": "new required own cuts 90; legacy claim tool counts only 7"
   }
  ]
 }
