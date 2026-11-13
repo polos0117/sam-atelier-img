@@ -4,7 +4,7 @@
   {
    "key": "마대",
    "execution": "sam-madai-8e0692",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-13T12:34:21.538Z",
    "date_kst": "2026-11-13",
    "date_utc": "2026-11-13",
@@ -33,7 +33,17 @@
     "마대_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "마대_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "마대_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-13T13:22:06.936Z",
+   "done_by": "sam-madai-8e0692",
+   "world_selection": {
+    "samguk": 1,
+    "fantasy": 1,
+    "mecha": 2
+   },
+   "completed_images": 27,
+   "image_commit": "ab8e9e613ecfd960fba5492f4118bf09d633dd6f",
+   "catalog_commit": "13ba52b153e5039bd0176204199b56235460462b"
   }
  ]
 }
