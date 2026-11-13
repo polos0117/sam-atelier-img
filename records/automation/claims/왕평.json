@@ -40,7 +40,7 @@
   {
    "key": "왕평",
    "execution": "sam-required-six-dd2751-20261113",
-   "status": "working",
+   "status": "complete",
    "scope": "own-casual90",
    "claimed_at": "2026-11-13T05:49:48.412585+00:00",
    "date_kst": "2026-11-13",
@@ -49,7 +49,15 @@
     "왕평_samguk_kr_drawn_rim_dewy_f_casual90.webp",
     "왕평_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
     "왕평_mecha_kr_drawn_rim_dewy_f_casual90.webp"
-   ]
+   ],
+   "done_at": "2026-11-13T06:04:15.631724+00:00",
+   "done_by": "sam-required-six-dd2751-20261113",
+   "registered": [
+    "samguk",
+    "fantasy",
+    "mecha"
+   ],
+   "registration_commit": "fb9b71cadf4d43a59893c82bce80f62492096f1e"
   }
  ]
 }
