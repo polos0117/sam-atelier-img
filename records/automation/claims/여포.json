@@ -59,7 +59,7 @@
   {
    "key": "여포",
    "execution": "sam-own-five-c06664",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-13T05:54:54.117029+00:00",
    "date_kst": "2026-11-13",
    "date_utc": "2026-11-13",
@@ -68,7 +68,12 @@
     "여포_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
     "여포_mecha_kr_drawn_rim_dewy_f_casual90.webp"
    ],
-   "scope": "new required own cuts 90; legacy claim tool counts only 7"
+   "scope": "new required own cuts 90; legacy claim tool counts only 7",
+   "done_at": "2026-11-13T06:19:10.154Z",
+   "done_by": "sam-own-five-c06664",
+   "image_commit": "d6bab5f8a517684b5978d75f1731bce9e009c00a",
+   "registration_commit": "bc48b94",
+   "verification": "3 casual90 images registered in data/img.json; 1024x1536 dimensions, ref and prompt hashes checked; no exposure censorship regeneration."
   }
  ]
 }

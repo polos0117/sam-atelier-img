@@ -122,7 +122,7 @@
   {
    "key": "초선",
    "execution": "sam-own-five-c06664",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-13T05:54:54.117029+00:00",
    "date_kst": "2026-11-13",
    "date_utc": "2026-11-13",
@@ -131,7 +131,12 @@
     "초선_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
     "초선_mecha_kr_drawn_rim_dewy_f_casual90.webp"
    ],
-   "scope": "new required own cuts 90; legacy claim tool counts only 7"
+   "scope": "new required own cuts 90; legacy claim tool counts only 7",
+   "done_at": "2026-11-13T06:19:09.981Z",
+   "done_by": "sam-own-five-c06664",
+   "image_commit": "d1a1f66483175a13b7ad190065ee703391f5ffaa",
+   "registration_commit": "bc48b94",
+   "verification": "3 casual90 images registered in data/img.json; 1024x1536 dimensions, ref and prompt hashes checked; no exposure censorship regeneration."
   }
  ]
 }
