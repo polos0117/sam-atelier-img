@@ -4,7 +4,7 @@
   {
    "key": "대교",
    "execution": "sam-daqiao-421b98",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-13T01:06:24.577Z",
    "date_kst": "2026-11-13",
    "date_utc": "2026-11-13",
@@ -33,7 +33,16 @@
     "대교_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "대교_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "대교_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-13T02:35:50.265Z",
+   "done_by": "sam-daqiao-421b98",
+   "selection": {
+    "samguk": 2,
+    "fantasy": 4,
+    "mecha": 3
+   },
+   "image_commit": "7f1f44cc617306abe7e1d2a474d1f2c66641edbe",
+   "catalog_blob": "f4944c222cf548b38079950f15ae59e04efac6c6"
   }
  ]
 }
