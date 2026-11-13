@@ -1,0 +1,39 @@
+{
+ "key": "진군",
+ "runs": [
+  {
+   "key": "진군",
+   "execution": "sam-chenqun-ebb8bdb",
+   "status": "working",
+   "claimed_at": "2026-11-13T13:55:26.082Z",
+   "date_kst": "2026-11-13",
+   "date_utc": "2026-11-13",
+   "missing": [
+    "진군_samguk_kr_drawn_rim_dewy_f.webp",
+    "진군_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "진군_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "진군_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "진군_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "진군_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "진군_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "진군_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "진군_fantasy_kr_drawn_rim_dewy_f.webp",
+    "진군_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "진군_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "진군_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "진군_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "진군_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "진군_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "진군_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "진군_mecha_kr_drawn_rim_dewy_f.webp",
+    "진군_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "진군_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "진군_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "진군_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "진군_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "진군_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "진군_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
