@@ -4,7 +4,7 @@
   {
    "key": "제갈근",
    "execution": "sam-zhugejin-ba114",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T05:22:43.852Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,9 @@
     "제갈근_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "제갈근_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "제갈근_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T05:56:44.899Z",
+   "done_by": "sam-zhugejin-ba114"
   }
  ]
 }
