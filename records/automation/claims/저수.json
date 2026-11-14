@@ -1,0 +1,18 @@
+{
+ "key": "저수",
+ "runs": [
+  {
+   "key": "저수",
+   "execution": "sam-jushou-4415-20261114",
+   "status": "working",
+   "claimed_at": "2026-11-14T11:19:11.818Z",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-14",
+   "missing": [
+    "samguk",
+    "fantasy",
+    "mecha"
+   ]
+  }
+ ]
+}
