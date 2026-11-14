@@ -4,7 +4,7 @@
   {
    "key": "저수",
    "execution": "sam-jushou-4415-20261114",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T11:19:11.818Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -17,7 +17,7 @@
     "저수_samguk_kr_drawn_rim_dewy_f_casual5.webp",
     "저수_samguk_kr_drawn_rim_dewy_f_casual6.webp",
     "저수_samguk_kr_drawn_rim_dewy_f_casual7.webp",
-    "저수_samguk_kr_drawn_rim_dewy_f_casual8.webp",
+    "저수_samguk_kr_drawn_rim_dewy_f_casual90.webp",
     "저수_fantasy_kr_drawn_rim_dewy_f.webp",
     "저수_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
     "저수_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
@@ -26,7 +26,7 @@
     "저수_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
     "저수_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
     "저수_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
-    "저수_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+    "저수_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
     "저수_mecha_kr_drawn_rim_dewy_f.webp",
     "저수_mecha_kr_drawn_rim_dewy_f_casual1.webp",
     "저수_mecha_kr_drawn_rim_dewy_f_casual2.webp",
@@ -35,11 +35,22 @@
     "저수_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "저수_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "저수_mecha_kr_drawn_rim_dewy_f_casual7.webp",
-    "저수_mecha_kr_drawn_rim_dewy_f_casual8.webp"
+    "저수_mecha_kr_drawn_rim_dewy_f_casual90.webp"
    ],
-   "stage": "awaiting_world_selection",
+   "stage": "complete",
    "candidate_count": 12,
-   "selection_sheet_library_file_id": "libfile_9199f42243408191b3fcb0cc8d6dcbe3"
+   "selection_sheet_library_file_id": "libfile_9199f42243408191b3fcb0cc8d6dcbe3",
+   "done_at": "2026-11-14T12:08:27.303Z",
+   "done_by": "sam-jushou-4415-20261114",
+   "selection": {
+    "samguk": 1,
+    "fantasy": 1,
+    "mecha": 1
+   },
+   "image_count": 27,
+   "images_commit": "8d7c5c3922ac99666a1c41b092b5e7501fc45666",
+   "catalog_commit": "30787688804330173a22d884ed56c0d2173b0e07",
+   "complete_sheet_library_file_id": "libfile_e274a7429ed08191b54b7c20124e9df8"
   }
  ]
 }
