@@ -1,0 +1,39 @@
+{
+ "key": "오의",
+ "runs": [
+  {
+   "key": "오의",
+   "execution": "sam-wuyi-18af",
+   "status": "working",
+   "claimed_at": "2026-11-14T12:26:13.844Z",
+   "date_kst": "2026-11-14",
+   "date_utc": "2026-11-14",
+   "missing": [
+    "오의_samguk_kr_drawn_rim_dewy_f.webp",
+    "오의_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "오의_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "오의_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "오의_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "오의_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "오의_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "오의_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "오의_fantasy_kr_drawn_rim_dewy_f.webp",
+    "오의_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "오의_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "오의_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "오의_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "오의_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "오의_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "오의_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "오의_mecha_kr_drawn_rim_dewy_f.webp",
+    "오의_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "오의_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "오의_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "오의_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "오의_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "오의_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "오의_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
