@@ -4,7 +4,7 @@
   {
    "key": "이적",
    "execution": "sam-yiji-20261114T1950Z",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T10:51:41.903Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,9 @@
     "이적_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "이적_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "이적_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T11:16:36.043Z",
+   "done_by": "sam-yiji-20261114T1950Z"
   }
  ]
 }
