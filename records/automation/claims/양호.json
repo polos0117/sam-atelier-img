@@ -1,0 +1,18 @@
+{
+ "key": "양호",
+ "runs": [
+  {
+   "key": "양호",
+   "execution": "sam-yanghu-3c73",
+   "status": "working",
+   "claimed_at": "2026-11-14T08:49:03.908Z",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-14",
+   "missing": [
+    "samguk",
+    "fantasy",
+    "mecha"
+   ]
+  }
+ ]
+}
