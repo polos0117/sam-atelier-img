@@ -4,7 +4,7 @@
   {
    "key": "마등",
    "execution": "sam-mateng-1f17e689",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T07:34:27.320Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,9 @@
     "마등_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "마등_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "마등_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T09:08:53.849Z",
+   "done_by": "sam-mateng-1f17e689"
   }
  ]
 }
