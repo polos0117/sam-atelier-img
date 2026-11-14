@@ -4,7 +4,7 @@
   {
    "key": "간옹",
    "execution": "sam-jianyong-66ed",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T05:15:02.262Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,9 @@
     "간옹_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "간옹_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "간옹_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T06:02:20.438Z",
+   "done_by": "sam-jianyong-66ed"
   }
  ]
 }
