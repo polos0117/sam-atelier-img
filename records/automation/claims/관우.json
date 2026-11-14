@@ -4,15 +4,25 @@
   {
    "key": "관우",
    "execution": "sam-guanyu-e693",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T06:54:00.680Z",
-   "date_kst": "2026-11-15",
+   "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
    "missing": [
     "관우_samguk_kr_drawn_rim_dewy_f.webp",
     "관우_fantasy_kr_drawn_rim_dewy_f.webp",
     "관우_mecha_kr_drawn_rim_dewy_f.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T07:39:24.934603+00:00",
+   "done_by": "sam-guanyu-e693",
+   "selection": {
+    "samguk": 1,
+    "fantasy": 4,
+    "mecha": 2
+   },
+   "published_images": 27,
+   "image_commit": "ee3f6d27f35d55be86459daf4305968d967e3409",
+   "catalog_commit": "455c3abcab1b1b488fb69d23d71ba1b4e757d79d"
   }
  ]
 }
