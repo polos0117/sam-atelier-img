@@ -1,0 +1,18 @@
+{
+ "key": "관우",
+ "runs": [
+  {
+   "key": "관우",
+   "execution": "sam-guanyu-e693",
+   "status": "working",
+   "claimed_at": "2026-11-14T06:54:00.680Z",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-14",
+   "missing": [
+    "관우_samguk_kr_drawn_rim_dewy_f.webp",
+    "관우_fantasy_kr_drawn_rim_dewy_f.webp",
+    "관우_mecha_kr_drawn_rim_dewy_f.webp"
+   ]
+  }
+ ]
+}
