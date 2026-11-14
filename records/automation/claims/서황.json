@@ -4,7 +4,7 @@
   {
    "key": "서황",
    "execution": "sam-xuhuang-20261114",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-13T23:26:15.495Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-13",
@@ -33,7 +33,9 @@
     "서황_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "서황_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "서황_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T00:22:47.282Z",
+   "done_by": "sam-xuhuang-20261114"
   }
  ]
 }
