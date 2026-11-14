@@ -1,0 +1,39 @@
+{
+ "key": "전풍",
+ "runs": [
+  {
+   "key": "전풍",
+   "execution": "sam-tianfeng-20261114-2b4c",
+   "status": "working",
+   "claimed_at": "2026-11-14T05:39:18.058Z",
+   "date_kst": "2026-11-14",
+   "date_utc": "2026-11-14",
+   "missing": [
+    "전풍_samguk_kr_drawn_rim_dewy_f.webp",
+    "전풍_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "전풍_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "전풍_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "전풍_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "전풍_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "전풍_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "전풍_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "전풍_fantasy_kr_drawn_rim_dewy_f.webp",
+    "전풍_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "전풍_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "전풍_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "전풍_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "전풍_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "전풍_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "전풍_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "전풍_mecha_kr_drawn_rim_dewy_f.webp",
+    "전풍_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "전풍_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "전풍_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "전풍_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "전풍_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "전풍_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "전풍_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
