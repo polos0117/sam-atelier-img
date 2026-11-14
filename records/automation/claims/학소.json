@@ -1,13 +1,27 @@
 {
-  "card": "학소",
-  "runs": [
-    {
-      "execution": "sam-haozhao-ba00",
-      "status": "working",
-      "date_kst": "2026-11-15",
-      "date_utc": "2026-11-15",
-      "started": "2026-11-14T16:10:48.072Z",
-      "note": "World selection: 12 candidates, awaiting user selection after sheet."
-    }
-  ]
+ "card": "학소",
+ "runs": [
+  {
+   "execution": "sam-haozhao-ba00",
+   "status": "complete",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-14",
+   "started": "2026-11-14T16:10:48.072Z",
+   "note": "Completed 3 selected world images, 21 casual scenes and 3 own scenes; all 27 registered on main, QA deviations retained in records.",
+   "key": "학소",
+   "claimed_at": "2026-11-14T16:10:48.072Z",
+   "done_at": "2026-11-14T16:49:20.319Z",
+   "done_by": "sam-haozhao-ba00",
+   "missing": [],
+   "selection": {
+    "samguk": 2,
+    "fantasy": 2,
+    "mecha": 2
+   },
+   "image_count": 27,
+   "image_commit": "073e587e7c7a8b70cf4a41847f02c8819d48d9a1",
+   "catalog_commit": "004a07899d3b1af660ce6329a23aa518d9b5ef1f"
+  }
+ ],
+ "key": "학소"
 }
