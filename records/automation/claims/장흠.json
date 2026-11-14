@@ -4,7 +4,7 @@
   {
    "key": "장흠",
    "execution": "sam-jiangqin-20261114-5b48",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T03:31:39.393Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,9 @@
     "장흠_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "장흠_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "장흠_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T04:00:17.242Z",
+   "done_by": "sam-jiangqin-20261114-5b48"
   }
  ]
 }
