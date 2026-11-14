@@ -4,7 +4,7 @@
   {
    "key": "곽회",
    "execution": "sam-guohuai-8ce0",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T12:02:35.828Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,9 @@
     "곽회_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "곽회_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "곽회_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T12:40:56.070Z",
+   "done_by": "sam-guohuai-8ce0"
   }
  ]
 }
