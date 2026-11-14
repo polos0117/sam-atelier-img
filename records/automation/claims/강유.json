@@ -30,6 +30,43 @@
    ],
    "done_at": "2026-11-03T00:25:57.371Z",
    "done_by": "sam-jiangwei-72ff"
+  },
+  {
+   "key": "강유",
+   "execution": "sam-jiangwei-26318",
+   "status": "working",
+   "claimed_at": "2026-11-14T16:27:34.544Z",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-15",
+   "missing": [
+    "강유_samguk_kr_drawn_rim_dewy_f.webp",
+    "강유_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "강유_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "강유_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "강유_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "강유_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "강유_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "강유_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "강유_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "강유_fantasy_kr_drawn_rim_dewy_f.webp",
+    "강유_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "강유_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "강유_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "강유_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "강유_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "강유_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "강유_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "강유_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "강유_mecha_kr_drawn_rim_dewy_f.webp",
+    "강유_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "강유_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "강유_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "강유_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "강유_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "강유_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "강유_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+    "강유_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ]
   }
  ]
 }
