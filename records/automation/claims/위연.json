@@ -4,7 +4,7 @@
   {
    "key": "위연",
    "execution": "sam-weiyan-20261114-b651",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T00:33:09.097Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,17 @@
     "위연_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "위연_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "위연_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T04:02:25.790Z",
+   "done_by": "sam-weiyan-20261114-b651",
+   "selected_worlds": {
+    "samguk": 2,
+    "fantasy": 1,
+    "mecha": 3
+   },
+   "completed_files": 27,
+   "image_commit": "44c0fb8c9bb877d7f59ab430b7ee9d25fdb39977",
+   "catalog_commit": "9bf474b"
   }
  ]
 }
