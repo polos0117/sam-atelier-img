@@ -4,7 +4,7 @@
   {
    "key": "전풍",
    "execution": "sam-tianfeng-20261114-2b4c",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T05:39:18.058Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,9 @@
     "전풍_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "전풍_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "전풍_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T06:31:34.571Z",
+   "done_by": "sam-tianfeng-20261114-2b4c"
   }
  ]
 }
