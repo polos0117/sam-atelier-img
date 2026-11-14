@@ -1,0 +1,13 @@
+{
+  "card": "학소",
+  "runs": [
+    {
+      "execution": "sam-haozhao-ba00",
+      "status": "working",
+      "date_kst": "2026-11-15",
+      "date_utc": "2026-11-15",
+      "started": "2026-11-14T16:10:48.072Z",
+      "note": "World selection: 12 candidates, awaiting user selection after sheet."
+    }
+  ]
+}
