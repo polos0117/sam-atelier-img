@@ -1,0 +1,42 @@
+{
+ "key": "종요",
+ "runs": [
+  {
+   "key": "종요",
+   "execution": "sam-zhongyao-b538",
+   "status": "working",
+   "claimed_at": "2026-11-14T04:41:52.379Z",
+   "date_kst": "2026-11-14",
+   "date_utc": "2026-11-14",
+   "missing": [
+    "종요_samguk_kr_drawn_rim_dewy_f.webp",
+    "종요_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "종요_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "종요_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "종요_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "종요_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "종요_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "종요_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "종요_samguk_kr_drawn_rim_dewy_f_casual8.webp",
+    "종요_fantasy_kr_drawn_rim_dewy_f.webp",
+    "종요_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "종요_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "종요_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "종요_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "종요_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "종요_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "종요_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "종요_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+    "종요_mecha_kr_drawn_rim_dewy_f.webp",
+    "종요_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "종요_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "종요_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "종요_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "종요_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "종요_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "종요_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+    "종요_mecha_kr_drawn_rim_dewy_f_casual8.webp"
+   ]
+  }
+ ]
+}
