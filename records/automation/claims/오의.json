@@ -4,7 +4,7 @@
   {
    "key": "오의",
    "execution": "sam-wuyi-18af",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T12:26:13.844Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,9 @@
     "오의_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "오의_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "오의_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T13:19:32.916Z",
+   "done_by": "sam-wuyi-18af"
   }
  ]
 }
