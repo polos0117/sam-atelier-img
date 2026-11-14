@@ -4,7 +4,7 @@
   {
    "key": "육항",
    "execution": "sam-lukang-63f3f537",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T16:39:42.092Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-14",
@@ -33,7 +33,13 @@
     "육항_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "육항_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "육항_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T17:33:11.637Z",
+   "done_by": "sam-lukang-63f3f537",
+   "selection": "1,1,1",
+   "completed_images": 27,
+   "image_commit": "96e93fec33e264072fb1d4c3f9c99dd8a1cc7ef8",
+   "index_commit": "8590e601247d71e2e19ce4a5248d430dbe426a69"
   }
  ]
 }
