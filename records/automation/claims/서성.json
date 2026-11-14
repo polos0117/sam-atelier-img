@@ -1,0 +1,39 @@
+{
+ "key": "서성",
+ "runs": [
+  {
+   "key": "서성",
+   "execution": "sam-xusheng-15b650",
+   "status": "working",
+   "claimed_at": "2026-11-14T13:06:06.084Z",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-14",
+   "missing": [
+    "서성_samguk_kr_drawn_rim_dewy_f.webp",
+    "서성_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "서성_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "서성_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "서성_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "서성_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "서성_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "서성_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "서성_fantasy_kr_drawn_rim_dewy_f.webp",
+    "서성_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "서성_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "서성_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "서성_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "서성_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "서성_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "서성_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "서성_mecha_kr_drawn_rim_dewy_f.webp",
+    "서성_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "서성_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "서성_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "서성_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "서성_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "서성_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "서성_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
