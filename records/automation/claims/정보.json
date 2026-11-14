@@ -1,0 +1,39 @@
+{
+ "key": "정보",
+ "runs": [
+  {
+   "key": "정보",
+   "execution": "sam-chengpu-7a50",
+   "status": "working",
+   "claimed_at": "2026-11-14T07:16:09.821Z",
+   "date_kst": "2026-11-14",
+   "date_utc": "2026-11-14",
+   "missing": [
+    "정보_samguk_kr_drawn_rim_dewy_f.webp",
+    "정보_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "정보_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "정보_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "정보_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "정보_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "정보_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "정보_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "정보_fantasy_kr_drawn_rim_dewy_f.webp",
+    "정보_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "정보_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "정보_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "정보_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "정보_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "정보_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "정보_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "정보_mecha_kr_drawn_rim_dewy_f.webp",
+    "정보_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "정보_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "정보_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "정보_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "정보_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "정보_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "정보_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
