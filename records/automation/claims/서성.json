@@ -4,7 +4,7 @@
   {
    "key": "서성",
    "execution": "sam-xusheng-15b650",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T13:06:06.084Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-14",
@@ -33,7 +33,9 @@
     "서성_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "서성_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "서성_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T13:57:11.245Z",
+   "done_by": "sam-xusheng-15b650"
   }
  ]
 }
