@@ -4,7 +4,7 @@
   {
    "key": "정보",
    "execution": "sam-chengpu-7a50",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T07:16:09.821Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,11 @@
     "정보_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "정보_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "정보_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T08:08:33.750884+00:00",
+   "done_by": "sam-chengpu-7a50",
+   "image_commit": "99db79d1680119c400881b786b0ef5e78e83976b",
+   "dex_commit": "f1338e7cb12de34c95365c216f6eaf689b1ba742"
   }
  ]
 }
