@@ -4,7 +4,7 @@
   {
    "key": "유장",
    "execution": "sam-liuzhang-935a5f-20261114",
-   "status": "done",
+   "status": "complete",
    "claimed_at": "2026-11-14T14:09:11.106Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -34,8 +34,8 @@
     "유장_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "유장_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
-   "finished_at": "2026-11-14T14:42:18.510Z",
-   "finished_by": "sam-liuzhang-935a5f-20261114",
+   "done_at": "2026-11-14T14:42:34.129Z",
+   "done_by": "sam-liuzhang-935a5f-20261114",
    "selection": "2,3,2",
    "image_commit": "a54c40ee8798b5c86ef396c7b1fccd5e482e7525",
    "registration_commit": "58024f2bc488bb7e7bc1abd327ea28f54d347c22",
