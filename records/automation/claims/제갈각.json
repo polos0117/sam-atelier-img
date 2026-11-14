@@ -4,7 +4,7 @@
   {
    "key": "제갈각",
    "execution": "sam-zhugeke-42b7",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T11:02:37.501Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,9 @@
     "제갈각_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "제갈각_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "제갈각_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T11:49:11.467Z",
+   "done_by": "sam-zhugeke-42b7"
   }
  ]
 }
