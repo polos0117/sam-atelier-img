@@ -4,15 +4,48 @@
   {
    "key": "양호",
    "execution": "sam-yanghu-3c73",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T08:49:03.908Z",
-   "date_kst": "2026-11-15",
+   "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
    "missing": [
-    "samguk",
-    "fantasy",
-    "mecha"
-   ]
+    "양호_samguk_kr_drawn_rim_dewy_f.webp",
+    "양호_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "양호_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "양호_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "양호_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "양호_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "양호_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "양호_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "양호_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "양호_fantasy_kr_drawn_rim_dewy_f.webp",
+    "양호_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "양호_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "양호_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "양호_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "양호_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "양호_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "양호_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "양호_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "양호_mecha_kr_drawn_rim_dewy_f.webp",
+    "양호_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "양호_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "양호_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "양호_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "양호_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "양호_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "양호_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+    "양호_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "done_at": "2026-11-14T09:47:29.759Z",
+   "done_by": "sam-yanghu-3c73",
+   "image_commit": "0d87925c82039979f5648a626300cc678035f32a",
+   "catalogue_commit": "d0dab11",
+   "selection": {
+    "samguk": 4,
+    "fantasy": 2,
+    "mecha": 3
+   }
   }
  ]
 }
