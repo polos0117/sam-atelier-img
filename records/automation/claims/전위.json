@@ -4,7 +4,7 @@
   {
    "key": "전위",
    "execution": "sam-dianwei-ee942",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-14T06:04:57.171Z",
    "date_kst": "2026-11-14",
    "date_utc": "2026-11-14",
@@ -33,7 +33,17 @@
     "전위_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "전위_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "전위_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-14T07:06:25.556Z",
+   "done_by": "sam-dianwei-ee942",
+   "selected": {
+    "samguk": 3,
+    "fantasy": 1,
+    "mecha": 2
+   },
+   "completed_images": 27,
+   "image_commit": "4973c468f90d0d1084bc5579e82cb9d8d140cb8f",
+   "registration_commit": "4604193c89da9ab9d1151562a5c21c80e49dfcd8"
   }
  ]
 }
