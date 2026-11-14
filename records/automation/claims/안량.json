@@ -1,1 +1,49 @@
-{"key":"안량","runs":[{"key":"안량","execution":"sam-yanliang-e7da-20261114","status":"working","claimed_at":"2026-11-14T04:23:43.293Z","date_kst":"2026-11-14","date_utc":"2026-11-14","missing":["안량_samguk_kr_drawn_rim_dewy_f.webp","안량_samguk_kr_drawn_rim_dewy_f_casual1.webp","안량_samguk_kr_drawn_rim_dewy_f_casual2.webp","안량_samguk_kr_drawn_rim_dewy_f_casual3.webp","안량_samguk_kr_drawn_rim_dewy_f_casual4.webp","안량_samguk_kr_drawn_rim_dewy_f_casual5.webp","안량_samguk_kr_drawn_rim_dewy_f_casual6.webp","안량_samguk_kr_drawn_rim_dewy_f_casual7.webp","안량_fantasy_kr_drawn_rim_dewy_f.webp","안량_fantasy_kr_drawn_rim_dewy_f_casual1.webp","안량_fantasy_kr_drawn_rim_dewy_f_casual2.webp","안량_fantasy_kr_drawn_rim_dewy_f_casual3.webp","안량_fantasy_kr_drawn_rim_dewy_f_casual4.webp","안량_fantasy_kr_drawn_rim_dewy_f_casual5.webp","안량_fantasy_kr_drawn_rim_dewy_f_casual6.webp","안량_fantasy_kr_drawn_rim_dewy_f_casual7.webp","안량_mecha_kr_drawn_rim_dewy_f.webp","안량_mecha_kr_drawn_rim_dewy_f_casual1.webp","안량_mecha_kr_drawn_rim_dewy_f_casual2.webp","안량_mecha_kr_drawn_rim_dewy_f_casual3.webp","안량_mecha_kr_drawn_rim_dewy_f_casual4.webp","안량_mecha_kr_drawn_rim_dewy_f_casual5.webp","안량_mecha_kr_drawn_rim_dewy_f_casual6.webp","안량_mecha_kr_drawn_rim_dewy_f_casual7.webp"]}]}
+{
+ "key": "안량",
+ "runs": [
+  {
+   "key": "안량",
+   "execution": "sam-yanliang-e7da-20261114",
+   "status": "complete",
+   "claimed_at": "2026-11-14T04:23:43.293Z",
+   "date_kst": "2026-11-14",
+   "date_utc": "2026-11-14",
+   "missing": [
+    "안량_samguk_kr_drawn_rim_dewy_f.webp",
+    "안량_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "안량_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "안량_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "안량_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "안량_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "안량_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "안량_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "안량_fantasy_kr_drawn_rim_dewy_f.webp",
+    "안량_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "안량_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "안량_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "안량_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "안량_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "안량_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "안량_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "안량_mecha_kr_drawn_rim_dewy_f.webp",
+    "안량_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "안량_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "안량_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "안량_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "안량_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "안량_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "안량_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ],
+   "done_at": "2026-11-14T05:04:32.822Z",
+   "done_by": "sam-yanliang-e7da-20261114",
+   "selection": {
+    "samguk": 1,
+    "fantasy": 2,
+    "mecha": 2
+   },
+   "image_commit": "1b07edcbe418d4455a5a0cfa553916cd0693c6b9",
+   "dex_commit": "968d228b8f212c72e7204220da887aaa3fd91709",
+   "completed_images": 27
+  }
+ ]
+}
