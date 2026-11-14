@@ -1,0 +1,39 @@
+{
+ "key": "육항",
+ "runs": [
+  {
+   "key": "육항",
+   "execution": "sam-lukang-63f3f537",
+   "status": "working",
+   "claimed_at": "2026-11-14T16:39:42.092Z",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-14",
+   "missing": [
+    "육항_samguk_kr_drawn_rim_dewy_f.webp",
+    "육항_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "육항_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "육항_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "육항_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "육항_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "육항_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "육항_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "육항_fantasy_kr_drawn_rim_dewy_f.webp",
+    "육항_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "육항_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "육항_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "육항_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "육항_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "육항_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "육항_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "육항_mecha_kr_drawn_rim_dewy_f.webp",
+    "육항_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "육항_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "육항_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "육항_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "육항_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "육항_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "육항_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
