@@ -1,0 +1,40 @@
+{
+ "key": "정욱",
+ "runs": [
+  {
+   "key": "정욱",
+   "execution": "sam-chengyu-c4b6-20261115",
+   "status": "working",
+   "claimed_at": "2026-11-15T10:05:12.825Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-15",
+   "phase": "world-selection",
+   "missing": [
+    "정욱_samguk_kr_drawn_rim_dewy_f.webp",
+    "정욱_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "정욱_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "정욱_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "정욱_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "정욱_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "정욱_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "정욱_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "정욱_fantasy_kr_drawn_rim_dewy_f.webp",
+    "정욱_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "정욱_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "정욱_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "정욱_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "정욱_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "정욱_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "정욱_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "정욱_mecha_kr_drawn_rim_dewy_f.webp",
+    "정욱_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "정욱_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "정욱_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "정욱_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "정욱_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "정욱_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "정욱_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
