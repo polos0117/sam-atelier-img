@@ -34,7 +34,7 @@
   {
    "key": "주유",
    "execution": "sam-zhouyu-b4a62dc8",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T11:06:46.350Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -63,7 +63,17 @@
     "주유_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "주유_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "주유_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-15T12:53:33.374Z",
+   "done_by": "sam-zhouyu-b4a62dc8",
+   "selection": {
+    "samguk": 1,
+    "fantasy": 2,
+    "mecha": 1
+   },
+   "image_commit": "3a0c4544a01831b42e33d31b317c3a4a6a9bee28",
+   "dex_commit": "5f2ca29174aa674c893254febed1457d949c66d8",
+   "completed_files": 27
   }
  ]
 }
