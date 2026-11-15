@@ -63,6 +63,16 @@
     "approval": "업로드해줘",
     "note": "Requested api25 verified: world1 + casual6 per world. Claim tool computes current default mmorpg_cg missing; completion scoped to api25 without changing defaults."
    }
+  },
+  {
+   "key": "방통",
+   "execution": "sam-pangtong-119e72-20261115",
+   "status": "working",
+   "claimed_at": "2026-11-15T10:19:05.732Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-15",
+   "style": "kr_drawn_rim_dewy",
+   "phase": "world_selection"
   }
  ]
 }
