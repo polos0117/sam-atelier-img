@@ -4,11 +4,21 @@
   {
    "key": "가충",
    "execution": "sam-jiachong-5e53",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T00:38:42.394Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
-   "phase": "world-selection"
+   "phase": "complete",
+   "done_at": "2026-11-15T01:18:44.515Z",
+   "done_by": "sam-jiachong-5e53",
+   "selection": {
+    "samguk": 1,
+    "fantasy": 2,
+    "mecha": 4
+   },
+   "images": 27,
+   "image_commit": "59d016c00068ac0179cdf038a24f96616db7f79e",
+   "catalog_commit": "41f6aa91ccc9d1b7a88848ce37575b321527fe26"
   }
  ]
 }
