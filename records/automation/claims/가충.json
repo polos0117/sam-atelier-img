@@ -1,0 +1,14 @@
+{
+ "key": "가충",
+ "runs": [
+  {
+   "key": "가충",
+   "execution": "sam-jiachong-5e53",
+   "status": "working",
+   "claimed_at": "2026-11-15T00:38:42.394Z",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-15",
+   "phase": "world-selection"
+  }
+ ]
+}
