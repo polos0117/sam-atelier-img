@@ -1,0 +1,12 @@
+{
+ "key": "화웅",
+ "runs": [
+  {
+   "key": "화웅",
+   "execution": "sam-huaxiong-a0e662",
+   "status": "working",
+   "claimed_at": "2026-11-15T14:48:07.202Z",
+   "reason": "World selection preparation via connected GitHub; CLI push credentials unavailable"
+  }
+ ]
+}
