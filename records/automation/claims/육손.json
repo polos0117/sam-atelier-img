@@ -92,12 +92,12 @@
   {
    "key": "육손",
    "execution": "sam-luxun-20261116-52407bdc",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T22:34:21.639Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
    "style": "kr_drawn_rim_dewy",
-   "phase": "casual-generation",
+   "phase": "complete",
    "missing": [
     "육손_samguk_kr_drawn_rim_dewy_f.webp",
     "육손_samguk_kr_drawn_rim_dewy_f_casual1.webp",
@@ -128,12 +128,65 @@
    "selection_sheet": "libfile_2f688bfa261c8191908f68e30af762f1",
    "workspace": "/workspace/scratch/52407bdc9cc0",
    "prompt_pack": "/workspace/scratch/52407bdc9cc0/luxun-pack",
-   "note": "All twelve world candidates generated once with image_gen. Waiting for user choice in samguk,fantasy,mecha order; no world images registered before selection.",
+   "note": "Every generated image used once; no exposure-based regeneration. Main updated without force via connected GitHub Git/Contents APIs because command-line Git push credentials were unavailable.",
    "selection": {
     "samguk": 3,
     "fantasy": 2,
     "mecha": 4
-   }
+   },
+   "done_at": "2026-11-15T23:18:10.195Z",
+   "done_by": "sam-luxun-20261116-52407bdc",
+   "completed_files": [
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual90.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "image_commit": "62bf9bc509aa1b7ad1144eb6ec93de1465653b24",
+   "registry_commit": "6ac40bd12a8190510812e0e54f29935bbd8187b0",
+   "completion_sheet": "libfile_2fc7f848fac88191b736baf06126a479",
+   "world_selection": {
+    "samguk": 3,
+    "fantasy": 2,
+    "mecha": 4
+   },
+   "counts": {
+    "world": 3,
+    "casual": 21,
+    "own": 3,
+    "total": 27
+   },
+   "checks": [
+    "1024x1536 all 27",
+    "three casual-plan checks passed",
+    "register-images test passed",
+    "img-shards check passed",
+    "existing registry entries preserved",
+    "thumbnail workflow succeeded"
+   ]
   }
  ]
 }
