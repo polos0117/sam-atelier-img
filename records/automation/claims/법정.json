@@ -98,8 +98,16 @@
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-15",
    "style": "kr_drawn_rim_dewy",
-   "stage": "world-selection",
-   "note": "User authorized generation and normal main push; CLI Git push authentication unavailable, claim recorded through connected GitHub."
+   "stage": "awaiting_user_world_selection",
+   "note": "User authorized generation and normal main push; CLI Git push authentication unavailable, claim recorded through connected GitHub.",
+   "world_candidates": 12,
+   "selection_sheet_library_id": "libfile_03581601740481918991b88a4f7ac69e",
+   "local_manifest": "/workspace/scratch/1aeaf5998eb4/fazheng-selection/manifest.json",
+   "qa_notes": [
+    "fantasy4, mecha3, mecha4 unexpected hanzi; originals preserved",
+    "mecha1 and mecha2 additional thigh skin versus planned openings; no regeneration"
+   ],
+   "updated_at": "2026-11-15T22:27:59.958Z"
   }
  ]
 }
