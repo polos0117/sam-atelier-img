@@ -89,6 +89,17 @@
     "법정_mecha_api25_f_casual6.webp"
    ],
    "reason": "API25 선택 1·3·2와 일상컷 18장 업로드·도감 등록·자동 썸네일 검증 완료. 기본 화풍만 검사하는 image-claim done 대신 api25 등록 항목을 대조해 이 실행만 완료 처리. 기존 화풍 및 앞선 잠금 이력 보존."
+  },
+  {
+   "key": "법정",
+   "execution": "sam-fazheng-20261116-0715",
+   "status": "working",
+   "claimed_at": "2026-11-15T22:14:22.590Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-15",
+   "style": "kr_drawn_rim_dewy",
+   "stage": "world-selection",
+   "note": "User authorized generation and normal main push; CLI Git push authentication unavailable, claim recorded through connected GitHub."
   }
  ]
 }
