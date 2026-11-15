@@ -93,6 +93,40 @@
     "approval": "사용자 「업로드해줘」",
     "note": "요청한 api25 세계3+일상18와 썸네일 등록 확인. 원래 기본화풍 missing 목록은 역사 기록으로 보존."
    }
+  },
+  {
+   "key": "장비",
+   "execution": "sam-zhangfei-a84e7",
+   "status": "working",
+   "claimed_at": "2026-11-15T06:43:48.930298+00:00",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-15",
+   "missing": [
+    "장비_samguk_kr_drawn_rim_dewy_f.webp",
+    "장비_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "장비_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "장비_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "장비_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "장비_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "장비_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "장비_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "장비_fantasy_kr_drawn_rim_dewy_f.webp",
+    "장비_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "장비_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "장비_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "장비_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "장비_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "장비_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "장비_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "장비_mecha_kr_drawn_rim_dewy_f.webp",
+    "장비_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "장비_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "장비_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "장비_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "장비_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "장비_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "장비_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
