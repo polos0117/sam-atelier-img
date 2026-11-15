@@ -4,7 +4,7 @@
   {
    "key": "원술",
    "execution": "sam-yuanshu-641aa",
-   "status": "blocked",
+   "status": "done",
    "claimed_at": "2026-11-15T05:12:21.777Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -34,13 +34,17 @@
     "원술_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "원술_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
-   "reason": "26 images published; mecha casual1 image displayed without output_hint/source path, original unavailable. No re-generation. World selection 1,4,1.",
-   "updated_at": "2026-11-15T06:03:46.676Z",
+   "reason": "Missing mecha casual1 recreated at user's explicit request; all 27 images and dex entries published.",
+   "updated_at": "2026-11-15T11:05:58.360Z",
    "published": {
-    "images_commit": "830ec5cbcef333bd573b2ab2c97819a3f88853e0",
-    "code_commit": "78087e61f27fe84653c69d2b68ea5e7e58a9137c",
-    "images": 26
-   }
+    "images": 27,
+    "images_commit": "62834067f6c34e80a199c382c1549c8cb697fb62",
+    "code_commit": "14c8f10c207bc1a68b9ea4e7be7b8612feb23067"
+   },
+   "previous_block_reason": "26 images published; mecha casual1 image displayed without output_hint/source path, original unavailable. No re-generation. World selection 1,4,1.",
+   "completed_at": "2026-11-15T11:05:58.360Z",
+   "resolution_authorization": "원본파일 없으면 새로 만들어서 넣어줘",
+   "remaining": []
   }
  ]
 }
