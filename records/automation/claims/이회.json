@@ -4,7 +4,7 @@
   {
    "key": "이회",
    "execution": "sam-lihui-e0736-20261115",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T00:55:52.940Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -36,7 +36,9 @@
     "이회_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "이회_mecha_kr_drawn_rim_dewy_f_casual7.webp",
     "이회_mecha_kr_drawn_rim_dewy_f_casual90.webp"
-   ]
+   ],
+   "done_at": "2026-11-15T01:44:11.338Z",
+   "done_by": "sam-lihui-e0736-20261115"
   }
  ]
 }
