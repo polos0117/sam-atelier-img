@@ -111,11 +111,11 @@
   {
    "key": "진궁",
    "execution": "sam-chengong-59d027",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T22:56:09.915Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
-   "stage": "world_selection",
+   "stage": "complete",
    "style": "kr_drawn_rim_dewy",
    "missing": [
     "진궁_samguk_kr_drawn_rim_dewy_f.webp",
@@ -145,7 +145,29 @@
     "진궁_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "진궁_mecha_kr_drawn_rim_dewy_f_casual7.webp",
     "진궁_mecha_kr_drawn_rim_dewy_f_casual90.webp"
-   ]
+   ],
+   "done_at": "2026-11-15T23:53:31.450Z",
+   "done_by": "sam-chengong-59d027",
+   "completed": 27,
+   "selection": {
+    "samguk": 2,
+    "fantasy": 4,
+    "mecha": 1
+   },
+   "remaining": [],
+   "image_commit": "1a65b724497dda01798d6f27e30b8eaa36dd2860",
+   "code_commit": "1cd29a8eb1e034411f52dfe0474d6db0f8c58803",
+   "qa_summary": {
+    "passed": 12,
+    "deviations_recorded": 15,
+    "anatomy_errors_observed": 0,
+    "moderation_blocked_attempts": 4,
+    "moderation_adjusted_slots": [
+     "fantasy-casual2"
+    ],
+    "completed_image_regenerations": 0
+   },
+   "sheet_library_file_id": "libfile_0891218010388191b1a98a7caa1af280"
   }
  ]
 }
