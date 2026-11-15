@@ -4,7 +4,7 @@
   {
    "key": "원술",
    "execution": "sam-yuanshu-641aa",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-15T05:12:21.777Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -33,7 +33,14 @@
     "원술_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "원술_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "원술_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "reason": "26 images published; mecha casual1 image displayed without output_hint/source path, original unavailable. No re-generation. World selection 1,4,1.",
+   "updated_at": "2026-11-15T06:03:46.676Z",
+   "published": {
+    "images_commit": "830ec5cbcef333bd573b2ab2c97819a3f88853e0",
+    "code_commit": "78087e61f27fe84653c69d2b68ea5e7e58a9137c",
+    "images": 26
+   }
   }
  ]
 }
