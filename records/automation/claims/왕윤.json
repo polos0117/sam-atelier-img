@@ -4,7 +4,7 @@
   {
    "key": "왕윤",
    "execution": "sam-wangyun-20261115-01b47",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T00:58:09.534Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -33,7 +33,9 @@
     "왕윤_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "왕윤_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "왕윤_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-15T01:37:06.092061+00:00",
+   "done_by": "sam-wangyun-20261115-01b47"
   }
  ]
 }
