@@ -4,11 +4,11 @@
   {
    "key": "정욱",
    "execution": "sam-chengyu-c4b6-20261115",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T10:05:12.825Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-15",
-   "phase": "world-selection",
+   "phase": "complete",
    "missing": [
     "정욱_samguk_kr_drawn_rim_dewy_f.webp",
     "정욱_samguk_kr_drawn_rim_dewy_f_casual1.webp",
@@ -34,7 +34,17 @@
     "정욱_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "정욱_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "정욱_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_by": "sam-chengyu-c4b6-20261115",
+   "done_at": "2026-11-15T10:44:51.397Z",
+   "selected": {
+    "samguk": 2,
+    "fantasy": 3,
+    "mecha": 1
+   },
+   "completed_images": 27,
+   "image_commit": "1b0d53d47916bd1f8ef06da1d06f19d53ed3473d",
+   "dex_commit": "6c766f347a8588fffb511d464d7af159d197a713"
   }
  ]
 }
