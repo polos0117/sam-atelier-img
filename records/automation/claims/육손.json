@@ -88,6 +88,42 @@
     "육손_mecha_api25_f_casual6.webp"
    ],
    "reason": "API25 작업 완료. 기본 화풍만 확인하는 image-claim done 대신 api25 등록 21칸·썸네일·원격 Git 해시를 대조해 이 실행만 완료 처리. 다른 화풍은 변경하지 않음."
+  },
+  {
+   "key": "육손",
+   "execution": "sam-luxun-20261116-52407bdc",
+   "status": "working",
+   "claimed_at": "2026-11-15T22:34:21.639Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-16",
+   "style": "kr_drawn_rim_dewy",
+   "phase": "world-selection",
+   "missing": [
+    "육손_samguk_kr_drawn_rim_dewy_f.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "육손_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "육손_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "육손_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
