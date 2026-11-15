@@ -93,6 +93,40 @@
     "note": "Requested api25 verified: world 1 + casual 6 per world. Claim CLI computes missing for current default mmorpg_cg; completion recorded for requested style without changing global defaults.",
     "approval": "업로드 승인할게."
    }
+  },
+  {
+   "key": "장합",
+   "execution": "sam-zhanghe-9bf71-20261115",
+   "status": "working",
+   "claimed_at": "2026-11-15T13:47:22.713Z",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-15",
+   "missing": [
+    "장합_samguk_kr_drawn_rim_dewy_f.webp",
+    "장합_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "장합_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "장합_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "장합_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "장합_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "장합_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "장합_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "장합_fantasy_kr_drawn_rim_dewy_f.webp",
+    "장합_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "장합_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "장합_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "장합_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "장합_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "장합_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "장합_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "장합_mecha_kr_drawn_rim_dewy_f.webp",
+    "장합_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "장합_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "장합_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "장합_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "장합_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "장합_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "장합_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
