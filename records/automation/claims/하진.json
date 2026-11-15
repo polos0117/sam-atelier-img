@@ -4,7 +4,7 @@
   {
    "key": "하진",
    "execution": "sam-hejin-1d0ca-20261115",
-   "status": "working",
+   "status": "done",
    "claimed_at": "2026-11-15T07:19:40.035Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -33,7 +33,17 @@
     "하진_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "하진_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "하진_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-15T09:36:06.105Z",
+   "completed_by": "sam-hejin-1d0ca-20261115",
+   "images": 27,
+   "selected": {
+    "samguk": 3,
+    "fantasy": 1,
+    "mecha": 1
+   },
+   "image_commit": "cbb740685069ffc0e3b4b6da8d9f7235666fab4a",
+   "catalog_commit": "b578445f85831b81fff58c8b726d27a82f223c74"
   }
  ]
 }
