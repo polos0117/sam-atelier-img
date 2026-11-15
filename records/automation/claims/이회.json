@@ -1,0 +1,42 @@
+{
+ "key": "이회",
+ "runs": [
+  {
+   "key": "이회",
+   "execution": "sam-lihui-e0736-20261115",
+   "status": "working",
+   "claimed_at": "2026-11-15T00:55:52.940Z",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-15",
+   "missing": [
+    "이회_samguk_kr_drawn_rim_dewy_f.webp",
+    "이회_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "이회_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "이회_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "이회_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "이회_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "이회_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "이회_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "이회_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "이회_fantasy_kr_drawn_rim_dewy_f.webp",
+    "이회_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "이회_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "이회_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "이회_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "이회_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "이회_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "이회_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "이회_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "이회_mecha_kr_drawn_rim_dewy_f.webp",
+    "이회_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "이회_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "이회_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "이회_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "이회_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "이회_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "이회_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+    "이회_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ]
+  }
+ ]
+}
