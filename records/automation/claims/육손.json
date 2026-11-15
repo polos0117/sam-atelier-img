@@ -97,7 +97,7 @@
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
    "style": "kr_drawn_rim_dewy",
-   "phase": "awaiting_world_selection",
+   "phase": "casual-generation",
    "missing": [
     "육손_samguk_kr_drawn_rim_dewy_f.webp",
     "육손_samguk_kr_drawn_rim_dewy_f_casual1.webp",
@@ -128,7 +128,12 @@
    "selection_sheet": "libfile_2f688bfa261c8191908f68e30af762f1",
    "workspace": "/workspace/scratch/52407bdc9cc0",
    "prompt_pack": "/workspace/scratch/52407bdc9cc0/luxun-pack",
-   "note": "All twelve world candidates generated once with image_gen. Waiting for user choice in samguk,fantasy,mecha order; no world images registered before selection."
+   "note": "All twelve world candidates generated once with image_gen. Waiting for user choice in samguk,fantasy,mecha order; no world images registered before selection.",
+   "selection": {
+    "samguk": 3,
+    "fantasy": 2,
+    "mecha": 4
+   }
   }
  ]
 }
