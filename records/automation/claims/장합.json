@@ -97,7 +97,7 @@
   {
    "key": "장합",
    "execution": "sam-zhanghe-9bf71-20261115",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T13:47:22.713Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -126,7 +126,53 @@
     "장합_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "장합_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "장합_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-15T14:50:08.994Z",
+   "done_by": "sam-zhanghe-9bf71-20261115",
+   "selection": {
+    "samguk": 3,
+    "fantasy": 1,
+    "mecha": 2
+   },
+   "completion": {
+    "registered_files": [
+     "장합_samguk_kr_drawn_rim_dewy_f.webp",
+     "장합_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+     "장합_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+     "장합_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+     "장합_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+     "장합_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+     "장합_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+     "장합_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+     "장합_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+     "장합_fantasy_kr_drawn_rim_dewy_f.webp",
+     "장합_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+     "장합_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+     "장합_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+     "장합_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+     "장합_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+     "장합_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+     "장합_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+     "장합_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+     "장합_mecha_kr_drawn_rim_dewy_f.webp",
+     "장합_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+     "장합_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+     "장합_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+     "장합_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+     "장합_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+     "장합_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+     "장합_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+     "장합_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+    ],
+    "image_commit": "82fd9b9db9edf7f2333dd3d9d50277b15c3bf063",
+    "registration_commit": "1de7a0fb5768bf7f0bd57aee44597eb727453018",
+    "worlds": 3,
+    "casual": 21,
+    "own": 3,
+    "total": 27,
+    "output_refusals": 4,
+    "returned_image_regenerations": 0
+   }
   }
  ]
 }
