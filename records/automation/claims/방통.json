@@ -67,12 +67,54 @@
   {
    "key": "방통",
    "execution": "sam-pangtong-119e72-20261115",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T10:19:05.732Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-15",
    "style": "kr_drawn_rim_dewy",
-   "phase": "world_selection"
+   "phase": "complete",
+   "selection": {
+    "samguk": 3,
+    "fantasy": 2,
+    "mecha": 4
+   },
+   "done_at": "2026-11-15T11:35:40.246Z",
+   "done_by": "sam-pangtong-119e72-20261115",
+   "completion": {
+    "registered_files": [
+     "방통_fantasy_kr_drawn_rim_dewy_f.webp",
+     "방통_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+     "방통_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+     "방통_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+     "방통_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+     "방통_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+     "방통_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+     "방통_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+     "방통_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+     "방통_mecha_kr_drawn_rim_dewy_f.webp",
+     "방통_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+     "방통_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+     "방통_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+     "방통_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+     "방통_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+     "방통_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+     "방통_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+     "방통_mecha_kr_drawn_rim_dewy_f_casual90.webp",
+     "방통_samguk_kr_drawn_rim_dewy_f.webp",
+     "방통_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+     "방통_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+     "방통_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+     "방통_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+     "방통_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+     "방통_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+     "방통_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+     "방통_samguk_kr_drawn_rim_dewy_f_casual90.webp"
+    ],
+    "image_commit": "486f6c26a5123e39957b54bec2be970a500f5cc2",
+    "registration_commit": "4097e63c449f369e6b5c10837ab1733cefb568be",
+    "count": 27,
+    "regeneration_count": 0
+   }
   }
  ]
 }
