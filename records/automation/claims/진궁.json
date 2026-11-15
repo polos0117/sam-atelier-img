@@ -107,6 +107,45 @@
      "mecha-casual5"
     ]
    }
+  },
+  {
+   "key": "진궁",
+   "execution": "sam-chengong-59d027",
+   "status": "working",
+   "claimed_at": "2026-11-15T22:56:09.915Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-16",
+   "stage": "world_selection",
+   "style": "kr_drawn_rim_dewy",
+   "missing": [
+    "진궁_samguk_kr_drawn_rim_dewy_f.webp",
+    "진궁_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "진궁_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "진궁_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "진궁_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "진궁_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "진궁_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "진궁_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "진궁_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "진궁_fantasy_kr_drawn_rim_dewy_f.webp",
+    "진궁_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "진궁_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "진궁_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "진궁_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "진궁_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "진궁_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "진궁_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "진궁_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "진궁_mecha_kr_drawn_rim_dewy_f.webp",
+    "진궁_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "진궁_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "진궁_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "진궁_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "진궁_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "진궁_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "진궁_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+    "진궁_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ]
   }
  ]
 }
