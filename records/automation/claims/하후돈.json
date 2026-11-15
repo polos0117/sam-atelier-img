@@ -41,7 +41,7 @@
   {
    "key": "하후돈",
    "execution": "sam-xiahoudun-5037",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T06:42:22.781Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -70,7 +70,9 @@
     "하후돈_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "하후돈_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "하후돈_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-15T07:38:51.690Z",
+   "done_by": "sam-xiahoudun-5037"
   }
  ]
 }
