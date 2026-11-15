@@ -141,6 +141,40 @@
     "approval": "업로드 해줘.",
     "note": "Requested api25 verified: world1 + casual6 per world. Claim CLI computes default mmorpg_cg missing; completion recorded for requested style without changing defaults."
    }
+  },
+  {
+   "key": "원소",
+   "execution": "sam-yuanshao-e9fca-20261115",
+   "status": "working",
+   "claimed_at": "2026-11-15T09:28:48.024Z",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-15",
+   "missing": [
+    "원소_samguk_kr_drawn_rim_dewy_f.webp",
+    "원소_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "원소_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "원소_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "원소_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "원소_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "원소_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "원소_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "원소_fantasy_kr_drawn_rim_dewy_f.webp",
+    "원소_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "원소_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "원소_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "원소_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "원소_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "원소_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "원소_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "원소_mecha_kr_drawn_rim_dewy_f.webp",
+    "원소_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "원소_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "원소_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "원소_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "원소_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "원소_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "원소_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
