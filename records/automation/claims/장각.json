@@ -137,7 +137,7 @@
   {
    "key": "장각",
    "execution": "sam-zhangjiao-20261115-9b31",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T12:29:15.548Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -170,7 +170,7 @@
     "장각_mecha_kr_drawn_rim_dewy_f_casual7.webp",
     "장각_mecha_kr_drawn_rim_dewy_f_casual90.webp"
    ],
-   "phase": "awaiting_world_selection",
+   "phase": "complete",
    "world_selection": {
     "sheet": "libfile_aae4032b03788191aebb88d3f72a409c",
     "candidate_count": 12,
@@ -182,6 +182,22 @@
      "fantasy",
      "mecha"
     ]
+   },
+   "done_at": "2026-11-15T13:42:06.685Z",
+   "done_by": "sam-zhangjiao-20261115-9b31",
+   "selection": {
+    "samguk": 1,
+    "fantasy": 2,
+    "mecha": 2
+   },
+   "completion": {
+    "count": 27,
+    "image_commit": "4ce61ce3595487b14a288866c001babb48294d3c",
+    "registration_commit": "bcedf8b1d5b70857064b3e5ed54f0686f84a55df",
+    "patch_commit": "207e4bff57565d65cec86fcae9cb8a9b9b6f78f6",
+    "sheet": "libfile_5ff9445882d8819186a4f5afd18c07d0",
+    "checks": "27 files 1024x1536; all world plans passed; new records cross-world duplicate count 0; remote registry 27/27; automated thumbnails present",
+    "notes": "삼국시대 일상1 차단 후 낮음 단계 및 계획기 1회 장면 교체, 메카 일상3 차단 후 보통 단계. 반환된 이미지 임의 재생성 없음. 의상·헤어·배경·소품 차이는 QA에 보존."
    }
   }
  ]
