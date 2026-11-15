@@ -93,13 +93,13 @@
   {
    "key": "법정",
    "execution": "sam-fazheng-20261116-0715",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T22:14:22.590Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-15",
    "style": "kr_drawn_rim_dewy",
-   "stage": "awaiting_user_world_selection",
-   "note": "User authorized generation and normal main push; CLI Git push authentication unavailable, claim recorded through connected GitHub.",
+   "stage": "complete",
+   "note": "Completed selected worlds and 24 off-duty cuts; no generated image was regenerated for exposure censorship. Mecha cosplay had 4 blocked attempts with no image, then one permitted planner replan to Liana/Langrisser II.",
    "world_candidates": 12,
    "selection_sheet_library_id": "libfile_03581601740481918991b88a4f7ac69e",
    "local_manifest": "/workspace/scratch/1aeaf5998eb4/fazheng-selection/manifest.json",
@@ -107,7 +107,26 @@
     "fantasy4, mecha3, mecha4 unexpected hanzi; originals preserved",
     "mecha1 and mecha2 additional thigh skin versus planned openings; no regeneration"
    ],
-   "updated_at": "2026-11-15T22:27:59.958Z"
+   "updated_at": "2026-11-15T22:27:59.958Z",
+   "selected": {
+    "samguk": 2,
+    "fantasy": 1,
+    "mecha": 2
+   },
+   "done_at": "2026-11-15T23:07:54.743Z",
+   "done_by": "sam-fazheng-20261116-0715",
+   "completed_count": 27,
+   "image_commit": "9a2f8113272bc4245c1dde53da30c31a92bd8dec",
+   "index_commit": "303092c1a3d7acb657e900dc4fb955e1bdcfe00c",
+   "complete_sheet_library_id": "libfile_e96cc8557824819188ef15218ce68883",
+   "validation": {
+    "dimensions": "27 images at 1024x1536",
+    "plans": "all 3 worlds passed",
+    "registration": "9 images per world, 27 total",
+    "thumbnails": "27; workflow 43772750083 successful",
+    "preservation": "all prior characters, dates and storage mappings preserved",
+    "push_mode": "CLI push authentication unavailable; connected GitHub non-force fast-forward updates used"
+   }
   }
  ]
 }
