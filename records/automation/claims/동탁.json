@@ -34,7 +34,7 @@
   {
    "key": "동탁",
    "execution": "sam-dongzhuo-20261115",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-14T23:47:47.937Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -47,7 +47,7 @@
     "동탁_samguk_kr_drawn_rim_dewy_f_casual5.webp",
     "동탁_samguk_kr_drawn_rim_dewy_f_casual6.webp",
     "동탁_samguk_kr_drawn_rim_dewy_f_casual7.webp",
-    "동탁_samguk_kr_drawn_rim_dewy_f_casual8.webp",
+    "동탁_samguk_kr_drawn_rim_dewy_f_casual90.webp",
     "동탁_fantasy_kr_drawn_rim_dewy_f.webp",
     "동탁_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
     "동탁_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
@@ -56,7 +56,7 @@
     "동탁_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
     "동탁_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
     "동탁_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
-    "동탁_fantasy_kr_drawn_rim_dewy_f_casual8.webp",
+    "동탁_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
     "동탁_mecha_kr_drawn_rim_dewy_f.webp",
     "동탁_mecha_kr_drawn_rim_dewy_f_casual1.webp",
     "동탁_mecha_kr_drawn_rim_dewy_f_casual2.webp",
@@ -65,8 +65,17 @@
     "동탁_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "동탁_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "동탁_mecha_kr_drawn_rim_dewy_f_casual7.webp",
-    "동탁_mecha_kr_drawn_rim_dewy_f_casual8.webp"
-   ]
+    "동탁_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "blocked_at": "2026-11-15T00:59:04.845Z",
+   "reason": "25 images committed and registered; samguk-casual4 and mecha-casual7 returned moderation_blocked with no image. Completed images preserved.",
+   "remaining": [
+    "동탁_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "동탁_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ],
+   "completed_images": 25,
+   "image_commit": "e606d3cb8d03d5d5165a80c4586fff85bc95ca1c",
+   "catalog_commit": "67e9e91835293bfb736547383c64bca2a8c506b3"
   }
  ]
 }
