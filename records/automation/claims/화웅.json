@@ -4,7 +4,7 @@
   {
    "key": "화웅",
    "execution": "sam-huaxiong-a0e662",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T14:48:06.950Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -34,14 +34,25 @@
     "화웅_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "화웅_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
-   "phase": "awaiting_world_selection",
+   "phase": "complete",
    "sheet_library_file_id": "libfile_7d0beea69bb081918b0cae6af7841f5f",
    "workspace": "/workspace/scratch/a0e66278aad0",
    "manifest": "/workspace/scratch/a0e66278aad0/huaxiong-manifest.json",
    "generated": 12,
    "regenerations": 0,
-   "publication": "Selection pending; world images and dex changes not published",
-   "git_push_status": "CLI HTTPS push authentication unavailable; claim recorded through connected GitHub."
+   "publication": "27 images and dex registered; non-force fast-forward via connected GitHub because CLI push credentials unavailable",
+   "git_push_status": "CLI HTTPS push authentication unavailable; claim recorded through connected GitHub.",
+   "done_at": "2026-11-15T21:22:18.081Z",
+   "done_by": "sam-huaxiong-a0e662",
+   "selection": [
+    2,
+    2,
+    1
+   ],
+   "published_images": 27,
+   "image_commit": "7c97a7f17557608349c5375ad63db335d3f3fde7",
+   "code_commit": "cc0a809d0ec6ee3802daccdb49134c1e61e4eb94",
+   "complete_sheet_library_file_id": "libfile_3cf9572a2d908191a5986f2aca363922"
   }
  ]
 }
