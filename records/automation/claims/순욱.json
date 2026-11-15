@@ -81,6 +81,40 @@
     "world": 3,
     "casual": 15
    }
+  },
+  {
+   "key": "순욱",
+   "execution": "sam-xunyu-20261116",
+   "status": "working",
+   "claimed_at": "2026-11-15T21:04:46.314Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-15",
+   "missing": [
+    "순욱_samguk_kr_drawn_rim_dewy_f.webp",
+    "순욱_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "순욱_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "순욱_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "순욱_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "순욱_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "순욱_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "순욱_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "순욱_fantasy_kr_drawn_rim_dewy_f.webp",
+    "순욱_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "순욱_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "순욱_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "순욱_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "순욱_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "순욱_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "순욱_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "순욱_mecha_kr_drawn_rim_dewy_f.webp",
+    "순욱_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "순욱_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "순욱_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "순욱_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "순욱_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "순욱_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "순욱_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
