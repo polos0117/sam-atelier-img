@@ -1,0 +1,39 @@
+{
+ "key": "하진",
+ "runs": [
+  {
+   "key": "하진",
+   "execution": "sam-hejin-1d0ca-20261115",
+   "status": "working",
+   "claimed_at": "2026-11-15T07:19:40.035Z",
+   "date_kst": "2026-11-15",
+   "date_utc": "2026-11-15",
+   "missing": [
+    "하진_samguk_kr_drawn_rim_dewy_f.webp",
+    "하진_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "하진_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "하진_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "하진_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "하진_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "하진_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "하진_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "하진_fantasy_kr_drawn_rim_dewy_f.webp",
+    "하진_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "하진_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "하진_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "하진_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "하진_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "하진_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "하진_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "하진_mecha_kr_drawn_rim_dewy_f.webp",
+    "하진_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "하진_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "하진_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "하진_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "하진_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "하진_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "하진_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
