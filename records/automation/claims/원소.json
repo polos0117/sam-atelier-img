@@ -145,7 +145,7 @@
   {
    "key": "원소",
    "execution": "sam-yuanshao-e9fca-20261115",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-15T09:28:48.024Z",
    "date_kst": "2026-11-15",
    "date_utc": "2026-11-15",
@@ -174,7 +174,9 @@
     "원소_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "원소_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "원소_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-15T10:37:35.661Z",
+   "done_by": "sam-yuanshao-e9fca-20261115"
   }
  ]
 }
