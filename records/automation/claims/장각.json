@@ -169,7 +169,20 @@
     "장각_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "장각_mecha_kr_drawn_rim_dewy_f_casual7.webp",
     "장각_mecha_kr_drawn_rim_dewy_f_casual90.webp"
-   ]
+   ],
+   "phase": "awaiting_world_selection",
+   "world_selection": {
+    "sheet": "libfile_aae4032b03788191aebb88d3f72a409c",
+    "candidate_count": 12,
+    "workspace": "/workspace/scratch/9b31ee9a6d6f",
+    "manifest": "output/world-selection-manifest.json",
+    "numbering": "1,2 ours; 3,4 gpt_free",
+    "world_order": [
+     "samguk",
+     "fantasy",
+     "mecha"
+    ]
+   }
   }
  ]
 }
