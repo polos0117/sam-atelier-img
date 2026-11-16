@@ -112,7 +112,15 @@
     "casual": 21,
     "own": 3,
     "preserve_generated_images": true,
-    "publication": "non-force fast-forward via connected GitHub API because CLI push lacks authentication"
+    "publication": "non-force fast-forward via connected GitHub API because CLI push lacks authentication",
+    "thumbnail_commit": "cb26d694b2cf9cf135bdce209eab9dbb5ca1b7d0",
+    "verified": {
+     "world": 3,
+     "casual": 21,
+     "own": 3,
+     "thumbnails": 27
+    },
+    "workflow_note": "Automatic thumbnail generation succeeded; its commit step returned bot push 403. Published the official tool's target-only output through the authorized non-force GitHub connection."
    }
   }
  ]
