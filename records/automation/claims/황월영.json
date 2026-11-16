@@ -70,6 +70,40 @@
     "approval": "사용자 2026-11-12 「올려줘」",
     "note": "요청한 api25 세계 및 일상컷과 썸네일 도감 등록 확인. 기본화풍 missing 목록은 이력으로 보존. 승인한 QA 예외 보존."
    }
+  },
+  {
+   "key": "황월영",
+   "execution": "sam-huangyueying-20261116",
+   "status": "working",
+   "claimed_at": "2026-11-16T05:13:17.253Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-16",
+   "missing": [
+    "황월영_samguk_kr_drawn_rim_dewy_f.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "황월영_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "황월영_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "황월영_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
