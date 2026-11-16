@@ -1319,9 +1319,9 @@
   {
    "key": "손권",
    "execution": "sam-sunquan-84dfa4",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T07:10:34.929Z",
-   "phase": "awaiting_registration",
+   "phase": "complete",
    "style": "kr_drawn_rim_dewy",
    "candidate_count": 12,
    "selection_sheet_library_file_id": "libfile_48cdaa75f3688191b258c908289c4a8c",
@@ -1741,6 +1741,19 @@
     "fantasy": true,
     "mecha": true,
     "note": "Studio place key duplicated by planner between samguk casual5 and mecha casual3; QA failure recorded, originals retained."
+   },
+   "done_at": "2026-11-16T08:23:30.867Z",
+   "done_by": "sam-sunquan-84dfa4",
+   "registration_commit": "ef9f6c99d0aafe7529404b236139b4b9c5be6425",
+   "thumbnail_workflow": {
+    "run_id": 43830088554,
+    "result": "success",
+    "verified_count": 27
+   },
+   "registration_workflow": {
+    "run_id": 43830520410,
+    "result": "success",
+    "verified_count": 27
    }
   }
  ]
