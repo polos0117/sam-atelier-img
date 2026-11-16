@@ -4,7 +4,7 @@
   {
    "key": "능통",
    "execution": "sam-lingtong-7b217381",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T12:49:24.321Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -33,7 +33,9 @@
     "능통_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "능통_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "능통_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T13:35:08.342Z",
+   "done_by": "sam-lingtong-7b217381"
   }
  ]
 }
