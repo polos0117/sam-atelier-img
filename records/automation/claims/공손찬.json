@@ -67,7 +67,7 @@
   {
    "key": "공손찬",
    "execution": "sam-gongsunzan-82cacc",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T10:17:14.282Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -96,7 +96,51 @@
     "공손찬_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "공손찬_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "공손찬_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_by": "sam-gongsunzan-82cacc",
+   "done_at": "2026-11-16T10:57:25.314Z",
+   "completion": {
+    "selected": {
+     "samguk": 2,
+     "fantasy": 3,
+     "mecha": 1
+    },
+    "registered_files": [
+     "공손찬_samguk_kr_drawn_rim_dewy_f.webp",
+     "공손찬_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+     "공손찬_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+     "공손찬_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+     "공손찬_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+     "공손찬_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+     "공손찬_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+     "공손찬_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+     "공손찬_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+     "공손찬_fantasy_kr_drawn_rim_dewy_f.webp",
+     "공손찬_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+     "공손찬_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+     "공손찬_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+     "공손찬_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+     "공손찬_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+     "공손찬_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+     "공손찬_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+     "공손찬_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+     "공손찬_mecha_kr_drawn_rim_dewy_f.webp",
+     "공손찬_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+     "공손찬_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+     "공손찬_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+     "공손찬_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+     "공손찬_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+     "공손찬_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+     "공손찬_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+     "공손찬_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+    ],
+    "image_commit": "9668f856868a5ca1d71c15804c6e2b05e45b9e4c",
+    "registration_commit": "dba68316790ffdfbd0c31c4ba59acfc0bd7fc9be",
+    "remaining_slots": 0,
+    "qa": "Per-world planner checks passed; wardrobe, framing and expression deviations recorded with originals retained.",
+    "thumbnails": 27,
+    "thumbnail_workflow_run": 43852757650
+   }
   }
  ]
 }
