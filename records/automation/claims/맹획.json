@@ -165,7 +165,7 @@
   {
    "key": "맹획",
    "execution": "sam-menghuo-b58b-20261116",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T04:36:03.481Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -194,7 +194,9 @@
     "맹획_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "맹획_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "맹획_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T05:18:41.757Z",
+   "done_by": "sam-menghuo-b58b-20261116"
   }
  ]
 }
