@@ -4,7 +4,7 @@
   {
    "key": "유선",
    "execution": "sam-liushan-b75ae3",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T08:39:32.834777+00:00",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -33,7 +33,9 @@
     "유선_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "유선_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "유선_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T09:38:37.556Z",
+   "done_by": "sam-liushan-b75ae3"
   }
  ]
 }
