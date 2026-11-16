@@ -63,6 +63,40 @@
     "approval": "사용자 「올려줘」",
     "note": "요청한 api25 세계3+일상18와 썸네일 등록 확인. 원래 기본화풍 missing 목록은 역사 기록으로 보존."
    }
+  },
+  {
+   "key": "하후연",
+   "execution": "sam-xiahouyuan-603d-20261116",
+   "status": "working",
+   "claimed_at": "2026-11-16T02:46:00.764Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-16",
+   "missing": [
+    "하후연_samguk_kr_drawn_rim_dewy_f.webp",
+    "하후연_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "하후연_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "하후연_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "하후연_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "하후연_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "하후연_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "하후연_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "하후연_fantasy_kr_drawn_rim_dewy_f.webp",
+    "하후연_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "하후연_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "하후연_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "하후연_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "하후연_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "하후연_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "하후연_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "하후연_mecha_kr_drawn_rim_dewy_f.webp",
+    "하후연_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "하후연_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "하후연_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "하후연_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "하후연_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "하후연_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "하후연_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
