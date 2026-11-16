@@ -41,11 +41,13 @@
   {
    "key": "장소",
    "execution": "sam-zhangzhao-e082",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T11:35:48.996989+00:00",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
-   "missing": []
+   "missing": [],
+   "done_at": "2026-11-16T12:29:10.520Z",
+   "done_by": "sam-zhangzhao-e082"
   }
  ]
 }
