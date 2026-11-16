@@ -93,7 +93,7 @@
   {
    "key": "순유",
    "execution": "sam-xunyou-4470",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T14:01:16.684Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -122,7 +122,54 @@
     "순유_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "순유_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "순유_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T21:50:57.005Z",
+   "done_by": "sam-xunyou-4470",
+   "style": "kr_drawn_rim_dewy",
+   "selection": {
+    "samguk": 3,
+    "fantasy": 2,
+    "mecha": 2
+   },
+   "completed_files": [
+    "순유_fantasy_kr_drawn_rim_dewy_f.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "image_commit": "5b9ce1a60f564b8136dc612df158f8cf1f18f0eb",
+   "code_commit": "873c3ba1fe33df97b8f73911a2779fec1b693d95",
+   "verification": {
+    "images": 27,
+    "thumbnails": 27,
+    "registration": 27,
+    "image_hashes": "match",
+    "thumbs_workflow": "success"
+   },
+   "reason": "최종 선택 3·2·2. 세계3장·일상21장·약재상3장 main 반영 및 원격 등록·원본 WebP 해시·자동 썸네일27장 확인. 기존 이력 보존."
   }
  ]
 }
