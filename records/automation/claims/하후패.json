@@ -4,7 +4,7 @@
   {
    "key": "하후패",
    "execution": "sam-xiahouba-f90618",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T07:01:42.226Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -33,7 +33,16 @@
     "하후패_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "하후패_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "하후패_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T07:54:58.891Z",
+   "done_by": "sam-xiahouba-f90618",
+   "selected_worlds": {
+    "samguk": 2,
+    "fantasy": 1,
+    "mecha": 2
+   },
+   "completed_images": 27,
+   "image_commit": "42e0b6c0963965500a1da9a84cb15b7a08232ed0"
   }
  ]
 }
