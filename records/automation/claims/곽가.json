@@ -97,7 +97,7 @@
   {
    "key": "곽가",
    "execution": "sam-guojia-dff47ee0",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T10:28:58.443Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -126,7 +126,25 @@
     "곽가_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "곽가_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "곽가_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T11:02:31.040Z",
+   "done_by": "sam-guojia-dff47ee0",
+   "selection": {
+    "samguk": 4,
+    "fantasy": 4,
+    "mecha": 4
+   },
+   "completion": {
+    "images": 27,
+    "world": 3,
+    "casual": 21,
+    "own": 3,
+    "image_commit": "2154098a6bdf9d9678c5c6510eeb19477314f21a",
+    "registration_commit": "448adb2d434fb3f2d0dda333dcfaa0ee212f0be2",
+    "regenerated_completed_images": 0,
+    "sheet_library_file_id": "libfile_ea5a96a12ec881918edec506cf9b8b86",
+    "note": "27 source images and records committed; remote catalogue verified. Fast-forward updates through connected GitHub because CLI HTTPS push lacked credentials."
+   }
   }
  ]
 }
