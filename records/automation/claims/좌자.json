@@ -1,0 +1,39 @@
+{
+ "key": "좌자",
+ "runs": [
+  {
+   "key": "좌자",
+   "execution": "sam-zuoci-32e528",
+   "status": "working",
+   "claimed_at": "2026-11-16T05:48:43.331Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-16",
+   "missing": [
+    "좌자_samguk_kr_drawn_rim_dewy_f.webp",
+    "좌자_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "좌자_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "좌자_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "좌자_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "좌자_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "좌자_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "좌자_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "좌자_fantasy_kr_drawn_rim_dewy_f.webp",
+    "좌자_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "좌자_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "좌자_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "좌자_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "좌자_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "좌자_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "좌자_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "좌자_mecha_kr_drawn_rim_dewy_f.webp",
+    "좌자_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "좌자_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "좌자_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "좌자_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "좌자_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "좌자_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "좌자_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
