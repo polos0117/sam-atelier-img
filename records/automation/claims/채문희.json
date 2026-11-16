@@ -3,10 +3,20 @@
  "runs": [
   {
    "execution": "sam-caiwenji-75c367",
-   "status": "working",
+   "status": "done",
    "claimed_at": "2026-11-16T11:57:51.637Z",
    "date_utc": "2026-11-16",
-   "date_kst": "2026-11-17"
+   "date_kst": "2026-11-16",
+   "done_at": "2026-11-16T12:46:53.008Z",
+   "done_by": "sam-caiwenji-75c367",
+   "selection": {
+    "samguk": 3,
+    "fantasy": 1,
+    "mecha": 1
+   },
+   "images": 27,
+   "image_commit": "ba085568e906a3a0578e88c6fe80c283a6176c78",
+   "registry_commit": "ca5da9dcd8908cfd08dd6602a972bc7b7949add9"
   }
  ]
 }
