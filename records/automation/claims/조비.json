@@ -1,0 +1,39 @@
+{
+ "key": "조비",
+ "runs": [
+  {
+   "key": "조비",
+   "execution": "sam-caopi-20261116T1654",
+   "status": "working",
+   "claimed_at": "2026-11-16T07:55:58.532Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-16",
+   "missing": [
+    "조비_samguk_kr_drawn_rim_dewy_f.webp",
+    "조비_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "조비_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "조비_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "조비_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "조비_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "조비_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "조비_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "조비_fantasy_kr_drawn_rim_dewy_f.webp",
+    "조비_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "조비_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "조비_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "조비_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "조비_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "조비_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "조비_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "조비_mecha_kr_drawn_rim_dewy_f.webp",
+    "조비_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "조비_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "조비_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "조비_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "조비_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "조비_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "조비_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
