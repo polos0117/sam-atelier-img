@@ -8,7 +8,11 @@
    "claimed_at": "2026-11-16T13:43:07.183Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
-   "phase": "world-selection"
+   "phase": "awaiting-world-selection",
+   "candidates": 12,
+   "sheet_library_file_id": "libfile_a168de1c25248191a319d6dbfebaa41c",
+   "workspace": "/workspace/scratch/b5790acaf041",
+   "manifest": "selection-manifest.json"
   }
  ]
 }
