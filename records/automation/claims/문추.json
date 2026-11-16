@@ -8,11 +8,19 @@
    "claimed_at": "2026-11-16T13:43:07.183Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
-   "phase": "awaiting-world-selection",
+   "phase": "awaiting-catalog-registration",
    "candidates": 12,
    "sheet_library_file_id": "libfile_a168de1c25248191a319d6dbfebaa41c",
    "workspace": "/workspace/scratch/b5790acaf041",
-   "manifest": "selection-manifest.json"
+   "manifest": "selection-manifest.json",
+   "selection": {
+    "samguk": 2,
+    "fantasy": 1,
+    "mecha": 1
+   },
+   "image_commit": "91fc87d8cbf2171a7954b7f47232e83f339b9878",
+   "image_count": 27,
+   "complete_sheet_library_file_id": "libfile_8431a6a096208191ab69b7f79efb7646"
   }
  ]
 }
