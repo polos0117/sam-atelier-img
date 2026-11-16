@@ -207,7 +207,7 @@
     "문앙_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "문앙_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
-   "phase": "awaiting_world_selection",
+   "phase": "generating_casual",
    "candidates": {
     "count": 12,
     "style": "kr_drawn_rim_dewy",
@@ -218,7 +218,14 @@
     "prompts": "work/candidate-prompts.json",
     "no_exposure_regeneration": true,
     "qa_notes": "삼국시대 3,4 및 판타지 3,4 배경 기병/말 포함. 메카 1,2 무기 술 장식. 원본 보존; 재생성 없음."
-   }
+   },
+   "selection": {
+    "samguk": 1,
+    "fantasy": 4,
+    "mecha": 2,
+    "user": "1,4,2"
+   },
+   "plan_workspace": "/workspace/scratch/a962b23a68ab/work/daily-final"
   }
  ]
 }
