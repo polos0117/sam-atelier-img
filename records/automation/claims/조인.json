@@ -63,7 +63,7 @@
   {
    "key": "조인",
    "execution": "sam-caoren-b1af182-20261116",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T06:41:05.748Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -92,7 +92,49 @@
     "조인_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "조인_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "조인_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T07:29:03.384Z",
+   "done_by": "sam-caoren-b1af182-20261116",
+   "style": "kr_drawn_rim_dewy",
+   "selected": {
+    "samguk": 2,
+    "fantasy": 1,
+    "mecha": 1
+   },
+   "completed_files": [
+    "조인_fantasy_kr_drawn_rim_dewy_f.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual90.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "commits": {
+    "images": "7e1c5d64061d8cb32532fe84bafe7ea28331cd4b",
+    "dex": "62421463e00fcda468f9a3843192f9e7265c8809"
+   },
+   "reason": "원격 이미지 27개 및 도감 27칸 대조 완료. 삼국시대 casual3는 코스프레가 필터 차단되어 규정의 1회 재계획 장면으로 등록. 생성 완료 이미지는 재생성하지 않음."
   }
  ]
 }
