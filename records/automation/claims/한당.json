@@ -1,0 +1,14 @@
+{
+ "key": "한당",
+ "runs": [
+  {
+   "key": "한당",
+   "execution": "sam-handang-447788",
+   "status": "working",
+   "claimed_at": "2026-11-16T09:25:39.573Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-16",
+   "stage": "world-selection"
+  }
+ ]
+}
