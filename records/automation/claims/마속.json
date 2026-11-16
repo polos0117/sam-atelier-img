@@ -4,7 +4,7 @@
   {
    "key": "마속",
    "execution": "sam-masu-dd79c293",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T11:22:38.762Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -33,7 +33,9 @@
     "마속_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "마속_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "마속_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T11:57:58.239Z",
+   "done_by": "sam-masu-dd79c293"
   }
  ]
 }
