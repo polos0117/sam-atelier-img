@@ -4,7 +4,7 @@
   {
    "key": "좌자",
    "execution": "sam-zuoci-32e528",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T05:48:43.331Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -33,7 +33,17 @@
     "좌자_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "좌자_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "좌자_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T06:59:53.182799+00:00",
+   "done_by": "sam-zuoci-32e528",
+   "selected": {
+    "samguk": 4,
+    "fantasy": 1,
+    "mecha": 3
+   },
+   "images": 27,
+   "image_commit": "5b1f4840d02534bd38ba50a1c4fbf46688ea7838",
+   "dex_commit": "1aeaca78a5932e79dfca01ed292855084d41d647"
   }
  ]
 }
