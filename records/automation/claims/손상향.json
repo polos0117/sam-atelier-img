@@ -34,7 +34,7 @@
   {
    "key": "손상향",
    "execution": "sam-sunshangxiang-6ba31d",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T03:36:55.853Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -63,7 +63,17 @@
     "손상향_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "손상향_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "손상향_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T04:25:29.670Z",
+   "done_by": "sam-sunshangxiang-6ba31d",
+   "selected": {
+    "samguk": 4,
+    "fantasy": 2,
+    "mecha": 3
+   },
+   "image_commit": "d0348556cf1c1c93abb89abaf2295ab239690c03",
+   "code_commit": "0db218ca90e247c7f41823c2252b9a501ebcb48b",
+   "completed_images": 27
   }
  ]
 }
