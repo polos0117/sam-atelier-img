@@ -4,15 +4,25 @@
   {
    "key": "사섭",
    "execution": "sam-shixie-645842",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T07:37:45.754Z",
-   "date_kst": "2026-11-17",
+   "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
    "missing": [
     "사섭_samguk_kr_drawn_rim_dewy_f.webp",
     "사섭_fantasy_kr_drawn_rim_dewy_f.webp",
     "사섭_mecha_kr_drawn_rim_dewy_f.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T08:30:25.729Z",
+   "done_by": "sam-shixie-645842",
+   "selection": {
+    "samguk": 4,
+    "fantasy": 4,
+    "mecha": 3
+   },
+   "image_commit": "94353788c4eab7eec7647c64cbc9f369c1c540eb",
+   "catalog_commit": "60429c9687bde29df4d964175e974aacbfaf509d",
+   "completed_images": 27
   }
  ]
 }
