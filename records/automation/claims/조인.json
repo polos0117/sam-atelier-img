@@ -59,6 +59,40 @@
    ],
    "completion_approval": "사용자 「올려줘.」 — 그림·기록·도감·작업 기록 및 현재 조인 잠금 complete 반영을 명시적으로 승인",
    "reason": "API25 선택 1·4·3와 일상컷18장 업로드·도감21칸 등록·자동 썸네일 검증 완료. 기본 화풍을 보는 image-claim done 대신 api25 등록21칸을 대조해 본인 실행만 완료 처리."
+  },
+  {
+   "key": "조인",
+   "execution": "sam-caoren-b1af182-20261116",
+   "status": "working",
+   "claimed_at": "2026-11-16T06:41:05.748Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-16",
+   "missing": [
+    "조인_samguk_kr_drawn_rim_dewy_f.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "조인_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "조인_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "조인_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
