@@ -63,7 +63,7 @@
   {
    "key": "노숙",
    "execution": "sam-lusu-20261116-8b148",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T05:26:07.844Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -92,7 +92,19 @@
     "노숙_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "노숙_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "노숙_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-16T06:24:39.776Z",
+   "done_by": "sam-lusu-20261116-8b148",
+   "style": "kr_drawn_rim_dewy",
+   "selection": {
+    "samguk": 2,
+    "fantasy": 1,
+    "mecha": 2
+   },
+   "image_commit": "951822e1b2eec82aad3030c6dcb76d4f411a0486",
+   "dex_commit": "c5fec5aa339dea679571b6399381253c5a4f51fd",
+   "completed_count": 27,
+   "reason": "세계별 1+7+전용90 등록 확인. 세계별 계획검사 통과. 옛 api25 기록과의 장면 겹침은 알림으로 보존. QA 편차 8장은 원본 유지 및 기록."
   }
  ]
 }
