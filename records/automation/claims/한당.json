@@ -4,11 +4,22 @@
   {
    "key": "한당",
    "execution": "sam-handang-447788",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T09:25:39.573Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
-   "stage": "world-selection"
+   "stage": "complete",
+   "selected": {
+    "samguk": 2,
+    "fantasy": 1,
+    "mecha": 1
+   },
+   "image_count": 27,
+   "done_at": "2026-11-16T10:26:26.079Z",
+   "done_by": "sam-handang-447788",
+   "image_commit": "f85ac21bbcec48f40c4f5695afee4fe53b83070e",
+   "registration_commit": "b5b654f25ad511337e15823faf09485f64ff56b6",
+   "qa_notes": "No exposure-based regeneration of returned images. Two output moderation blocks were retried with identical prompts before any image was returned."
   }
  ]
 }
