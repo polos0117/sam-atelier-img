@@ -161,6 +161,40 @@
     "approval": "사용자 「올려줘」",
     "note": "중단 잠금을 사용자 승인으로 해제 후 새 실행에서 api25 세계3+일상18와 썸네일 등록 확인. 원래 기본화풍 missing 목록과 이전 실행은 역사 기록으로 보존."
    }
+  },
+  {
+   "key": "맹획",
+   "execution": "sam-menghuo-b58b-20261116",
+   "status": "working",
+   "claimed_at": "2026-11-16T04:36:03.481Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-16",
+   "missing": [
+    "맹획_samguk_kr_drawn_rim_dewy_f.webp",
+    "맹획_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "맹획_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "맹획_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "맹획_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "맹획_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "맹획_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "맹획_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "맹획_fantasy_kr_drawn_rim_dewy_f.webp",
+    "맹획_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "맹획_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "맹획_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "맹획_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "맹획_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "맹획_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "맹획_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "맹획_mecha_kr_drawn_rim_dewy_f.webp",
+    "맹획_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "맹획_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "맹획_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "맹획_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "맹획_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "맹획_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "맹획_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
