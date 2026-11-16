@@ -89,6 +89,40 @@
    ],
    "completion_approval": "사용자 「올려줘」 — 두 저장소 main에 그림·기록·도감·작업 기록 및 현재 순유 잠금 complete 처리까지 명시적으로 승인",
    "reason": "API25 선택2·1·2와 일상컷18장 업로드·도감21칸 등록·자동 썸네일21장·원격45파일 검증 완료. 기본 화풍을 보는 image-claim done 대신 실제 api25 등록21칸을 대조해 본인 실행만 완료 처리. 이전 완료 이력과 기존 화풍 보존."
+  },
+  {
+   "key": "순유",
+   "execution": "sam-xunyou-4470",
+   "status": "working",
+   "claimed_at": "2026-11-16T14:01:16.684Z",
+   "date_kst": "2026-11-16",
+   "date_utc": "2026-11-16",
+   "missing": [
+    "순유_samguk_kr_drawn_rim_dewy_f.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "순유_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "순유_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "순유_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
