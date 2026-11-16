@@ -1,0 +1,18 @@
+{
+ "key": "사섭",
+ "runs": [
+  {
+   "key": "사섭",
+   "execution": "sam-shixie-645842",
+   "status": "working",
+   "claimed_at": "2026-11-16T07:37:45.754Z",
+   "date_kst": "2026-11-17",
+   "date_utc": "2026-11-16",
+   "missing": [
+    "사섭_samguk_kr_drawn_rim_dewy_f.webp",
+    "사섭_fantasy_kr_drawn_rim_dewy_f.webp",
+    "사섭_mecha_kr_drawn_rim_dewy_f.webp"
+   ]
+  }
+ ]
+}
