@@ -177,7 +177,7 @@
   {
    "key": "문앙",
    "execution": "sam-wenyang-a962b2",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-16T12:14:20.890Z",
    "date_kst": "2026-11-16",
    "date_utc": "2026-11-16",
@@ -207,7 +207,7 @@
     "문앙_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "문앙_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
-   "phase": "generating_casual",
+   "phase": "complete",
    "candidates": {
     "count": 12,
     "style": "kr_drawn_rim_dewy",
@@ -225,7 +225,45 @@
     "mecha": 2,
     "user": "1,4,2"
    },
-   "plan_workspace": "/workspace/scratch/a962b23a68ab/work/daily-final"
+   "plan_workspace": "/workspace/scratch/a962b23a68ab/work/daily-final",
+   "done_at": "2026-11-16T13:00:44.190Z",
+   "done_by": "sam-wenyang-a962b2",
+   "completion": {
+    "registered_files": [
+     "문앙_samguk_kr_drawn_rim_dewy_f.webp",
+     "문앙_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+     "문앙_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+     "문앙_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+     "문앙_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+     "문앙_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+     "문앙_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+     "문앙_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+     "문앙_samguk_kr_drawn_rim_dewy_f_casual90.webp",
+     "문앙_fantasy_kr_drawn_rim_dewy_f.webp",
+     "문앙_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+     "문앙_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+     "문앙_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+     "문앙_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+     "문앙_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+     "문앙_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+     "문앙_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+     "문앙_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+     "문앙_mecha_kr_drawn_rim_dewy_f.webp",
+     "문앙_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+     "문앙_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+     "문앙_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+     "문앙_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+     "문앙_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+     "문앙_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+     "문앙_mecha_kr_drawn_rim_dewy_f_casual7.webp",
+     "문앙_mecha_kr_drawn_rim_dewy_f_casual90.webp"
+    ],
+    "registration_commit": "707000f769118b4e78945b46425e915b752ea5c2",
+    "image_commit": "5db98e2f1d7adf1f03c944a3edadc4bd86da1320",
+    "thumbnail_commit": "90f8d08c56c0db05c83b4f745ccc057b5dab9519",
+    "sheet_library_file_id": "libfile_c21e14fc92088191bc47b57cfd4b1603",
+    "note": "27 images and 33 metadata records verified by remote Git hashes; 27 thumbnails; registration workflow successful. No returned image was regenerated. Four output moderation blocks; two slots first returned images at moderate exposure."
+   }
   }
  ]
 }
