@@ -1321,7 +1321,7 @@
    "execution": "sam-sunquan-84dfa4",
    "status": "working",
    "claimed_at": "2026-11-16T07:10:34.929Z",
-   "phase": "awaiting_world_selection",
+   "phase": "awaiting_registration",
    "style": "kr_drawn_rim_dewy",
    "candidate_count": 12,
    "selection_sheet_library_file_id": "libfile_48cdaa75f3688191b258c908289c4a8c",
@@ -1720,6 +1720,27 @@
     ],
     "selection_sheet_path": "/workspace/scratch/84dfa49908f4/sunquan-work/sunquan-world-selection-sheet.jpg",
     "note": "12 successful generations, no regenerations. Awaiting user selection before world registration or casual generation. Git CLI push unavailable due to authentication; claim checkpoint committed through connected GitHub with ordinary main updates."
+   },
+   "selection": {
+    "samguk": 1,
+    "fantasy": 1,
+    "mecha": 1,
+    "user_message": "1,1,1"
+   },
+   "image_count": 27,
+   "casual_count": 24,
+   "image_commit": "e548d89668cdec61aee23fa10671b517b596575c",
+   "result_sheet_library_file_id": "libfile_f7e09aad96d48191b6dbd5aa0120ead7",
+   "remote_verification": {
+    "images": 27,
+    "records": 27,
+    "hashes_match": true
+   },
+   "plan_validation": {
+    "samguk": false,
+    "fantasy": true,
+    "mecha": true,
+    "note": "Studio place key duplicated by planner between samguk casual5 and mecha casual3; QA failure recorded, originals retained."
    }
   }
  ]
