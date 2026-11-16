@@ -206,7 +206,19 @@
     "문앙_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "문앙_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "문앙_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "phase": "awaiting_world_selection",
+   "candidates": {
+    "count": 12,
+    "style": "kr_drawn_rim_dewy",
+    "layout": "rows samguk fantasy mecha; columns 1,2 registered design and 3,4 GPT free design",
+    "sheet_library_file_id": "libfile_da5da8d708448191a90796c3b478874c",
+    "workspace": "/workspace/scratch/a962b23a68ab",
+    "manifest": "work/candidates.json",
+    "prompts": "work/candidate-prompts.json",
+    "no_exposure_regeneration": true,
+    "qa_notes": "삼국시대 3,4 및 판타지 3,4 배경 기병/말 포함. 메카 1,2 무기 술 장식. 원본 보존; 재생성 없음."
+   }
   }
  ]
 }
