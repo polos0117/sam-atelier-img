@@ -4,7 +4,7 @@
   {
    "key": "유엽",
    "execution": "sam-liuye-20261117",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-17T08:24:26.319Z",
    "date_kst": "2026-11-17",
    "date_utc": "2026-11-17",
@@ -33,7 +33,9 @@
     "유엽_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "유엽_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "유엽_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "reason": "Image generation output moderation_blocked; 15 confirmed images published, 12 pending slots have unconfirmed per-slot outcomes; no retries.",
+   "blocked_at": "2026-11-17T11:20:16.102Z"
   }
  ]
 }
