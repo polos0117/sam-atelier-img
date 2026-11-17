@@ -4,36 +4,15 @@
   {
    "key": "추씨",
    "execution": "sam-zoushi-0770fb",
-   "status": "working",
+   "status": "done",
    "claimed_at": "2026-11-17T11:54:37.015Z",
    "date_kst": "2026-11-17",
    "date_utc": "2026-11-17",
-   "missing": [
-    "추씨_samguk_kr_drawn_rim_dewy_f.webp",
-    "추씨_samguk_kr_drawn_rim_dewy_f_casual1.webp",
-    "추씨_samguk_kr_drawn_rim_dewy_f_casual2.webp",
-    "추씨_samguk_kr_drawn_rim_dewy_f_casual3.webp",
-    "추씨_samguk_kr_drawn_rim_dewy_f_casual4.webp",
-    "추씨_samguk_kr_drawn_rim_dewy_f_casual5.webp",
-    "추씨_samguk_kr_drawn_rim_dewy_f_casual6.webp",
-    "추씨_samguk_kr_drawn_rim_dewy_f_casual7.webp",
-    "추씨_fantasy_kr_drawn_rim_dewy_f.webp",
-    "추씨_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
-    "추씨_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
-    "추씨_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
-    "추씨_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
-    "추씨_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
-    "추씨_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
-    "추씨_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
-    "추씨_mecha_kr_drawn_rim_dewy_f.webp",
-    "추씨_mecha_kr_drawn_rim_dewy_f_casual1.webp",
-    "추씨_mecha_kr_drawn_rim_dewy_f_casual2.webp",
-    "추씨_mecha_kr_drawn_rim_dewy_f_casual3.webp",
-    "추씨_mecha_kr_drawn_rim_dewy_f_casual4.webp",
-    "추씨_mecha_kr_drawn_rim_dewy_f_casual5.webp",
-    "추씨_mecha_kr_drawn_rim_dewy_f_casual6.webp",
-    "추씨_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   "missing": [],
+   "completed_at": "2026-11-17T13:02:23.853Z",
+   "images": 27,
+   "image_commit": "2b6a196f6c297070f07b7bc3ebefc20486b22251",
+   "code_commit": "a7b37d1509468148adf92b9614cde463556b142f"
   }
  ]
 }
