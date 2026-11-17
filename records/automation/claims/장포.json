@@ -4,9 +4,9 @@
     {
       "key": "장포",
       "execution": "sam-zhangbao-4fd848-20261117",
-      "status": "working",
+      "status": "complete",
       "claimed_at": "2026-11-17T13:13:56.195Z",
-      "date_kst": "2026-11-18",
+      "date_kst": "2026-11-17",
       "date_utc": "2026-11-17",
       "missing": [
         "장포_samguk_kr_drawn_rim_dewy_f.webp",
@@ -33,7 +33,9 @@
         "장포_mecha_kr_drawn_rim_dewy_f_casual5.webp",
         "장포_mecha_kr_drawn_rim_dewy_f_casual6.webp",
         "장포_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-      ]
+      ],
+      "done_at": "2026-11-17T14:13:58.392271+00:00",
+      "done_by": "sam-zhangbao-4fd848-20261117"
     }
   ]
 }
