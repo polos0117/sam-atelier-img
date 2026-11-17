@@ -1,0 +1,41 @@
+{
+ "key": "미부인",
+ "runs": [
+  {
+   "key": "미부인",
+   "execution": "sam-mifuren-20261117",
+   "status": "complete",
+   "claimed_at": "2026-11-17T11:00:59.617Z",
+   "date_kst": "2026-11-17",
+   "date_utc": "2026-11-17",
+   "missing": [
+    "미부인_samguk_kr_drawn_rim_dewy_f.webp",
+    "미부인_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "미부인_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "미부인_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "미부인_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "미부인_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "미부인_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "미부인_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "미부인_fantasy_kr_drawn_rim_dewy_f.webp",
+    "미부인_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "미부인_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "미부인_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "미부인_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "미부인_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "미부인_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "미부인_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "미부인_mecha_kr_drawn_rim_dewy_f.webp",
+    "미부인_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "미부인_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "미부인_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "미부인_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "미부인_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "미부인_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "미부인_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ],
+   "done_at": "2026-11-17T12:11:06.574926Z",
+   "done_by": "sam-mifuren-20261117"
+  }
+ ]
+}
