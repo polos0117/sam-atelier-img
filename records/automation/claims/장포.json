@@ -1,0 +1,39 @@
+{
+  "key": "장포",
+  "runs": [
+    {
+      "key": "장포",
+      "execution": "sam-zhangbao-4fd848-20261117",
+      "status": "working",
+      "claimed_at": "2026-11-17T13:13:56.195Z",
+      "date_kst": "2026-11-18",
+      "date_utc": "2026-11-17",
+      "missing": [
+        "장포_samguk_kr_drawn_rim_dewy_f.webp",
+        "장포_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+        "장포_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+        "장포_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+        "장포_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+        "장포_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+        "장포_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+        "장포_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+        "장포_fantasy_kr_drawn_rim_dewy_f.webp",
+        "장포_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+        "장포_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+        "장포_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+        "장포_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+        "장포_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+        "장포_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+        "장포_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+        "장포_mecha_kr_drawn_rim_dewy_f.webp",
+        "장포_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+        "장포_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+        "장포_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+        "장포_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+        "장포_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+        "장포_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+        "장포_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+      ]
+    }
+  ]
+}
