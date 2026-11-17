@@ -4,7 +4,7 @@
   {
    "key": "도겸",
    "execution": "sam-taoqian-214dd4",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-17T14:08:23.441Z",
    "date_kst": "2026-11-17",
    "date_utc": "2026-11-17",
@@ -33,7 +33,9 @@
     "도겸_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "도겸_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "도겸_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-17T21:25:02.894Z",
+   "done_by": "sam-taoqian-214dd4"
   }
  ]
 }
