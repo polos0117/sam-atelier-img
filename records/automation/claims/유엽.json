@@ -4,7 +4,7 @@
   {
    "key": "유엽",
    "execution": "sam-liuye-20261117",
-   "status": "blocked",
+   "status": "released",
    "claimed_at": "2026-11-17T08:24:26.319Z",
    "date_kst": "2026-11-17",
    "date_utc": "2026-11-17",
@@ -35,7 +35,10 @@
     "유엽_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
    "reason": "Image generation output moderation_blocked; 15 confirmed images published, 12 pending slots have unconfirmed per-slot outcomes; no retries.",
-   "blocked_at": "2026-11-17T11:20:16.102Z"
+   "blocked_at": "2026-11-17T11:20:16.102Z",
+   "approval": "아니.. 하나때문에 다 안하면 어떡하니. 생성룰대로 왜 안하니",
+   "released_by": "sam-liuye-20261117",
+   "released_at": "2026-11-17T11:32:50.506Z"
   }
  ]
 }
