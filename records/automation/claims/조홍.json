@@ -4,7 +4,7 @@
   {
    "key": "조홍",
    "execution": "sam-caohong-20261117",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-17T05:18:25.633Z",
    "date_kst": "2026-11-17",
    "date_utc": "2026-11-17",
@@ -33,7 +33,9 @@
     "조홍_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "조홍_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "조홍_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-17T06:33:12.375Z",
+   "done_by": "sam-caohong-20261117"
   }
  ]
 }
