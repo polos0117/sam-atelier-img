@@ -4,7 +4,7 @@
   {
    "key": "만총",
    "execution": "sam-manchong-14263044",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-17T12:19:58.854Z",
    "date_kst": "2026-11-17",
    "date_utc": "2026-11-17",
@@ -33,7 +33,9 @@
     "만총_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "만총_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "만총_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-17T13:44:17.122Z",
+   "done_by": "sam-manchong-14263044"
   }
  ]
 }
