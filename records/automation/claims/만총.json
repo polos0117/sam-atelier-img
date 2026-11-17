@@ -1,0 +1,39 @@
+{
+ "key": "만총",
+ "runs": [
+  {
+   "key": "만총",
+   "execution": "sam-manchong-14263044",
+   "status": "working",
+   "claimed_at": "2026-11-17T12:19:58.854Z",
+   "date_kst": "2026-11-17",
+   "date_utc": "2026-11-17",
+   "missing": [
+    "만총_samguk_kr_drawn_rim_dewy_f.webp",
+    "만총_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "만총_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "만총_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "만총_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "만총_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "만총_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "만총_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "만총_fantasy_kr_drawn_rim_dewy_f.webp",
+    "만총_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "만총_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "만총_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "만총_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "만총_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "만총_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "만총_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "만총_mecha_kr_drawn_rim_dewy_f.webp",
+    "만총_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "만총_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "만총_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "만총_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "만총_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "만총_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "만총_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
