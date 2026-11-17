@@ -1,0 +1,39 @@
+{
+ "key": "도겸",
+ "runs": [
+  {
+   "key": "도겸",
+   "execution": "sam-taoqian-214dd4",
+   "status": "working",
+   "claimed_at": "2026-11-17T14:08:23.441Z",
+   "date_kst": "2026-11-17",
+   "date_utc": "2026-11-17",
+   "missing": [
+    "도겸_samguk_kr_drawn_rim_dewy_f.webp",
+    "도겸_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "도겸_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "도겸_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "도겸_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "도겸_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "도겸_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "도겸_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "도겸_fantasy_kr_drawn_rim_dewy_f.webp",
+    "도겸_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "도겸_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "도겸_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "도겸_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "도겸_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "도겸_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "도겸_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "도겸_mecha_kr_drawn_rim_dewy_f.webp",
+    "도겸_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "도겸_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "도겸_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "도겸_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "도겸_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "도겸_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "도겸_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
