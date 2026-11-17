@@ -4,7 +4,7 @@
   {
    "key": "반장",
    "execution": "sam-panzhang-20261117-da730d",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-17T06:46:27.982Z",
    "date_kst": "2026-11-17",
    "date_utc": "2026-11-17",
@@ -33,7 +33,16 @@
     "반장_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "반장_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "반장_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-17T07:45:53.650Z",
+   "done_by": "sam-panzhang-20261117-da730d",
+   "selected": {
+    "samguk": 1,
+    "fantasy": 4,
+    "mecha": 2
+   },
+   "image_commit": "dd0047f78f5f561c59f6e96423bfb0792404f35b",
+   "code_commit": "0e9c5ae15b17d2aa64cd58b9db566520a3bf52d9"
   }
  ]
 }
