@@ -39,6 +39,25 @@
    "approval": "아니.. 하나때문에 다 안하면 어떡하니. 생성룰대로 왜 안하니",
    "released_by": "sam-liuye-20261117",
    "released_at": "2026-11-17T11:32:50.506Z"
+  },
+  {
+   "key": "유엽",
+   "execution": "sam-liuye-20261117-resume",
+   "status": "working",
+   "claimed_at": "2026-11-17T11:33:12.287Z",
+   "date_kst": "2026-11-17",
+   "date_utc": "2026-11-17",
+   "missing": [
+    "유엽_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "유엽_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "유엽_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "유엽_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "유엽_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "유엽_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "유엽_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "유엽_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "유엽_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
