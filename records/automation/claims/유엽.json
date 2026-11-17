@@ -43,7 +43,7 @@
   {
    "key": "유엽",
    "execution": "sam-liuye-20261117-resume",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-17T11:33:12.287Z",
    "date_kst": "2026-11-17",
    "date_utc": "2026-11-17",
@@ -57,7 +57,9 @@
     "유엽_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "유엽_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "유엽_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-17T11:51:55.347Z",
+   "done_by": "sam-liuye-20261117-resume"
   }
  ]
 }
