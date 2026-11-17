@@ -4,7 +4,7 @@
   {
    "key": "우길",
    "execution": "sam-yuji-20261117-83842d",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-17T00:42:57.405Z",
    "date_kst": "2026-11-17",
    "date_utc": "2026-11-17",
@@ -33,7 +33,17 @@
     "우길_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "우길_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "우길_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-17T03:24:47.256Z",
+   "done_by": "sam-yuji-20261117-83842d",
+   "selection": {
+    "samguk": 1,
+    "fantasy": 3,
+    "mecha": 4
+   },
+   "image_commit": "56471ce4c92ed8c08802393312a24d1bc5bdc20c",
+   "code_commit": "8a93cf48b69e36b0255acf6a50c1f131af98657b",
+   "completed_images": 27
   }
  ]
 }
