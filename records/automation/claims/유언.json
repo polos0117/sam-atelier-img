@@ -1,0 +1,39 @@
+{
+ "key": "유언",
+ "runs": [
+  {
+   "key": "유언",
+   "execution": "sam-liuyan-d27e23bcbb52",
+   "status": "working",
+   "claimed_at": "2026-11-18T21:34:28.714Z",
+   "date_kst": "2026-11-19",
+   "date_utc": "2026-11-18",
+   "missing": [
+    "유언_samguk_kr_drawn_rim_dewy_f.webp",
+    "유언_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "유언_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "유언_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "유언_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "유언_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "유언_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "유언_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "유언_fantasy_kr_drawn_rim_dewy_f.webp",
+    "유언_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "유언_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "유언_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "유언_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "유언_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "유언_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "유언_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "유언_mecha_kr_drawn_rim_dewy_f.webp",
+    "유언_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "유언_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "유언_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "유언_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "유언_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "유언_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "유언_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
