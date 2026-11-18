@@ -4,7 +4,7 @@
   {
    "key": "감부인",
    "execution": "sam-ganfuren-7618",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T01:26:17.651Z",
    "date_kst": "2026-11-18",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "감부인_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "감부인_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "감부인_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T03:02:57.819Z",
+   "done_by": "sam-ganfuren-7618"
   }
  ]
 }
