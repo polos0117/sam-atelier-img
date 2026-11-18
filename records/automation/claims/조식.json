@@ -4,7 +4,7 @@
   {
    "key": "조식",
    "execution": "sam-caozhi-414b9548e8ba",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T15:48:41.194Z",
    "date_kst": "2026-11-19",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "조식_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "조식_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "조식_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T16:22:29.421Z",
+   "done_by": "sam-caozhi-414b9548e8ba"
   }
  ]
 }
