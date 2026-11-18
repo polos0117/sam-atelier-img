@@ -4,7 +4,7 @@
   {
    "key": "장임",
    "execution": "sam-zhangren-d9aeb800",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T15:36:26.155Z",
    "date_kst": "2026-11-19",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "장임_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "장임_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "장임_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T16:06:31.986Z",
+   "done_by": "sam-zhangren-d9aeb800"
   }
  ]
 }
