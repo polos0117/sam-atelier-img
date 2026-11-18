@@ -1,0 +1,39 @@
+{
+ "key": "동윤",
+ "runs": [
+  {
+   "key": "동윤",
+   "execution": "sam-dongyun-c18979faeb6d",
+   "status": "working",
+   "claimed_at": "2026-11-18T16:10:45.825Z",
+   "date_kst": "2026-11-19",
+   "date_utc": "2026-11-18",
+   "missing": [
+    "동윤_samguk_kr_drawn_rim_dewy_f.webp",
+    "동윤_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "동윤_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "동윤_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "동윤_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "동윤_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "동윤_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "동윤_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "동윤_fantasy_kr_drawn_rim_dewy_f.webp",
+    "동윤_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "동윤_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "동윤_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "동윤_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "동윤_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "동윤_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "동윤_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "동윤_mecha_kr_drawn_rim_dewy_f.webp",
+    "동윤_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "동윤_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "동윤_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "동윤_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "동윤_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "동윤_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "동윤_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
