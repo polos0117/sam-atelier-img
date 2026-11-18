@@ -41,7 +41,7 @@
   {
    "key": "동습",
    "execution": "sam-dongxi-106e6d944d68-resume",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T13:44:50.271Z",
    "date_kst": "2026-11-18",
    "date_utc": "2026-11-18",
@@ -70,7 +70,9 @@
     "동습_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "동습_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "동습_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T14:48:29.638Z",
+   "done_by": "sam-dongxi-106e6d944d68-resume"
   }
  ]
 }
