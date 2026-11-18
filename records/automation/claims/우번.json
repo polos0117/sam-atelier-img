@@ -4,7 +4,7 @@
   {
    "key": "우번",
    "execution": "sam-yufan-3784985c7376",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T21:11:01.805Z",
    "date_kst": "2026-11-19",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "우번_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "우번_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "우번_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T21:56:39.354Z",
+   "done_by": "sam-yufan-3784985c7376"
   }
  ]
 }
