@@ -4,7 +4,7 @@
   {
    "key": "감택",
    "execution": "sam-kanze-20261118-321",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T03:40:22.548Z",
    "date_kst": "2026-11-18",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "감택_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "감택_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "감택_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T04:14:29.597Z",
+   "done_by": "sam-kanze-20261118-321"
   }
  ]
 }
