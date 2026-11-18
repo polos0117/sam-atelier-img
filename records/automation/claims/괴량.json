@@ -4,7 +4,7 @@
   {
    "key": "괴량",
    "execution": "sam-kuailiang-20261118",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T03:40:21.243Z",
    "date_kst": "2026-11-18",
    "date_utc": "2026-11-18",
@@ -33,7 +33,11 @@
     "괴량_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "괴량_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "괴량_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T07:55:46.896Z",
+   "done_by": "sam-kuailiang-20261118",
+   "image_commit": "15de4d0d788ce241e89714d88148ae7925408a7a",
+   "data_commit": "d261315f4bc80d65a0cd45d3ab68f713364b75ec"
   }
  ]
 }
