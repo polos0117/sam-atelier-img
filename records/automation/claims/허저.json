@@ -1,0 +1,39 @@
+{
+ "key": "허저",
+ "runs": [
+  {
+   "key": "허저",
+   "execution": "sam-xuchu-20261118",
+   "status": "working",
+   "claimed_at": "2026-11-18T07:18:40.200Z",
+   "date_kst": "2026-11-18",
+   "date_utc": "2026-11-18",
+   "missing": [
+    "허저_samguk_kr_drawn_rim_dewy_f.webp",
+    "허저_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "허저_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "허저_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "허저_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "허저_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "허저_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "허저_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "허저_fantasy_kr_drawn_rim_dewy_f.webp",
+    "허저_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "허저_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "허저_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "허저_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "허저_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "허저_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "허저_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "허저_mecha_kr_drawn_rim_dewy_f.webp",
+    "허저_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "허저_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "허저_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "허저_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "허저_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "허저_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "허저_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
