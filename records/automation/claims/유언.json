@@ -4,7 +4,7 @@
   {
    "key": "유언",
    "execution": "sam-liuyan-d27e23bcbb52",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T21:34:28.714Z",
    "date_kst": "2026-11-19",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "유언_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "유언_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "유언_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T23:33:05.181Z",
+   "done_by": "sam-liuyan-d27e23bcbb52"
   }
  ]
 }
