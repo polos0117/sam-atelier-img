@@ -4,7 +4,7 @@
   {
    "key": "관은병",
    "execution": "sam-guanyinping-20261118",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T11:13:29.073Z",
    "date_kst": "2026-11-18",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "관은병_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "관은병_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "관은병_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T12:09:02.511Z",
+   "done_by": "sam-guanyinping-20261118"
   }
  ]
 }
