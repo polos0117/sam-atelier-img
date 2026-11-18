@@ -4,7 +4,7 @@
   {
    "key": "허저",
    "execution": "sam-xuchu-20261118",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T07:18:40.200Z",
    "date_kst": "2026-11-18",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "허저_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "허저_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "허저_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T11:35:25.157033Z",
+   "done_by": "sam-xuchu-20261118"
   }
  ]
 }
