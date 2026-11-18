@@ -4,7 +4,7 @@
   {
    "key": "사마염",
    "execution": "sam-simayan-8d07ead9",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T12:27:05.005Z",
    "date_kst": "2026-11-18",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "사마염_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "사마염_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "사마염_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T13:09:13.926Z",
+   "done_by": "sam-simayan-8d07ead9"
   }
  ]
 }
