@@ -4,7 +4,7 @@
   {
    "key": "관흥",
    "execution": "sam-guanxing-05f5da3fdf5d",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T13:11:46.427Z",
    "date_kst": "2026-11-18",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "관흥_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "관흥_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "관흥_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T13:54:14.582Z",
+   "done_by": "sam-guanxing-05f5da3fdf5d"
   }
  ]
 }
