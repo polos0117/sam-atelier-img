@@ -1,0 +1,39 @@
+{
+ "key": "감부인",
+ "runs": [
+  {
+   "key": "감부인",
+   "execution": "sam-ganfuren-7618",
+   "status": "working",
+   "claimed_at": "2026-11-18T01:26:17.651Z",
+   "date_kst": "2026-11-18",
+   "date_utc": "2026-11-18",
+   "missing": [
+    "감부인_samguk_kr_drawn_rim_dewy_f.webp",
+    "감부인_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "감부인_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "감부인_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "감부인_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "감부인_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "감부인_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "감부인_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "감부인_fantasy_kr_drawn_rim_dewy_f.webp",
+    "감부인_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "감부인_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "감부인_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "감부인_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "감부인_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "감부인_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "감부인_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "감부인_mecha_kr_drawn_rim_dewy_f.webp",
+    "감부인_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "감부인_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "감부인_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "감부인_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "감부인_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "감부인_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "감부인_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
