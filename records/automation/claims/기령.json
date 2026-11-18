@@ -4,7 +4,7 @@
   {
    "key": "기령",
    "execution": "sam-jiling-f3668c5fdafb",
-   "status": "working",
+   "status": "released",
    "claimed_at": "2026-11-18T14:08:06.934Z",
    "date_kst": "2026-11-18",
    "date_utc": "2026-11-18",
@@ -33,7 +33,10 @@
     "기령_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "기령_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "기령_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "approval": "이번 작업 취소해줘.",
+   "released_by": "sam-jiling-f3668c5fdafb",
+   "released_at": "2026-11-18T14:22:37.927Z"
   }
  ]
 }
