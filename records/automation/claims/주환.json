@@ -4,7 +4,7 @@
   {
    "key": "주환",
    "execution": "sam-zhuhuan-aed51f",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T11:45:19.331Z",
    "date_kst": "2026-11-18",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "주환_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "주환_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "주환_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-18T12:24:45.591Z",
+   "done_by": "sam-zhuhuan-aed51f"
   }
  ]
 }
