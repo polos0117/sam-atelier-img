@@ -1,0 +1,39 @@
+{
+ "key": "우번",
+ "runs": [
+  {
+   "key": "우번",
+   "execution": "sam-yufan-3784985c7376",
+   "status": "working",
+   "claimed_at": "2026-11-18T21:11:01.805Z",
+   "date_kst": "2026-11-19",
+   "date_utc": "2026-11-18",
+   "missing": [
+    "우번_samguk_kr_drawn_rim_dewy_f.webp",
+    "우번_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "우번_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "우번_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "우번_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "우번_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "우번_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "우번_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "우번_fantasy_kr_drawn_rim_dewy_f.webp",
+    "우번_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "우번_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "우번_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "우번_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "우번_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "우번_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "우번_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "우번_mecha_kr_drawn_rim_dewy_f.webp",
+    "우번_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "우번_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "우번_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "우번_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "우번_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "우번_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "우번_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
