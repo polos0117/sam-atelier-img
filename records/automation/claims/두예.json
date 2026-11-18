@@ -1,0 +1,39 @@
+{
+ "key": "두예",
+ "runs": [
+  {
+   "key": "두예",
+   "execution": "sam-duyu-0bca3913d826",
+   "status": "working",
+   "claimed_at": "2026-11-18T23:29:11.942Z",
+   "date_kst": "2026-11-19",
+   "date_utc": "2026-11-18",
+   "missing": [
+    "두예_samguk_kr_drawn_rim_dewy_f.webp",
+    "두예_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "두예_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "두예_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "두예_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "두예_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "두예_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "두예_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "두예_fantasy_kr_drawn_rim_dewy_f.webp",
+    "두예_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "두예_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "두예_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "두예_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "두예_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "두예_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "두예_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "두예_mecha_kr_drawn_rim_dewy_f.webp",
+    "두예_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "두예_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "두예_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "두예_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "두예_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "두예_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "두예_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
