@@ -34,7 +34,7 @@
   {
    "key": "등애",
    "execution": "sam-dengai-66b1bbd86cc1",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-19T02:51:45.683Z",
    "date_kst": "2026-11-19",
    "date_utc": "2026-11-19",
@@ -63,7 +63,9 @@
     "등애_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "등애_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "등애_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-19T04:24:28.767Z",
+   "done_by": "sam-dengai-66b1bbd86cc1"
   }
  ]
 }
