@@ -1,0 +1,39 @@
+{
+ "key": "사마사",
+ "runs": [
+  {
+   "key": "사마사",
+   "execution": "sam-simashi-3d6c3b86df52",
+   "status": "working",
+   "claimed_at": "2026-11-19T16:21:40.321Z",
+   "date_kst": "2026-11-20",
+   "date_utc": "2026-11-19",
+   "missing": [
+    "사마사_samguk_kr_drawn_rim_dewy_f.webp",
+    "사마사_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "사마사_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "사마사_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "사마사_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "사마사_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "사마사_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "사마사_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "사마사_fantasy_kr_drawn_rim_dewy_f.webp",
+    "사마사_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "사마사_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "사마사_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "사마사_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "사마사_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "사마사_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "사마사_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "사마사_mecha_kr_drawn_rim_dewy_f.webp",
+    "사마사_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "사마사_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "사마사_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "사마사_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "사마사_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "사마사_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "사마사_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
