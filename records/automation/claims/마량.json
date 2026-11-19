@@ -71,7 +71,7 @@
   {
    "key": "마량",
    "execution": "sam-maliang-6735236",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-19T14:42:08.935Z",
    "date_kst": "2026-11-19",
    "date_utc": "2026-11-19",
@@ -100,7 +100,9 @@
     "마량_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "마량_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "마량_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-19T15:19:02.388Z",
+   "done_by": "sam-maliang-6735236"
   }
  ]
 }
