@@ -1,0 +1,39 @@
+{
+ "key": "보연사",
+ "runs": [
+  {
+   "key": "보연사",
+   "execution": "sam-bulianshi-51ace61c",
+   "status": "working",
+   "claimed_at": "2026-11-19T15:06:59.177Z",
+   "date_kst": "2026-11-20",
+   "date_utc": "2026-11-19",
+   "missing": [
+    "보연사_samguk_kr_drawn_rim_dewy_f.webp",
+    "보연사_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "보연사_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "보연사_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "보연사_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "보연사_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "보연사_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "보연사_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "보연사_fantasy_kr_drawn_rim_dewy_f.webp",
+    "보연사_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "보연사_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "보연사_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "보연사_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "보연사_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "보연사_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "보연사_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "보연사_mecha_kr_drawn_rim_dewy_f.webp",
+    "보연사_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "보연사_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "보연사_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "보연사_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "보연사_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "보연사_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "보연사_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
