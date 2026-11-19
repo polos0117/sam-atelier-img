@@ -70,6 +70,40 @@
     "approval": "사용자 「업로드해줘」",
     "note": "요청한 api25 및 썸네일 등록 확인. 기본화풍 missing 목록은 이력으로 보존. 승인된 QA 예외 보존."
    }
+  },
+  {
+   "key": "주태",
+   "execution": "sam-zhoutai-f86dbf8f1714",
+   "status": "working",
+   "claimed_at": "2026-11-19T05:20:28.756Z",
+   "date_kst": "2026-11-19",
+   "date_utc": "2026-11-19",
+   "missing": [
+    "주태_samguk_kr_drawn_rim_dewy_f.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "주태_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "주태_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "주태_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
