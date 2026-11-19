@@ -4,7 +4,7 @@
   {
    "key": "방덕",
    "execution": "sam-pangde-062a34923c2f",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-19T21:17:35.649Z",
    "date_kst": "2026-11-20",
    "date_utc": "2026-11-19",
@@ -33,7 +33,9 @@
     "방덕_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "방덕_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "방덕_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-19T21:57:24Z",
+   "done_by": "sam-pangde-062a34923c2f"
   }
  ]
 }
