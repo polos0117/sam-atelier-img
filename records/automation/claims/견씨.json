@@ -100,6 +100,40 @@
     "approval": "사용자 2026-11-12 「올려줘」",
     "note": "요청한 api25 세계 및 일상컷과 썸네일 도감 등록 확인. 기본화풍 missing과 이전 완료 이력은 보존. 승인한 QA 예외 보존."
    }
+  },
+  {
+   "key": "견씨",
+   "execution": "sam-zhenji-51f13c505ea1",
+   "status": "working",
+   "claimed_at": "2026-11-19T13:57:01.968Z",
+   "date_kst": "2026-11-19",
+   "date_utc": "2026-11-19",
+   "missing": [
+    "견씨_samguk_kr_drawn_rim_dewy_f.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "견씨_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "견씨_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "견씨_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
