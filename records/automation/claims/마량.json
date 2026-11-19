@@ -67,6 +67,40 @@
    "approval": "마량 작업 취소해주고 시트랑 세계컷도 삭제해줘.",
    "released_by": "sam-maliang-9d291e-20261119",
    "released_at": "2026-11-19T02:43:17.746Z"
+  },
+  {
+   "key": "마량",
+   "execution": "sam-maliang-6735236",
+   "status": "working",
+   "claimed_at": "2026-11-19T14:42:08.935Z",
+   "date_kst": "2026-11-19",
+   "date_utc": "2026-11-19",
+   "missing": [
+    "마량_samguk_kr_drawn_rim_dewy_f.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
