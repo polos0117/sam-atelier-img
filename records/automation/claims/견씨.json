@@ -104,7 +104,7 @@
   {
    "key": "견씨",
    "execution": "sam-zhenji-51f13c505ea1",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-19T13:57:01.968Z",
    "date_kst": "2026-11-19",
    "date_utc": "2026-11-19",
@@ -133,7 +133,9 @@
     "견씨_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "견씨_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "견씨_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-19T15:08:48.196Z",
+   "done_by": "sam-zhenji-51f13c505ea1"
   }
  ]
 }
