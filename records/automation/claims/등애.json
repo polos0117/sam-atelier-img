@@ -30,6 +30,40 @@
    ],
    "done_at": "2026-11-03T18:08:01.411Z",
    "done_by": "sam-dengai-20261104-3901ff"
+  },
+  {
+   "key": "등애",
+   "execution": "sam-dengai-66b1bbd86cc1",
+   "status": "working",
+   "claimed_at": "2026-11-19T02:51:45.683Z",
+   "date_kst": "2026-11-19",
+   "date_utc": "2026-11-19",
+   "missing": [
+    "등애_samguk_kr_drawn_rim_dewy_f.webp",
+    "등애_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "등애_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "등애_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "등애_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "등애_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "등애_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "등애_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "등애_fantasy_kr_drawn_rim_dewy_f.webp",
+    "등애_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "등애_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "등애_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "등애_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "등애_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "등애_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "등애_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "등애_mecha_kr_drawn_rim_dewy_f.webp",
+    "등애_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "등애_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "등애_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "등애_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "등애_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "등애_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "등애_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
