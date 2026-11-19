@@ -30,6 +30,40 @@
    ],
    "done_at": "2026-11-04T03:06:31.392Z",
    "done_by": "sam-maliang-20261104-bc13"
+  },
+  {
+   "key": "마량",
+   "execution": "sam-maliang-9d291e-20261119",
+   "status": "working",
+   "claimed_at": "2026-11-19T00:24:20.984Z",
+   "date_kst": "2026-11-19",
+   "date_utc": "2026-11-19",
+   "missing": [
+    "마량_samguk_kr_drawn_rim_dewy_f.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "마량_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "마량_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "마량_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
