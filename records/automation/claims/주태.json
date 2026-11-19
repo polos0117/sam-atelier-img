@@ -74,7 +74,7 @@
   {
    "key": "주태",
    "execution": "sam-zhoutai-f86dbf8f1714",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-19T05:20:28.756Z",
    "date_kst": "2026-11-19",
    "date_utc": "2026-11-19",
@@ -103,7 +103,9 @@
     "주태_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "주태_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "주태_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-19T07:42:05.639Z",
+   "done_by": "sam-zhoutai-f86dbf8f1714"
   }
  ]
 }
