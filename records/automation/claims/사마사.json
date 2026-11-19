@@ -4,7 +4,7 @@
   {
    "key": "사마사",
    "execution": "sam-simashi-3d6c3b86df52",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-19T16:21:40.321Z",
    "date_kst": "2026-11-20",
    "date_utc": "2026-11-19",
@@ -33,7 +33,9 @@
     "사마사_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "사마사_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "사마사_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-19T17:12:21.181Z",
+   "done_by": "sam-simashi-3d6c3b86df52"
   }
  ]
 }
