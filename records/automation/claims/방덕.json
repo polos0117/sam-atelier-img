@@ -1,0 +1,39 @@
+{
+ "key": "방덕",
+ "runs": [
+  {
+   "key": "방덕",
+   "execution": "sam-pangde-062a34923c2f",
+   "status": "working",
+   "claimed_at": "2026-11-19T21:17:35.649Z",
+   "date_kst": "2026-11-20",
+   "date_utc": "2026-11-19",
+   "missing": [
+    "방덕_samguk_kr_drawn_rim_dewy_f.webp",
+    "방덕_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "방덕_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "방덕_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "방덕_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "방덕_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "방덕_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "방덕_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "방덕_fantasy_kr_drawn_rim_dewy_f.webp",
+    "방덕_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "방덕_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "방덕_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "방덕_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "방덕_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "방덕_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "방덕_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "방덕_mecha_kr_drawn_rim_dewy_f.webp",
+    "방덕_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "방덕_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "방덕_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "방덕_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "방덕_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "방덕_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "방덕_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
