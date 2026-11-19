@@ -4,7 +4,7 @@
   {
    "key": "두예",
    "execution": "sam-duyu-0bca3913d826",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T23:29:11.942Z",
    "date_kst": "2026-11-19",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "두예_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "두예_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "두예_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-19T04:11:07.754Z",
+   "done_by": "sam-duyu-0bca3913d826"
   }
  ]
 }
