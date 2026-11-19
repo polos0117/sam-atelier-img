@@ -1,0 +1,39 @@
+{
+ "key": "요화",
+ "runs": [
+  {
+   "key": "요화",
+   "execution": "sam-liaohua-69fe359cb697",
+   "status": "working",
+   "claimed_at": "2026-11-19T04:09:22.290Z",
+   "date_kst": "2026-11-19",
+   "date_utc": "2026-11-19",
+   "missing": [
+    "요화_samguk_kr_drawn_rim_dewy_f.webp",
+    "요화_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "요화_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "요화_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "요화_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "요화_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "요화_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "요화_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "요화_fantasy_kr_drawn_rim_dewy_f.webp",
+    "요화_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "요화_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "요화_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "요화_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "요화_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "요화_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "요화_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "요화_mecha_kr_drawn_rim_dewy_f.webp",
+    "요화_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "요화_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "요화_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "요화_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "요화_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "요화_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "요화_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
