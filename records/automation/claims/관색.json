@@ -4,7 +4,7 @@
   {
    "key": "관색",
    "execution": "sam-guansuo-b97aa5026237",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-19T21:34:53.662Z",
    "date_kst": "2026-11-20",
    "date_utc": "2026-11-19",
@@ -33,7 +33,9 @@
     "관색_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "관색_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "관색_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-19T23:44:17.202Z",
+   "done_by": "sam-guansuo-b97aa5026237"
   }
  ]
 }
