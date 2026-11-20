@@ -41,7 +41,7 @@
   {
    "key": "비의",
    "execution": "sam-feiyi-47f2027247fc",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-20T11:53:29.192Z",
    "date_kst": "2026-11-20",
    "date_utc": "2026-11-20",
@@ -70,7 +70,9 @@
     "비의_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "비의_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "비의_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-20T12:40:41.097Z",
+   "done_by": "sam-feiyi-47f2027247fc"
   }
  ]
 }
