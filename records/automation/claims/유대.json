@@ -1,0 +1,39 @@
+{
+ "key": "유대",
+ "runs": [
+  {
+   "key": "유대",
+   "execution": "sam-liudai-ac56144809ac",
+   "status": "working",
+   "claimed_at": "2026-11-20T17:22:58.808Z",
+   "date_kst": "2026-11-21",
+   "date_utc": "2026-11-20",
+   "missing": [
+    "유대_samguk_kr_drawn_rim_dewy_f.webp",
+    "유대_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "유대_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "유대_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "유대_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "유대_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "유대_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "유대_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "유대_fantasy_kr_drawn_rim_dewy_f.webp",
+    "유대_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "유대_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "유대_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "유대_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "유대_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "유대_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "유대_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "유대_mecha_kr_drawn_rim_dewy_f.webp",
+    "유대_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "유대_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "유대_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "유대_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "유대_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "유대_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "유대_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
