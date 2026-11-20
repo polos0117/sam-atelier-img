@@ -4,7 +4,7 @@
   {
    "key": "손환",
    "execution": "sam-sunhuan-7a96a05e48cc",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-19T23:23:09.800Z",
    "date_kst": "2026-11-20",
    "date_utc": "2026-11-19",
@@ -33,7 +33,9 @@
     "손환_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "손환_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "손환_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-20T02:56:52.984Z",
+   "done_by": "sam-sunhuan-7a96a05e48cc"
   }
  ]
 }
