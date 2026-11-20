@@ -4,7 +4,7 @@
   {
    "key": "유대",
    "execution": "sam-liudai-ac56144809ac",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-20T17:22:58.808Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-20",
@@ -33,7 +33,9 @@
     "유대_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "유대_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "유대_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-20T19:18:58.326Z",
+   "done_by": "sam-liudai-ac56144809ac"
   }
  ]
 }
