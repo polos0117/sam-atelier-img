@@ -4,7 +4,7 @@
   {
    "key": "황보숭",
    "execution": "sam-huangfusong-20aaec476241",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-20T02:36:49.107Z",
    "date_kst": "2026-11-20",
    "date_utc": "2026-11-20",
@@ -33,7 +33,9 @@
     "황보숭_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "황보숭_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "황보숭_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-20T06:56:42Z",
+   "done_by": "sam-huangfusong-20aaec476241"
   }
  ]
 }
