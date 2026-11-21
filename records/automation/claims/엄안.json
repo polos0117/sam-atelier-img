@@ -4,7 +4,7 @@
   {
    "key": "엄안",
    "execution": "sam-yanyan-f6b72cf0ec1c",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T20:07:09.153Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-21",
@@ -33,7 +33,9 @@
     "엄안_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "엄안_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "엄안_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T23:49:15.933Z",
+   "done_by": "sam-yanyan-f6b72cf0ec1c"
   }
  ]
 }
