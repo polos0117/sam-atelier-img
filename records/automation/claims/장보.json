@@ -3,7 +3,7 @@
   {
    "key": "장보",
    "execution": "sam-zhangbao-yellow-ced13039",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T12:52:49.875Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-21",
@@ -32,7 +32,9 @@
     "장보_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "장보_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "장보_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T13:31:46.685Z",
+   "done_by": "sam-zhangbao-yellow-ced13039"
   }
  ]
 }
