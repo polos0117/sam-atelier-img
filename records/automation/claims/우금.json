@@ -1,0 +1,39 @@
+{
+ "key": "우금",
+ "runs": [
+  {
+   "key": "우금",
+   "execution": "sam-yujin-98866b11",
+   "status": "working",
+   "claimed_at": "2026-11-21T00:09:42.420Z",
+   "date_kst": "2026-11-21",
+   "date_utc": "2026-11-21",
+   "missing": [
+    "우금_samguk_kr_drawn_rim_dewy_f.webp",
+    "우금_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "우금_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "우금_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "우금_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "우금_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "우금_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "우금_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "우금_fantasy_kr_drawn_rim_dewy_f.webp",
+    "우금_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "우금_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "우금_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "우금_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "우금_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "우금_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "우금_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "우금_mecha_kr_drawn_rim_dewy_f.webp",
+    "우금_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "우금_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "우금_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "우금_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "우금_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "우금_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "우금_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
