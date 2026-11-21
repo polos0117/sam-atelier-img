@@ -4,7 +4,7 @@
   {
    "key": "우금",
    "execution": "sam-yujin-98866b11",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T00:09:42.420Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-21",
@@ -33,7 +33,9 @@
     "우금_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "우금_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "우금_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T00:45:04.555Z",
+   "done_by": "sam-yujin-98866b11"
   }
  ]
 }
