@@ -4,7 +4,7 @@
   {
    "key": "황권",
    "execution": "sam-huangquan-f6ef5c",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T17:24:00.406Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-21",
@@ -33,7 +33,9 @@
     "황권_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "황권_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "황권_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T18:12:25.103Z",
+   "done_by": "sam-huangquan-f6ef5c"
   }
  ]
 }
