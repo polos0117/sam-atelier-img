@@ -4,7 +4,7 @@
   {
    "key": "한현",
    "execution": "sam-hanxuan-2aea5b366800",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T19:07:15.968Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-21",
@@ -33,7 +33,9 @@
     "한현_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "한현_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "한현_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T19:40:32.661Z",
+   "done_by": "sam-hanxuan-2aea5b366800"
   }
  ]
 }
