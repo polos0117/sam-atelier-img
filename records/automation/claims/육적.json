@@ -4,7 +4,7 @@
   {
    "key": "육적",
    "execution": "luji-a426b65",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T18:16:33.674Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-21",
@@ -33,7 +33,9 @@
     "육적_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "육적_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "육적_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T18:52:48Z",
+   "done_by": "luji-a426b65"
   }
  ]
 }
