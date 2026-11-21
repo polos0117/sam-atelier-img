@@ -4,7 +4,7 @@
   {
    "key": "포삼랑",
    "execution": "posamrang-78c405",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T00:54:34.476Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-21",
@@ -33,7 +33,9 @@
     "포삼랑_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "포삼랑_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "포삼랑_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T01:23:00.531Z",
+   "done_by": "posamrang-78c405"
   }
  ]
 }
