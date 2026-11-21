@@ -4,7 +4,7 @@
   {
    "key": "주연",
    "execution": "sam-zhuran-4b1e7698",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T04:05:15.387Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-21",
@@ -33,7 +33,9 @@
     "주연_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "주연_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "주연_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T04:41:49.441Z",
+   "done_by": "sam-zhuran-4b1e7698"
   }
  ]
 }
