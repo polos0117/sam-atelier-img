@@ -4,7 +4,7 @@
   {
    "key": "최염",
    "execution": "sam-cuiyan-c606cb72",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-21T13:36:43.870Z",
    "date_kst": "2026-11-21",
    "date_utc": "2026-11-21",
@@ -33,7 +33,9 @@
     "최염_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "최염_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "최염_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-21T14:17:01.099Z",
+   "done_by": "sam-cuiyan-c606cb72"
   }
  ]
 }
