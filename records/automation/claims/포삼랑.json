@@ -1,0 +1,39 @@
+{
+ "key": "포삼랑",
+ "runs": [
+  {
+   "key": "포삼랑",
+   "execution": "posamrang-78c405",
+   "status": "working",
+   "claimed_at": "2026-11-21T00:54:34.476Z",
+   "date_kst": "2026-11-21",
+   "date_utc": "2026-11-21",
+   "missing": [
+    "포삼랑_samguk_kr_drawn_rim_dewy_f.webp",
+    "포삼랑_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "포삼랑_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "포삼랑_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "포삼랑_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "포삼랑_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "포삼랑_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "포삼랑_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "포삼랑_fantasy_kr_drawn_rim_dewy_f.webp",
+    "포삼랑_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "포삼랑_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "포삼랑_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "포삼랑_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "포삼랑_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "포삼랑_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "포삼랑_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "포삼랑_mecha_kr_drawn_rim_dewy_f.webp",
+    "포삼랑_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "포삼랑_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "포삼랑_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "포삼랑_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "포삼랑_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "포삼랑_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "포삼랑_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
