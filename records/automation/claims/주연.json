@@ -1,0 +1,39 @@
+{
+ "key": "주연",
+ "runs": [
+  {
+   "key": "주연",
+   "execution": "sam-zhuran-4b1e7698",
+   "status": "working",
+   "claimed_at": "2026-11-21T04:05:15.387Z",
+   "date_kst": "2026-11-21",
+   "date_utc": "2026-11-21",
+   "missing": [
+    "주연_samguk_kr_drawn_rim_dewy_f.webp",
+    "주연_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "주연_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "주연_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "주연_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "주연_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "주연_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "주연_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "주연_fantasy_kr_drawn_rim_dewy_f.webp",
+    "주연_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "주연_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "주연_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "주연_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "주연_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "주연_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "주연_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "주연_mecha_kr_drawn_rim_dewy_f.webp",
+    "주연_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "주연_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "주연_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "주연_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "주연_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "주연_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "주연_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
