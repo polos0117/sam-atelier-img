@@ -37,6 +37,40 @@
    "approval": "이번 작업 취소해줘.",
    "released_by": "sam-jiling-f3668c5fdafb",
    "released_at": "2026-11-18T14:22:37.927Z"
+  },
+  {
+   "key": "기령",
+   "execution": "sam-jiling-25411b2412a7",
+   "status": "working",
+   "claimed_at": "2026-11-22T17:07:47.402Z",
+   "date_kst": "2026-11-23",
+   "date_utc": "2026-11-22",
+   "missing": [
+    "기령_samguk_kr_drawn_rim_dewy_f.webp",
+    "기령_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "기령_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "기령_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "기령_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "기령_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "기령_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "기령_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "기령_fantasy_kr_drawn_rim_dewy_f.webp",
+    "기령_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "기령_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "기령_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "기령_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "기령_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "기령_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "기령_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "기령_mecha_kr_drawn_rim_dewy_f.webp",
+    "기령_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "기령_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "기령_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "기령_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "기령_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "기령_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "기령_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
   }
  ]
 }
