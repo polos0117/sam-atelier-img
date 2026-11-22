@@ -4,7 +4,7 @@
   {
    "key": "능조",
    "execution": "sam-lingcao-2d5fb16f7b23",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-22T00:30:00.133Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-22",
@@ -33,7 +33,9 @@
     "능조_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "능조_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "능조_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-22T04:01:00.829Z",
+   "done_by": "sam-lingcao-2d5fb16f7b23"
   }
  ]
 }
