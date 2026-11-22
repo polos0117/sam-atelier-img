@@ -1,0 +1,39 @@
+{
+ "key": "능조",
+ "runs": [
+  {
+   "key": "능조",
+   "execution": "sam-lingcao-2d5fb16f7b23",
+   "status": "working",
+   "claimed_at": "2026-11-22T00:30:00.133Z",
+   "date_kst": "2026-11-22",
+   "date_utc": "2026-11-22",
+   "missing": [
+    "능조_samguk_kr_drawn_rim_dewy_f.webp",
+    "능조_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "능조_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "능조_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "능조_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "능조_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "능조_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "능조_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "능조_fantasy_kr_drawn_rim_dewy_f.webp",
+    "능조_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "능조_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "능조_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "능조_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "능조_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "능조_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "능조_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "능조_mecha_kr_drawn_rim_dewy_f.webp",
+    "능조_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "능조_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "능조_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "능조_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "능조_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "능조_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "능조_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
