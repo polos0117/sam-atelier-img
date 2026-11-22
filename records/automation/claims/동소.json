@@ -4,7 +4,7 @@
   {
    "key": "동소",
    "execution": "sam-dongzhao-29d9196eb30c",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-22T05:24:51.048Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-22",
@@ -33,7 +33,9 @@
     "동소_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "동소_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "동소_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-22T05:45:46.449Z",
+   "done_by": "sam-dongzhao-29d9196eb30c"
   }
  ]
 }
