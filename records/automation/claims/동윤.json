@@ -4,7 +4,7 @@
   {
    "key": "동윤",
    "execution": "sam-dongyun-c18979faeb6d",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-18T16:10:45.825Z",
    "date_kst": "2026-11-19",
    "date_utc": "2026-11-18",
@@ -33,7 +33,9 @@
     "동윤_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "동윤_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "동윤_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-22T11:30:22.973Z",
+   "done_by": "sam-dongyun-recovery-e8567e7319a9"
   }
  ]
 }
