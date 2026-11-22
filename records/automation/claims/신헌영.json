@@ -4,7 +4,7 @@
   {
    "key": "신헌영",
    "execution": "sam-xinxianying-094bbe",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-22T12:47:31.787Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-22",
@@ -33,7 +33,9 @@
     "신헌영_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "신헌영_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "신헌영_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-22T13:27:11.581Z",
+   "done_by": "sam-xinxianying-094bbe"
   }
  ]
 }
