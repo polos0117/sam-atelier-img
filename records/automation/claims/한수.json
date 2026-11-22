@@ -4,7 +4,7 @@
   {
    "key": "한수",
    "execution": "sam-hansui-c21d051461a5",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-22T05:02:32.590Z",
    "date_kst": "2026-11-22",
    "date_utc": "2026-11-22",
@@ -33,7 +33,9 @@
     "한수_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "한수_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "한수_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-22T05:41:29.215Z",
+   "done_by": "sam-hansui-c21d051461a5"
   }
  ]
 }
