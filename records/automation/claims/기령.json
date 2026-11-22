@@ -41,7 +41,7 @@
   {
    "key": "기령",
    "execution": "sam-jiling-25411b2412a7",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-22T17:07:47.402Z",
    "date_kst": "2026-11-23",
    "date_utc": "2026-11-22",
@@ -70,7 +70,9 @@
     "기령_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "기령_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "기령_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "reason": "중세 판타지 일상컷 5번 출력 차단. 나머지 26장 이미지와 도감 등록 완료.",
+   "blocked_at": "2026-11-22T18:05:19.995Z"
   }
  ]
 }
