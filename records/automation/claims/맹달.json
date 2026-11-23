@@ -4,7 +4,7 @@
   {
    "key": "맹달",
    "execution": "sam-mengda-28ceb58",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-23T12:00:40.470Z",
    "date_kst": "2026-11-23",
    "date_utc": "2026-11-23",
@@ -33,7 +33,9 @@
     "맹달_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "맹달_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "맹달_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "reason": "정사각형 5장 재시도 후에도 1254×1254 (목표 1024×1024): 삼국시대 1, 2, 90번, 중세 판타지 4, 90번. 규격에 맞는 22장 반영. 사용자의 등록 규격 결정 대기.",
+   "blocked_at": "2026-11-23T12:46:10.075Z"
   }
  ]
 }
