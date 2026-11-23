@@ -4,7 +4,7 @@
   {
    "key": "조앙",
    "execution": "sam-caoang-753144f2",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-23T09:27:43.415Z",
    "date_kst": "2026-11-23",
    "date_utc": "2026-11-23",
@@ -33,7 +33,9 @@
     "조앙_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "조앙_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "조앙_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-23T11:28:33.852Z",
+   "done_by": "sam-caoang-753144f2"
   }
  ]
 }
