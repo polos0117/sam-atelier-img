@@ -4,7 +4,7 @@
   {
    "key": "동백",
    "execution": "sam-dongbai-2c6f3d8731b9",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-23T14:09:22.738Z",
    "date_kst": "2026-11-23",
    "date_utc": "2026-11-23",
@@ -33,7 +33,9 @@
     "동백_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "동백_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "동백_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-23T21:32:28.676Z",
+   "done_by": "sam-dongbai-2c6f3d8731b9"
   }
  ]
 }
