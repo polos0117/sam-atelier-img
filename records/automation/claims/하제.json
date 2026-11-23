@@ -4,7 +4,7 @@
   {
    "key": "하제",
    "execution": "sam-heqi-af48a218d5e5",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-23T13:33:22.794227+00:00",
    "date_kst": "2026-11-23",
    "date_utc": "2026-11-23",
@@ -33,7 +33,9 @@
     "하제_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "하제_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "하제_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-23T14:22:29.604Z",
+   "done_by": "sam-heqi-af48a218d5e5"
   }
  ]
 }
