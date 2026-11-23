@@ -1,0 +1,39 @@
+{
+ "key": "맹달",
+ "runs": [
+  {
+   "key": "맹달",
+   "execution": "sam-mengda-28ceb58",
+   "status": "working",
+   "claimed_at": "2026-11-23T12:00:40.470Z",
+   "date_kst": "2026-11-23",
+   "date_utc": "2026-11-23",
+   "missing": [
+    "맹달_samguk_kr_drawn_rim_dewy_f.webp",
+    "맹달_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "맹달_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "맹달_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "맹달_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "맹달_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "맹달_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "맹달_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "맹달_fantasy_kr_drawn_rim_dewy_f.webp",
+    "맹달_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "맹달_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "맹달_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "맹달_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "맹달_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "맹달_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "맹달_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "맹달_mecha_kr_drawn_rim_dewy_f.webp",
+    "맹달_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "맹달_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "맹달_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "맹달_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "맹달_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "맹달_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "맹달_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
