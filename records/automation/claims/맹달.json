@@ -43,7 +43,7 @@
   {
    "key": "맹달",
    "execution": "sam-mengda-28ceb58",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-23T12:52:22.294Z",
    "date_kst": "2026-11-23",
    "date_utc": "2026-11-23",
@@ -54,7 +54,9 @@
     "맹달_samguk_kr_drawn_rim_dewy_f_casual2.webp",
     "맹달_samguk_kr_drawn_rim_dewy_f_casual90.webp"
    ],
-   "approval": "1254 그대로 등록해줘"
+   "approval": "1254 그대로 등록해줘",
+   "done_at": "2026-11-23T12:54:14.518Z",
+   "done_by": "sam-mengda-28ceb58"
   }
  ]
 }
