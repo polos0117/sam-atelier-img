@@ -1,0 +1,39 @@
+{
+ "key": "하제",
+ "runs": [
+  {
+   "key": "하제",
+   "execution": "sam-heqi-af48a218d5e5",
+   "status": "working",
+   "claimed_at": "2026-11-23T13:33:22.794227+00:00",
+   "date_kst": "2026-11-23",
+   "date_utc": "2026-11-23",
+   "missing": [
+    "하제_samguk_kr_drawn_rim_dewy_f.webp",
+    "하제_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "하제_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "하제_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "하제_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "하제_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "하제_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "하제_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "하제_fantasy_kr_drawn_rim_dewy_f.webp",
+    "하제_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "하제_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "하제_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "하제_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "하제_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "하제_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "하제_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "하제_mecha_kr_drawn_rim_dewy_f.webp",
+    "하제_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "하제_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "하제_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "하제_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "하제_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "하제_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "하제_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
