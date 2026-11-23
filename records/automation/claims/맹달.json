@@ -4,7 +4,7 @@
   {
    "key": "맹달",
    "execution": "sam-mengda-28ceb58",
-   "status": "blocked",
+   "status": "released",
    "claimed_at": "2026-11-23T12:00:40.470Z",
    "date_kst": "2026-11-23",
    "date_utc": "2026-11-23",
@@ -35,7 +35,26 @@
     "맹달_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
    "reason": "정사각형 5장 재시도 후에도 1254×1254 (목표 1024×1024): 삼국시대 1, 2, 90번, 중세 판타지 4, 90번. 규격에 맞는 22장 반영. 사용자의 등록 규격 결정 대기.",
-   "blocked_at": "2026-11-23T12:46:10.075Z"
+   "blocked_at": "2026-11-23T12:46:10.075Z",
+   "approval": "1254 그대로 등록해줘",
+   "released_by": "sam-mengda-28ceb58",
+   "released_at": "2026-11-23T12:52:22.294Z"
+  },
+  {
+   "key": "맹달",
+   "execution": "sam-mengda-28ceb58",
+   "status": "working",
+   "claimed_at": "2026-11-23T12:52:22.294Z",
+   "date_kst": "2026-11-23",
+   "date_utc": "2026-11-23",
+   "missing": [
+    "맹달_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "맹달_fantasy_kr_drawn_rim_dewy_f_casual90.webp",
+    "맹달_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "맹달_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "맹달_samguk_kr_drawn_rim_dewy_f_casual90.webp"
+   ],
+   "approval": "1254 그대로 등록해줘"
   }
  ]
 }
