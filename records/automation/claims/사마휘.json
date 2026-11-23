@@ -34,7 +34,7 @@
   {
    "key": "사마휘",
    "execution": "sam-simahui-afa3bae34394",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-23T00:40:05.861Z",
    "date_kst": "2026-11-23",
    "date_utc": "2026-11-23",
@@ -63,7 +63,9 @@
     "사마휘_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "사마휘_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "사마휘_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-23T01:06:43.847Z",
+   "done_by": "sam-simahui-afa3bae34394"
   }
  ]
 }
