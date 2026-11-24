@@ -4,7 +4,7 @@
   {
    "key": "화흠",
    "execution": "sam-huaxin-17e671c0ddcf",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-23T23:15:53.698Z",
    "date_kst": "2026-11-24",
    "date_utc": "2026-11-23",
@@ -33,7 +33,9 @@
     "화흠_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "화흠_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "화흠_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-24T01:03:57.952Z",
+   "done_by": "sam-huaxin-17e671c0ddcf"
   }
  ]
 }
