@@ -4,7 +4,7 @@
   {
    "key": "문빙",
    "execution": "sam-wenpin-20261124",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-24T12:36:43.312Z",
    "date_kst": "2026-11-24",
    "date_utc": "2026-11-24",
@@ -33,7 +33,9 @@
     "문빙_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "문빙_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "문빙_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-24T13:47:14.896Z",
+   "done_by": "sam-wenpin-20261124"
   }
  ]
 }
