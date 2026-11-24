@@ -4,9 +4,9 @@
   {
    "key": "부첨",
    "execution": "sam-fuqian-3b7c",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-24T13:22:16.175Z",
-   "date_kst": "2026-11-25",
+   "date_kst": "2026-11-24",
    "date_utc": "2026-11-24",
    "missing": [
     "부첨_samguk_kr_drawn_rim_dewy_f.webp",
@@ -33,7 +33,13 @@
     "부첨_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "부첨_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "부첨_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-24T15:15:38.836Z",
+   "done_by": "sam-fuqian-3b7c",
+   "image_commit": "b8bfa730d9b35f3fbab77c6c683a5c641b7d390a",
+   "code_commit": "3ce20d84c6c7046abe4f4bdc4c28d185ee5784d0",
+   "registered_images": 27,
+   "qa_notes": "Mecha casual3 retains an ambiguous extra-thigh shape after one same-prompt anatomy retry; QA failed and source originals preserved."
   }
  ]
 }
