@@ -1,0 +1,39 @@
+{
+ "key": "공융",
+ "runs": [
+  {
+   "key": "공융",
+   "execution": "sam-20261124T112731Z",
+   "status": "working",
+   "claimed_at": "2026-11-24T11:28:36.144Z",
+   "date_kst": "2026-11-24",
+   "date_utc": "2026-11-24",
+   "missing": [
+    "공융_samguk_kr_drawn_rim_dewy_f.webp",
+    "공융_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "공융_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "공융_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "공융_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "공융_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "공융_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "공융_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "공융_fantasy_kr_drawn_rim_dewy_f.webp",
+    "공융_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "공융_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "공융_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "공융_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "공융_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "공융_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "공융_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "공융_mecha_kr_drawn_rim_dewy_f.webp",
+    "공융_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "공융_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "공융_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "공융_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "공융_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "공융_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "공융_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
