@@ -4,7 +4,7 @@
   {
    "key": "이각",
    "execution": "sam-lijue-fb6ad8",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-24T15:10:21.257Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-24",
@@ -33,7 +33,9 @@
     "이각_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "이각_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "이각_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-24T16:46:50.110Z",
+   "done_by": "sam-lijue-fb6ad8"
   }
  ]
 }
