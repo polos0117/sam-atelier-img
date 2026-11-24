@@ -1,0 +1,39 @@
+{
+ "key": "이각",
+ "runs": [
+  {
+   "key": "이각",
+   "execution": "sam-lijue-fb6ad8",
+   "status": "working",
+   "claimed_at": "2026-11-24T15:10:21.257Z",
+   "date_kst": "2026-11-25",
+   "date_utc": "2026-11-24",
+   "missing": [
+    "이각_samguk_kr_drawn_rim_dewy_f.webp",
+    "이각_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "이각_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "이각_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "이각_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "이각_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "이각_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "이각_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "이각_fantasy_kr_drawn_rim_dewy_f.webp",
+    "이각_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "이각_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "이각_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "이각_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "이각_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "이각_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "이각_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "이각_mecha_kr_drawn_rim_dewy_f.webp",
+    "이각_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "이각_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "이각_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "이각_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "이각_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "이각_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "이각_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
