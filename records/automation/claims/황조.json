@@ -4,7 +4,7 @@
   {
    "key": "황조",
    "execution": "sam-huangzu-4958-selected",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-24T21:10:50.570Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-24",
@@ -33,7 +33,9 @@
     "황조_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "황조_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "황조_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-24T21:50:36.255Z",
+   "done_by": "sam-huangzu-4958-selected"
   }
  ]
 }
