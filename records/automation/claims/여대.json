@@ -4,7 +4,7 @@
   {
    "key": "여대",
    "execution": "sam-lvdai-c7eb184",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-24T14:33:15.735Z",
    "date_kst": "2026-11-24",
    "date_utc": "2026-11-24",
@@ -33,7 +33,9 @@
     "여대_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "여대_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "여대_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-24T15:32:20.324Z",
+   "done_by": "sam-lvdai-c7eb184"
   }
  ]
 }
