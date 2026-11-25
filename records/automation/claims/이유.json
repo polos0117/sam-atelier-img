@@ -1,7 +1,33 @@
 {
   "card": "이유",
   "execution": "sam-liyu-20261125",
-  "status": "working",
+  "status": "complete",
   "started": "2026-11-25T05:59:46.601Z",
-  "note": "세계컷 후보 생성 후 사용자 선택 대기"
+  "note": "세계컷 선택 2,1,1; 총27장 생성·검수·main 등록 완료",
+  "done_at": "2026-11-25T06:59:53.110Z",
+  "runs": [
+    {
+      "key": "이유",
+      "execution": "sam-liyu-20261125",
+      "status": "complete",
+      "claimed_at": "2026-11-25T05:59:46.601Z",
+      "date_kst": "2026-11-25",
+      "date_utc": "2026-11-25",
+      "missing": [],
+      "done_at": "2026-11-25T06:59:53.110Z",
+      "done_by": "sam-liyu-20261125"
+    }
+  ],
+  "result": {
+    "world_selection": [
+      2,
+      1,
+      1
+    ],
+    "image_count": 27,
+    "image_commit": "69787bed1c8679b69cb78c6a1c98243a78f55924",
+    "code_commit": "48fa745c36718251500d471a971acff98371819f",
+    "sheet_library_file_id": "libfile_e631dbe0473c8191bf4e70e7827cb55d",
+    "originals_library_file_id": "libfile_533e22abf5988191bb2bda7e28a48a37"
+  }
 }
