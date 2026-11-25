@@ -4,7 +4,7 @@
   {
    "key": "관정",
    "execution": "sam-guanjing-20261125-d648",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T11:59:15.076Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-25",
@@ -33,7 +33,17 @@
     "관정_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "관정_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "관정_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-25T13:00:41.608Z",
+   "done_by": "sam-guanjing-20261125-d648",
+   "selection": {
+    "samguk": 2,
+    "fantasy": 2,
+    "mecha": 1
+   },
+   "completed_files": 27,
+   "image_commit": "cde6cdaa786e6b9b828946128b1b2a044b017fd9",
+   "catalog_commit": "a93565c71a1f64910699cf3486b889f1e43a2ccc"
   }
  ]
 }
