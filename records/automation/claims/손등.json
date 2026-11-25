@@ -4,11 +4,11 @@
   {
    "key": "손등",
    "execution": "sam-sundeng-35110",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T15:18:30.822Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-25",
-   "phase": "awaiting-world-selection",
+   "phase": "complete",
    "candidates": 12,
    "prompt_style": "kr_drawn_rim_dewy",
    "regenerations": 0,
@@ -18,7 +18,20 @@
     "samguk",
     "fantasy",
     "mecha"
-   ]
+   ],
+   "selection": {
+    "samguk": 4,
+    "fantasy": 4,
+    "mecha": 2
+   },
+   "completed_images": 27,
+   "casual_images": 24,
+   "done_at": "2026-11-25T15:56:40.286Z",
+   "done_by": "sam-sundeng-35110",
+   "image_commit": "0236b2194eb0ce62ac2e6af864ea7281926806a6",
+   "code_commit": "b69603b81146b019bf275f6562f0b643cf58e382",
+   "complete_sheet": "libfile_c4124bb348d08191bcb2d899b504c820",
+   "complete_archive": "libfile_a787a6c5fe808191a941b9bd4dab95ea"
   }
  ]
 }
