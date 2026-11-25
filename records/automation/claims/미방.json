@@ -1,0 +1,39 @@
+{
+ "key": "미방",
+ "runs": [
+  {
+   "key": "미방",
+   "execution": "mifang-0501ee44",
+   "status": "working",
+   "claimed_at": "2026-11-25T15:05:56.886Z",
+   "date_kst": "2026-11-26",
+   "date_utc": "2026-11-25",
+   "missing": [
+    "미방_samguk_kr_drawn_rim_dewy_f.webp",
+    "미방_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "미방_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "미방_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "미방_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "미방_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "미방_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "미방_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "미방_fantasy_kr_drawn_rim_dewy_f.webp",
+    "미방_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "미방_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "미방_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "미방_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "미방_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "미방_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "미방_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "미방_mecha_kr_drawn_rim_dewy_f.webp",
+    "미방_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "미방_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "미방_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "미방_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "미방_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "미방_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "미방_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
