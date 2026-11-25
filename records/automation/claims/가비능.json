@@ -4,7 +4,7 @@
   {
    "key": "가비능",
    "execution": "sam-kebineng-33da",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T12:55:21.497Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-25",
@@ -33,7 +33,9 @@
     "가비능_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "가비능_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "가비능_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-25T13:29:14.917Z",
+   "done_by": "sam-kebineng-33da"
   }
  ]
 }
