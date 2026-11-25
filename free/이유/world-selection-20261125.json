@@ -1,7 +1,7 @@
 {
   "card": "이유",
   "execution": "sam-liyu-20261125",
-  "status": "awaiting_world_selection",
+  "status": "complete",
   "style": "kr_drawn_rim_dewy",
   "worlds": [
     "samguk",
@@ -18,5 +18,15 @@
   "candidates_library_file_id": "libfile_432469539a1081919e41f851d6d92e86",
   "candidate_bundle_contains": "12 original PNGs, WebPs, exact prompts, SHA256 and QA manifest",
   "qa_note": "fantasy 4 signature vial rendered as vial-topped staff; preserved",
-  "next": "Wait for user's world choices; then generate planned casual cuts, commit and publish selected images and dex via ordinary main update."
+  "next": "Completed. No further generation requested.",
+  "selected": [
+    2,
+    1,
+    1
+  ],
+  "image_count": 27,
+  "image_commit": "69787bed1c8679b69cb78c6a1c98243a78f55924",
+  "code_commit": "48fa745c36718251500d471a971acff98371819f",
+  "complete_sheet_library_file_id": "libfile_e631dbe0473c8191bf4e70e7827cb55d",
+  "originals_27_library_file_id": "libfile_533e22abf5988191bb2bda7e28a48a37"
 }
