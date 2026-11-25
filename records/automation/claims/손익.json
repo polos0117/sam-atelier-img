@@ -4,11 +4,20 @@
   {
    "key": "손익",
    "execution": "sam-sunyi-20261125",
-   "status": "working",
+   "status": "done",
    "claimed_at": "2026-11-25T01:03:53.427Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-25",
-   "phase": "world-selection"
+   "phase": "complete",
+   "completed_at": "2026-11-25T06:32:20.625Z",
+   "selection": {
+    "samguk": 2,
+    "fantasy": 4,
+    "mecha": 1
+   },
+   "images": 27,
+   "image_commit": "b4478792a6a11146be983df466b0592edddb16af",
+   "code_commit": "df55df4ea8f2735f907e4d50eed6848b7668bc6f"
   }
  ]
 }
