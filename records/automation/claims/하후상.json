@@ -1,0 +1,39 @@
+{
+ "key": "하후상",
+ "runs": [
+  {
+   "key": "하후상",
+   "execution": "sam-xiahoushang-20261126",
+   "status": "working",
+   "claimed_at": "2026-11-25T23:26:48.018Z",
+   "date_kst": "2026-11-26",
+   "date_utc": "2026-11-25",
+   "missing": [
+    "하후상_samguk_kr_drawn_rim_dewy_f.webp",
+    "하후상_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "하후상_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "하후상_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "하후상_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "하후상_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "하후상_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "하후상_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "하후상_fantasy_kr_drawn_rim_dewy_f.webp",
+    "하후상_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "하후상_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "하후상_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "하후상_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "하후상_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "하후상_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "하후상_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "하후상_mecha_kr_drawn_rim_dewy_f.webp",
+    "하후상_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "하후상_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "하후상_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "하후상_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "하후상_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "하후상_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "하후상_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
