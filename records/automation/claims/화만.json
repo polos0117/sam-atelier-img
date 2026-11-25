@@ -1,0 +1,39 @@
+{
+ "key": "화만",
+ "runs": [
+  {
+   "key": "화만",
+   "execution": "sam-huaman-6357ca",
+   "status": "working",
+   "claimed_at": "2026-11-25T16:52:10.505Z",
+   "date_kst": "2026-11-26",
+   "date_utc": "2026-11-25",
+   "missing": [
+    "화만_samguk_kr_drawn_rim_dewy_f.webp",
+    "화만_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "화만_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "화만_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "화만_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "화만_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "화만_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "화만_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "화만_fantasy_kr_drawn_rim_dewy_f.webp",
+    "화만_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "화만_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "화만_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "화만_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "화만_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "화만_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "화만_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "화만_mecha_kr_drawn_rim_dewy_f.webp",
+    "화만_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "화만_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "화만_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "화만_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "화만_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "화만_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "화만_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
