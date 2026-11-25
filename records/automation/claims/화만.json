@@ -4,7 +4,7 @@
   {
    "key": "화만",
    "execution": "sam-huaman-6357ca",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T16:52:10.505Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-25",
@@ -33,7 +33,9 @@
     "화만_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "화만_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "화만_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-25T17:22:53.693Z",
+   "done_by": "sam-huaman-6357ca"
   }
  ]
 }
