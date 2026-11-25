@@ -4,10 +4,20 @@
   {
    "key": "예형",
    "execution": "sam-miheng-bd9c",
-   "status": "working",
+   "status": "done",
    "claimed_at": "2026-11-25T13:26:54.844Z",
    "date_kst": "2026-11-25",
-   "date_utc": "2026-11-25"
+   "date_utc": "2026-11-25",
+   "done_at": "2026-11-25T14:23:18.997Z",
+   "done_by": "sam-miheng-bd9c",
+   "selected": {
+    "samguk": 4,
+    "fantasy": 3,
+    "mecha": 3
+   },
+   "files": 27,
+   "image_commit": "8dd31630ddddaacce81e64a9cf0f2a376ed5063b",
+   "data_commit": "06ec293a9e85609f8286bff73879bed05b7df2ad"
   }
  ]
 }
