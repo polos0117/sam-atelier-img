@@ -4,7 +4,7 @@
   {
    "key": "공손도",
    "execution": "sam-gongsundu-20261125",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T12:23:14.882Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-25",
@@ -33,7 +33,9 @@
     "공손도_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "공손도_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "공손도_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-25T13:25:36.403Z",
+   "done_by": "sam-gongsundu-20261125"
   }
  ]
 }
