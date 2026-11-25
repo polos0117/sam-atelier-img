@@ -4,7 +4,7 @@
   {
    "key": "순우경",
    "execution": "sam-chunyuqiong-7fc7e40",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T16:39:25.761Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-25",
@@ -33,7 +33,9 @@
     "순우경_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "순우경_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "순우경_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-25T17:23:52.542Z",
+   "done_by": "sam-chunyuqiong-7fc7e40"
   }
  ]
 }
