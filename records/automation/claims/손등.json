@@ -1,12 +1,24 @@
 {
- "card": "손등",
+ "key": "손등",
  "runs": [
   {
+   "key": "손등",
    "execution": "sam-sundeng-35110",
    "status": "working",
+   "claimed_at": "2026-11-25T15:18:30.822Z",
    "date_kst": "2026-11-26",
-   "date_utc": "2026-11-26",
-   "started": "2026-11-25T15:18:30.822Z"
+   "date_utc": "2026-11-25",
+   "phase": "awaiting-world-selection",
+   "candidates": 12,
+   "prompt_style": "kr_drawn_rim_dewy",
+   "regenerations": 0,
+   "workspace": "/workspace/scratch/35110ce2a2c7",
+   "sheet": "sundeng-world-selection-sheet.jpg",
+   "selection_order": [
+    "samguk",
+    "fantasy",
+    "mecha"
+   ]
   }
  ]
 }
