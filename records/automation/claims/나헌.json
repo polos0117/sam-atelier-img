@@ -1,0 +1,17 @@
+{
+ "key": "나헌",
+ "runs": [
+  {
+   "execution": "sam-luoxian-aecd53",
+   "status": "working",
+   "claimed_at": "2026-11-25T16:07:15.263Z",
+   "date_kst": "2026-11-26",
+   "date_utc": "2026-11-25",
+   "selection": {
+    "samguk": 4,
+    "fantasy": 1,
+    "mecha": 4
+   }
+  }
+ ]
+}
