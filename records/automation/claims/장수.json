@@ -4,7 +4,7 @@
   {
    "key": "장수",
    "execution": "sam-zhangxiu-20261125-2309",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T14:09:54.241Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-25",
@@ -33,7 +33,17 @@
     "장수_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "장수_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "장수_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-25T15:07:59.323Z",
+   "done_by": "sam-zhangxiu-20261125-2309",
+   "selection": {
+    "samguk": 2,
+    "fantasy": 2,
+    "mecha": 3
+   },
+   "images": 27,
+   "image_commit": "4beada67fe764f0f12f0e4604408fc9c4d05b4da",
+   "code_commit": "fa900078da363d8a1250331cf404ab4fec3f720e"
   }
  ]
 }
