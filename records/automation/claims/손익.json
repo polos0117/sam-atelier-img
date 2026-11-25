@@ -1,0 +1,14 @@
+{
+ "key": "손익",
+ "runs": [
+  {
+   "key": "손익",
+   "execution": "sam-sunyi-20261125",
+   "status": "working",
+   "claimed_at": "2026-11-25T01:03:53.427Z",
+   "date_kst": "2026-11-25",
+   "date_utc": "2026-11-25",
+   "phase": "world-selection"
+  }
+ ]
+}
