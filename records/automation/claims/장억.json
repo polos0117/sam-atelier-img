@@ -4,7 +4,7 @@
   {
    "key": "장억",
    "execution": "sam-zhangni-20261125",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T01:03:26.957Z",
    "date_kst": "2026-11-25",
    "date_utc": "2026-11-25",
@@ -33,7 +33,16 @@
     "장억_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "장억_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "장억_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-25T06:15:47Z",
+   "done_by": "sam-zhangni-20261125",
+   "selection": [
+    2,
+    2,
+    1
+   ],
+   "image_commit": "7587c51cb4d5da6c46fdf87682aba64ebd63eb66",
+   "index_commit": "b3a3d6301effca8e7060ac975c0efdbacd35cbd0"
   }
  ]
 }
