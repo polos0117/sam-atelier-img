@@ -45,10 +45,12 @@
     "mecha": 3
    },
    "image_commit": "0d89b8f71f7c042d9c741cc094a945d7f24aa7f2",
-   "code_commit": "30879d545508287d6c1c24fd1d495bbaa2aff2b1",
+   "code_commit": "d4234e2068aa5c8a8adeaa98e72cbc76334c9885",
    "images": 27,
    "complete_sheet_library_id": "libfile_2096c5c736308191a54e777c2f510a7a",
-   "complete_archive_library_id": "libfile_33d90f99dce081918d95844504fcba8b"
+   "complete_archive_library_id": "libfile_33d90f99dce081918d95844504fcba8b",
+   "record_commit": "705917dee93971ad82f0c49c264645fc70ae76c8",
+   "thumbnail_workflow": "45840080360 success"
   }
  ]
 }
