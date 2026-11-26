@@ -1,0 +1,42 @@
+{
+ "key": "장패",
+ "runs": [
+  {
+   "key": "장패",
+   "execution": "sam-zangba-05817f",
+   "status": "working",
+   "claimed_at": "2026-11-26T13:53:04.139Z",
+   "date_kst": "2026-11-26",
+   "date_utc": "2026-11-26",
+   "missing": [
+    "장패_samguk_kr_drawn_rim_dewy_f.webp",
+    "장패_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "장패_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "장패_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "장패_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "장패_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "장패_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "장패_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "장패_fantasy_kr_drawn_rim_dewy_f.webp",
+    "장패_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "장패_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "장패_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "장패_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "장패_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "장패_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "장패_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "장패_mecha_kr_drawn_rim_dewy_f.webp",
+    "장패_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "장패_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "장패_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "장패_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "장패_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "장패_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "장패_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ],
+   "phase": "awaiting_world_selection",
+   "selection_sheet_library_id": "libfile_d522c0f0af3481919edf0900055bb1cf",
+   "candidates_library_id": "libfile_749d20495b048191a43e2aea47187ca9"
+  }
+ ]
+}
