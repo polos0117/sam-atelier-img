@@ -4,7 +4,7 @@
   {
    "key": "한윤",
    "execution": "sam-hanyun-7bc6b894",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T12:14:15.212Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-26",
@@ -33,7 +33,9 @@
     "한윤_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "한윤_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "한윤_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-26T13:14:43.368Z",
+   "done_by": "sam-hanyun-7bc6b894"
   }
  ]
 }
