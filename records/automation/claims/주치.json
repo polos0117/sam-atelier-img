@@ -4,7 +4,7 @@
   {
    "key": "주치",
    "execution": "sam-zhuzhi-8b10f2",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T03:30:27.263Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-26",
@@ -33,7 +33,9 @@
     "주치_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "주치_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "주치_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-26T03:55:36.208Z",
+   "done_by": "sam-zhuzhi-8b10f2"
   }
  ]
 }
