@@ -4,7 +4,7 @@
   {
    "key": "주방",
    "execution": "sam-zhoufang-34a007d",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T21:13:36.349Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-26",
@@ -33,7 +33,9 @@
     "주방_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "주방_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "주방_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-26T22:11:46.460Z",
+   "done_by": "sam-zhoufang-34a007d"
   }
  ]
 }
