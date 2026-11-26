@@ -4,7 +4,7 @@
   {
    "key": "올돌골",
    "execution": "sam-wutugu-a6df33f",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T21:38:18.493Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-26",
@@ -33,7 +33,9 @@
     "올돌골_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "올돌골_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "올돌골_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-26T23:37:55.428Z",
+   "done_by": "sam-wutugu-a6df33f"
   }
  ]
 }
