@@ -1,0 +1,39 @@
+{
+ "key": "주치",
+ "runs": [
+  {
+   "key": "주치",
+   "execution": "sam-zhuzhi-8b10f2",
+   "status": "working",
+   "claimed_at": "2026-11-26T03:30:27.263Z",
+   "date_kst": "2026-11-26",
+   "date_utc": "2026-11-26",
+   "missing": [
+    "주치_samguk_kr_drawn_rim_dewy_f.webp",
+    "주치_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "주치_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "주치_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "주치_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "주치_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "주치_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "주치_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "주치_fantasy_kr_drawn_rim_dewy_f.webp",
+    "주치_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "주치_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "주치_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "주치_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "주치_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "주치_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "주치_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "주치_mecha_kr_drawn_rim_dewy_f.webp",
+    "주치_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "주치_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "주치_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "주치_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "주치_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "주치_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "주치_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
