@@ -3,10 +3,21 @@
   "runs": [
     {
       "execution": "sam-liuyao-20261126",
-      "status": "working",
+      "status": "complete",
       "date_kst": "2026-11-26",
       "date_utc": "2026-11-26",
-      "started": "2026-11-26T12:53:22.913Z"
+      "started": "2026-11-26T12:53:22.913Z",
+      "done_at": "2026-11-26T13:54:04.931Z",
+      "done_by": "sam-liuyao-20261126",
+      "selection": {
+        "samguk": 3,
+        "fantasy": 3,
+        "mecha": 2
+      },
+      "images": 27,
+      "image_commit": "041332bfc36a0e4c4788af333786e28eb9e95621",
+      "registration_commit": "d80bd53",
+      "thumbnail_count": 27
     }
   ]
 }
