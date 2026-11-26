@@ -4,7 +4,7 @@
   {
    "key": "하후상",
    "execution": "sam-xiahoushang-20261126",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-25T23:26:48.018Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-25",
@@ -33,7 +33,9 @@
     "하후상_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "하후상_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "하후상_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-26T02:33:54.741Z",
+   "done_by": "sam-xiahoushang-20261126"
   }
  ]
 }
