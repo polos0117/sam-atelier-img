@@ -1,0 +1,39 @@
+{
+ "key": "올돌골",
+ "runs": [
+  {
+   "key": "올돌골",
+   "execution": "sam-wutugu-a6df33f",
+   "status": "working",
+   "claimed_at": "2026-11-26T21:38:18.493Z",
+   "date_kst": "2026-11-27",
+   "date_utc": "2026-11-26",
+   "missing": [
+    "올돌골_samguk_kr_drawn_rim_dewy_f.webp",
+    "올돌골_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "올돌골_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "올돌골_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "올돌골_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "올돌골_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "올돌골_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "올돌골_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "올돌골_fantasy_kr_drawn_rim_dewy_f.webp",
+    "올돌골_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "올돌골_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "올돌골_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "올돌골_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "올돌골_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "올돌골_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "올돌골_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "올돌골_mecha_kr_drawn_rim_dewy_f.webp",
+    "올돌골_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "올돌골_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "올돌골_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "올돌골_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "올돌골_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "올돌골_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "올돌골_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
