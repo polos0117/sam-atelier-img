@@ -4,7 +4,7 @@
   {
    "key": "장익",
    "execution": "sam-zhangyi-336e67",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T02:15:03.019Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-26",
@@ -33,7 +33,9 @@
     "장익_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "장익_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "장익_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-26T04:10:11.796Z",
+   "done_by": "sam-zhangyi-336e67"
   }
  ]
 }
