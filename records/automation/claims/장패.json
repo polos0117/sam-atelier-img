@@ -4,7 +4,7 @@
   {
    "key": "장패",
    "execution": "sam-zangba-05817f",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T13:53:04.139Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-26",
@@ -34,9 +34,21 @@
     "장패_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "장패_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
-   "phase": "awaiting_world_selection",
+   "phase": "complete",
    "selection_sheet_library_id": "libfile_d522c0f0af3481919edf0900055bb1cf",
-   "candidates_library_id": "libfile_749d20495b048191a43e2aea47187ca9"
+   "candidates_library_id": "libfile_749d20495b048191a43e2aea47187ca9",
+   "done_at": "2026-11-26T14:36:37.383Z",
+   "done_by": "sam-zangba-05817f",
+   "selection": {
+    "samguk": 1,
+    "fantasy": 2,
+    "mecha": 3
+   },
+   "image_commit": "0d89b8f71f7c042d9c741cc094a945d7f24aa7f2",
+   "code_commit": "30879d545508287d6c1c24fd1d495bbaa2aff2b1",
+   "images": 27,
+   "complete_sheet_library_id": "libfile_2096c5c736308191a54e777c2f510a7a",
+   "complete_archive_library_id": "libfile_33d90f99dce081918d95844504fcba8b"
   }
  ]
 }
