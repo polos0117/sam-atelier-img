@@ -1,0 +1,39 @@
+{
+ "key": "모개",
+ "runs": [
+  {
+   "key": "모개",
+   "execution": "sam-maojie-627c94a",
+   "status": "working",
+   "claimed_at": "2026-11-26T23:25:53.699Z",
+   "date_kst": "2026-11-27",
+   "date_utc": "2026-11-26",
+   "missing": [
+    "모개_samguk_kr_drawn_rim_dewy_f.webp",
+    "모개_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "모개_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "모개_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "모개_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "모개_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "모개_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "모개_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "모개_fantasy_kr_drawn_rim_dewy_f.webp",
+    "모개_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "모개_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "모개_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "모개_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "모개_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "모개_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "모개_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "모개_mecha_kr_drawn_rim_dewy_f.webp",
+    "모개_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "모개_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "모개_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "모개_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "모개_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "모개_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "모개_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
