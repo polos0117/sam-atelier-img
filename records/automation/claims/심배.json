@@ -4,7 +4,7 @@
   {
    "key": "심배",
    "execution": "sam-shenpei-1431fff",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T11:53:22.109Z",
    "date_kst": "2026-11-26",
    "date_utc": "2026-11-26",
@@ -33,7 +33,9 @@
     "심배_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "심배_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "심배_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-26T12:55:05.532Z",
+   "done_by": "sam-shenpei-1431fff"
   }
  ]
 }
