@@ -1,0 +1,39 @@
+{
+ "key": "채모",
+ "runs": [
+  {
+   "key": "채모",
+   "execution": "sam-caimao-ab40",
+   "status": "working",
+   "claimed_at": "2026-11-26T12:32:47.146Z",
+   "date_kst": "2026-11-26",
+   "date_utc": "2026-11-26",
+   "missing": [
+    "채모_samguk_kr_drawn_rim_dewy_f.webp",
+    "채모_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "채모_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "채모_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "채모_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "채모_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "채모_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "채모_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "채모_fantasy_kr_drawn_rim_dewy_f.webp",
+    "채모_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "채모_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "채모_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "채모_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "채모_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "채모_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "채모_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "채모_mecha_kr_drawn_rim_dewy_f.webp",
+    "채모_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "채모_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "채모_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "채모_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "채모_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "채모_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "채모_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
