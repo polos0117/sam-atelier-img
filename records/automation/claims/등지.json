@@ -1,0 +1,39 @@
+{
+ "key": "등지",
+ "runs": [
+  {
+   "key": "등지",
+   "execution": "sam-dengzhi-58b92f",
+   "status": "working",
+   "claimed_at": "2026-11-26T13:57:49.582Z",
+   "date_kst": "2026-11-26",
+   "date_utc": "2026-11-26",
+   "missing": [
+    "등지_samguk_kr_drawn_rim_dewy_f.webp",
+    "등지_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "등지_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "등지_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "등지_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "등지_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "등지_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "등지_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "등지_fantasy_kr_drawn_rim_dewy_f.webp",
+    "등지_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "등지_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "등지_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "등지_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "등지_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "등지_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "등지_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "등지_mecha_kr_drawn_rim_dewy_f.webp",
+    "등지_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "등지_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "등지_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "등지_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "등지_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "등지_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "등지_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
