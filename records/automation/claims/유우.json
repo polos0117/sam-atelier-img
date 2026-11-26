@@ -3,10 +3,16 @@
  "runs": [
   {
    "execution": "sam-liuyu-0852ddd",
-   "status": "working",
+   "status": "complete",
    "started": "2026-11-26T13:13:19.752Z",
-   "date_kst": "2026-11-27",
-   "date_utc": "2026-11-26"
+   "date_kst": "2026-11-26",
+   "date_utc": "2026-11-26",
+   "done_at": "2026-11-26T14:01:20.275Z",
+   "done_by": "sam-liuyu-0852ddd",
+   "image_commit": "bc84c1b96a2d24fb536d972734efc4dff57906cc",
+   "registration_commit": "d80bd53943ece54c8d2c3b3ba8485a7a6863fa9a",
+   "images": 27,
+   "thumbnails": 27
   }
  ]
 }
