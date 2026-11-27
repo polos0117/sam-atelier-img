@@ -1,0 +1,13 @@
+{
+ "card": "고람",
+ "runs": [
+  {
+   "execution": "sam-gaolan-20261127",
+   "status": "working",
+   "started": "2026-11-27T11:53:50.676Z",
+   "date_kst": "2026-11-27",
+   "date_utc": "2026-11-27",
+   "note": "World candidates; awaiting user selection after sheet"
+  }
+ ]
+}
