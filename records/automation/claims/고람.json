@@ -7,7 +7,7 @@
    "started": "2026-11-27T11:53:50.676Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-27",
-   "note": "User selected 2,4,4. Samguk casual 1-7 and 90 generated and visually reviewed; fantasy generation in progress. Preserve all originals; no exposure-based regeneration.",
+   "note": "All 27 images and 30 records/plans committed and normally fast-forwarded to main. Thumbnails and catalogue registration verification in progress. No image was regenerated.",
    "key": "고람",
    "claimed_at": "2026-11-27T11:53:50.676Z",
    "missing": [
@@ -36,7 +36,7 @@
     "고람_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "고람_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
-   "phase": "generating_casual",
+   "phase": "awaiting_registration",
    "selection_order": [
     "samguk",
     "fantasy",
@@ -50,7 +50,11 @@
     "fantasy": 4,
     "mecha": 4
    },
-   "generated_casual_count": 8
+   "generated_casual_count": 24,
+   "image_count": 27,
+   "image_commit": "acbaca888f71a6eb6dc6bffe982c328371dcc901",
+   "final_sheet_library_file_id": "libfile_a24e74bc737c8191a5764d3f15f3d3a0",
+   "original_archive_library_file_id": "libfile_7594431a45488191841699c4a4164f52"
   }
  ],
  "version": 1,
