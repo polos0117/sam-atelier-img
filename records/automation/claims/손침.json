@@ -1,0 +1,39 @@
+{
+ "key": "손침",
+ "runs": [
+  {
+   "key": "손침",
+   "execution": "sam-sunchen-78d86",
+   "status": "working",
+   "claimed_at": "2026-11-27T23:07:15.987Z",
+   "date_kst": "2026-11-28",
+   "date_utc": "2026-11-27",
+   "missing": [
+    "손침_samguk_kr_drawn_rim_dewy_f.webp",
+    "손침_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "손침_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "손침_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "손침_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "손침_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "손침_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "손침_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "손침_fantasy_kr_drawn_rim_dewy_f.webp",
+    "손침_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "손침_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "손침_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "손침_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "손침_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "손침_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "손침_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "손침_mecha_kr_drawn_rim_dewy_f.webp",
+    "손침_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "손침_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "손침_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "손침_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "손침_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "손침_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "손침_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
