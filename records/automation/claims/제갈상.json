@@ -1,0 +1,39 @@
+{
+ "key": "제갈상",
+ "runs": [
+  {
+   "key": "제갈상",
+   "execution": "sam-zhugeshang-20261128",
+   "status": "working",
+   "claimed_at": "2026-11-27T19:05:37.678Z",
+   "date_kst": "2026-11-28",
+   "date_utc": "2026-11-27",
+   "missing": [
+    "제갈상_samguk_kr_drawn_rim_dewy_f.webp",
+    "제갈상_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "제갈상_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "제갈상_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "제갈상_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "제갈상_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "제갈상_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "제갈상_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "제갈상_fantasy_kr_drawn_rim_dewy_f.webp",
+    "제갈상_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "제갈상_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "제갈상_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "제갈상_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "제갈상_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "제갈상_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "제갈상_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "제갈상_mecha_kr_drawn_rim_dewy_f.webp",
+    "제갈상_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "제갈상_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "제갈상_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "제갈상_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "제갈상_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "제갈상_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "제갈상_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
