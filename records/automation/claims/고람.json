@@ -7,7 +7,46 @@
    "started": "2026-11-27T11:53:50.676Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-27",
-   "note": "World candidates; awaiting user selection after sheet"
+   "note": "12 world candidates complete. 1/2 project design; 3/4 GPT fill-in variants. Await user selection before casual images and registration. Preserve candidates; no exposure-based regeneration.",
+   "key": "고람",
+   "claimed_at": "2026-11-27T11:53:50.676Z",
+   "missing": [
+    "고람_samguk_kr_drawn_rim_dewy_f.webp",
+    "고람_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "고람_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "고람_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "고람_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "고람_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "고람_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "고람_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "고람_fantasy_kr_drawn_rim_dewy_f.webp",
+    "고람_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "고람_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "고람_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "고람_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "고람_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "고람_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "고람_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "고람_mecha_kr_drawn_rim_dewy_f.webp",
+    "고람_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "고람_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "고람_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "고람_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "고람_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "고람_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "고람_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ],
+   "phase": "awaiting_world_selection",
+   "selection_order": [
+    "samguk",
+    "fantasy",
+    "mecha"
+   ],
+   "candidate_count": 12,
+   "selection_sheet_library_file_id": "libfile_eaa9db5ba2708191b7624b085f679b79",
+   "candidate_archive_library_file_id": "libfile_960757a8aa7c81918267a719d9cc852a"
   }
- ]
+ ],
+ "version": 1,
+ "key": "고람"
 }
