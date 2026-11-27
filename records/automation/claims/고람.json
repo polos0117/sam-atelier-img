@@ -7,7 +7,7 @@
    "started": "2026-11-27T11:53:50.676Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-27",
-   "note": "12 world candidates complete. 1/2 project design; 3/4 GPT fill-in variants. Await user selection before casual images and registration. Preserve candidates; no exposure-based regeneration.",
+   "note": "User selected 2,4,4. Samguk casual 1-7 and 90 generated and visually reviewed; fantasy generation in progress. Preserve all originals; no exposure-based regeneration.",
    "key": "고람",
    "claimed_at": "2026-11-27T11:53:50.676Z",
    "missing": [
@@ -36,7 +36,7 @@
     "고람_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "고람_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
-   "phase": "awaiting_world_selection",
+   "phase": "generating_casual",
    "selection_order": [
     "samguk",
     "fantasy",
@@ -44,7 +44,13 @@
    ],
    "candidate_count": 12,
    "selection_sheet_library_file_id": "libfile_eaa9db5ba2708191b7624b085f679b79",
-   "candidate_archive_library_file_id": "libfile_960757a8aa7c81918267a719d9cc852a"
+   "candidate_archive_library_file_id": "libfile_960757a8aa7c81918267a719d9cc852a",
+   "selected_world_numbers": {
+    "samguk": 2,
+    "fantasy": 4,
+    "mecha": 4
+   },
+   "generated_casual_count": 8
   }
  ],
  "version": 1,
