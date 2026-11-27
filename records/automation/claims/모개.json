@@ -4,7 +4,7 @@
   {
    "key": "모개",
    "execution": "sam-maojie-627c94a",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-26T23:25:53.699Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-26",
@@ -33,7 +33,9 @@
     "모개_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "모개_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "모개_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-27T03:00:53.318Z",
+   "done_by": "sam-maojie-627c94a"
   }
  ]
 }
