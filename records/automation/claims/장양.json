@@ -4,7 +4,7 @@
   {
    "key": "장양",
    "execution": "sam-zhangyang-7d8418",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-27T15:13:14.760Z",
    "date_kst": "2026-11-28",
    "date_utc": "2026-11-27",
@@ -33,7 +33,9 @@
     "장양_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "장양_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "장양_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-27T16:13:08.388Z",
+   "done_by": "sam-zhangyang-7d8418"
   }
  ]
 }
