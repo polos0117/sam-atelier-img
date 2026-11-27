@@ -4,7 +4,7 @@
   {
    "key": "염포",
    "execution": "sam-yanpu-20261127",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-27T12:14:51.880Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-27",
@@ -33,7 +33,9 @@
     "염포_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "염포_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "염포_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-27T13:12:04.140Z",
+   "done_by": "sam-yanpu-20261127"
   }
  ]
 }
