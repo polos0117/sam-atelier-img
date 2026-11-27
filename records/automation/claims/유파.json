@@ -4,7 +4,7 @@
   {
    "key": "유파",
    "execution": "sam-liuba-20261127",
-   "status": "done",
+   "status": "complete",
    "claimed_at": "2026-11-27T02:26:05.181Z",
    "date_kst": "2026-11-27",
    "date_utc": "2026-11-27",
@@ -34,7 +34,8 @@
     "유파_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "유파_mecha_kr_drawn_rim_dewy_f_casual7.webp"
    ],
-   "finished_at": "2026-11-27T07:08:27Z",
+   "done_at": "2026-11-27T07:08:40Z",
+   "done_by": "sam-liuba-20261127",
    "completed_images": 27,
    "image_commit": "7051eba1b73b02dd3eb38a808cb068742fd13c0b",
    "data_commit": "6261cb71da593a1b16a9c3f86a74a482af4f8a2f"
