@@ -1,0 +1,39 @@
+{
+ "key": "조창",
+ "runs": [
+  {
+   "key": "조창",
+   "execution": "sam-caozhang-4291319",
+   "status": "working",
+   "claimed_at": "2026-11-27T15:33:52.868Z",
+   "date_kst": "2026-11-28",
+   "date_utc": "2026-11-27",
+   "missing": [
+    "조창_samguk_kr_drawn_rim_dewy_f.webp",
+    "조창_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "조창_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "조창_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "조창_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "조창_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "조창_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "조창_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "조창_fantasy_kr_drawn_rim_dewy_f.webp",
+    "조창_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "조창_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "조창_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "조창_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "조창_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "조창_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "조창_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "조창_mecha_kr_drawn_rim_dewy_f.webp",
+    "조창_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "조창_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "조창_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "조창_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "조창_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "조창_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "조창_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
