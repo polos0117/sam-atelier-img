@@ -4,7 +4,7 @@
   {
    "key": "엄백호",
    "execution": "sam-yanbaihu-20261128",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-28T00:48:03.006Z",
    "date_kst": "2026-11-28",
    "date_utc": "2026-11-28",
@@ -33,7 +33,9 @@
     "엄백호_mecha_kr_drawn_rim_dewy_f_casual5.webp",
     "엄백호_mecha_kr_drawn_rim_dewy_f_casual6.webp",
     "엄백호_mecha_kr_drawn_rim_dewy_f_casual7.webp"
-   ]
+   ],
+   "done_at": "2026-11-28T01:43:25Z",
+   "done_by": "sam-yanbaihu-20261128"
   }
  ]
 }
