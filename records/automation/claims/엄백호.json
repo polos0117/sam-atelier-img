@@ -1,0 +1,39 @@
+{
+ "key": "엄백호",
+ "runs": [
+  {
+   "key": "엄백호",
+   "execution": "sam-yanbaihu-20261128",
+   "status": "working",
+   "claimed_at": "2026-11-28T00:48:03.006Z",
+   "date_kst": "2026-11-28",
+   "date_utc": "2026-11-28",
+   "missing": [
+    "엄백호_samguk_kr_drawn_rim_dewy_f.webp",
+    "엄백호_samguk_kr_drawn_rim_dewy_f_casual1.webp",
+    "엄백호_samguk_kr_drawn_rim_dewy_f_casual2.webp",
+    "엄백호_samguk_kr_drawn_rim_dewy_f_casual3.webp",
+    "엄백호_samguk_kr_drawn_rim_dewy_f_casual4.webp",
+    "엄백호_samguk_kr_drawn_rim_dewy_f_casual5.webp",
+    "엄백호_samguk_kr_drawn_rim_dewy_f_casual6.webp",
+    "엄백호_samguk_kr_drawn_rim_dewy_f_casual7.webp",
+    "엄백호_fantasy_kr_drawn_rim_dewy_f.webp",
+    "엄백호_fantasy_kr_drawn_rim_dewy_f_casual1.webp",
+    "엄백호_fantasy_kr_drawn_rim_dewy_f_casual2.webp",
+    "엄백호_fantasy_kr_drawn_rim_dewy_f_casual3.webp",
+    "엄백호_fantasy_kr_drawn_rim_dewy_f_casual4.webp",
+    "엄백호_fantasy_kr_drawn_rim_dewy_f_casual5.webp",
+    "엄백호_fantasy_kr_drawn_rim_dewy_f_casual6.webp",
+    "엄백호_fantasy_kr_drawn_rim_dewy_f_casual7.webp",
+    "엄백호_mecha_kr_drawn_rim_dewy_f.webp",
+    "엄백호_mecha_kr_drawn_rim_dewy_f_casual1.webp",
+    "엄백호_mecha_kr_drawn_rim_dewy_f_casual2.webp",
+    "엄백호_mecha_kr_drawn_rim_dewy_f_casual3.webp",
+    "엄백호_mecha_kr_drawn_rim_dewy_f_casual4.webp",
+    "엄백호_mecha_kr_drawn_rim_dewy_f_casual5.webp",
+    "엄백호_mecha_kr_drawn_rim_dewy_f_casual6.webp",
+    "엄백호_mecha_kr_drawn_rim_dewy_f_casual7.webp"
+   ]
+  }
+ ]
+}
